@@ -6,6 +6,7 @@ aliases:
 tags:
   - literature-note
 title: Essay | Epiphenomenal Qualia
+publish: "true"
 ---
 # Summary
 
