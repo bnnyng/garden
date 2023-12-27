@@ -3,6 +3,7 @@ lit-author: "[[Han, Byung-Chul]]"
 aliases:
   - Han (2010)
   - The Burnout Society
+  - Han, 2010
 tags:
   - literature-note
 title: Book | The Burnout Society

@@ -14,7 +14,9 @@ The rank-nullity theorem says that a [[Axioms for fields and vector spaces|vecto
 
 As a corollary of the theorem, we can use facts about $A$ to determine the relative [[Bases and dimension|dimensions]] of $V$ and $W$.
 
->$$A \text{ is injective} \implies \text{dim}(V) \leq \text{dim}(W)$$$$A \text{ is surjective} \implies \text{dim}(V) \geq \text{dim}(W)$$$$A \text{ is bijective} \implies \text{dim}(V) = \text{dim}(W)$$
+>$$A \text{ is injective} \implies \text{dim}(V) \leq \text{dim}(W)$$
+>$$A \text{ is surjective} \implies \text{dim}(V) \geq \text{dim}(W)$$
+>$$A \text{ is bijective} \implies \text{dim}(V) = \text{dim}(W)$$
 
 ---
 # Proof
