@@ -48,9 +48,7 @@ $$span(S) = \text{Map}_{fin}$$
 - Intuitively, $\text{span}(S)$ is the *smallest* subspace containing $S$.
 
 ---
-# Review exercises
-
-## Honors Math A
+# Review 
 
 Prove the following statements:
 - Any $\mathbb F^n$ space can be described all **linear combinations** of the standard vectors $e_1, ... , e_n$. 

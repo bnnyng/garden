@@ -3,11 +3,12 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
+publish: "true"
 ---
 
 ## Open questions
 - How important are mental models (i.e., representations used for simulation or prediction) for explaining intelligent behavior?
-- Is [[System 1 and System 2 thinking, after Kahneman]] an appropriate way to classify cognitive processes?
+- Is [[System 1 and System 2 thinking]] an appropriate way to classify cognitive processes?
 
 ## Researcher perspectives
 
@@ -21,7 +22,7 @@ tags:
 	- This interprets intelligence as a Darwinian system (?) where species-specific reasoning is interpreted in the context of their specific problems.
 - Jon Krakauer (Johns Hopkins)
 	- Intelligent behavior depends on automating skills learned via effortful cognition.
-		- Related: [[System 1 and System 2 thinking, after Kahneman]]
+		- Related: [[System 1 and System 2 thinking]]
 	- [[Intelligent reflexes are translated from propositional knowledge, after D. Krakauer]]
 - [[Mitchell, Melanie|Melanie Mitchell]]
 	- Intelligence uses a model of oneself and one’s environment to generate predictions and expectations.

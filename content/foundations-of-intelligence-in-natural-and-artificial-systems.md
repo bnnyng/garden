@@ -25,7 +25,7 @@ tags:
 	- In AI, domain-specific progress is often mistaken for progress toward general AI.
 	- Reflexive thinking is better understood and distinct from higher-level thinking, which remains undefined.
 	- Other forms of intelligence include “liquid brain” architecture in ant colonies and “learned incomprehension” in competitive puzzle-solving.
-- The distinction between [[System 1 and System 2 thinking, after Kahneman]] is controversial and hard to draw.
+- The distinction between [[System 1 and System 2 thinking]] is controversial and hard to draw.
 - Social networks are important for understanding intelligence.
 	- Social groups provide scaffolding for learning.
 	- Social connections enhance intelligence by connecting us with diverse perspectives.
