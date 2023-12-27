@@ -3,15 +3,15 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Bonnie's Notes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: null,
     },
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    ignorePatterns: [".obsidian"],
+    defaultDateType: "modified",
     theme: {
       typography: {
         header: "Schibsted Grotesk",
@@ -21,13 +21,13 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
+          lightgray: "#D5B9B2",
+          gray: "#CEBEBE",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
+          secondary: "#162, 103, 105",
           tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          highlight: "rgba(206, 190, 190, 0.15)",
         },
         darkMode: {
           light: "#161618",
@@ -56,7 +56,7 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Description(),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [Plugin.ExplicitPublish()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources({ fontOrigin: "googleFonts" }),

@@ -1,0 +1,3 @@
+## New highlights added December 24, 2023 at 10:09 AM
+- To those convinced that a secretive cabal controls the world, the usual suspects are Illuminati, Lizard People, or “globalists.” They are wrong, naturally. There is no secret society shaping every major decision and determining the direction of human history. There is, however, McKinsey & Company. ([View Highlight](https://read.readwise.io/read/01hj1r7zpfr2kg0ch21my4ev82))
+- Your views of McKinsey’s impact on the world will be largely determined by your views on capitalism’s impact on the world, for few firms have made a greater impact on the prevailing economic system. ([View Highlight](https://read.readwise.io/read/01hj1r90rd6ph1s8r999j8ng40))
