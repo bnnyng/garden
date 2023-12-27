@@ -1,9 +1,11 @@
 ---
 lit-author: "[[Han, Byung-Chul]]"
 aliases:
-  - '"Byung-Chul Han: The Smartphone Is a Tool of Domination."'
+  - "Byung-Chul Han: The Smartphone Is a Tool of Domination"
 tags:
   - literature-note
+title: "Article | Byung-Chul Han: The Smartphone Is a Tool of Domination"
+publish: "true"
 ---
 # Summary
 
@@ -16,10 +18,12 @@ In this interview, philosopher [[Han, Byung-Chul|Byung-Chul Han]] discusses how,
 - In Han’s “psychopolitics,” subjects surrender to the system’s seduction and eroticism disappears. This causes the current rise of narcissism and exhibitionism.
 	- This narcissism is enabled by social media.
 
+>[!quote]
 >He despairs of “the disappearance of rituals,” which also makes entire communities disappear along with them. We become lost individuals, in sick and cruel societies.
 
 #wip Related to “everyone is beautiful and no one is horny?”
 
+> [!quote]
 > Today we are obsessed not with things, but with information and data, that is to say, non-things. Today we are all infomaniacs.
 
 - The objects of hyperconsumption are disposable; people cannot bond with them or establish rituals.
@@ -32,6 +36,7 @@ In this interview, philosopher [[Han, Byung-Chul|Byung-Chul Han]] discusses how,
 - The neoliberal regime exploits freedom. It is not oppressive, but seductive.
 - Artificial intelligence is a primitive form of knowledge because it depends entirely on correlation.
 
+> [!quote]
 > We are constantly comparing ourselves with others. It is precisely this comparison that makes us all the same. In other words: the obligation to be authentic leads to the hell of sameness.
 
 - We perceive the world through information, losing the ability to be physically present. This causes our “disconnection,” despite being ostensibly more connected than ever before.

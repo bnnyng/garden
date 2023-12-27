@@ -2,8 +2,11 @@
 lit-author: 
 aliases:
   - Clark (1999)
+  - (Clark, 1999)
 tags:
   - literature-note
+publish: "true"
+title: Paper | An embodied cognitive science
 ---
 # Summary
 
@@ -15,8 +18,8 @@ The author describes the difference between two different approaches to facts ab
 # Key terms
 
 - **Adaptive coupling** = when a system develops a mechanism to track the behavior of another system (typically an evolved mechanism in animals).
-- **Simple embodiment** = approaching facts about embodiment as *rules* for a theory about information processing ([[Simple embodied cognition assumes that cognitive systems are designed to operate on a physical world]]).
-- **Radical embodiment** = [[Radical embodiment claims that the mind cannot be meaningfully studied in isolation from the physical world]]
+- **Simple embodiment** = [[Simple embodied cognition assumes that cognitive systems are designed to operate on a physical world|approaching facts about embodiment as rules for a theory about information processing]].
+- **Radical embodiment** = [[Radical embodiment claims that the mind cannot be meaningfully studied in isolation from the physical world|an approach where the mind cannot be meaningfully studied in isolation from the physical world]]
 - **Deictic pointer** = a physical action that has the *functional role* of binding computational memory/output to a feature of the external world.
 
 ---
@@ -24,7 +27,7 @@ The author describes the difference between two different approaches to facts ab
 
 ## Embodiment and computation
 - [[Representation-hungry systems maintain complex internal states and perform offline computations linearly]]
-- In contrast, in the [[Dynamic coupling]] model, internal computational tasks must remain coordinated with the external environment to perform “live” adjustments.
+- In contrast, in the [[Dynamic coupling|dynamic coupling]] model, internal computational tasks must remain coordinated with the external environment to perform “live” adjustments.
 	- Such computations are necessarily less expensive than [[Representation is describing some aspect of reality with a useful symbol|representations]].
 	- The priority is to achieve “equilibrium” that “couples” the agent and world.
 

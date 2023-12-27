@@ -5,6 +5,8 @@ aliases:
   - Aristotle's Categories
 tags:
   - literature-note
+title: Book | Aristotle's Categories
+publish: "true"
 ---
 # Summary
 
@@ -13,11 +15,8 @@ In *Categories*, Aristotle uses linguistic structuring to enumerate the most gen
 ---
 # Key terms
 
-- Relations between names and "things"
+- Relations between names and “things”
 	- **Homonymy** = same name, different account for that name (e.g., living horse and horse statue are both horse, yet *being* an horse is different for both)
 	- **Synonymy** = same name, same account (e.g., man and living horse are both animal; being an animal is the same for both)
 	- **Paronymy** = the name is derived from something else; its dependence on some subject is indicated by linguistic inflection (e.g., a brave person has brav*ery*)
-- **Primary substance** = substance that is "numerically one and the same thing"
-
----
-# Notes
+- **Primary substance** = substance that is “numerically one and the same thing”

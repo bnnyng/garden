@@ -11,4 +11,6 @@ aliases:
   - Byung-Chul Han
 tags:
   - person-note
+title: Byung-Chul Han
+publish: "true"
 ---

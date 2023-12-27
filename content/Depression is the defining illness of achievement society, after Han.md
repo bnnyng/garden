@@ -3,6 +3,7 @@ aliases:
 tags:
   - permanent-note
   - topic-theory-philosophy
+publish: "true"
 ---
 Depression in “achievement society” comes has the following sources:
 - Lack of attachment to anything in an increasingly atomized society;

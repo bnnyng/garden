@@ -5,6 +5,8 @@ aliases:
   - Aristotle's Nichomachean Ethics
 tags:
   - literature-note
+title: Book | Aristotle's Nichomachean Ethics
+publish: "true"
 ---
 # Summary
 
