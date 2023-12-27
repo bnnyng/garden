@@ -2,6 +2,7 @@
 lit-author: 
 aliases:
   - Thurston (1994)
+  - (Thurston, 1994)
 tags:
   - literature-note
 ---

@@ -2,8 +2,10 @@
 lit-author: 
 aliases:
   - Jackson (1982)
+  - (Jackson, 1982)
 tags:
   - literature-note
+title: Essay | Epiphenomenal Qualia
 ---
 # Summary
 

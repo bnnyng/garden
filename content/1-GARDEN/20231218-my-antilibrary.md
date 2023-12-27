@@ -2,7 +2,7 @@
 aliases:
   - My antilibrary
 tags:
-  - garden/seed
+  - seed
 ---
 [[building-an-antilibrary]]
 ## Philosophy and theory

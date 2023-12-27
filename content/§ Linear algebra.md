@@ -4,6 +4,7 @@ tags:
   - permanent-note
   - topic-mathematics-and-logic
   - moc
+publish: "true"
 ---
 # Topics
 

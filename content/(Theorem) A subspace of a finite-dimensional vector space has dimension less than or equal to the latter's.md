@@ -4,6 +4,7 @@ tags:
   - permanent-note
   - topic-mathematics-and-logic
   - theorem
+publish: "true"
 ---
 >If $W \subset V$ is a [[Axioms for fields and vector spaces|subspace]] of a [[Bases and dimension|finite-dimensional]] vector space, then $\text{dim}(V) \leq \text{dim}(W)$. If $\text{dim}(V) = \text{dim}(W)$, then $W = V$. 
 

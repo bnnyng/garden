@@ -5,6 +5,8 @@ aliases:
   - Phaedo
 tags:
   - literature-note
+title: Book | Phaedo
+publish: "true"
 ---
 # Summary
 
@@ -23,7 +25,7 @@ The underlying argument of the “Phaedo” justifies why Socrates lived his lif
 	- This joke reveals more about death as a *key term*:
 		- *Death* = separating soul from body
 		- *Dying* = the ongoing process of practicing for death.
-	- Socrates is *worldy* in terms of relationships and social involvement, but *unworldly* because he is unconcerned with worldly issues.
+	- Socrates is *worldly* in terms of relationships and social involvement, but *unworldly* because he is unconcerned with worldly issues.
 	- Socrates argues that the *life of the body* is the *death of reasoning*, while the life of the soul comes after death. 
 		- Athenians would see it the "usual" way: Death is imprisonment.
 - Socrates has two conclusions:
@@ -47,7 +49,7 @@ The underlying argument of the “Phaedo” justifies why Socrates lived his lif
 	- **Soul** can also be a source of life or personality (e.g., "soul food," "felt it in the soul"). The soul is an *animating principle* that explains some feature, not a *discrete object* itself.
 - In Greek, **psyche** means "whatever it is that makes living things alive" (i.e., animates them).
 	- The source of life *is* itself a discrete object.
-	- Socrates seems to be endorsing (via dialectial inquiry and proposing, "What do you say ... ?") that **soul** is what makes us alive when we're alive.
+	- Socrates seems to be endorsing (via dialectical inquiry and proposing, "What do you say ... ?") that **soul** is what makes us alive when we're alive.
 - "What gives consistent personality over time?" is a modern iteration of the question, "What is the soul?"
 ### The cyclical argument (70c-72e)
 #### Cebes' objection (70a-b)
@@ -85,6 +87,7 @@ The underlying argument of the “Phaedo” justifies why Socrates lived his lif
 
 ### Paradoxes of change
 
+> [!quote]
 > Imagine not being able to distinguish the real cause from that without which the cause would not be able to act as a cause. (Phaedo, 99b)
 
 - Explanations must distinguish between "the real cause" and "what needs to exist for the cuase to operate."
@@ -92,7 +95,8 @@ The underlying argument of the “Phaedo” justifies why Socrates lived his lif
 	- Example: Food is not the cause of nutrition.
 	- Example: Arithmetic symbols in math are incidental, they don't explain *why* 8+2=10. In fact, symbols indicate an explanation is needed.
 
-> That seemed to me much like saying that Socrates’ actions are all due to his mind, and then in trying to tell the causes of everything I do, to say that the reason that I am sitting here is because my body consists of bones and sinews, ... , and that is the cause of my sitting here with my limbs bent. (Phaedo, 98d)
+> [!quote]
+>That seemed to me much like saying that Socrates’ actions are all due to his mind, and then in trying to tell the causes of everything I do, to say that the reason that I am sitting here is because my body consists of bones and sinews, ... , and that is the cause of my sitting here with my limbs bent. (Phaedo, 98d)
 
 - Socrates critiques Anaxagoras’ theory of mind as a moving principle, which allows different properties to come together and separate.
 	- Socrates is initially optimistic about "Mind" as a first cause.
@@ -100,6 +104,7 @@ The underlying argument of the “Phaedo” justifies why Socrates lived his lif
 
 ### The new hypothetical method
 
+> [!quote]
 > I would gladly become the disciple of any man who taught the workings of that kind of cause. However, since I was deprived and could neither discover it myself nor learn it from another, do you wish me to give you an explanation of how, as a **second best,** I busied myself with the search for the cause, Cebes? (Phaedo, 99c)
 
 - Socrates has given up on a **top-down explanation**; instead, his **"second sailing"** settles into an *explanatory niche.*
@@ -110,6 +115,7 @@ The underlying argument of the “Phaedo” justifies why Socrates lived his lif
 	- The geometric hypotheical method doesn't work for making a general account of change because the changes are too varied; inquiry is impossible to start.
 	- The **new hypothetical method** is **logical.**
 
+> [!quote]
 > A similar thought crossed my mind, and I feared that my soul would be altogether blinded if I looked at things with my eyes and tried to grasp them with each of my senses. So I thought I must take refuge in discussions and **investigate the truth of things by means of words**. (Phaedo, 99e)
 
 ##### Socrates' hypothesis
@@ -117,6 +123,7 @@ The underlying argument of the “Phaedo” justifies why Socrates lived his lif
 	- "Accounts of something explain change *with regards to* that thing."
 	- Example: Beauty explains the beauty of some particular **instantiation** of beauty.
 
+> [!quote]
 > All beautiful things are beautiful by the Beautiful. That, I think, is the **safest answer** I can give myself or anyone else. (Phaedo, 100e)
 
 - **Explanation by Forms** = "particular fs have f-ness because of F itself."

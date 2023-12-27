@@ -1,15 +1,16 @@
 ---
 lit-author: 
-aliases:
-  - '"What is Culture?"'
+aliases: []
 tags:
   - literature-note
+publish: "true"
+title: Article | What is Culture?
 ---
 # Summary
 
 [[2023-marx-what-is-culture-part-3-arbitrariness]]
 
-In this essay, Marx argues that culture is the collection of arbitrary human behaviors, meaning practices where any number of alternatives could serve the same purpose. 
+In this essay, W. David Marx argues that culture is the collection of arbitrary human behaviors, meaning practices where any number of alternatives could serve the same purpose. 
 
 ---
 # Key terms
@@ -31,7 +32,8 @@ In this essay, Marx argues that culture is the collection of arbitrary human beh
 	- Thus, as a whole, culture includes the “arbitrary aspects of human behavior.”
 	- Marx thinks the most obvious example of arbitrariness in culture is cultural *customs*, and quotes Adam Smith’s question of why a certain custom is preferred over another behavior.
 - In practice, the problem with arbitrariness is that we humans want to see our own choices as reasonable and meaningful.
-	- 💭 Question: WHY is this actually a problem? Is it in the negative effects towards those deemed cultural outcasts? Though the reason may be meaningless, the function is still important; this strikes me as not a problem that would be resolved even if our cultural choices were entirely rational.
+	- #concept-question WHY is this actually a problem? Is it in the negative effects towards those deemed cultural outcasts? Though the reason may be meaningless, the function is still important; this strikes me as not a problem that would be resolved even if our cultural choices were entirely rational.
 
+>[!quote]
 >As humans, we must eke out an existence (the biological realm) and organize labor and resources to achieve concrete aims (the economic realm). The cultural realm describes the specific way we eke out our existence, how we feel about eking out our existence, and how we explain and understand why we eke out our existence.
 

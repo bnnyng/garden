@@ -1,9 +1,11 @@
 ---
 aliases:
-  - What is cognitive science?
   - Stillings (1995)
+  - Stillings, 1995
 tags:
   - literature-note
+publish: "true"
+title: Paper | What is cognitive science?
 ---
 # Summary
 

@@ -5,10 +5,11 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
+publish: "true"
 ---
-Radical embodiment proposes an entirely new framework for cognitive science. While particular accounts of radical embodiment vary, they share the same principles:
-- The traditional theory that cognition is based on representation is inadequate ([[Representation is describing some aspect of reality with a useful symbol]]);
-- Understanding the relationship between intelligent systems, such as the brain ([[Cognitive science treats the brain as an information-processing system]]), with the body and environment requires new analytical tools;
+A radically embodied framework extends the cognitive system to include aspects of the neural substrate, the body, and the surrounding environment. While particular accounts of radical embodiment vary, they share the same principles:
+- The traditional theory that cognition is based on [[Representation is describing some aspect of reality with a useful symbol|representation]] is inadequate;
+- Understanding the relationship between intelligent systems, such as the [[Cognitive science treats the brain as an information-processing system|brain]], with the body and environment requires new analytical tools;
 - An explanation for cognition that involves elements from brain, body, and world is better than traditional theories of internal worlds and subsystems.
 
 ---

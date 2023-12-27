@@ -33,6 +33,6 @@ The author describes the difference between two different approaches to facts ab
 
 ## Radical embodiment and advanced cognition
 
-- [[Radical embodiment suggests alternative ways to decompose cognitive systems]]
+- Radical embodiment suggests alternative ways to decompose cognitive systems
 - [[Human cognition might depend on artifact and culture]]
 	- [[Wideware allows for extended cognitive systems beyond the isolated biological brain]]

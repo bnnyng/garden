@@ -6,6 +6,7 @@ tags:
   - permanent-note
   - topic-mathematics-and-logic
   - theorem
+publish: "true"
 ---
 The rank-nullity theorem says that a [[Axioms for fields and vector spaces|vector space]] can be thought of as a combination of vectors that “die” (the vectors in the [[Image and kernel|kernel]]) and the vectors that “survive” (the vectors in the image) after a linear transformation.
 

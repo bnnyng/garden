@@ -10,6 +10,7 @@ aliases:
 tags:
   - permanent-note
   - topic-mathematics-and-logic
+publish: "true"
 ---
 # Overview
 

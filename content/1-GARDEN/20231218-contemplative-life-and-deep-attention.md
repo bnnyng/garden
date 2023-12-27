@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - garden/seed
+  - seed
 ---
 [[The contemplative life]] is characterized by deep attention. This deep a kind of “de-interiorization” and dissolution of perceptual sense into the observable world. In a sense, deep attention is a more [[Embodied cognition]].
 

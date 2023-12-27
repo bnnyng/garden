@@ -20,7 +20,9 @@ Permanent notes are the only notes in my vault that *do not follow a naming conv
 My entire vault is related to the notion of a [[Complex system]], and the notes in my digital garden are its emergent properties ([[Components of a complex system interact nonlinearly]]). These garden notes are exploratory and evolve over time:
 - 🌱 **Seeds** are rough, early ideas, or primarily works in progress;
 - 🌿 **Budding** work has been somewhat edited and clarified, and is less frequently updated;
-- 🌳 **Evergreen** notes are relatively complete, though will still be tended as I see fit.
+- 🌳 **Evergreen** notes are #wip
+- Fruit
+- Wilted
 
 The notes in my digital garden are negatively defined: they include all the notes that I want to link to other atomic ideas, but unlike permanent notes, they are not drawn from a direct source.
 
