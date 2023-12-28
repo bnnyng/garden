@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - seed
+  - bud
 ---
 Philip Roth is an ideal lens to analyze morality in literature, and perhaps creative media in general, through. Roth’s writing is often shockingly and repulsively misogynistic. In discussing how to interpret his works and legacy, [[Ottessa Moshfegh]] summarized neatly:
 

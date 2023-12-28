@@ -8,7 +8,7 @@ aliases:
   - power set
 tags:
   - permanent-note
-  - topic-mathematics-and-logic
+  - topic-logic-mathematics
 ---
 # Overview
 

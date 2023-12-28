@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - permanent-note
-  - topic-theory-philosophy
+  - topic-philosophy-theory-religion
 publish: "true"
 ---
 According to [[Han, Byung-Chul|Byung-Chul Han]], the smartphone acts as a digital confessional. Like a rosary and beads, it is constantly within our grasp. Its status as a cult object enables “digital domination.”

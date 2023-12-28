@@ -4,7 +4,7 @@ aliases:
   - invertible map theorem
 tags:
   - permanent-note
-  - topic-mathematics-and-logic
+  - topic-logic-mathematics
 publish: "true"
 ---
 The invertible matrix theorem applies to two vector spaces with the same [[Bases and dimension|dimension]]. The theorem is built from facts relating [[Compositions and invertible linear maps|inverses]] and the [[Algebra of functions]]. We begin with the following proposition:

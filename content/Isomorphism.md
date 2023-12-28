@@ -4,5 +4,5 @@ aliases:
   - isomorphic
 tags:
   - permanent-note
-  - topic-mathematics-and-logic
+  - topic-logic-mathematics
 ---

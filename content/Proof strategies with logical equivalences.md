@@ -5,7 +5,7 @@ aliases:
   - contrapositive
 tags:
   - permanent-note
-  - topic-mathematics-and-logic
+  - topic-logic-mathematics
 ---
 # Overview
 

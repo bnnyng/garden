@@ -4,7 +4,7 @@ aliases:
   - proof by induction
 tags:
   - permanent-note
-  - topic-mathematics-and-logic
+  - topic-logic-mathematics
 ---
 ## Mathematical induction
 

@@ -16,7 +16,7 @@ aliases:
   - real numbers
 tags:
   - permanent-note
-  - topic-mathematics-and-logic
+  - topic-logic-mathematics
 ---
 # Overview
 

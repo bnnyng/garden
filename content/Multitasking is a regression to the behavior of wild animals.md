@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - permanent-note
-  - topic-theory-philosophy
+  - topic-philosophy-theory-religion
 publish: "true"
 ---
 We must multitask, regressing to be like wild animals, in order to attend to the excess stimuli created by excess positivity in achievement society.

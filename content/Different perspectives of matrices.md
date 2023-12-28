@@ -9,8 +9,7 @@ aliases:
   - column perspective
 tags:
   - permanent-note
-  - topic-mathematics-and-logic
-publish: "true"
+  - topic-logic-mathematics
 ---
 # Overview
 

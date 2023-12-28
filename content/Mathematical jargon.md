@@ -8,7 +8,7 @@ aliases:
   - corollary
 tags:
   - permanent-note
-  - topic-mathematics-and-logic
+  - topic-logic-mathematics
 ---
 - **Axiom** = something taken for granted (assumed to be true)
 - **Definition** = a new name and a description of "what properties must hold" for an object with that name

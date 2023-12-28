@@ -4,7 +4,7 @@ aliases:
   - rank-nullity
 tags:
   - permanent-note
-  - topic-mathematics-and-logic
+  - topic-logic-mathematics
   - theorem
 publish: "true"
 ---

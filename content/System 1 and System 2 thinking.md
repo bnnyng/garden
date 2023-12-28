@@ -11,7 +11,7 @@ tags:
   - topic-cognitive-science
 publish: "true"
 ---
-Humans are capable of two “systems” of thinking, “automatic” System-1 cognition and “effortful” System 2 cognition.
+Humans are capable of two “systems” of thinking, “automatic” System-1 cognition and “effortful” System 2 cognition. The distinction between the two systems is controversial and hard to draw.
 
 System 1 thinking includes fast processes like perception and quick heuristics for solving problems. 
 
@@ -19,7 +19,7 @@ System 2 thinking is slow, sequential, and rule-based. System 2 thinking may ena
 
 AI agents are excellent at System 1-style tasks. This suggests that implementing System 2 thinking in neural networks may lead to advances in machine intelligence.
 
-The distinction between the two systems is controversial and hard to draw.
+
 
 ---
 # References

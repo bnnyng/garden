@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - permanent-note
-  - topic-mathematics-and-logic
+  - topic-logic-mathematics
   - moc
 publish: "true"
 ---

@@ -9,7 +9,7 @@ aliases:
   - linear subspace
 tags:
   - permanent-note
-  - topic-mathematics-and-logic
+  - topic-logic-mathematics
 publish: "true"
 ---
 # Overview

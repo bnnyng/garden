@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - seed
+  - bud
 ---
 - Inspired by [[Representation-hungry systems maintain complex internal states and perform offline computations linearly]]
 	- Related to the linear updating of blogs in the old digital publishing scheme

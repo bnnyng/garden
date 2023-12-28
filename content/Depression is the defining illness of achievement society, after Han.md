@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - permanent-note
-  - topic-theory-philosophy
+  - topic-philosophy-theory-religion
 publish: "true"
 ---
 Depression in Han’s “achievement society” comes has the following sources:

@@ -16,6 +16,9 @@ From [[embodied-situated-and-grounded-intelligence]]:
 >[!quote]
 >Embodied cognition theories generally predict that words with greater sensorimotor involvement should be easier to recognize, process, and remember. 
 
+
+#wip can connect to content in [[embodied-situated-and-grounded-intelligence]]
+
 ---
 # References
 

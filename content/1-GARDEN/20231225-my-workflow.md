@@ -2,7 +2,7 @@
 aliases:
   - My workflow
 tags:
-  - seed
+  - bud
 ---
 # General note-taking
 

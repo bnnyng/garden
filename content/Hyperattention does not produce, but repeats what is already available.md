@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - permanent-note
-  - topic-theory-philosophy
+  - topic-philosophy-theory-religion
 publish: "true"
 ---
 As [[the-burnout-society|Han’s]] achievement-subjects, we are forced into a mode of hyperattention which scatters our awareness through “different tasks, sources of information, and processes.”

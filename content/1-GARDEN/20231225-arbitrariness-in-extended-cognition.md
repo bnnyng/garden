@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - seed
+  - bud
 ---
 Something is arbitrary when it can be substituted with anything else that serves the same purpose.
 
