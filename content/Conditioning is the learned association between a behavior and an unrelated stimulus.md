@@ -7,6 +7,7 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
+publish: "true"
 ---
 In **classical conditioning**, an association is formed between an involuntary behavior and a stimulus. For example, a dog may be conditioned to salivate when a bell is rung.
 

@@ -6,6 +6,7 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
+publish: "true"
 ---
 Unlike in [[Conditioning is the learned association between a behavior and an unrelated stimulus|conditioning]], non-associative learning does not pair behavior with stimuli.
 

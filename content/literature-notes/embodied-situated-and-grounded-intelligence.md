@@ -4,6 +4,7 @@ aliases:
   - "Embodied, Situated, and Grounded Intelligence: Implications for AI"
 tags:
   - literature-note
+title: "Workshop Report | Embodied, Situated, and Grounded Intelligence: Implications for AI"
 ---
 # Summary
 

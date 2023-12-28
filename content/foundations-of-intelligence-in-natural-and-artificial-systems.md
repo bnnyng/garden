@@ -4,6 +4,7 @@ aliases:
   - Foundations of Intelligence in Natural and Artificial Systems
 tags:
   - literature-note
+title: Workshop Report | Foundations of Intelligence in Natural and Artificial Systems
 ---
 # Summary
 

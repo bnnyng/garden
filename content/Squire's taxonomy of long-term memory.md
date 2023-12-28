@@ -6,6 +6,7 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
+publish: "true"
 ---
 Declarative, or explicit, memory involves facts and events that can be consciously retrieved and reported:
 - [[Episodic memory stores knowledge of the world as an autobiographical representation]]
