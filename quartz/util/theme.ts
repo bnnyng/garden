@@ -54,6 +54,17 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.lightMode.tertiary};
   --highlight: ${theme.colors.lightMode.highlight};
 
+  --tag1: ${theme.colors.lightMode.tag1};
+  --tag2: ${theme.colors.lightMode.tag2};
+  --tag3: ${theme.colors.lightMode.tag3};
+  --tag4: ${theme.colors.lightMode.tag4};
+  --tag5: ${theme.colors.lightMode.tag5};
+  --tag6: ${theme.colors.lightMode.tag6};
+  --tag7: ${theme.colors.lightMode.tag7};
+  --tag8: ${theme.colors.lightMode.tag8};
+  --tag9: ${theme.colors.lightMode.tag9};
+  --tag10: ${theme.colors.lightMode.tag10};
+
   --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
   --codeFont: "${theme.typography.code}", ${DEFAULT_MONO};
@@ -68,6 +79,17 @@ ${stylesheet.join("\n\n")}
   --secondary: ${theme.colors.darkMode.secondary};
   --tertiary: ${theme.colors.darkMode.tertiary};
   --highlight: ${theme.colors.darkMode.highlight};
+
+  --tag1: ${theme.colors.darkMode.tag1};
+  --tag2: ${theme.colors.darkMode.tag2};
+  --tag3: ${theme.colors.darkMode.tag3};
+  --tag4: ${theme.colors.darkMode.tag4};
+  --tag5: ${theme.colors.darkMode.tag5};
+  --tag6: ${theme.colors.darkMode.tag6};
+  --tag7: ${theme.colors.darkMode.tag7};
+  --tag8: ${theme.colors.darkMode.tag8};
+  --tag9: ${theme.colors.darkMode.tag9};
+  --tag10: ${theme.colors.darkMode.tag10};
 }
 `
 }

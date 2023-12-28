@@ -154,7 +154,22 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return "var(--tertiary)"
     } else {
-      return "var(--gray)"
+      if (d.tags.includes("literature-note")) {
+        return "var(--tag1)"
+      }
+      else if (d.tags.includes("topic-logic-mathematics")) {
+        return "var(--tag2)"
+      } else if (d.tags.includes("topic-cognitive-science")) {
+        return "var(--tag3)"
+      } else if (d.tags.includes("topic-computer-science")) {
+        return "var(--tag4)"
+      } else if (d.tags.includes("topic-philosophy-theory-religion")) {
+        return "var(--tag5)"
+      } else if (d.tags.includes("topic-complexity")) {
+        return "var(--tag6)"
+      } else {
+        return "var(--gray)"
+      }
     }
   }
 
