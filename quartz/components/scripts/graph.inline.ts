@@ -151,8 +151,8 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return "var(--secondary)"
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-      return "var(--tertiary)"
+    // } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
+      // return "var(--tertiary)"
     } else {
       if (d.tags.includes("literature-note")) {
         return "var(--tag1)"
