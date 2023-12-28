@@ -150,7 +150,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   const color = (d: NodeData) => {
     const isCurrent = d.id === slug
     if (isCurrent) {
-      return "var(--secondary)"
+      return "var(--dark)"
     // } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       // return "var(--tertiary)"
     } else {
