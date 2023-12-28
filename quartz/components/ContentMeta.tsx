@@ -3,18 +3,21 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
 
 export default (() => {
-  function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
+  function ContentMetadata({ cfg, fileData }: QuartzComponentProps) {
     const text = fileData.text
     if (text) {
       const segments: string[] = []
       const { text: timeTaken, words: _words } = readingTime(text)
 
       if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!))
+        const createdDate = formatDate(getDate(cfg, fileData)!)
+        const modifiedDate = formatDate(fileData.dates.modified) // Assuming fileData contains a 'dates' object with 'modified' property
+
+        segments.push(`Planted: ${createdDate}, Last tended: ${modifiedDate}`)
       }
 
       segments.push(timeTaken)
-      return <p class={`content-meta ${displayClass ?? ""}`}>{segments.join(", ")}</p>
+      return <div className="content-meta">{segments.join(", ")}</div>
     } else {
       return null
     }
