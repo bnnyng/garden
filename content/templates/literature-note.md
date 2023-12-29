@@ -1,9 +1,11 @@
 ---
-title: 
 lit-author: 
 aliases: 
 tags:
   - literature-note
+title: 
+publish: 
+date: <% tp.file.creation_date() %>
 ---
 # Summary
 

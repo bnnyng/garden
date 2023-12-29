@@ -11,6 +11,8 @@ tags:
   - permanent-note
   - topic-logic-mathematics
 publish: "true"
+date: 2022-10-12
+lastmod: 2023-12-28T18:05:35-08:00
 ---
 # Overview
 

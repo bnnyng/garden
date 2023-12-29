@@ -6,6 +6,8 @@ aliases:
 tags:
   - permanent-note
   - topic-complexity
+date: 2023-12-28
+lastmod: 2023-12-28T18:02:45-08:00
 ---
 In chaotic systems, even tiny uncertainties in measurements of initial conditions (i.e., position and momentum) can lead to exponentially larger errors in long-term predictions about the system. 
 

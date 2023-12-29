@@ -8,6 +8,8 @@ ref-link: https://arxiv.org/abs/2210.13589
 aliases: 
 tags:
   - raw
+date: 2023-12-24
+lastmod: 2023-12-28T18:08:18-08:00
 ---
 # Highlights
 - Her argument is based on her commitment to “semantic efficacy,” the view that the meaning (or content) of mental states makes a causal difference to what agents do and how they affect their environments. ([View Highlight](https://read.readwise.io/read/01hjf222ts56ym21fffgacqsjq))

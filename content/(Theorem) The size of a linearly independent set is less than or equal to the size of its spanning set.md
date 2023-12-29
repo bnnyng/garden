@@ -5,6 +5,8 @@ tags:
   - topic-logic-mathematics
   - theorem
 publish: "true"
+date: 2023-12-26
+lastmod: 2023-12-28T18:06:55-08:00
 ---
 >Let $V$ be a finite-dimensional [[Axioms for fields and vector spaces|vector space]] with a finite [[Linear combinations and spanning|spanning set]]. Given any set of [[Linear independence|linearly independent]] $\{v_1, \cdots, v_n\} \subset V$, and any set $\{w_1, \cdots, w_m\}$ which spans $V$, we have $n \leq m$.
 

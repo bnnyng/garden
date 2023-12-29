@@ -5,6 +5,8 @@ tags:
   - topic-logic-mathematics
   - moc
 publish: "true"
+date: 2022-10-20
+lastmod: 2023-12-28T18:20:49-08:00
 ---
 # Topics
 
@@ -25,8 +27,11 @@ publish: "true"
 - [[Image and kernel]]
 - [[Compositions and invertible linear maps]]
 - [[Different perspectives of matrices]]
+- [[Composition and matrix multiplication]]
 
 **Theorems:**
 - [[(Theorem) Linear maps are determined by their values on a basis]]
 - [[(Theorem) Rank-nullity]]
 - [[(Theorem) Invertible matrix theorem]]
+
+

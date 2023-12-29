@@ -4,6 +4,8 @@ aliases:
 tags:
   - permanent-note
   - topic-complexity
+date: 2023-12-26
+lastmod: 2023-12-28T18:01:35-08:00
 ---
 There are two properties that characterize all complex systems:
 - [[Complex systems are self-organized]], meaning they are able to organize their behavior without an internal or external “central executive.”

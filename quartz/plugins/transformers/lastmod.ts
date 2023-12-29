@@ -52,8 +52,8 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options> | und
               } else if (source === "frontmatter" && file.data.frontmatter) {
                 created ||= file.data.frontmatter.date
                 modified ||= file.data.frontmatter.lastmod
-                modified ||= file.data.frontmatter.updated
-                modified ||= file.data.frontmatter["last-modified"]
+                // modified ||= file.data.frontmatter.updated
+                // modified ||= file.data.frontmatter["last-modified"]
                 published ||= file.data.frontmatter.publishDate
               } else if (source === "git") {
                 if (!repo) {

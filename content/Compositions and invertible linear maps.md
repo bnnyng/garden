@@ -10,6 +10,8 @@ tags:
   - permanent-note
   - topic-logic-mathematics
 publish: "true"
+date: 2022-10-20
+lastmod: 2023-12-28T18:07:44-08:00
 ---
 # Overview
 

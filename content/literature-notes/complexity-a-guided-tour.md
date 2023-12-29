@@ -5,6 +5,8 @@ aliases:
   - "Complexity: A Guided Tour"
 tags:
   - literature-note
+date: 2023-12-28
+lastmod: 2023-12-28T18:01:50-08:00
 ---
 # Summary
 

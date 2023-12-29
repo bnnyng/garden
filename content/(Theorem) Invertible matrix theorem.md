@@ -6,6 +6,8 @@ tags:
   - permanent-note
   - topic-logic-mathematics
 publish: "true"
+date: 2023-12-26
+lastmod: 2023-12-28T16:04:39-08:00
 ---
 The invertible matrix theorem applies to two vector spaces with the same [[Bases and dimension|dimension]]. The theorem is built from facts relating [[Compositions and invertible linear maps|inverses]] and the [[Algebra of functions]]. We begin with the following proposition:
 

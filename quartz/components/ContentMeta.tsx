@@ -10,7 +10,7 @@ export default (() => {
       const { text: timeTaken, words: _words } = readingTime(text)
 
       if (fileData.dates) {
-        const createdDate = formatDate(getDate(cfg, fileData)!)
+        const createdDate = formatDate(fileData.dates.created) // formatDate(getDate(cfg, fileData)!)
         const modifiedDate = formatDate(fileData.dates.modified) // Assuming fileData contains a 'dates' object with 'modified' property
 
         segments.push(`Planted: ${createdDate}, Last tended: ${modifiedDate}`)
