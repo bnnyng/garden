@@ -1,14 +1,22 @@
-# Byung-Chul Han: ‘The Smartphone Is a Tool of Domination. It Acts Like a Rosary’
+---
+ref-title: 
+ref-author: El Pais
+ref-publish-date: "2021"
+ref-type: Article
+ref-read-date: 1000-01-01
+ref-link: 
+aliases: 
+tags:
+  - raw
+lastmod: 2023-12-29T14:23:37-08:00
+---
+
 
 ![rw-book-cover](https://images.english.elpais.com/resizer/vREAM7x-8-z3sWLhYiDOKOZETX8=/1200x0/filters:focal(1821x627:1831x637)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/SOYVPIBXJHOVRJBMUFIU6PIL5I.jpg)
 
-## Metadata
-- Author: [[Sergio C. Fanjul]]
-- Full Title: Byung-Chul Han: ‘The Smartphone Is a Tool of Domination. It Acts Like a Rosary’
-- URL: https://english.elpais.com/usa/2021-10-15/byung-chul-han-the-smartphone-is-a-tool-of-domination-it-acts-like-a-rosary.html
 
 >In this exclusive interview with EL PAÍS, the South Korean-born philosopher discusses digital subjugation, the disappearance of ritual and what ‘Squid Game’ reveals about society
-## Highlights
+# Highlights
 - In *Panem et circenses* [or Bread and Circuses], [Roman poet] Juvenal refers to a Roman society where political action is not possible. People are kept happy with free food and entertainment. ([View Highlight](https://read.readwise.io/read/01h0nwhn0b9xkp3x92dt9erkw3))
     - Note: Also the hunger games!
 - In reality, digital capitalism ruthlessly exploits the human drive for play. Think of social media, which deliberately incorporates playful elements to cause addiction in users. ([View Highlight](https://read.readwise.io/read/01h0nwmjrx8pjzxs1f98nvswp0))

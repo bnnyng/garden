@@ -10,4 +10,6 @@ person-contact:
 aliases: 
 tags:
   - person-note
+publish:
+date: <% tp.file.creation_date() %>
 ---

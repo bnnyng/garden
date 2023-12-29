@@ -6,6 +6,9 @@ aliases:
 tags:
   - permanent-note
   - topic-complexity
+publish: "true"
+date: 2023-12-27
+lastmod: 2023-12-28T20:50:09-08:00
 ---
 Emergent properties are collective outcomes of a system that cannot be easily understood from individual components, such as the [[Complex systems are made of relatively simple agents|relatively simple individuals]] in a [[Complex systems have nontrivial emergent and self-organizing behaviors|complex system]].
 

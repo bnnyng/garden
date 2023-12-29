@@ -2,35 +2,23 @@
 ref-title: The quest for psychological perfection
 ref-author: Gena Gorlin
 ref-publish-date: "2022"
-ref-type: Essay
-ref-read-date: 2022-01-01
+ref-type: Article
+ref-read-date: 2022-08-08
 ref-link: https://builders.genagorlin.com/p/the-quest-for-psychological-perfection?sd=pf
 aliases: 
 tags:
   - raw
+lastmod: 2023-12-29T14:52:50-08:00
 ---
+
 # Highlights
----
-##### Acknowledging the value of acceptanace therapies for irrational self-talk
->And I owe a great debt of gratitude to the various therapeutic approaches—most notably cognitive behavioral therapy (CBT)—which have taught me to let go of that rigid, tyrannical mindset, replacing its constant criticism and negativity with kinder, more patient and constructive forms of self-talk.
-
-##### Leaving behind perfectionism led to acceptance of subpar outcomes
->Did casting off perfectionism have to mean settling for these imperfections?
->
->According to the modern therapeutic approaches I was knee-deep in studying and practicing at the time, the answer seemed to be a resounding “yes.”
-
->In freeing me from the tyranny of perfectionism, the field had armed me with a fresh arsenal of rationalizations against the ambitious pursuit of excellence.
-
-##### Psychology makes pursuing excellence problematic
->By equating the genuine quest for perfection with its fake, neurotic counterpart, the psychological establishment renders both pathological. Thus, in the name of preserving psychological wellbeing, it discourages the ambitious pursuit of excellence in _any_ domain of our lives—including, ironically, our own psychological wellbeing.
->
->In so doing, it cuts us off from pursuing the very ideals of personal excellence—ideals like action-orientation, self-honesty, and industriousness—that could deliver us from pathological perfectionism, among many other ills.
-
-##### Defining perfection
->In championing the quest for self-perfection, I’m not talking about “perfection” as some arbitrary, impossible, nitpicky standard set by some arbitrary external authority. I’m talking about the broadly Aristotelian concept of perfection as “potential fully actualized”; as excellence in the exercise of one’s capacities and the realization of one’s carefully chosen ideals.
-
-##### The role of radical acceptance
-> Where I differ from mainstream conceptions of “acceptance” is that I regard it as part of a tight feedback loop with the quest for perfection: the goal is not merely to find peace with the way we are, but to build an ever healthier, wiser, more vital version of ourselves.
-
-##### Contrasting mainstream approaches
-> In contrast to each of these mainstream approaches, I conceive of human beings as fully capable of building, and re-building, themselves—motives, mindsets, emotions, action habits, and all. I do not think our ulterior motives are as invisible to us or as immune to our conscious volitional control as a psychodynamic therapist assumes; else I would not believe us capable of practicing and developing [self-trust](https://genagorlin.substack.com/p/vision-or-delusion-why-ambitious). Nor do I think we adopt our beliefs and thinking patterns from our social environment as mechanically as the CBT therapist assumes; else I would not believe we _needed_ to develop self-trust, in addition to whatever practical thinking and decision-making skills we might pursue. And nor do I think our abstract beliefs about ourselves and the world are either ultimately meaningless or unalterable, as the ACT therapist assumes; else I would not invest so much effort in [coaching people toward a builder’s perspective on themselves and the world](https://genagorlin.substack.com/p/how-to-coach-a-builder).
+- In freeing me from the tyranny of perfectionism, the field had armed me with a fresh arsenal of rationalizations against the ambitious pursuit of excellence. ([View Highlight](https://read.readwise.io/read/01hjvqamam5tkyjd9a5wbbv19z))
+- it’s the [builder](https://genagorlin.substack.com/p/the-builders-mindset-a-way-out-of), not the drill sergeant, who genuinely cares about excellence; for the builder’s excellence is in service of the particular life she wants to build, whereas the drill sergeant threatens you with “excellence” as a vague, arbitrary dictate you have to appease before being allowed to build and enjoy your own life in the first place ([View Highlight](https://read.readwise.io/read/01hjvqf5wbzwqgrmdv6jsfqbgc))
+- By equating the genuine quest for perfection with its fake, neurotic counterpart, the psychological establishment renders both pathological. ([View Highlight](https://read.readwise.io/read/01hjvqekjsj28c4e5f8j1sg1ah))
+- This is the sense in which a dish is “perfect” if it achieves its aim of nourishing and delighting those who consume it, or that a home is “perfect” if it succeeds in fulfilling the physical and psychological and aesthetic needs of those who live in it. ([View Highlight](https://read.readwise.io/read/01hjvrapm1q4t6mg6z03stjtb8))
+- My own studies have led me to conceive of human beings as fully actualized when they are functioning as *builders*; ([View Highlight](https://read.readwise.io/read/01hjvrbtypxqpg4d3jfh12c67r))
+- Inherent in this vision of “perfection” is the embrace of trial-and-error learning and experimentation as necessary aspects of any worthwhile human endeavor. ([View Highlight](https://read.readwise.io/read/01hjvrbm6s4cpcm0d3dpmem7r8))
+- But it means they have the psychological wherewithal to maintain or quickly regain perspective on these various challenges, keeping their fundamental vision of life and of their own goals in view; and that they take action and ownership accordingly. Above all, it means they are on a constant trajectory of **building and growing*****:*** **of** **envisioning and vigorously pursuing ever-new heights of perfection in their work, their relationships, and, yes, their own psychology.** ([View Highlight](https://read.readwise.io/read/01hjvrcgs9q563js3hbhw5dq5d))
+- But *none of these tacks in isolation fully leverages your agency over your own mind and character,* including the *mindsets you internalize (or de-internalize) over time.* ([View Highlight](https://read.readwise.io/read/01hjvrfkmt2nw99kv4jfv6peqd))
+- I conceive of human beings as fully capable of building, and re-building, themselves—motives, mindsets, emotions, action habits, and all. ([View Highlight](https://read.readwise.io/read/01hjvrfvh3r26de09f6e1ysq7q))
+- When my colleagues counsel against the pursuit of perfection, they betray a lack of optimism about the human capacity for self-determination: for choosing and upholding our own standards of excellence, rather than living forever at the mercy of whatever arbitrary standards we happened to ingest from our society or our parents or our evolutionary ancestors. ([View Highlight](https://read.readwise.io/read/01hjvrgct22ah2v16rqy8enqq6))

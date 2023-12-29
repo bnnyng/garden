@@ -6,7 +6,7 @@ aliases:
   - parameter sharing
 tags:
   - permanent-note
-  - topic-computer-science
+  - topic-computer-science-information
 ---
 # Overview
 

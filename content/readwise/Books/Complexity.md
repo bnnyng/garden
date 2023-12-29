@@ -171,3 +171,17 @@
 - The bottom line is that it is in general difficult to design cellular automata to perform tasks that require collective decision making among all the cells ([View Highlight](https://read.readwise.io/read/01hjqz80qzdgpvvrnntmqxxm6s))
 - the language of particles and their interactions form an explanatory vocabulary for decentralized computation in the context of one-dimensional cellular automata ([View Highlight](https://read.readwise.io/read/01hjr00xczph7mbxx2vz4hcj13))
 - What higher-level descriptions of information processing in cellular automata can be given? ([View Highlight](https://read.readwise.io/read/01hjr01750n7k96drtwbakpztb))
+## New highlights added December 29, 2023 at 11:54 AM
+- In many people’s minds information has taken on an ontological status equal to that of mass and energy—namely, as a third primitive component of reality. In biology in particular, the description of living systems as *information processing networks* has become commonplace ([View Highlight](https://read.readwise.io/read/01hjtb74j1dtmh1hkkxebs8njy))
+- Thus a given high-level program can be implemented in different ways in machine code; it is a more *abstract* description of information processing ([View Highlight](https://read.readwise.io/read/01hjtbc6czq6ts6h69kcp0qzx6))
+- This higher level of description allows us to understand computations in a human-friendly way that is abstracted from particular details of machine code and hardware ([View Highlight](https://read.readwise.io/read/01hjtbd3mn24es3fhkjk6p2yg4))
+- *Meaning* comes from the human knowledge of the task being performed and interpretation of the mapping from the input to the output (e.g., “the final lattice is all white; that means that the initial configuration had a majority of white cells”) ([View Highlight](https://read.readwise.io/read/01hjtber4q187wqae4vqzvndar))
+- a high-level description of information processing in living systems would allow us not only to understand in new and more comprehensive ways the mechanisms by which particular systems operate, but also to abstract general principles that transcend the overwhelming details of individual systems. In essence, such a description would provide a “high-level language” for biology. ([View Highlight](https://read.readwise.io/read/01hjtbj4vfpmcrz81qztez33vg))
+- • What plays the role of “information” in these systems?
+  • How is it communicated and processed?
+  • How does this information acquire *meaning*? And to whom ([View Highlight](https://read.readwise.io/read/01hjtcj1bz7g93hb5b3fggw639))
+    - Note: Make a table in the notes!
+- Framed in this way, information is not, as in a traditional computer, precisely or statically located in any particular place in the system. Instead, it takes the form of statistics and dynamics of patterns over the system’s components. ([View Highlight](https://read.readwise.io/read/01hjtcm3ystyfdb5jgj362qkht))
+    - Note: Information processing is a COLLECTIVELY performed action in biological systems (performed by multiple individual units)
+- no individual component of the system can perceive or communicate the “big picture” of the state of the system. Instead, information must be communicated via spatial and temporal sampling ([View Highlight](https://read.readwise.io/read/01hjtcpda9njhvampr6ccnz2a7))
+- [All three systems described above use randomness](private://read/01hjmjw71wrcxrs61d9nzdxv03#filepos816193) and probabilities in essential ways ([View Highlight](https://read.readwise.io/read/01hjtct6n4s48nwwntzbdvndg4))

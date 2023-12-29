@@ -9,7 +9,7 @@ aliases:
 tags:
   - raw
 date: 2023-12-26
-lastmod: 2023-12-28T18:08:27-08:00
+lastmod: 2023-12-29T14:52:50-08:00
 ---
 # Highlights
 - In 1988, Hans Moravec famously noted that, “It is comparatively easy to make computers exhibit adult level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility” (p. 15). ([View Highlight](https://read.readwise.io/read/01hjf5dx8r9vh5t9b24a02kk57))

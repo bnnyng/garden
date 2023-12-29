@@ -161,7 +161,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
         return "var(--tag2)"
       } else if (d.tags.includes("topic-cognitive-science")) {
         return "var(--tag3)"
-      } else if (d.tags.includes("topic-computer-science")) {
+      } else if (d.tags.includes("topic-computer-science-information")) {
         return "var(--tag4)"
       } else if (d.tags.includes("topic-philosophy-theory-religion")) {
         return "var(--tag5)"

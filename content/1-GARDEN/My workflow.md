@@ -3,6 +3,8 @@ aliases:
   - My workflow
 tags:
   - bud
+date: 2023-12-24
+lastmod: 2023-12-29T13:33:02-08:00
 ---
 # General note-taking
 

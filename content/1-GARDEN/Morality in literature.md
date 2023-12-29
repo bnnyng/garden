@@ -2,6 +2,8 @@
 aliases: 
 tags:
   - bud
+date: 2023-12-25
+lastmod: 2023-12-29T13:32:21-08:00
 ---
 Philip Roth is an ideal lens to analyze morality in literature, and perhaps creative media in general, through. Roth’s writing is often shockingly and repulsively misogynistic. In discussing how to interpret his works and legacy, [[Ottessa Moshfegh]] summarized neatly:
 
@@ -17,3 +19,5 @@ From [Your Mind’s in the Hands of Everything](https://harpers.org/archive/2023
 >This is, I suppose, my own ill-advised defense of literature, or at least my diagnosis of its challenges: that it is not moral instruction, nor a basic need akin to shelter and food, but rather a need like friends, adversaries, and love. Its function is social, even when we’re alone with it; it works only insofar as we can live with it, become vulnerable to it, or resist it.
 
 More often than not, the media we consume serves as a creative compass. Not even for our own private navigation, but as a flag for other, the easier to distill and judge us with. Is this appropriate, or should we be seeking these works in solitude, as with Roth? Is it situation-dependent? Are we still able to enjoy things for ourselves, for their own sake, when distracted by the perception of others? Does it matter at all; is literature truly a social need?
+
+As read in a Goodreads review, the role of literature is to make the world unfamiliar…

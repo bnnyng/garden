@@ -9,7 +9,7 @@ aliases:
   - unit
 tags:
   - permanent-note
-  - topic-computer-science
+  - topic-computer-science-information
 ---
 # Overview
 

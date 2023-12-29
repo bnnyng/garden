@@ -4,10 +4,12 @@ tags:
   - permanent-note
   - topic-cognitive-science
 publish: "true"
+lastmod: 2023-12-28T20:53:57-08:00
+date: 2023-12-26
 ---
 
 ## Open questions
-- How important are mental models (i.e., representations used for simulation or prediction) for explaining intelligent behavior?
+- How important are mental models (i.e., [[Representation is describing some aspect of reality with a useful symbol|representations]] used for simulation or prediction) for explaining intelligent behavior?
 - Is [[System 1 and System 2 thinking]] an appropriate way to classify cognitive processes?
 
 ## Researcher perspectives

@@ -8,6 +8,8 @@ tags:
   - literature-note
 title: Book | The Burnout Society
 publish: "true"
+date: 2023-01-06
+lastmod: 2023-12-29T13:20:41-08:00
 ---
 # Summary
 

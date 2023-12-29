@@ -3,6 +3,8 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
+date: 2023-12-26
+lastmod: 2023-12-28T20:54:17-08:00
 ---
 Daniel Dennett captures this idea concisely: “Intelligence is knowing what to do when you don’t know what to do.” This separates intelligence from competency; an intelligent agent can reason about how to solve a problem without being able to actually implement the solution.
 

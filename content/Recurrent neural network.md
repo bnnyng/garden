@@ -6,7 +6,7 @@ aliases:
   - recurrent
 tags:
   - permanent-note
-  - topic-computer-science
+  - topic-computer-science-information
 ---
 # Overview
 

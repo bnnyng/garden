@@ -10,7 +10,7 @@ According to Guy Dove (University of Louisville), language is a form of extended
 
 Dove refers to the view that “Language is an Embodied Neuroenhancement and Scaffold” as “LENS theory.”
 
-LENS theory is one solution to the [[The symbol ungrounding problem asks how literal meanings are abstracted into arbitrary symbols|symbol ungrounding problem]]. Language learning, which involves arbitrary connections between symbols and meanings, is an example of our capacity for flexible cognition (more thoughts on arbitrariness: [[20231225-arbitrariness-in-extended-cognition]]). 
+LENS theory is one solution to the [[The symbol ungrounding problem asks how literal meanings are abstracted into arbitrary symbols|symbol ungrounding problem]]. Language learning, which involves arbitrary connections between symbols and meanings, is an example of our capacity for flexible cognition (more thoughts on arbitrariness: [[Arbitrariness in cognition]]). 
 
 This theory accommodates both the role of [[Embodied cognition|embodiment]] in cognition and [[Meaning is constructed in an ad hoc way during cognition, after Casasanto]].
 

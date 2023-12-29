@@ -4,8 +4,9 @@ aliases:
   - neural network
 tags:
   - permanent-note
-  - topic-computer-science
+  - topic-computer-science-information
   - moc
+lastmod: 2023-12-29T15:12:29-08:00
 ---
 # Overview
 
