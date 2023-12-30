@@ -8,20 +8,8 @@ ref-link: https://arxiv.org/abs/1810.08647
 aliases: 
 tags:
   - raw
-lastmod: 2023-12-28T18:43:49-08:00
+lastmod: 2023-12-29T19:05:04-08:00
 ---
-
-
-
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
-
-# Metadata
-- Author: [[Natasha Jaques, Angeliki Lazaridou, Edward Hughes, Caglar Gulcehre, Pedro A. Ortega, DJ Strouse, Joe...]]
-- Full Title: Social Influence as Intrinsic Motivation  for Multi-Agent Deep Reinforcement Learning
-
-- URL: http://proceedings.mlr.press/v97/jaques19a/jaques19a.pdf
-
 # Highlights
 - Social learning is incredibly important for humans, and has been linked to our ability to achieve unprecedented progress and coordination on a massive scale ([View Highlight](https://read.readwise.io/read/01hjsp3m962hzwbg9113cs7mrx))
 - Causal influence is assessed using counterfactual reasoning; at each timestep, an agent simulates alternate, counterfactual actions that it could have taken, and assesses their effect on another agent’s behavior. ([View Highlight](https://read.readwise.io/read/01hjsp4p5hbt5zqd6y60f0h6g1))

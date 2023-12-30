@@ -2,14 +2,18 @@
 lit-author: 
 aliases:
   - Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning
+  - Jaques et al. (2019)
+  - Jaques et al., 2019
 tags:
   - literature-note
 title: Paper | Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning
 publish: 
 date: 2023-12-28 18:40
-lastmod: 2023-12-29T15:08:17-08:00
+lastmod: 2023-12-29T19:05:33-08:00
 ---
 # Summary
+
+[Source](https://arxiv.org/abs/1810.08647) 
 
 ---
 # Takeaways
@@ -28,3 +32,6 @@ lastmod: 2023-12-29T15:08:17-08:00
 
 ---
 # Notes
+
+## Introduction
+
