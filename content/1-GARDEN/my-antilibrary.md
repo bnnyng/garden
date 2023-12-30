@@ -2,11 +2,14 @@
 aliases:
   - My antilibrary
 tags:
-  - bud
+  - evergreen
 date: 2023-12-25
-lastmod: 2023-12-29T13:32:29-08:00
+lastmod: 2023-12-30T09:18:09-08:00
+title: My antilibrary
 ---
 [[building-an-antilibrary]]
+
+# The bookshelf
 ## Philosophy and theory
 
 ### Analytic philosophy
@@ -17,11 +20,9 @@ lastmod: 2023-12-29T13:32:29-08:00
 - “Is there anything it is like to be a bat?” by Hacker
 ### Culture
 - *The Culture Industry* by Theodor Adorno
-
 ### Religion
 - *Mere Christianity* by C. S. Lewis
 
----
 ## Science and technology
 
 ### History of science and technology
@@ -29,8 +30,6 @@ lastmod: 2023-12-29T13:32:29-08:00
 
 ### Physics
 - *Physics for Mathematicians* by Spivak
-
----
 ## Creative works
 
 ### General creativity
@@ -69,27 +68,25 @@ lastmod: 2023-12-29T13:32:29-08:00
 ### Writing
 - *On Writing* by Stephen King
 - *Borges on Writing* by Jorge Luis Borges
-
----
 ## Finance and economics
 
 ### Economic history
 - *Crashed: How a Decade of Financial Crises Changed the World* by Adam Tooze
 - *The World for Sale: Money, Power and the Traders Who Barter the Earth’s Resources* by Javier Blas
-
----
 ## History and sociology
 
 ### American history and culture
 - *Midwest Futures* by Phil Christman
 
 ---
+# The filing cabinet
 
-## Other mediums
+
+
+---
+# The scratchpad
 
 ### People
 
 **Philosophers**
 - Yuk Hui – contemporary philosopher of technology
-
-### Film and video
