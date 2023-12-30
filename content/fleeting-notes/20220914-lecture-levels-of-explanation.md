@@ -1,6 +1,6 @@
 ---
 tags:
-  - class/introduction-to-cognitive-science/class-note
+  - COGS-UN1001
   - fleeting-note
 ---
 # Lecture: Levels of explanation

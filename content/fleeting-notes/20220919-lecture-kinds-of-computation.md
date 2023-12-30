@@ -1,7 +1,7 @@
 ---
 tags:
   - fleeting-note
-  - class/introduction-to-cognitive-science/class-note
+  - COGS-UN1001
 ---
 # Lecture: Kinds of computation
 ---

@@ -2,25 +2,24 @@
 tags:
   - fleeting-note
   - PHIL-UN2101
----
-# Lecture: The structure of facts
+lastmod: 2023-12-30T10:18:04-08:00
 ---
 ## Context: Plato's metaphysical muddle
 - Why was Aristotle motivated to write this text?
 	- Background: Aristotle studied with Plato, did some things related to biology, then returned to Athens; Categories comes early in his career.
-	- Socrates' second sailing is limited; the hypothesis about the "logic" of change is never fully explained (see [[20221018-lecture-the-final-argument-phaedo]]).
+	- Socrates' [[20221018|second sailing]] is limited; the hypothesis about the "logic" of change is never fully explained.
 - **Category** = (mode of) predication; how one term can be applied to another.
 	- The theoretical vocabulary of **categories** is Aristotle's invention.
 	- Different modes are needed since not every predication takes the form of "particular $f$ participating in $F$."
 	- Aristotle uses **linguistic structuring,** or investigation by words, to explain how change is possible.
 - Plato and Aristotle agree that change is caused by an **asymmetry** "something applied" and "something *being*," but have opposite ways of locating the explanation (i.e., *what* is being predicated).
-	- Contrast with Anaxagoras who denied the difference between subject and predicate, and "Parmenidean uniformity," where everything is "what is."
+	- Contrast with [[20220920|Anaxagoras]], who denied the difference between subject and predicate, and "[[Parmenides|Parmenidiean]] uniformity," where everything is "what is."
 	- Plato says: $F$ is the explanatory *bedrock*, while $f$ is the **subject** of predication.
 
 ---
 ## Aristotle's fundamental principle
 
-- **Aristotle's fundamental (ontological) principle** = "The basic explanatory entities (i.e., explanatory *bedrock*) are the **fundamental subjects of predication**."
+
 	- The thing *being predicated* is lower than the thing *predicated of*.
 	- Plato's "features" are also "things."
 	- **Subject of predication** = the thing at the bottom that canot be predicated further.
@@ -45,7 +44,7 @@ tags:
 - Canonical example: A brave person *has* bravery.
 	- Saying a "person is bravery" is nonsensical.
 	- The "-y" version of the term indicates the *dependence* of one thing on another; dependence is captured by *linguistic inflection*.
-- **Paronymy** is implicit in the final argument in the [[plato-phaedo|Phaedo]].
+- **Paronymy** is implicit in the [[20221018|final argument]] in the [[(Book) Plato, Phaedo]].
 	- In Aristotle's theory: "Things are beautiful *in terms of* Beauty, and beauty also comes from further facts."
 
 ---
@@ -95,6 +94,11 @@ $$ \begin{array} {| c | c | c |}
 	- Some **predications** are "in the mode of" **substance**.
 	- Certain **substances** are closer to **subjecthood** than others.
 	- The **subject** in Aristotle's **fundamental principle** are at the bottom of a "chain" of predicaitons.
+
+> [!Question]
+> - Difference between predicate and [[Propositional logic|propositional logic]]?
+> - Last mentioned [[20220920|predicate logic]] in Paremenides' "way of mortal opinion." Didn't understand what it meant there, any connection?
+
 
 ---
 

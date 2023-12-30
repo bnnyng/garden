@@ -3,7 +3,7 @@ aliases:
   - "Week 0: Laying the Foundation"
 tags:
   - fleeting-note
-lastmod: 2023-12-29T14:52:50-08:00
+lastmod: 2023-12-30T12:01:26-08:00
 ---
 >[!example] Week 0 intention
 >Giving myself the best chance of success by making (small and big) tweaks to my life and mindset.
@@ -64,5 +64,5 @@ lastmod: 2023-12-29T14:52:50-08:00
 - [[2023-12-24]] How does the future recovered me think, act, and feel?
 - [[2023-12-25]] How do I need to show up to this process to be successful?
 - What previous recovery processes have I tried? What worked and what didn’t work about them?
-- How can I make recovery a daily, practical part of my life?
+- [[2023-12-26]] How can I make recovery a daily, practical part of my life?
 - What elements of my life need to change to facilitate space for me and my recovery?

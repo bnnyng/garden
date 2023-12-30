@@ -1,7 +1,8 @@
 ---
 tags:
   - fleeting-note
-  - class/introduction-to-cognitive-science/class-note
+  - COGS-UN1001
+lastmod: 2023-12-30T10:12:21-08:00
 ---
 # Lecture: The cognitive approach
 ---

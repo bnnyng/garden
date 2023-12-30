@@ -1,7 +1,8 @@
 ---
 tags:
   - fleeting-note
-  - class/history-of-philosophy-1/class-note
+  - PHIL-UN2101
+lastmod: 2023-12-30T10:12:40-08:00
 ---
 # Lecture: The final argument for the immortality of soul
 ---

@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: "true"
 date: 2023-12-30 09:12
-lastmod: 2023-12-30T09:42:36-08:00
+lastmod: 2023-12-30T10:08:38-08:00
 title: Book reviews
 ---
 ## 2023

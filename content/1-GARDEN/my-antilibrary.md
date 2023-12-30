@@ -4,7 +4,7 @@ aliases:
 tags:
   - evergreen
 date: 2023-12-25
-lastmod: 2023-12-30T09:18:09-08:00
+lastmod: 2023-12-30T10:13:34-08:00
 title: My antilibrary
 ---
 [[building-an-antilibrary]]
