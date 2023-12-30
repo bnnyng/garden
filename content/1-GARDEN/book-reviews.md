@@ -4,13 +4,13 @@ tags:
   - evergreen
 publish: "true"
 date: 2023-12-30 09:12
-lastmod: 2023-12-30T09:20:31-08:00
+lastmod: 2023-12-30T09:42:36-08:00
 title: Book reviews
 ---
 ## 2023
 #### *Atta* by Jarett Kobeck
 
-[Goodreads link](https://www.goodreads.com/review/show/6094187241) – Read 2023-12-30
+Read 2023-12-30 – [Goodreads](https://www.goodreads.com/review/show/6094187241) 
 
 This story is interesting to compare to the "speculative nonfiction" type book I am currently reading, _When We Cease to Understand the World_, though this one leans more toward the speculation. The broad strokes of Atta's life, though, are mostly factual; every part of the "plot" is mentioned on his [Wikipedia page](https://en.wikipedia.org/wiki/Mohamed_Atta).
 
