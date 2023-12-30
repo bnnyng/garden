@@ -6,13 +6,14 @@ tags:
   - literature-note
 title: "Workshop Report | Embodied, Situated, and Grounded Intelligence: Implications for AI"
 date: 2023-12-27
-lastmod: 2023-12-29T19:10:39-08:00
+lastmod: 2023-12-29T21:37:13-08:00
+publish: "true"
 ---
 # Summary
 
-[[2022-santa-fe-institute-embodied-situated-and-grounded-intelligence]]
+[Source](https://arxiv.org/abs/2210.13589) – [[2022-santa-fe-institute-embodied-situated-and-grounded-intelligence|Highlights]]
 
->[!example] Abstract
+>[!abstract]
 >In April of 2022, the Santa Fe Institute hosted a workshop on embodied, situated, and grounded intelligence as part of the Institute's Foundations of Intelligence project. The workshop brought together computer scientists, psychologists, philosophers, social scientists, and others to discuss the science of embodiment and related issues in human intelligence, and its implications for building robust, human-level AI. In this report, we summarize each of the talks and the subsequent discussions. We also draw out a number of key themes and identify important frontiers for future research.
 
 ---
@@ -31,6 +32,7 @@ lastmod: 2023-12-29T19:10:39-08:00
 - **Affordance** = a resource or support that the environment offers to an individual agent
 - **Self-generated learning** = [[Self-generated learning happens when learners shape the data they learn from]]
 - **Symbol grounding problem** = [[The symbol grounding problem asks how the brain connects mental representations to the external world]]
+- **Foundation model** = a deep neural network pretrained on large datasets, then adapted to specific tasks.
 
 ---
 # Notes
@@ -209,3 +211,17 @@ lastmod: 2023-12-29T19:10:39-08:00
 	- Evolutionary timescales allow brains to be capable of learning form the environment in the first place.
 	- Developmental timescales involve learning that occurs as the body and brain develop.
 	- Short timescales involve acquiring specific knowledge and skills.
+
+## Day 4
+
+### Percy Liang – “Are Foundation Models Castles in the Air?”
+- Foundation models, which are trained on more general tasks and then tested on specific tasks, are different from transfer learning models, which are trained on one specific task then tested on another.
+- Liang notes several differences between foundation models and human minds, and suggests that comparing the two is a good way to evaluate foundation models:
+	- Humans can learn from multi-modal data;
+	- Humans’ data involves actions and their consequences (implemented in [[Reinforcement learning]]);
+	- Humans’ own activity can generate data (potential for [[Self-generated learning happens when learners shape the data they learn from|self-generated learning]]);
+	- Humans have a more structured and [[The mind is comprised of interacting, interpretable modules|modular]] neural architecture ( #concept-question how do we know?).
+
+### Chris Potts – “Could a Purely Self-Supervised Foundation Model Achieve Grounded Language Understanding?”
+- Philosophical intuitions, like the Chinese Room and Chinese Gym, suggest “yes” because their answers about what systems are capable of understanding language depend on the systems’ size, speed, and complexity.
+- In addition to using performance benchmarks for specific competences, we can test AI systems for understanding by asking about causal models of relative phenomena (e.g., distinct but causally related stimuli in Potts’ research).

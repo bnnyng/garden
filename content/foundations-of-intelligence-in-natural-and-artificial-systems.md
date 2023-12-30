@@ -5,17 +5,25 @@ aliases:
 tags:
   - literature-note
 title: Workshop Report | Foundations of Intelligence in Natural and Artificial Systems
+lastmod: 2023-12-29T21:24:02-08:00
+date: 2023-12-26
+publish: "true"
 ---
 # Summary
 
->[!example] Abstract
+[Source](https://arxiv.org/abs/2105.02198) – [[2021-santa-fe-institute-foundations-of-intelligence|Highlights]]
+
+>[!abstract]
 >In March of 2021, the Santa Fe Institute hosted a workshop as part of its Foundations of Intelligence in Natural and Artificial Systems project. This project seeks to advance the field of artificial intelligence by promoting interdisciplinary research on the nature of intelligence. During the workshop, speakers from diverse disciplines gathered to develop a taxonomy of intelligence, articulating their own understanding of intelligence and how their research has furthered that understanding. In this report, we summarize the insights offered by each speaker and identify the themes that emerged during the talks and subsequent discussions.
+
 
 ---
 # Takeaways
 
----
-# Key terms
+- Different definitions of intelligence are used in different research areas.
+- Social networks are important for intelligent computation, and intelligent behavior is often produced collectively.
+- Intelligence involves modeling a problem and selecting the appropriate heuristic to solve it.
+- Evolution is the only guaranteed method of producing general intelligence.
 
 ---
 # Notes
@@ -40,7 +48,7 @@ title: Workshop Report | Foundations of Intelligence in Natural and Artificial S
 - Evolution shapes intelligence; in particular, evolution is the only known process that has produced true general intelligence.
 	- Defining intelligence rigorously is difficult without considering environment and limitations from evolutionary constraints.
 	- Evolutionary constraints drive intelligent behavior and should be replicated for AI.
-	- [[Evolution is a design process]]
+	- Evolution is a design process.
 - It is important to consider different forms of natural intelligence when developing AI systems.
 
 ## Summaries of talks
@@ -136,4 +144,32 @@ title: Workshop Report | Foundations of Intelligence in Natural and Artificial S
 >Moses is also cautious about AI risks—not because she believes that AI will be radically different or vastly more intelligent than humans, but because the methods humans have already used to extend our intelligence (e.g., cultural transmission and social institutions) have already posed serious risks.
 
 ### Jessica Flack – “The Elements of Collective Intelligence”
-- 
+- Flack presents a framework for understanding computation performed by collectives, particularly ones that lead to adaptive behaviors.
+	- Mechanics are an important consideration because biological collectives face information processing and thermodynamic constraints.
+	- We must also understand how mechanisms are tuned by evolution.
+- Flack gives seven key elements of collective intelligence: environment, input, output, task, circuit (what are the components and how are they organized?), algorithm, and termination criteria.
+
+### Mirta Galesic – “Intelligence Needs (At Least) Two Blades”
+
+- Galesic argues that a human-centered definition of intelligence fails to account for when animals outperform humans on cognitive tasks (see: [[Intelligence takes different forms]])
+- A better model is ecological rationality; thus, intelligence is a fit between a cognitive system and its environment.
+- General intelligence is a sort of meta-cognition where we are able to select the best tool across many environments; this offers a direction for developing generally intelligent AI.
+
+### David Wolpert – “Beyond 20th Century Notions of an Intelligence: Using Stacking to Combine Intelligences”
+- “Stacking” combines the predictions of several machine learning models under a meta-model that is trained to both incorporate other models’ predictions and account for their biases.
+- Stacking has implications for improving the scientific method, which is currently more like single-model cross-validation.
+- General AI will most likely come from a “web-based ecology of AI systems.”
+	- #open-question *How do AI communities compare to human communities?*
+- Interestingly, we cannot predict (compute) the behavior of an AI community because individual AI programs are [[Turing|Turing complete]].
+	- #open-question *Is it worth sacrificing understanding of the systems we model for “predictive accuracy”?* Engineers already do this!
+
+### Risto Miikkulainen – “Evolving Intelligent Behavior in Virtual Agents”
+- Evolutionary constraints (resource limitation, body-brain co-evolution, competitive arms races, the need for coordination) “solve the harder problem of finding good body/behavior combinations.”
+- Intelligence arises from evolutionary optimization of neural networks under realistic constraints.
+
+### Stephanie Forrest – “Evolution and Engineering”
+- Despite the difficulty of defining intelligence, information processing capacities are implemented in the same substrate (i.e., nervous system) that evolved over the same process of natural selection.
+- Software can also evolve at both the level of individual programs and software environments as used by human communities.
+	- Evolution at the level of individual programs is a type of evolutionary computation.
+- Forrest draws insights from biological evolution for advancing evolutionary computation: “open-endedness, major transitions, neutrality and drift, genotype/phenotype mappings, multi-objectivity, and co-evolution.”
+- Evolution and engineering are not distinct processes; hybrid approaches might be the key to constructing genuinely intelligent AI systems.

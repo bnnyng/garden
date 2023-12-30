@@ -5,8 +5,10 @@ tags:
   - topic-complexity
 publish: "true"
 date: 2023-12-28
-lastmod: 2023-12-28T18:02:59-08:00
+lastmod: 2023-12-29T20:14:59-08:00
 ---
-In complexity science, linear systems are systems that can be understood as a whole by understanding the individual parts. The opposite of linear systems is [[Complex systems have nontrivial emergent and self-organizing behaviors|complex systems]], which exhibit emergent macroscopic behaviors due to nonlinear dynamics between individual agents.
+In complexity science, linear systems are systems that can be understood as a whole by understanding the individual parts. The opposite of linear systems is [[Complex systems have nontrivial emergent and self-organizing behaviors|complex systems]], which exhibit emergent macroscopic behaviors due to [[Components of a complex system interact nonlinearly|nonlinear]] dynamics between individual agents.
 
-Linearity is axiomatically defined in [[§ Linear algebra]] via [[Axioms for fields and vector spaces]].
+One example of linear interaction is temperature, which is an average over the activity of gas molecules. Here, the average is meaningful because of limited interaction between individual variables.
+
+Linearity is axiomatically defined in [[§ Linear algebra]] via [[Axioms for fields and vector spaces]]: linear transformations respect addition and scaling.

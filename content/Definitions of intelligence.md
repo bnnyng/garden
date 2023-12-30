@@ -4,7 +4,7 @@ tags:
   - permanent-note
   - topic-cognitive-science
 publish: "true"
-lastmod: 2023-12-28T20:53:57-08:00
+lastmod: 2023-12-29T21:16:49-08:00
 date: 2023-12-26
 ---
 
@@ -18,6 +18,9 @@ date: 2023-12-26
 	- Intelligence is the capacity to “know what to do when you don’t know what to do”; that is, intelligent agents can reason about the best solution to a particular problem, even if they cannot implement the particular competence needed.
 	- Conversely, less intelligent systems may exhibit “competence without comprehension”
 	- [[Intelligence is the capacity to choose between different available heuristics, after Dennett]]
+- Mirta Galesic (Santa Fe Institute)
+	- Intelligence is a fit between a cognitive system and its environment.
+	- Similar to Dennett, general intelligence is a kind of meta-cognition where an agent models a problem well and selects an appropriate cognitive tool for solving it.
 - David Krakauer (Santa Fe Institute)
 	- [[Intelligence is a “learned incomprehension” that comes from acquisition of expertise, after J. Krakauer]]
 	- A system can be intelligent when it demonstrates domain-specific competence.
