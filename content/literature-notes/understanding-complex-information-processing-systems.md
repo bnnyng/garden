@@ -8,6 +8,8 @@ tags:
   - literature-note
 publish: "true"
 title: Paper | Understanding complex information-processing systems
+date: 2022-10-01
+lastmod: 2023-12-29T19:12:30-08:00
 ---
 # Key terms
 

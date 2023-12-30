@@ -3,6 +3,8 @@ lit-author: "[[Mitchell, Melanie]]"
 aliases: 
 tags:
   - literature-note
+date: 2023-12-27
+lastmod: 2023-12-29T19:11:28-08:00
 ---
 # Summary
 

@@ -7,6 +7,8 @@ tags:
   - literature-note
 title: Book | Phaedo
 publish: "true"
+date: 2022-11-01
+lastmod: 2023-12-29T19:12:05-08:00
 ---
 # Summary
 

@@ -6,6 +6,8 @@ tags:
   - literature-note
 publish: "true"
 title: Paper | What is cognitive science?
+date: 2022-10-01
+lastmod: 2023-12-29T19:12:37-08:00
 ---
 # Summary
 

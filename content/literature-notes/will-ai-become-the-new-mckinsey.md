@@ -1,9 +1,11 @@
 ---
 lit-author: 
 aliases:
-  - '"Will AI Become the New McKinsey?"'
+  - Will AI become the new McKinsey?
 tags:
   - literature-note
+date: 2023-12-26
+lastmod: 2023-12-29T19:12:58-08:00
 ---
 # Summary
 

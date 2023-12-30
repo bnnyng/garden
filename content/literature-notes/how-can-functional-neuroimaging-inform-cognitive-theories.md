@@ -3,6 +3,8 @@ lit-author:
 aliases: 
 tags:
   - literature-note
+date: 2022-12-01
+lastmod: 2023-12-29T19:10:59-08:00
 ---
 # Summary
 

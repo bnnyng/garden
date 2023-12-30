@@ -6,7 +6,9 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
-lastmod: 2023-12-29T18:28:47-08:00
+date: 2023-12-24
+lastmod: 2023-12-29T19:13:48-08:00
+publish: "true"
 ---
 # Overview
 

@@ -6,6 +6,8 @@ tags:
   - literature-note
 title: Article | The Economics of Thinness
 publish: "true"
+date: 2023-12-26
+lastmod: 2023-12-29T19:09:37-08:00
 ---
 # Summary
 

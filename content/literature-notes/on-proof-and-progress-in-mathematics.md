@@ -5,6 +5,8 @@ aliases:
   - (Thurston, 1994)
 tags:
   - literature-note
+date: 2022-09-15
+lastmod: 2023-12-29T19:11:50-08:00
 ---
 # Summary
 

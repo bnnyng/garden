@@ -7,8 +7,10 @@ tags:
   - permanent-note
   - topic-cognitive-science
 publish: "true"
+date: 2022-12-01
+lastmod: 2023-12-29T19:15:02-08:00
 ---
-Declarative, or explicit, memory involves facts and events that can be consciously retrieved and reported:
+Declarative, or [[Squire's taxonomy of long-term memory|explicit]], memory involves facts and events that can be consciously retrieved and reported:
 - [[Episodic memory stores knowledge of the world as an autobiographical representation]]
 
 Non-declarative, or implicit, memory involves facts and associations which are retrieved through performance:

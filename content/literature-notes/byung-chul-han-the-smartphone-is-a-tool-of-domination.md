@@ -6,7 +6,8 @@ tags:
   - literature-note
 title: "Article | Byung-Chul Han: The Smartphone Is a Tool of Domination"
 publish: "true"
-lastmod: 2023-12-29T14:24:10-08:00
+lastmod: 2023-12-29T19:10:27-08:00
+date: 2023-12-26
 ---
 # Summary
 

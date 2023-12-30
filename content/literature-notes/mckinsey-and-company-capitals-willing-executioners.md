@@ -4,6 +4,8 @@ aliases:
   - "\"Mckinsey & Company: Capital's Willing Executioners\""
 tags:
   - literature-note
+date: 2023-12-24
+lastmod: 2023-12-29T19:11:41-08:00
 ---
 # Summary
 

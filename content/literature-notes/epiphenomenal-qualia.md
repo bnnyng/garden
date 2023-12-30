@@ -7,6 +7,8 @@ tags:
   - literature-note
 title: Essay | Epiphenomenal Qualia
 publish: "true"
+date: 2022-12-21
+lastmod: 2023-12-29T19:10:44-08:00
 ---
 # Summary
 
