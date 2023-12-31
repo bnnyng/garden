@@ -3,14 +3,13 @@ lit-author: "[[Botvinick, Matthew]]"
 aliases:
   - Reinforcement learning fast and slow
   - Botvinick et al. (2019)
+  - Botvinick et al., 2019
 tags:
   - literature-note
 date: 2022-12-01
-lastmod: 2023-12-29T19:12:11-08:00
+lastmod: 2023-12-31T11:16:23-08:00
 ---
 # Summary
-
-[[2019-botvinick-reinforcement-learning]]
 
 Episodic reinforcement learning and meta-reinforcement learning are two methods of enabling fast deep reinforcement learning. Episodic RL resolves slowness due to incremental parameter adjustment, and meta-RL resolves slowness due to weak inductive bias.
 

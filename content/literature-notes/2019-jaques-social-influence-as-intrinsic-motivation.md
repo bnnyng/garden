@@ -9,16 +9,16 @@ tags:
 title: Paper | Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning
 publish: "true"
 date: 2023-12-28 18:40
-lastmod: 2023-12-29T20:04:04-08:00
+lastmod: 2023-12-31T11:15:08-08:00
 ---
 # Takeaways
+
+[Source](https://arxiv.org/abs/1810.08647) 
 
 - Intrinsic social influence reward consistently leads to higher collective return in SSD games.
 - Influence rewards can lead to the emergence of both explicit and implicit communication protocols.
 - Influence can be computed by augmenting agents with an internal model of other agents (i.e., without knowing the other agents’ reward functions).
 - The authors suggest that influence is essential to achieving any form of learning.
-
-[Source](https://arxiv.org/abs/1810.08647) 
 
 ---
 # Key terms
@@ -31,7 +31,7 @@ lastmod: 2023-12-29T20:04:04-08:00
 # Notes
 
 ## Introduction
-- [[Intrinsically motivated reinforcement learning|Intrinsic motivation for reinforcement learning]] allows agents to learn skills that are useful across a variety of tasks and environments, sometimes without an environmental reward ([[intrinsically-motivated-reinforcement-learning|Singh et al., 2004]]).
+- [[Intrinsically motivated reinforcement learning|Intrinsic motivation for reinforcement learning]] allows agents to learn skills that are useful across a variety of tasks and environments, sometimes without an environmental reward ([[2004-singh-intrinsically-motivated-reinforcement-learning|Singh et al., 2004]]).
 - The authors explore the role of intrinsic *social* motivation by giving agents (in a MARL setting) an intrinsic reward for having a causal influence on other agents’ actions.
 
 ## Sequential social dilemmas

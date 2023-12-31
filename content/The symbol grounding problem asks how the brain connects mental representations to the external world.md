@@ -15,7 +15,7 @@ There are two ways to frame the symbol grounding problem: mental content externa
 
 The “mental content externalism” perspective is that the relationships between physical and semantic components in the cognitive [[Information-processing systems are understood at knowledge, algorithm, and physical implementation levels|levels of explanation]] are arbitrary; brain and body characteristics may constrain what actions are performed, but there is nothing deterministic in the relationship between physical characteristics and mental [[Representation is describing some aspect of reality with a useful symbol|representations]]. Rather, the relationships are determined by the agent’s [[Embodied cognition|situatedness]]. Thus, [[Embodied cognition]] presents an answer to the symbol grounding problem.
 
-From [[embodied-situated-and-grounded-intelligence]]:
+From [[2022-sfi-embodied-situated-and-grounded-intelligence]]:
 >On this view, nothing in the brain is sufficient to fix the meaning of a mental symbol. While the brain constrains meaning, the history and environment of an animal \[are] also necessary to fix the meaning of its mental symbols.
 
 >Analogously, the physical properties of one part of a mechanism (e.g., a gear) are not sufficient to fix its function within the mechanism. These properties constrain the functions it might perform, but the part doesn’t have any determinate function outside the context of a specific mechanism, since many mechanisms use the same parts for different purposes.

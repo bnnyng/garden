@@ -16,4 +16,4 @@ The monkeys in Harlow’s experiment are [[Meta-learning is the process of learn
 ---
 # References
 
-[[reinforcement-learning-fast-and-slow]]
+[[2019-botvinick-reinforcement-learning-fast-and-slow]]

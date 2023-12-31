@@ -12,6 +12,6 @@ As an example of “learned incomprehension,” professional athletes are able t
 ---
 # References 
 
-[[foundations-of-intelligence-in-natural-and-artificial-systems]]
+[[2021-sfi-foundations-of-intelligence]]
 
 

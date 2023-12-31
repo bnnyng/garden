@@ -8,11 +8,11 @@ tags:
 publish: "true"
 title: Paper | An embodied cognitive science
 date: 2023-12-26
-lastmod: 2023-12-29T19:10:03-08:00
+lastmod: 2023-12-31T11:07:47-08:00
 ---
 # Summary
 
-[[1999-clark-an-embodied-cognitive-science]]
+[[RAW-20221114-an-embodied-cognitive-science|Highlights]]
 
 The author describes the difference between two different approaches to facts about embodiment, which involves the physical relationship between an intelligent system and bodily and environmental properties. In “simple” embodiment, properties of the physical world provide rules to constrain cognitive science theories. “Radical” embodiment sees the representational theories of cognition as inadequate, and seeks to develop a new framework for cognitive science.
 

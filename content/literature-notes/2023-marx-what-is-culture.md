@@ -6,13 +6,13 @@ tags:
 publish: "true"
 title: Article | What is Culture?
 date: 2023-12-27
-lastmod: 2023-12-29T19:12:43-08:00
+lastmod: 2023-12-31T11:21:04-08:00
 ---
 # Summary
 
-[[2023-marx-what-is-culture-part-3-arbitrariness]]
+[Source](https://culture.ghost.io/wic3/) – [[RAW-20231223-what-is-culture-part-3-arbitrariness|Highlights]] – *by W. David Marx*
 
-In this essay, W. David Marx argues that culture is the collection of arbitrary human behaviors, meaning practices where any number of alternatives could serve the same purpose. 
+In this essay, Marx argues that culture is the collection of arbitrary human behaviors, meaning practices where any number of alternatives could serve the same purpose. 
 
 ---
 # Key terms

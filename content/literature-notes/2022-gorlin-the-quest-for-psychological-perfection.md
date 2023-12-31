@@ -7,13 +7,14 @@ tags:
 title: Article | The quest for psychological perfection
 publish: "true"
 date: 2023-12-29 14:02
-lastmod: 2023-12-29T14:37:31-08:00
+lastmod: 2023-12-31T11:19:00-08:00
 ---
 # Summary
 
-In this article, psychologist Gena Gorlin argues that, in contrast with mainstream therapeutic approaches, psychological perfection should be a goal of individuals and therapy. Gorlin’s definition of perfection is separate from the “neurotic perfectionism” that her colleagues decry; she view perfection as the Aristotelean aspiration towards excellence by maximizing our human capabilities. Part of perfecting oneself is adopting the traits of a [[The builder’s mindset|builder]] when pursuing one’s goals.
+[Source](https://builders.genagorlin.com/p/the-quest-for-psychological-perfection?sd=pf) – [[RAW-20220808-the-quest-for-psychological-perfection|Highlights]] – *by Gena Gorlin*
 
-[Source](https://builders.genagorlin.com/p/the-quest-for-psychological-perfection?sd=pf) – [[2022-gorlin-the-quest-for-psychological-perfection|Highlights]]
+In this article, Gorlin, a psychologist, argues that, in contrast with mainstream therapeutic approaches, psychological perfection should be a goal of individuals and therapy. Gorlin’s definition of perfection is separate from the “neurotic perfectionism” that her colleagues decry; she view perfection as the Aristotelean aspiration towards excellence by maximizing our human capabilities. Part of perfecting oneself is adopting the traits of a [[The builder’s mindset|builder]] when pursuing one’s goals.
+
 
 ---
 # Takeaways

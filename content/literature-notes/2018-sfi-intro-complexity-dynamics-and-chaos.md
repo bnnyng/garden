@@ -4,11 +4,11 @@ aliases:
 tags:
   - literature-note
 date: 2023-12-27
-lastmod: 2023-12-29T19:11:22-08:00
+lastmod: 2023-12-31T11:12:16-08:00
 ---
 # Summary
 
-[[2018-santa-fe-institute-introduction-to-complexity]]
+[[RAW-20231221-introduction-to-complexity|Highlights]]
 
 ---
 # Key terms

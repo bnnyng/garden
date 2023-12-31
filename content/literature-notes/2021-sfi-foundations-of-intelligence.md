@@ -5,13 +5,13 @@ aliases:
 tags:
   - literature-note
 title: Workshop Report | Foundations of Intelligence in Natural and Artificial Systems
-lastmod: 2023-12-29T21:24:02-08:00
+lastmod: 2023-12-31T11:10:06-08:00
 date: 2023-12-26
 publish: "true"
 ---
 # Summary
 
-[Source](https://arxiv.org/abs/2105.02198) – [[2021-santa-fe-institute-foundations-of-intelligence|Highlights]]
+[Source](https://arxiv.org/abs/2105.02198) – [[RAW-20231226-foundations-of-intelligence|Highlights]]
 
 >[!abstract]
 >In March of 2021, the Santa Fe Institute hosted a workshop as part of its Foundations of Intelligence in Natural and Artificial Systems project. This project seeks to advance the field of artificial intelligence by promoting interdisciplinary research on the nature of intelligence. During the workshop, speakers from diverse disciplines gathered to develop a taxonomy of intelligence, articulating their own understanding of intelligence and how their research has furthered that understanding. In this report, we summarize the insights offered by each speaker and identify the themes that emerged during the talks and subsequent discussions.

@@ -5,7 +5,8 @@ aliases:
 tags:
   - literature-note
 date: 2023-12-28
-lastmod: 2023-12-29T19:11:36-08:00
+lastmod: 2023-12-31T11:13:19-08:00
+title: Book | Swann's Way
 ---
 # Summary
 

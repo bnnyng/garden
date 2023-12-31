@@ -4,7 +4,7 @@ tags:
 lastmod: 2023-12-29T15:11:15-08:00
 ---
 Source: https://www.youtube.com/watch?v=g6RGTiWdb14 (2020)
-About [[social-influence-as-intrinsic-motivation]]
+About [[2019-jaques-social-influence-as-intrinsic-motivation]]
 
 ## Introduction
 

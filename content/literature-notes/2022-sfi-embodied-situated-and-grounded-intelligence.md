@@ -6,12 +6,12 @@ tags:
   - literature-note
 title: "Workshop Report | Embodied, Situated, and Grounded Intelligence: Implications for AI"
 date: 2023-12-27
-lastmod: 2023-12-30T15:03:06-08:00
+lastmod: 2023-12-31T11:08:44-08:00
 publish: "true"
 ---
 # Summary
 
-[Source](https://arxiv.org/abs/2210.13589) – [[2022-santa-fe-institute-embodied-situated-and-grounded-intelligence|Highlights]]
+[Source](https://arxiv.org/abs/2210.13589) – [[RAW-20231224-embodied-situated-and-grounded-intelligence|Highlights]] – *Santa Fe Institute*
 
 >[!abstract]
 >In April of 2022, the Santa Fe Institute hosted a workshop on embodied, situated, and grounded intelligence as part of the Institute's Foundations of Intelligence project. The workshop brought together computer scientists, psychologists, philosophers, social scientists, and others to discuss the science of embodiment and related issues in human intelligence, and its implications for building robust, human-level AI. In this report, we summarize each of the talks and the subsequent discussions. We also draw out a number of key themes and identify important frontiers for future research.

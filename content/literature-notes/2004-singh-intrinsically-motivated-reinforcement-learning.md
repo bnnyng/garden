@@ -8,11 +8,11 @@ tags:
 title: Paper | Intrinsically Motivated Reinforcement Learning
 publish: "true"
 date: 2023-12-29 17:41
-lastmod: 2023-12-30T15:03:06-08:00
+lastmod: 2023-12-31T11:11:09-08:00
 ---
 # Summary
 
-[Source](https://www.cs.cornell.edu/~helou/IMRL.pdf) – [[2004-intrinsically-motivated-reinforcement-learning|Highlights]]
+[Source](https://www.cs.cornell.edu/~helou/IMRL.pdf) – [[RAW-20231229-intrinsically-motivated-reinforcement-learning|Highlights]]
 
 >[!abstract]
 >Psychologists call behavior intrinsically motivated when it is engaged in for its own sake rather than as a step toward solving a specific problem of clear practical value. But what we learn during intrinsically motivated behavior is essential for our development as competent autonomous entities able to efficiently solve a wide range of practical problems as they arise. In this paper we present initial results from a computational study of intrinsically motivated reinforcement learning aimed at allowing artificial agents to construct and extend hierarchies of reusable skills that are needed for competent autonomy.

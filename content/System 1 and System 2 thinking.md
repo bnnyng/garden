@@ -24,5 +24,5 @@ AI agents are excellent at System 1-style tasks. This suggests that implementing
 ---
 # References
 
-[[foundations-of-intelligence-in-natural-and-artificial-systems]]
-[[embodied-situated-and-grounded-intelligence]]
+[[2021-sfi-foundations-of-intelligence]]
+[[2022-sfi-embodied-situated-and-grounded-intelligence]]

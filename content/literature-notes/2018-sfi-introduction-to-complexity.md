@@ -4,11 +4,11 @@ aliases:
 tags:
   - literature-note
 date: 2023-12-27
-lastmod: 2023-12-29T19:11:28-08:00
+lastmod: 2023-12-31T11:11:59-08:00
 ---
 # Summary
 
-[[2018-santa-fe-institute-introduction-to-complexity]]
+[[RAW-20231221-introduction-to-complexity|Highlights]]
 
 Broadly, complex systems are self-organized systems of relatively simple components that demonstrate nonlinear interactions and interdependence. Complex systems have certain emergent properties, which can only be understood at the global or system level. Emergent properties may include hierarchical organization, global information processing, dynamics which cannot be encapsulated by simple equations, and the ability to adapt to changes in the environment.
 

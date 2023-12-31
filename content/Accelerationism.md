@@ -6,7 +6,7 @@ tags:
 ---
 In general, left wing accelerationists argue that conditions must be made worse before they improve.
 
-From [[will-ai-become-the-new-mckinsey]]:
+From [[literature-notes/2023-chiang-will-ai-become-the-new-mckinsey]]:
 
 >[!quote]
 >Accelerationism says that it’s futile to try to oppose or reform capitalism; instead, we have to exacerbate capitalism’s worst tendencies until the entire system breaks down. The only way to move beyond capitalism is to stomp on the gas pedal of neoliberalism until the engine explodes.

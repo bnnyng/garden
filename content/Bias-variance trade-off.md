@@ -10,4 +10,4 @@ The bias-variance trade-off is the notion that for a given learning procedure, t
 
 As a corollary, a learning procedure with weak inductive bias will achieve greater variance in the patterns it masters, but will be less sample-efficient with data.
 
-#wip Neural networks are extremely low-bias learning systems, according to [[reinforcement-learning-fast-and-slow|Botvinick et al. (2019)]].
+#wip Neural networks are extremely low-bias learning systems, according to [[2019-botvinick-reinforcement-learning-fast-and-slow|Botvinick et al. (2019)]].

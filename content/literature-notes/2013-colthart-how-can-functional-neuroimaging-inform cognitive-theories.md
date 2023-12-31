@@ -4,11 +4,9 @@ aliases:
 tags:
   - literature-note
 date: 2022-12-01
-lastmod: 2023-12-29T19:10:59-08:00
+lastmod: 2023-12-31T11:10:36-08:00
 ---
 # Summary
-
-[[2013-colthart-how-can-functional-neuroimaging-inform cognitive-theories]]
 
 Research involving functional neuroimaging of cognitive processes usually has one of two goals: localization of cognitive processes in specific brain anatomy, or testing cognitive theories using neuroimaging data. Localization research is formed by cognitive theories. Testing research must embellish theories in order to make predictions about results, in particular avoiding the consistency fallacy.
 

@@ -9,13 +9,13 @@ tags:
 title: Book | The Burnout Society
 publish: "true"
 date: 2023-01-06
-lastmod: 2023-12-29T13:20:41-08:00
+lastmod: 2023-12-31T11:16:43-08:00
 ---
 # Summary
 
-[[2010-han-the-burnout-society]]
+[[RAW-20230105-the-burnout-society|Highlights]] – *by [[Han, Byung-Chul|Byung-Chul Han]]*
 
-In this collection of essays, [[Han, Byung-Chul|Byung-Chul Han]] develops the idea of our modern society as an “achievement society.” In contrast to the “disciplinary society” of the previous century, today’s world is driven by positivity and exhaustion. This is problematic for human culture because creative generation is only possible with profound boredom, whereas achievement-subjects are forced into hyperattention due to saturation of information. Han sees the fragmentation of multitasking as a regression to animalistic survival techniques, rather than a demonstration of advanced rationality.
+In this collection of essays, Han develops the idea of our modern society as an “achievement society.” In contrast to the “disciplinary society” of the previous century, today’s world is driven by positivity and exhaustion. This is problematic for human culture because creative generation is only possible with profound boredom, whereas achievement-subjects are forced into hyperattention due to saturation of information. Han sees the fragmentation of multitasking as a regression to animalistic survival techniques, rather than a demonstration of advanced rationality.
 
 ---
 # Key terms

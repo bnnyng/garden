@@ -15,4 +15,4 @@ However, Dennett does not believe such self-monitoring should be implemented in 
 ---
 # References
 
-[[foundations-of-intelligence-in-natural-and-artificial-systems]]
+[[2021-sfi-foundations-of-intelligence]]

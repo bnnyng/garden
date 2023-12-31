@@ -44,4 +44,4 @@ date: 2023-12-26
 ---
 # References
 
-[[foundations-of-intelligence-in-natural-and-artificial-systems]]
+[[2021-sfi-foundations-of-intelligence]]

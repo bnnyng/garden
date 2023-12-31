@@ -6,14 +6,16 @@ tags:
   - literature-note
 title: "Article | Byung-Chul Han: The Smartphone Is a Tool of Domination"
 publish: "true"
-lastmod: 2023-12-29T19:10:27-08:00
+lastmod: 2023-12-31T11:08:19-08:00
 date: 2023-12-26
 ---
 # Summary
 
+[Source](https://english.elpais.com/usa/2021-10-15/byung-chul-han-the-smartphone-is-a-tool-of-domination-it-acts-like-a-rosary.html) – [[RAW-20231225-the-smartphone-is-a-tool-of-domination|Highlights]]
+
 In this interview, philosopher [[Han, Byung-Chul|Byung-Chul Han]] discusses how, under our present neoliberal regime, “digital domination” is achieved using smartphones. Smartphones inspire a religious-like fervor, their omnipresence disconnection us from present reality constantly. Han believes rituals are key to happy life, but the deluge of information we experience today scatters and fragments our behavior into extreme forms, like hyperconsumption. 
 
-[Source](https://english.elpais.com/usa/2021-10-15/byung-chul-han-the-smartphone-is-a-tool-of-domination-it-acts-like-a-rosary.html) – [[2021-han-smartphone-is-a-tool-of-domination|Highlights]]
+
 
 ---
 # Notes

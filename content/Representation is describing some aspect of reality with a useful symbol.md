@@ -15,5 +15,5 @@ Whether representations have some relationship with [[§ Intelligence]] is an on
 ---
 # References
 
-[[understanding-complex-information-processing-systems]]
-[[an-embodied-cognitive-science]]
+[[literature-notes/1982-marr-understanding-complex-information-processing-systems]]
+[[literature-notes/1999-clark-an-embodied-cognitive-science]]

@@ -13,5 +13,5 @@ In the traditional model of cognition, information processing is linear: the bra
 ---
 # References
 
-[[an-embodied-cognitive-science]]
+[[literature-notes/1999-clark-an-embodied-cognitive-science]]
 

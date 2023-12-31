@@ -7,11 +7,9 @@ tags:
 publish: "true"
 title: Paper | What is cognitive science?
 date: 2022-10-01
-lastmod: 2023-12-29T19:12:37-08:00
+lastmod: 2023-12-31T11:20:01-08:00
 ---
 # Summary
-
-[[1995-stillings-what-is-cognitive-science]]
 
 Information processes are formal, goal-oriented operations with symbols related to information in the world. Understanding information processes requires analysis at the knowledge, formal, and physical levels.
 

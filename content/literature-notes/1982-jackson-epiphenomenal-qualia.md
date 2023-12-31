@@ -8,11 +8,11 @@ tags:
 title: Essay | Epiphenomenal Qualia
 publish: "true"
 date: 2022-12-21
-lastmod: 2023-12-29T19:10:44-08:00
+lastmod: 2023-12-31T11:07:58-08:00
 ---
 # Summary
 
-[[1982-jackson-epiphenomenal-qualia]]
+[[RAW-20221102-epiphenomenal-qualia|Highlights]]
 
 In "Epiphenomenal Qualia," philosopher Frank Jackson argues that consciousness is not physical and does not necessarily have physical effects. 
 

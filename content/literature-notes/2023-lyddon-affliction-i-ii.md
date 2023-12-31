@@ -8,15 +8,15 @@ tags:
 title: Essay | Affliction I & II
 publish: "true"
 date: 2023-12-29 12:11
-lastmod: 2023-12-29T14:25:44-08:00
+lastmod: 2023-12-31T11:09:43-08:00
 ---
 # Summary
+
+[Affliction](https://roselyddon.substack.com/p/affliction) – [Affliction II](https://roselyddon.substack.com/p/affliction-ii) – [[RAW-20231228-affliction-i-ii|Highlights]] – *by Rose Lyddon*
 
 In the essays “Affliction” and “Affliction II,” Lyddon, a religion graduate student, discusses [[Weil, Simone|Simone Weil’s]] philosophy of affliction. For Weil, affliction carries the risk of dehumanization, the highest risk, but affliction is also one’s only hope of achieving grace and growing in moral character. 
 
 In “Affliction II,” Lyddon discusses Weil’s personal history and uniquely experiential method for her ideas about risk. Lyddon then reflects on risk and coercion in the modern day, arguing that the goal of safety and production has led to the “instrumentalization” of individuals.
-
-[Affliction](https://roselyddon.substack.com/p/affliction) – [Affliction II](https://roselyddon.substack.com/p/affliction-ii) – [[2023-lyddon-affliction-i-ii|Highlights]]
 
 ---
 # Notes
@@ -41,7 +41,7 @@ In “Affliction II,” Lyddon discusses Weil’s personal history and uniquely 
 >The great enigma of human life is not suffering but affliction. It is not surprising that the innocent are killed, tortured, driven from their country, made destitute, or reduced to slavery, imprisoned in camps and cells… But it is surprising that God should have given affliction the power to seize the very souls of the innocent and to take possession of them as their sovereign lord. — [[Weil, Simone|Simone Weil]]
 
 - People’s reactions to affliction come from humans’ “carnal nature”; this shared nature with animals is why we attack weakness.
-	- What else leads people to animalic behavior in the present day? According to [[the-burnout-society|Han (2010)]], it’s [[Against multitasking|multitasking]].
+	- What else leads people to animalic behavior in the present day? According to [[2010-han-the-burnout-society|Han (2010)]], it’s [[Against multitasking|multitasking]].
 
 >[!quote]
 >Affliction removes the disguise of reason and reveals the lowest and most animal parts of our nature, for both the afflicted and the unafflicted.
@@ -66,7 +66,7 @@ In “Affliction II,” Lyddon discusses Weil’s personal history and uniquely 
 >”It is the Trojan lad dispatched to Hades, though he does not wish to go, who comes to mind when Christ says to Peter: “Another shall gird thee and carry thee whither thou wouldst not.” This accent cannot be separated from the idea that inspired the Gospels, for the sense of human misery is a pre-condition of justice and love.” — [[Weil, Simone|Simone Weil]]
 
 - Lyddon comments that modernity’s “cult of progress” and “belief in the freedom of the individual to change his own life” leads to affliction.
-	- Such affliction is a direct consequence of our conditions, the neoliberal regime; echoes criticisms made by Han in [[the-burnout-society]]?
+	- Such affliction is a direct consequence of our conditions, the neoliberal regime; echoes criticisms made by Han in [[2010-han-the-burnout-society]]?
 	- Can we engineer a world without affliction? Or will safety always lead to an “aesthetic of despair”? Is there such a thing as compromise, or will there always be dehumanizing affliction (although in Weil’s cosmology, this is not a net issue, as affliction gives rise to transcendental grace)?
 
 ## Affliction II

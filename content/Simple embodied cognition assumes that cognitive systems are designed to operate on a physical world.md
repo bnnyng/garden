@@ -13,4 +13,4 @@ Simple embodiment is an approach to cognitive science that treats facts about em
 # References
 
 [[20221221-robotics-and-embodied-cognition]]
-[[an-embodied-cognitive-science]]
+[[literature-notes/1999-clark-an-embodied-cognitive-science]]

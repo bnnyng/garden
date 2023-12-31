@@ -2,7 +2,7 @@
 tags:
   - fleeting-note
   - career/application
-lastmod: 2023-12-30T15:57:59-08:00
+lastmod: 2023-12-31T11:14:49-08:00
 ---
 # Overview
 
@@ -121,8 +121,8 @@ lastmod: 2023-12-30T15:57:59-08:00
 
 >Although the field of AI is currently dominated by the pre-programming paradigm, where the robot is instructed to perform specific behaviors, we believe the notion of embodiment can help us evolve truly intelligent artificial systems.
 
-- Related to my fascination with [[an-embodied-cognitive-science]]!
-- Interestingly, reminds me of [[on-proof-and-progress-in-mathematics]]; indeed, the four-color graph thing is referenced in the [“Limits” theme page](https://santafe.edu/research/themes/limits)
+- Related to my fascination with [[literature-notes/1999-clark-an-embodied-cognitive-science]]!
+- Interestingly, reminds me of [[1994-thurston-on-proof-and-progress-in-mathematics]]; indeed, the four-color graph thing is referenced in the [“Limits” theme page](https://santafe.edu/research/themes/limits)
 	- Can we consider computational tools to be a part of our cognition? Intuitively, people reject this. So for body and environment to feel integrated into cognition, we still need to have a sort of conscious understanding at the knowledge level.
 ## [Past projects](https://www.santafe.edu/engage/learn/projects)
 

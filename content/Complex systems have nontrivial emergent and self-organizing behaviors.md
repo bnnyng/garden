@@ -14,5 +14,5 @@ There are two properties that characterize all complex systems:
 
 ---
 # References
-[[complexity-a-guided-tour]]
-[[intro-complexity-what-is-complexity]]
+[[2009-mitchell-complexity-a-guided-tour]]
+[[2018-sfi-introduction-to-complexity]]

@@ -5,11 +5,11 @@ aliases:
 tags:
   - literature-note
 date: 2023-12-26
-lastmod: 2023-12-30T10:13:34-08:00
+lastmod: 2023-12-31T11:09:26-08:00
 ---
 # Summary
 
-[[2023-le-cunff-building-an-antilibrary]]
+[Source](https://nesslabs.com/antilibrary) – [[RAW-20231217-building-an-antilibrary|Highlights]]
 
 An antilibrary is a curated collection of resources, including unread resources. Anti-libraries give a literal representation of knowledge one has yet to explore.
 

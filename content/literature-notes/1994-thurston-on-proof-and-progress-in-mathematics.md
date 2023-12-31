@@ -6,11 +6,11 @@ aliases:
 tags:
   - literature-note
 date: 2022-09-15
-lastmod: 2023-12-29T19:11:50-08:00
+lastmod: 2023-12-31T11:17:38-08:00
 ---
 # Summary
 
-[[1994-thurston-on-proof-and-progress-in-mathematics]]
+[[RAW-20221108-on-proof-and-progress-in-mathematics|Highlights]] – *by William Thurston*
 
 Mathematics is defined recursively: one primary goal of mathemathicians is to advance human understanding of mathematical subjects, and communicate it effectively.
 

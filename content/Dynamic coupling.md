@@ -14,4 +14,4 @@ The dynamic coupling model of cognition contrasts with the [[Representation-hung
 # References
 
 [[20221221-robotics-and-embodied-cognition]]
-[[an-embodied-cognitive-science]]
+[[literature-notes/1999-clark-an-embodied-cognitive-science]]

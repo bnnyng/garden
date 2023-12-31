@@ -17,5 +17,5 @@ Examples of emergent properties include hierarchies, collective information proc
 ---
 # References
 
-[[complexity-a-guided-tour]]
-[[intro-complexity-what-is-complexity]]
+[[2009-mitchell-complexity-a-guided-tour]]
+[[2018-sfi-introduction-to-complexity]]

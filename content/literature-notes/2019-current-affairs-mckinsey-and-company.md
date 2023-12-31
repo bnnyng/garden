@@ -5,11 +5,11 @@ aliases:
 tags:
   - literature-note
 date: 2023-12-24
-lastmod: 2023-12-29T19:11:41-08:00
+lastmod: 2023-12-31T11:13:44-08:00
 ---
 # Summary
 
-[[2019-current-affairs-mckinsey-and-company]]
+[Source](https://www.currentaffairs.org/2019/02/mckinsey-company-capitals-willing-executioners#) – [[RAW-20231219-mckinsey-and-company|Highlights]]
 
 The author is an anonymous former employee of McKinsey & Company, the most prominent of the “Big Three” consulting firms. The author claims that McKinsey is “capitalism’s most effective messenger” and thus determined capital’s impact on the world.
 

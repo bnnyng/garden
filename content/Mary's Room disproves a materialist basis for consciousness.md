@@ -12,7 +12,7 @@ The argument against a physical explanation for consciousness is as follows:
 2. Mary learns a new fact about consciousness when she leaves the black-and-white room: what it is like to see red.
 3. Hence, facts about consciousness are not included in the physical facts about the brain.
 
-[[epiphenomenal-qualia|Jackson (1982)]] uses this to conclude that physical information is not all the information in the world. Rather, the physicalist scheme leaves out [[Qualia are individual instances of subjective, conscious experience arising from perceptions|qualia]].
+[[1982-jackson-epiphenomenal-qualia|Jackson (1982)]] uses this to conclude that physical information is not all the information in the world. Rather, the physicalist scheme leaves out [[Qualia are individual instances of subjective, conscious experience arising from perceptions|qualia]].
 
 Objections to Jackson’s argument include:
 - Mary is not learning anything new.

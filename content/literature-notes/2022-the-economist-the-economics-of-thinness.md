@@ -7,11 +7,11 @@ tags:
 title: Article | The Economics of Thinness
 publish: "true"
 date: 2023-12-26
-lastmod: 2023-12-29T19:09:37-08:00
+lastmod: 2023-12-31T11:18:07-08:00
 ---
 # Summary
 
-[[2022-the-economist-the-economics-of-thinness]]
+[[RAW-20231229-the-economics-of-thinness|Highlights]] – *The Economist*
 
 > [!quote]
 > It is economically rational for ambitious women to try as hard as possible to be thin.

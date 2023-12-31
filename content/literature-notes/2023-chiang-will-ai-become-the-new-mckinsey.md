@@ -5,9 +5,11 @@ aliases:
 tags:
   - literature-note
 date: 2023-12-26
-lastmod: 2023-12-29T19:12:58-08:00
+lastmod: 2023-12-31T11:09:07-08:00
 ---
 # Summary
+
+ [Source](https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey) – [[RAW-20231229-will-ai-become-the-new-mckinsey|Highlights]] – *by Ted Chiang*
 
 Chiang argues that the primary risk of AI is its “execution” and strengthening of capitalism. He begins with an analogy between AI and management consulting firms like McKinsey, which are used by corporations to accrue wealth at the expense of human consumers and workers. 
 
@@ -25,7 +27,7 @@ Chiang cites addressing wealth inequality and “taming capitalism” as work th
 	- Machine learning helps draw users to social media; McKinsey helped Purdue Pharma escalate sales of OxyContin during the opioid epidemic. In both cases, the agent helps corporations sell products and services at the detriment of consumers.
 	- AI is a cheap replacement for human workers; McKinsey helped normalize mass layoffs to increase stock prices and executive compensation. In both cases, the agent causes economic disruption; McKinsey “contributed to the destruction of the middle class in America.”
 - Chiang focuses on the “execution” role of management consultancies like McKinsey. The main benefit of such consultancies is removing blame from the client.
-	- This doesn’t quite align with the claim in Chiang’s referenced [[mckinsey-and-company-capitals-willing-executioners]], which begins by arguing that McKinsey’s secrecy allows them to also avoid blame. Perhaps things have changed?
+	- This doesn’t quite align with the claim in Chiang’s referenced [[2019-current-affairs-mckinsey-and-company]], which begins by arguing that McKinsey’s secrecy allows them to also avoid blame. Perhaps things have changed?
 	- Similarly, AI allows companies to blame “the algorithm” for any negative effects.
 - To prevent AI from becoming another version of McKinsey, we must also define the term “artificial intelligence” itself.
 	- If AI is a set of technologies that helps companies reduce cost, we risk it parallelling McKinsey’s role as “capital’s willing executioners.”
