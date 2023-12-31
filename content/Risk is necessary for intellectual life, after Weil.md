@@ -5,7 +5,7 @@ tags:
   - topic-philosophy-theory-religion
 publish: "true"
 date: 2023-12-29 13:00
-lastmod: 2023-12-29T13:20:05-08:00
+lastmod: 2023-12-31T12:14:15-08:00
 ---
 According to [[Weil, Simone|Simone Weil]], risk is a necessary part of human life. Without risk, we experience “a type of boredom which paralyzes in a different way from fear, but almost as much.” However, the experience of risk must be balanced between stimulating and fatal.
 

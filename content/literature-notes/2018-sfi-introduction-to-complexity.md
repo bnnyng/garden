@@ -4,7 +4,7 @@ aliases:
 tags:
   - literature-note
 date: 2023-12-27
-lastmod: 2023-12-31T11:11:59-08:00
+lastmod: 2023-12-31T11:32:13-08:00
 ---
 # Summary
 
@@ -15,7 +15,7 @@ Broadly, complex systems are self-organized systems of relatively simple compone
 ---
 # Key terms
 - **Agents** = simple components that compose complex systems.
-- **Emergent** = [[Emergent properties can only be understood at the system level]].
+- **Emergent** = [[Emergent property|Emergent property]].
 	- **Information processing** = when the system collectively gains information about environment and its own state and uses this information, again collectively, to make decisions about what actions to take.
 - **Dynamics** = the study of continually changing structure and behavior of systems.
 - **Information** = the study of representation, symbols, and communication.

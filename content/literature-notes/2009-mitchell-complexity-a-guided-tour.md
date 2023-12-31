@@ -6,7 +6,7 @@ aliases:
 tags:
   - literature-note
 date: 2023-12-28
-lastmod: 2023-12-31T11:01:55-08:00
+lastmod: 2023-12-31T11:40:02-08:00
 ---
 # Summary
 
@@ -19,7 +19,7 @@ lastmod: 2023-12-31T11:01:55-08:00
 
 ### Key terms
 - **Complex system** = [[Complex systems have nontrivial emergent and self-organizing behaviors]]
-	- **Self-organizing** = [[Self-organized behavior arises without an internal or external controller]]
+	- **Self-organizing** =[[Self-organized behavior arises without an internal or external controller]]
 - **Dynamical system** = [[Dynamical systems change over time in some way]]
 - **Mechanics** = the general study of motion; Newton’s work is **classical mechanics**
 	- **Kinematics** = the study of how things move

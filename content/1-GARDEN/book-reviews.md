@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: "true"
 date: 2023-12-30 09:12
-lastmod: 2023-12-31T10:53:16-08:00
+lastmod: 2023-12-31T13:09:57-08:00
 title: Book reviews
 ---
 Standalone reviews for books that do not have [[tags/literature-note|literature notes]].
@@ -13,7 +13,7 @@ Standalone reviews for books that do not have [[tags/literature-note|literature 
 
 Read 2023-12-30 – [Goodreads](https://www.goodreads.com/review/show/6094187241) 
 
-This story is interesting to compare to the "speculative nonfiction" type book I am currently reading, _When We Cease to Understand the World_, though this one leans more toward the speculation. The broad strokes of Atta's life, though, are mostly factual; every part of the "plot" is mentioned on his [Wikipedia page](https://en.wikipedia.org/wiki/Mohamed_Atta).
+This story is interesting to compare to the "speculative nonfiction" type book I am currently reading, *[[2020-labatut-when-we-cease-to-understand-the-world|When We Cease to Understand the World]]*, though this one leans more toward the speculation. The broad strokes of Atta's life, though, are mostly factual; every part of the "plot" is mentioned on his [Wikipedia page](https://en.wikipedia.org/wiki/Mohamed_Atta).
 
 Growing up after 9/11, I can't quite appreciate what cultural niche this book fills. The most obvious point is that Atta's religious fervor is riddled with contradictions, way too many to be worth listing. They are best summarized by Jarrah, an accomplice he hates for his "uncontrollable passion," when he tells Atta:
 

@@ -8,7 +8,7 @@ tags:
 title: Paper | Intrinsically Motivated Reinforcement Learning
 publish: "true"
 date: 2023-12-29 17:41
-lastmod: 2023-12-31T11:11:09-08:00
+lastmod: 2023-12-31T11:38:38-08:00
 ---
 # Summary
 
@@ -22,7 +22,7 @@ Inspired by the role of dopamine as a neurological reward, the authors present a
 ---
 # Key terms
 
-- **Intrinsic motivation** = [[Intrinsically motivated behavior is performed for its own sake]]
+- **Intrinsic motivation** = [[Intrinsically motivated behavior is performed for its own sake]].
 - **Extrinsic motivation** = [[Extrinsically motivated behavior is performed to get a specific rewarding outcome]]
 - **Option** = a closed-loop policy for taking action over a period of time (e.g., primitive actions like muscle twitching; complicated actions like picking up an object, going to lunch).
 	- **Option policy** = a rule that directs the agent’s behavior for a subset of environment states.
