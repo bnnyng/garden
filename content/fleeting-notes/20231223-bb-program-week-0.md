@@ -3,7 +3,7 @@ aliases:
   - "Week 0: Laying the Foundation"
 tags:
   - fleeting-note
-lastmod: 2023-12-30T13:00:48-08:00
+lastmod: 2023-12-30T15:03:06-08:00
 ---
 >[!example] Week 0 intention
 >Giving myself the best chance of success by making (small and big) tweaks to my life and mindset.

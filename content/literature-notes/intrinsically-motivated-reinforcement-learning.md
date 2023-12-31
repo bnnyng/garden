@@ -8,7 +8,7 @@ tags:
 title: Paper | Intrinsically Motivated Reinforcement Learning
 publish: "true"
 date: 2023-12-29 17:41
-lastmod: 2023-12-30T13:00:55-08:00
+lastmod: 2023-12-30T15:03:06-08:00
 ---
 # Summary
 

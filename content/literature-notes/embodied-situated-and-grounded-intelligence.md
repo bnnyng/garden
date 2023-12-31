@@ -6,7 +6,7 @@ tags:
   - literature-note
 title: "Workshop Report | Embodied, Situated, and Grounded Intelligence: Implications for AI"
 date: 2023-12-27
-lastmod: 2023-12-29T21:37:13-08:00
+lastmod: 2023-12-30T15:03:06-08:00
 publish: "true"
 ---
 # Summary

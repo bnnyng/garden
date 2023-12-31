@@ -2,11 +2,11 @@
 tags:
   - fleeting-note
   - career/application
-lastmod: 2023-12-30T13:00:48-08:00
+lastmod: 2023-12-30T15:57:59-08:00
 ---
 # Overview
 
-📆 **Deadline: January 11, 2024**
+📆 **Deadline: January 11, 2024** – [Document](https://docs.google.com/document/d/1YWLf5MAByifanpS4aaJQXS80DGnuug_Y6RCRkNgDXYg/edit?usp=sharing)
 
 >The SFI Undergraduate Complexity Research (UCR) program is a 10-week residential experience in complex systems science. Students can select from a menu of projects, or develop a project in collaboration with their mentor(s). Students learn how to combine theory, methods, and data from the physical, natural, and social sciences to ask big questions about real-world complex systems using the rigorous methods employed at SFI. Through a series of seminars and workshops, students enhance their skills as researchers and prepare for the next steps in their academic and professional journeys.
 
@@ -20,16 +20,39 @@ lastmod: 2023-12-30T13:00:48-08:00
 ---
 # Application
 - [ ] CV or resume
+	- [ ] Show that I can be trusted with responsibility (job, mentorship, tutoring, volunteering)
+	- [ ] Demonstrate academic drive (clubs, GPA, awards)
+	- [ ] Specific skills (language, programming)
+	- [ ] Examples of collaboration (jobs, organizations, group projects)
+	- [ ] Non-traditional ways of spending time
 - [ ] Research statement and essay questions
 - [ ] Letter of recommendation
 - [ ] Unofficial transcript
+- [ ] Diversity statement (optional)
 
 ---
 # Essay questions
 
+>Please try to avoid paraphrasing specific writing examples included in this tutorial. Your writing will hopefully represent you as an individual, and be uniquely in your style. The following samples are provided to give you an idea of a possible range of responses. We also welcome submissions outside of the styles presented.
+
+> Whenever possible, please try to use concrete and specific examples.
+
+>Please try to relax and enjoy the process of creating your application! This is almost guaranteed to make your application stronger.
+
 ## Complex systems
 
 > Please briefly discuss what appeals to you about the study of complex systems and/or the research philosophy of the Santa Fe Institute. You can get a brief overview of SFI here: https://santafe.edu/about/overview (max. half page)
+
+- I have been interested in studying complex systems, but I didn’t have a name for it until reading complexity book
+	- My own notetaking style is done in Obsidian, I focus on drawing connections between atomic “permanent notes” – the notion of complexity has always appealed to me, even utilized in my own cognition
+	- Approach to how I manage information is complexity (and embodiment? Complex systems seeks to find an answer)
+- I like the interdisciplinary approach, hierarchical – cognitive science is already interdisciplinary, but a higher level of analysis offers clarity (and in a way, our cognition encompasses it all, so it is all very meta!)
+	- All my research experience in the past has been highly specified, leading me to jump from project to project in order to explore more. At SFI, it’s all in one place
+- Questions about complexity can seem vague and fantastical, but SFI does rigorous research
+	- Particularly appealing to me as I came from psychology, with “replication crisis”
+	- There is constant reflection on the scientific method itself when operating at such a general level (discovered from reading workshop reports)
+- I study cognitive science and mathematics – both are deeply tied to the notion of complex systems
+- Approach complexity from all points of view
 
 ## Topics
 
@@ -37,6 +60,22 @@ lastmod: 2023-12-30T13:00:48-08:00
 >
 >Note: These topics are not necessarily research projects that you would pursue during the UCR program at SFI. Project development is a collaborative process between the student and their mentor.
 
+- Embodied cognition – how people use their surroundings as knowledge, how cognition is scaffolded by our environmental circumstances (social structure, language)
+	- “How does learning happen?”, a question asked throughout history; Augustine said it was Jesus Christ, Socrates said it was the soul.
+	- Modern version of the soul is human culture, the wealth of collective experience
+	- Try to operationalize knowledge; example, implementing a “commonsense” reasoning re: AI2, or 
+	- Intelligence seems to come from a higher-level ability to select from lower-level skills, as a hierarchy. It follows that we should test different biases of the higher-level ability
+- Theory of mind
+	- Non-verbal theory of mind, like an infant
+
+```
+	Embodied cognition investigates how cognitive processes are augmented by being situated in an external environment. Here, “environment” includes: rich sensory data from interacting with the physical world; intangible “scaffolding” like language, culture, and social connections; and the timescale over which learning occurs. All biological general intelligence, meaning agents capable of using higher-order cognition to solve problems, is embodied in innumerable ways. This has promising implications for developing AI systems. For example, Jaques et al. (2009) showed that a reinforcement learning (RL)  framework with “intrinsic social motivation” (agents rewarded themselves for influencing other agents) led to higher collective rewards in a “social dilemma” game, operationalizing the effects of both implicit and explicit social communication. The Allen Institute’s RAINIER model optimized for “knowledge introspection” and was able to respond to “commonsense” questions with relevant knowledge, similar to the shared cultural environment that leads to human common sense. 
+```
+
+```
+	An important mark of general intelligence—at both individual and collective levels—is the higher-order ability to select the appropriate solution or heuristic for a problem from a wide variety of options. In contrast, traditional machine learning algorithms optimize for and can exceed human performance on domain-specific tasks like chess, but cannot generalize skills to new problems. Intelligent agents like humans leverage a cognitive system with many interacting components, whether that be different functional modules in the brain or other agents in an extended social network. 
+
+```
 ## Collaborative work
 
 >The SFI UCR program requires collaboration. Please describe an experience with collaboration, whether in college or elsewhere, and what you learned from that experience about how to work effectively as part of a team.
@@ -50,6 +89,8 @@ lastmod: 2023-12-30T13:00:48-08:00
 		- Communication is key: while in past work I could get away with dialed in, deep independent work, here that would cause the system to collapse
 	- Need to stay accountable and make reports to others, letting BOH know about the remaining reservations; my word decides when they start “breaking down” the kitchen, essentially when everyone gets to go home
 		- The first time I forgot to do this, messed up the schedule and also confused the expo, who had to send food to a table that was supposedly not arrived
+- Working at Spec, both as copy editor and project designer
+	- Difference was that copy editor did not have any “take-homes” and involved heavy in person collaboration, project designer was the opposite
 
 ---
 # Notes

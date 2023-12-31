@@ -10,7 +10,7 @@ export default (() => {
       const { text: timeTaken, words: _words } = readingTime(text)
       
 
-      if (fileData.frontmatter?.title == "index") {
+      if (fileData.frontmatter?.title == "Home") {
         segments.push(``)
       } else if (fileData.dates) {
         

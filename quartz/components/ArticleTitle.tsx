@@ -2,7 +2,7 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 function ArticleTitle({ fileData, displayClass }: QuartzComponentProps) {
   const title = fileData.frontmatter?.title
-  if (title == "index") {
+  if (title == "Home") {
     return <h1 class={`article-title ${displayClass ?? ""}`}>{""}</h1>
   }else if (title) {
     return <h1 class={`article-title ${displayClass ?? ""}`}>{title}</h1>
