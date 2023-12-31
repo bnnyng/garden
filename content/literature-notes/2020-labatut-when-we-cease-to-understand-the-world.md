@@ -5,9 +5,9 @@ aliases:
 tags:
   - literature-note
 title: Book | When We Cease to Understand the World
-publish: 
+publish: "true"
 date: 2023-12-31 11:23
-lastmod: 2023-12-31T13:11:14-08:00
+lastmod: 2023-12-31T13:18:22-08:00
 ---
 # Review
 
