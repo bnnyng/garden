@@ -5,7 +5,7 @@ aliases:
 tags:
   - literature-note
 title: Workshop Report | Foundations of Intelligence in Natural and Artificial Systems
-lastmod: 2023-12-31T11:10:06-08:00
+lastmod: 2024-01-02T13:34:07-08:00
 date: 2023-12-26
 publish: "true"
 ---
@@ -23,7 +23,7 @@ publish: "true"
 - Different definitions of intelligence are used in different research areas.
 - Social networks are important for intelligent computation, and intelligent behavior is often produced collectively.
 - Intelligence involves modeling a problem and selecting the appropriate heuristic to solve it.
-- Evolution is the only guaranteed method of producing general intelligence.
+- [[Evolution is the only guaranteed method of producing general intelligence]]
 
 ---
 # Notes

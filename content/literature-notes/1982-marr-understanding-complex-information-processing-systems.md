@@ -1,15 +1,14 @@
 ---
 aliases:
-  - 1982 Marr
   - Understanding complex information-processing systems
-  - Marr (1932)
   - Marr, 1982
+  - Marr (1982)
 tags:
   - literature-note
 publish: "true"
 title: Paper | Understanding complex information-processing systems
 date: 2022-10-01
-lastmod: 2023-12-29T19:12:30-08:00
+lastmod: 2024-01-02T12:16:09-08:00
 ---
 # Key terms
 

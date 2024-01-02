@@ -2,7 +2,7 @@
 tags:
   - fleeting-note
   - career/application
-lastmod: 2024-01-01T15:29:14-08:00
+lastmod: 2024-01-02T10:59:40-08:00
 ---
 # Overview
 
@@ -92,6 +92,8 @@ lastmod: 2024-01-01T15:29:14-08:00
 - Working at Spec, both as copy editor and project designer
 	- Difference was that copy editor did not have any “take-homes” and involved heavy in person collaboration, project designer was the opposite
 	- Emphasize communication, knowledge exchange
+	- Miffed at first that although website was my idea, I wasn’t privileged with credit acknowledgement in the process
+		- Realized that ideas were great but don’t matter unless a team brought them to fruition – after the individualistic impact I had as a copy editor, was a learning experience
 
 ---
 # Notes

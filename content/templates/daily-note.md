@@ -15,18 +15,15 @@ tags:
 >3. Increase friction between myself and binging.
 >4. Clean up environmental triggers (scale, social media, pause diet content, put away triggering items).
 
-> What are my weekly goals?
+> Weekly goals:
+> 1. Why are my weekly goals important me to *today*?
+> 2. How do I need to show up *today* to achieve these goals? What action items will help me move towards my goals, and what intentional thoughts will help me get those items done?
 
-1. Be relapse-free for the majority of the days in the week.
-2. Wake up at or before 9:00 AM each day, again.
-3. Draft all my essay responses for [[20231221-application-santa-fe-institute-undergraduate-research]].
+**Goal 1:** Be relapse-free for the majority of the days in the week.
 
-> Why are my weekly goals important to me *today*?
+**Goal 2:** Wake up at or before 9:00 AM each day, again.
 
-
-
-> How do I need to show up *today* to achieve these goals? What action items will help me move towards my goals, and what intentional thoughts will help me get those items done?
-
+**Goal 3:** Draft all my essay responses for [[20231221-application-santa-fe-institute-undergraduate-research]].
 
 
 > Themed journal question: 
