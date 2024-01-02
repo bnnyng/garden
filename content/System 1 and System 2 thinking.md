@@ -9,7 +9,9 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
+  - seed
 publish: "true"
+lastmod: 2024-01-01T08:43:56-08:00
 ---
 Humans are capable of two “systems” of thinking, “automatic” System-1 cognition and “effortful” System 2 cognition. The distinction between the two systems is controversial and hard to draw.
 

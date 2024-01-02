@@ -4,11 +4,24 @@ aliases:
 tags:
   - permanent-note
   - topic-society-culture
+  - seed
+lastmod: 2024-01-01T09:51:06-08:00
+date: 2023-12-25
+publish: "true"
 ---
-Luddites were English workers in the 1810s who destroyed industrial machines as a means of protesting for economic justice. At the time, workers faced falling wages, increasing food prices, and unsafe working conditions, while factory owners’ profits grew.
+Luddites were English workers in the 1810s who destroyed industrial machines as a means of protesting for economic justice. At the time, workers faced falling wages, increasing food prices, and unsafe working conditions, while factory owners’ profits grew. The original Luddites criticized harmful new technologies that benefited shareholders over workers.
 
-Today, “Luddite” is a disparaging term for people who criticize new technologies. Chiang claims in [[literature-notes/2023-chiang-will-ai-become-the-new-mckinsey|"Will AI Become the New McKinsey?"]] that this is merely a sign of capitalism’s cultural hegemony:
+Today, “Luddite” is a disparaging term for people who oppose new technologies. Chiang claims in [[literature-notes/2023-chiang-will-ai-become-the-new-mckinsey|"Will AI Become the New McKinsey?"]] that this is merely a sign of capitalism’s cultural hegemony:
 
+>[!quote]
 >Whenever anyone accuses anyone else of being a Luddite, it’s worth asking, is the person being accused actually against technology? Or are they in favor of economic justice? And is the person making the accusation actually in favor of improving people’s lives? Or are they just trying to increase the private accumulation of capital?
 
->We should all strive to be Luddites, because we should all be more concerned with economic justice than with increasing the private accumulation of capital. We need to be able to criticize harmful uses of technology—and those include uses that benefit shareholders over workers—without being described as opponents of technology.
+To Chiang, being a Luddite means being more concerned with economic justice than accumulating capital. Luddites refuse the conditions created by technology, not the technology itself. To this end, Chiang believes “**we should all strive to be Luddites**.”
+
+Today’s AI technology presents a similar situation for artists and writers. Even if AI work is not quite up to human standards, for most corporations, it is “good enough”—and the lower cost is worth the lower quality. 
+
+Some examples of “Luddite” resistance to AI ([source](https://twitter.com/bcmerchant/status/1656755670358847488)):
+- [The WGA strike demands include not letting studios use AI to produce scripts.](https://www.latimes.com/business/technology/story/2023-05-11/column-the-writers-strike-is-only-the-beginning-a-rebellion-against-ai-is-underway)
+- [An open letter signed by over 3,000 artists to restrict AI illustration from publishing.](https://artisticinquiry.org/ai-open-letter#signature)
+
+How can we make AI work for workers, not executives? (Unions, worker solidarity?) What is the end goal of Luddite resistance? What would “winning” or “losing” look like? (Effect on technology and work in society? Making sure gains from AI are distributed more equally?)

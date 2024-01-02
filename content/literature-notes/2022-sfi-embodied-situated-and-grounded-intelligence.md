@@ -6,7 +6,7 @@ tags:
   - literature-note
 title: "Workshop Report | Embodied, Situated, and Grounded Intelligence: Implications for AI"
 date: 2023-12-27
-lastmod: 2023-12-31T11:08:44-08:00
+lastmod: 2024-01-01T15:35:43-08:00
 publish: "true"
 ---
 # Summary
@@ -182,7 +182,7 @@ publish: "true"
 
 >Objects that were close by and centered in their field of view when named were learned more reliably. In addition, other factors such head stability, head-eye alignment, and whether the child held the object also contributed to success.
 
-- Training AI systems on infant data did enhance learning, but according to smith, the ability to “learn” from infant data is not the same as a domain-general learning system that is capable of self-generated learning.
+- Training AI systems on infant data did enhance learning, but according to Smith, the ability to “learn” from infant data is not the same as a domain-general learning system that is capable of self-generated learning.
 
 ### Arthur Glenberg and Cameron Jones – “Language comprehension requires affordances”
 
@@ -196,15 +196,12 @@ publish: "true"
 
 - #open-question *What does training LLMs on the kind of language that parents use with children, instead of large corpora of written texts, reveal about what can be learned from language?*
 
-### Yoshua Benigo – “System 2 GFlowNets: Inductive biases towards machines that understand and think”
+### Yoshua Bengio – “System 2 GFlowNets: Inductive biases towards machines that understand and think”
 
-- Benigo introduces a novel deep learning architecture called GFlowNets, which uses principles that can improve machine intelligence.
+- Bengio introduces a novel deep learning architecture called GFlowNets, which uses principles that can improve machine intelligence.
 - Current AI is only capable of System 1 thinking, of the [[System 1 and System 2 thinking]] used by humans.
-- [[Global workspace theory]] theory implies that cognition is sequential processing.
-- The key results of Benigo’s work are identifying a lack of System 2 thinking in existing neural network architectures and a way to actually implement System 2 thinking.
-
-#wip further investigations into GFlowNets
-
+- [[Global workspace theory]] implies that cognition is sequential processing.
+- The key results of Bengio’s work are identifying a lack of System 2 thinking in existing neural network architectures and a way to actually implement System 2 thinking.
 ### General discussion for day 3
 
 - [[Learning and optimization is performed over multiple timescales]]: 

@@ -3,7 +3,9 @@ aliases:
 tags:
   - permanent-note
   - topic-philosophy-theory-religion
+  - seed
 publish: "true"
+lastmod: 2024-01-01T08:44:04-08:00
 ---
 In [[aristotle-nichomachean-ethics|Nichomachean Ethics]], Aristotle describes two forms of rational excellence that will lead to the highest good, human happiness. Excellence of thinking, which requires theoretical wisdom, corresponds with the contemplative life. 
 

@@ -7,11 +7,11 @@ tags:
 title: Book | When We Cease to Understand the World
 publish: "true"
 date: 2023-12-31 11:23
-lastmod: 2023-12-31T13:18:22-08:00
+lastmod: 2023-12-31T13:21:25-08:00
 ---
 # Review
 
-[Goodreads](https://www.goodreads.com/review/show/5777546972) – *by Benjamin Labatut*
+*By Benjamin Labatut* – [Goodreads](https://www.goodreads.com/review/show/5777546972) 
 
 Unravels, story by story, from the real to the arcane. The first one, about the development of cyanide, supposedly only has one fictional paragraph; the last one, "The Night Gardener," is an autofictional, present-day review of the book's themes that contains its own paranormal particulars. I think the spirit of the book is pretty well summarized in the latter:  
 

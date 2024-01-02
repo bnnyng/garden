@@ -3,8 +3,9 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
+  - seed
 publish: "true"
-lastmod: 2023-12-29T21:16:49-08:00
+lastmod: 2024-01-01T09:04:00-08:00
 date: 2023-12-26
 ---
 

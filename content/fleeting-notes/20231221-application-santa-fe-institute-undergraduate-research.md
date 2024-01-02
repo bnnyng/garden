@@ -2,7 +2,7 @@
 tags:
   - fleeting-note
   - career/application
-lastmod: 2023-12-31T11:32:33-08:00
+lastmod: 2024-01-01T15:29:14-08:00
 ---
 # Overview
 
@@ -91,6 +91,7 @@ lastmod: 2023-12-31T11:32:33-08:00
 		- The first time I forgot to do this, messed up the schedule and also confused the expo, who had to send food to a table that was supposedly not arrived
 - Working at Spec, both as copy editor and project designer
 	- Difference was that copy editor did not have any “take-homes” and involved heavy in person collaboration, project designer was the opposite
+	- Emphasize communication, knowledge exchange
 
 ---
 # Notes
@@ -138,7 +139,7 @@ lastmod: 2023-12-31T11:32:33-08:00
 		- “In this project, we investigate whether GPT-3 models can perform better on the Concept ARC through applied language. More specifically, can adding verbal instructions to each problem improve model performance?”
 	- Genetic Algorithms: Computation, Ecology, and Entropy ⭐
 		- “This project aims to test this hypothesis by using neural networks and the MNIST dataset to understand how spatial coevolution can outperform other training methods. Specifically, I plan to run a multi-fold experiment: (1) evolutionary training of neural networks in a non-spatial setting, (2) evolutionary training of neural networks in a spatial configuration, (3) coevolving neural networks and MNIST data in a spatial configuration, and (4) extending to GANs in a spatial configuration.”
-	- Spatial evolutionary learning ⭐
+	- Spatial evolutionary learning ⭐ (training NNs using a genetic algorithm)
 		- “This project aims to optimize a FNN using a GA instead of back-propagation (BP) and a grid structure which contains neural networks (NNs) in each cell. Each NN is tasked with correctly identifying the examples in the MNIST handwritten digit data set.”
 	- How does the brain compute? Building upon Assembly Calculus ⭐
 		- “In this paper, we modify an assumption of Assembly Calculus by changing its base graph model, propose how interactions of assemblies may evolve over varying time scales, include language experiments that serve as a useful jumping board to extend Assembly Calculus, and suggest what learning via assemblies may involve.”

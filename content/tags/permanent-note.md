@@ -1,8 +1,5 @@
 ---
 title: Permanent notes
-aliases:
-  - permanent notes
-  - permanent note
 publish: "true"
 ---
 Permanent notes are a sort of catch-all for any information I want to preserve that is not my original thinking (though the line is sometimes pretty fuzzy!). My notion of permanent notes is heavily inspired by Andy Matuschak’s [evergreen notes](https://notes.andymatuschak.org/Evergreen_notes). 

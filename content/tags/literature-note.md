@@ -3,7 +3,6 @@ title: Literature notes
 aliases:
   - literature note
   - literature notes
-publish: "true"
 ---
 Literature notes correspond with a single source (book, article, video, etc.). They will generally be formatted with the following sections:
 - *Summary* – a paragraph to capture the main ideas from the text in an informational way, in the same vein as a scientific abstract. There may also be a link to a private “raw” note that stores bibliographic data and all my direct highlights.

@@ -4,13 +4,16 @@ aliases:
 tags:
   - evergreen
 date: 2023-12-25
-lastmod: 2023-12-30T10:13:34-08:00
+lastmod: 2024-01-01T16:45:47-08:00
 title: My antilibrary
 ---
 [[2023-le-cunff-building-an-antilibrary]]
 
 # The bookshelf
 ## Philosophy and theory
+
+- *I and Thou* by Martin Buber
+- “Habit” by William James
 
 ### Analytic philosophy
 - “On Sense and Reference” by Frege
@@ -24,6 +27,8 @@ title: My antilibrary
 - *Mere Christianity* by C. S. Lewis
 
 ## Science and technology
+
+- *Elements of Information Theory*
 
 ### History of science and technology
 - *What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry* by John Markoff

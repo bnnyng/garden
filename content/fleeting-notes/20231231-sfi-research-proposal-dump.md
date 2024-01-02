@@ -1,0 +1,22 @@
+---
+tags:
+  - fleeting-note
+lastmod: 2024-01-01T16:28:27-08:00
+---
+- Embodied learning types
+	- Self-generated learning (e.g., by infants)
+	- Training LLMs on language used with children
+	- Analogy making with sensory data (or infant data)
+- Active inference
+	- Performing with GFlowNets
+- Conceptual abstraction, analogy-making, and visual recognition in AI
+	- Theory of mind with GFlowNet architecture?
+	- Common sense/core knowledge
+	- Intuitive math, intuitive physics, learning simple proofs in mathematics
+- Social learning and social dynamics (like Jaques et al)
+	- What kind of behavior emerges?
+- Modeling something like psychedelics
+- Evolutionary learning of causal relationships and generalization
+- Other forms of consciousness and definitions of consciousness
+	- Emergent consciousness
+- Attention mechanism and global workspace theory

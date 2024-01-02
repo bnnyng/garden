@@ -3,6 +3,8 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
+  - seed
+lastmod: 2024-01-01T08:27:41-08:00
 ---
 [[The three stages of memory]] are sensory memory, short-term or working memory, and long-term memory.
 

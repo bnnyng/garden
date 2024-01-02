@@ -4,10 +4,10 @@ tags:
   - evergreen
 publish: "true"
 date: 2023-12-30 09:12
-lastmod: 2023-12-31T13:09:57-08:00
+lastmod: 2024-01-01T21:33:50-08:00
 title: Book reviews
 ---
-Standalone reviews for books that do not have [[tags/literature-note|literature notes]].
+Standalone reviews for books that do not have [literature notes](https://by2328.github.io/garden/tags/literature-note).
 ## 2023
 #### *Atta* by Jarett Kobeck
 
