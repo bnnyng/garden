@@ -2,7 +2,7 @@
 tags:
   - fleeting-note
   - career/application
-lastmod: 2024-01-03T12:58:55-08:00
+lastmod: 2024-01-09T13:55:18-08:00
 ---
 # Overview
 
@@ -26,9 +26,9 @@ lastmod: 2024-01-03T12:58:55-08:00
 	- [ ] Examples of collaboration (jobs, organizations, group projects)
 	- [ ] Non-traditional ways of spending time
 - [ ] Research statement and essay questions
-- [ ] Letter of recommendation
-- [ ] Unofficial transcript
-- [ ] Diversity statement (optional)
+- [x] Letter of recommendation
+- [x] Unofficial transcript
+- [x] Diversity statement (optional)
 
 ---
 # Essay questions
@@ -39,6 +39,10 @@ lastmod: 2024-01-03T12:58:55-08:00
 
 >Please try to relax and enjoy the process of creating your application! This is almost guaranteed to make your application stronger.
 
+- [[2019-jaques-social-influence-as-intrinsic-motivation]]
+- [[2021-sfi-foundations-of-intelligence]]
+- [[20231228-video-social-influence-as-intrinsic-motivation]]
+- [[20231231-sfi-research-proposal-dump]]
 ## Complex systems
 
 > Please briefly discuss what appeals to you about the study of complex systems and/or the research philosophy of the Santa Fe Institute. You can get a brief overview of SFI here: https://santafe.edu/about/overview (max. half page)
