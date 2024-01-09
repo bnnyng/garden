@@ -9,7 +9,7 @@ tags:
 title: Paper | Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning
 publish: "true"
 date: 2023-12-28 18:40
-lastmod: 2023-12-31T11:15:08-08:00
+lastmod: 2024-01-03T12:58:55-08:00
 ---
 # Takeaways
 

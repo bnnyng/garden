@@ -3,7 +3,7 @@ tags:
   - fleeting-note
 aliases:
   - "Week 1: Hit the Ground Running"
-lastmod: 2023-12-31T10:44:06-08:00
+lastmod: 2024-01-02T15:58:25-08:00
 ---
 >[!example] [[20231231-bb-program-week-1|Week 1: Hit the Ground Running]]
 >**Intention:** Establish new baseline eating and behavior habit patterns. Remove any stimulus that’s not helpful and create the optimal recovery environment within the life I already live.

@@ -1,7 +1,7 @@
 ---
 tags:
   - project-note
-lastmod: 2023-12-31T16:31:45-08:00
+lastmod: 2024-01-05T13:35:47-08:00
 date: 2023-12-31
 ---
 # Routine
@@ -30,6 +30,7 @@ date: 2023-12-31
 - I do Pilates regularly to maintain muscle tone.
 - I am active throughout the day and take at least 10,000 steps.
 - My wardrobe is full of clothes that fit me well and make me feel good about my persona. I am slightly unconventional, but still tasteful.
+- I dress for my higher self and for the life I want to have.
 - I use tretinoin to keep my skin clear and remove blemishes.
 
 ## Intellectual and spiritual
@@ -38,6 +39,7 @@ date: 2023-12-31
 - I remember the concepts I learn by interacting with a wide variety of sources. I am constantly updating my knowledge base.
 	- I let writing and independent projects arise from the connections I make.
 - I volunteer frequently because I am fulfilled by giving back to my community.
+- I have an intellectual sanctum with a physical library (1000+ books). My physical space is geared towards me becoming the best version of myself.
 
 ---
 # Work
@@ -57,6 +59,7 @@ date: 2023-12-31
 
 - I purchase things with planning and intention.
 - I spend on experiences and lasting items, not on things I will dispose of.
+- I am passively and consistently building my wealth with intelligent investments.
 
 ---
 # Relationships

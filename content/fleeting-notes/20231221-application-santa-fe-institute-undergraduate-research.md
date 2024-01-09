@@ -2,7 +2,7 @@
 tags:
   - fleeting-note
   - career/application
-lastmod: 2024-01-02T10:59:40-08:00
+lastmod: 2024-01-03T12:58:55-08:00
 ---
 # Overview
 
@@ -54,6 +54,9 @@ lastmod: 2024-01-02T10:59:40-08:00
 - I study cognitive science and mathematics – both are deeply tied to the notion of complex systems
 - Approach complexity from all points of view
 
+```
+	I currently study mathematics and cognitive science. These always seemed vaguely related, but I struggled to articulate what similarity made me interested in both until I read Complexity: A Guided Tour. In particular, the very understanding of mathematics (i.e., building mental representations of complicated mathematical concepts) must be drawn from a complex network of collaborators, lectures, and textbooks, not to mention the difficulty of communicating original research—a novel cognitive process, unlike scientific discoveries which clarify existing phenomena. Cognitive science offers empirical methods for understanding complex cognition; math offers hands-on experience at its limits.
+```
 ## Topics
 
 >Please describe two scientific questions or research projects that interest you as well as your general idea of how you might address these. For both, provide enough background and detail to convey (1) the importance of the question or project or what interests you about it, and (2) the logic of your approach. (max. one page)
