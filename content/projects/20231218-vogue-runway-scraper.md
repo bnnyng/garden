@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - project-note
+  - project
 ---
 # Log
 

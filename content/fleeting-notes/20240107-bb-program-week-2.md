@@ -3,7 +3,7 @@ tags:
   - fleeting-note
 aliases:
   - "Week 2: Identifying and Changing Patterns"
-lastmod: 2024-01-07T17:18:34-08:00
+lastmod: 2024-01-09T15:36:14-08:00
 ---
 >[!example] Week 2: Identifying and Changing Patterns
 >**Intentions:**
@@ -76,3 +76,11 @@ lastmod: 2024-01-07T17:18:34-08:00
 - What thoughts and feelings encourage you to binge and purge?
 - How do you want to intentionally think and act when urges come up, regardless of your initial reaction?
 - If urges were a separate person, how would you speak to them?
+
+---
+# Call notes
+
+## Tuesday
+
+- Do not ideate or fantasize about the urges! Think of paying attention to a street grifter.
+	- Ground yourself by picking an object near you and describing it in detail.

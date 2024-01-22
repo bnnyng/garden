@@ -1,7 +1,7 @@
 ---
 tags:
   - fleeting-note
-lastmod: 2024-01-09T12:03:14-08:00
+lastmod: 2024-01-10T14:07:18-08:00
 ---
 2024-01-03
 - Project 1: Evolving a core knowledge system

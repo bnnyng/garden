@@ -9,11 +9,11 @@ tags:
 title: Paper | Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning
 publish: "true"
 date: 2023-12-28 18:40
-lastmod: 2024-01-09T13:50:27-08:00
+lastmod: 2024-01-10T14:07:38-08:00
 ---
-# Takeaways
 
-[Source](https://arxiv.org/abs/1810.08647) 
+[Source](https://arxiv.org/abs/1810.08647) – [[RAW-20231228-jaques-et-al-social-influence-as-intrinsic-motivation|Highlights]]
+# Takeaways
 
 - Intrinsic social influence reward consistently leads to higher collective return in SSD games.
 - Influence rewards can lead to the emergence of both explicit and implicit communication protocols.

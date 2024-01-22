@@ -1,10 +1,9 @@
+---
+lastmod: 2024-01-16T08:37:21-08:00
+---
 # Complexity
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/124546802/83Kn0p7Opz4FDvQ2jNFS79iILw98HsNtuxxs8oLjZTA-cover-cover.jpeg)
-
-# Metadata
-- Author: [[Mitchell, Melanie]]
-- Full Title: Complexity
 
 # Highlights
 - [REDUCTIONISM is](private://read/01hjmjw71wrcxrs61d9nzdxv03#filepos759697) the most natural thing in the world to grasp. It’s simply the belief that “a whole can be understood completely if you understand its parts, and the nature of their ‘sum ([View Highlight](https://read.readwise.io/read/01hjn1vxwqcey8er9ydzxwrc6q))

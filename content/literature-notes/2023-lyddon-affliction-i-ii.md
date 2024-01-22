@@ -8,11 +8,11 @@ tags:
 title: Essay | Affliction I & II
 publish: "true"
 date: 2023-12-29 12:11
-lastmod: 2023-12-31T11:09:43-08:00
+lastmod: 2024-01-17T06:09:22-08:00
 ---
 # Summary
 
-[Affliction](https://roselyddon.substack.com/p/affliction) – [Affliction II](https://roselyddon.substack.com/p/affliction-ii) – [[RAW-20231228-affliction-i-ii|Highlights]] – *by Rose Lyddon*
+*By Rose Lyddon* – [Affliction](https://roselyddon.substack.com/p/affliction) – [Affliction II](https://roselyddon.substack.com/p/affliction-ii) – [[RAW-20231228-affliction-i-ii|Highlights]]
 
 In the essays “Affliction” and “Affliction II,” Lyddon, a religion graduate student, discusses [[Weil, Simone|Simone Weil’s]] philosophy of affliction. For Weil, affliction carries the risk of dehumanization, the highest risk, but affliction is also one’s only hope of achieving grace and growing in moral character. 
 

@@ -6,7 +6,7 @@ tags:
 title: "Talk | Elizabeth Spelke: From Core Concepts to New Systems of Knowledge"
 publish: "true"
 date: 2024-01-02 12:10
-lastmod: 2024-01-02T13:35:58-08:00
+lastmod: 2024-01-10T14:07:18-08:00
 ---
 [Source](https://youtu.be/u4jUxjf0bAY?si=9JVZkitHsC8ZFLe4) – [[RAW-20240102-spelke-from-core-concepts-to-new-systems-of-knowledge|Highlights]]
 # Takeaways

@@ -1,8 +1,10 @@
 ---
 tags:
   - fleeting-note
-lastmod: 2024-01-01T09:02:50-08:00
+lastmod: 2024-01-10T15:18:11-08:00
 ---
+
+[[light-phone-diaries]]
 # Notes
 
 - Activated plan on 2023-12-12
@@ -13,6 +15,15 @@ lastmod: 2024-01-01T09:02:50-08:00
 
 ---
 # Thoughts
+
+2024-01-10
+- Feel a weight off my shoulders, but get a rebound effect of anxiety when I do go online for the information overload.
+	- Again, I’m missing out on some really interesting stuff, will have to do a cost-benefit analysis, clean up my digital presence.
+	- There’s interesting stuff out there, but how do I sort through it?
+- The iPhone never fit well in my pocket.
+- “This is not meant to be a guide, but I’ll write a bit of a guide.”
+- There are some people i don’t talk to at all now
+- Give example of text with crazy punctuation
 
 2024-01-01 – 3 weeks of use
 - On usage:
