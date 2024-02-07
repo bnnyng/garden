@@ -6,6 +6,8 @@ tags:
   - permanent-note
   - topic-cognitive-science
 publish: "true"
+date: 2023-12-24
+lastmod: 2024-01-24T12:44:07-08:00
 ---
 A radically embodied framework extends the cognitive system to include aspects of the neural substrate, the body, and the surrounding environment. While particular accounts of radical embodiment vary, they share the same principles:
 - The traditional theory that cognition is based on [[Representation is describing some aspect of reality with a useful symbol|representation]] is inadequate;

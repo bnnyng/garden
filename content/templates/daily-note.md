@@ -4,30 +4,23 @@ tags:
 ---
 # Daily journal
 
->[!example] Shifting My Identity and Mindset
->**Intention:** Clearly define who I am now, who I want to become, and discover how I can embody that future self now.
+>[!example] [[20240206-bb-program-week-6|Week 6: Making My Life Bigger Than Bulimia]]
+>**Intention:** Allow my life to take up more space than the bulimia. Explore and find ways to enjoy stuff without bulimia. Slowly let bulimia die away rather than trying to rid myself of it.
 >
 >**Goals and objectives:**
->1. Use the “Themed Journal Questions” to identify who I am currently, who I want to be, and how I can bridge that gap.
->2. Practice being the recovered me *now*.
+>1. Intentionally think about recovery, food, and body *less*.
+>2. Make time for something I *want* to do at least one time this week.
+>
+>**Weekly goals:**
+>1. Why are my weekly goals important me to *today*?
+>2. How do I need to show up *today* to achieve these goals? What action items will help me move towards my goals?
+>3. What intentional thoughts will help me get those items done?
 
-> Weekly goals:
-> 1. Why are my weekly goals important me to *today*?
-> 2. How do I need to show up *today* to achieve these goals? What action items will help me move towards my goals, and what intentional thoughts will help me get those items done?
+>**Goal 1:** Commit to abstinence from purging.
 
-**Goal 1**: Practice the pause method 3x per day, whether or not I feel the urge to binge.
+>**Goal 2:** Reach out to someone each day, whether over text or in person.
 
-**Goal 2:** Perform a deliberate night routine after I am done working for the day, before I do anything else to unwind.
-
-**Goal 3:** Each day, I will do a bit of learning or work on something unrelated to CUMMW.
-
->Themed journal question:
-
-- Who are you right now? How do you identify yourself? List everything that comes to mind.
-- Think about the future recovered you. Who are they, how do they think, and how do they behave? (there can be overlap between who you are right now and who you want to be)
-- How do they identify themselves?
-- What thoughts and behaviors need to change for you to become closer to that future?
-- What thoughts and behaviors will help you embody the future you right now?
+>**Goal 3:** Check in with the recovery group each day.
 
 ---
 # To do

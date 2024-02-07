@@ -5,6 +5,8 @@ tags:
   - permanent-note
   - topic-cognitive-science
 publish: "true"
+date: 2023-12-24
+lastmod: 2024-01-24T12:47:45-08:00
 ---
 The bias-variance trade-off is the notion that for a given learning procedure, the stronger the initial assumptions (i.e., initial bias) about patterns to be learned, the less data needed for learning to be accomplished. 
 

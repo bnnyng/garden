@@ -5,6 +5,8 @@ tags:
   - permanent-note
   - topic-cognitive-science
 publish: "true"
+date: 2024-01-05
+lastmod: 2024-01-24T12:45:58-08:00
 ---
 Dynamic coupling is the ongoing interaction between an intelligent system and its local environment, where the system repeatedly observes the world and performs simple “live” adjustments.
 

@@ -4,6 +4,8 @@ tags:
   - permanent-note
   - topic-gender-sexuality
 publish: "true"
+date: 2023-12-24
+lastmod: 2024-01-24T12:46:43-08:00
 ---
 In rich countries, there is a negative correlation between weight and income for women but no such effect for men. Thus, women in rich countries experience low self-esteem and pressure to be thin not just because of cultural messaging and supposed ideal standards, but also because failing to be thin will literally cost them.
 

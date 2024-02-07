@@ -2,7 +2,7 @@
 tags:
   - fleeting-note
   - career/application
-lastmod: 2024-01-18T10:43:38-08:00
+lastmod: 2024-01-30T18:16:43-08:00
 ---
 # Overview
 
@@ -28,14 +28,22 @@ lastmod: 2024-01-18T10:43:38-08:00
 ## Why Break Through Tech AI?
 > Why do you want to participate in our Break Through Tech AI program? What are your personal, academic, or professional goals for participating in this program? * (required, 250 word limit)
 
-- Excited for the opportunity to have a meaningful project paired with industry
-- Able to work with people like me – especially value this in the context of my women’s college
-- Hoping to make connections in an industry I feel unconfident and falling behind in, though I’m enthusiastic and have the technical skills
+- Personal goals
+	- Understand the practical use of AI/ML, as well as its potential
+	- In spite of my gap, I have been seeking opportunities to develop my skills – this will be an invaluable way for me to get resume credentials, just one step on the path
+- Academic
+	- Studying cognitive science, mathematics
+	- Taking computer science classes
+- Professional goals
+	- Working with like-minded peers of the same field; I want to build mutually inspirational, lasting relationships
+	- Getting resume credentials – demonstrated interest in the field via past projects and research experiences, but the transition from academia/research-style exploration to *industry* is hard, particularly with people of my background (or lack thereof!)
 ## Why a career in AI/ML?
 > What interests or excites you about a possible career in AI, machine learning, data science or related fields? * (required, 250 word limit)
 
-- Data-driven solutions to a lot of problems
-	- Important in an existential sense
+- Given the potential, I am interest in humanistic perspective to developments
+	- Very few people involved in thinking about the human side
+- I want to learn the intricacies of the industry, excited about the potential to change everyday lives but also cautious about its current development
+	- I think there are a lot of existential considerations
 
 ## Relevant extracurriculars and leadership
 > Tell us about your experience with relevant extracurricular activities (clubs, hackathons, volunteer work, etc.) and any leadership roles that you have played. * (required, 250 word limit)
@@ -67,6 +75,25 @@ lastmod: 2024-01-18T10:43:38-08:00
 
 ---
 # Log
+
+2024-01-22
+- Advice about explaining gap year:
+	- I think you can share more detailed/specific information in one of your essay responses. On your resume, you don’t need to change any of the information in your education section other than updating your expected graduation month/year. When describing your current position, you could frame it as “a working gap year to support completing my undergraduate degree”
+	- Sometimes the best course of action with resume gaps is to be honest! I think its fine to indicate that you are taking a gap year from school for personal financial reasons and to share that you are working during this time.
+- [[20240118-braindump-break-through-tech-ai]]
+
+```
+I am interested in an AI career that steers impressive technical developments in a more human direction. 
+
+Despite potential for AI to benefit humanity at world-system (e.g., helping climate change efforts), societal (automation that enables people to do more meaningful work), and individual levels (personalized healthcare), many of these possibilities assume more social protections than we really have. For example, since we don’t have universal basic income, workers who have “menial” tasks automated away will actually be worse off due to unemployment. The tension between AI innovation and better living standards is also seen in the Hollywood strike, where demands included banning AI in the writer’s room.
+
+AI represents a paradigm shift in technology’s role in our lives. I am excited by AI as a tool for progress, but that isn’t guaranteed unless we consider how its benefits can be distributed beyond private companies and shareholders. 
+
+- I want to change the industry’s perspective, raise questions like…
+- Much of my volunteer work has been with HEP
+
+- Practically, I have a great deal of interest in using the tools of ML and data science
+```
 
 2024-01-18 – Attending info session!
 - 1-year program

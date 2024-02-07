@@ -5,6 +5,8 @@ tags:
   - permanent-note
   - topic-cognitive-science
 publish: "true"
+date: 2023-12-24
+lastmod: 2024-01-24T12:44:21-08:00
 ---
 Representation is describing some aspect of reality with a useful symbol. More precisely, representation includes the set of symbols along with rules that determine how the representations are applied to a particular entity.
 

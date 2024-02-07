@@ -4,6 +4,8 @@ tags:
   - permanent-note
   - topic-philosophy-theory-religion
 publish: "true"
+date: 2023-12-24
+lastmod: 2024-01-24T12:45:36-08:00
 ---
 Depression in Han’s “achievement society” comes has the following sources:
 - Lack of attachment to anything in an increasingly atomized society;

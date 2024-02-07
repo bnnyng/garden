@@ -6,8 +6,6 @@ aliases:
 >[!example] 
 >**Intention:** 
 >
->**Call theme:**
->
 >**Goals and objectives:**
 >1. 
 # Review
