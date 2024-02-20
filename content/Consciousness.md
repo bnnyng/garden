@@ -5,6 +5,9 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
+date: 2024-02-15
+lastmod: 2024-02-15T10:17:21-08:00
+publish: "true"
 ---
 Consciousness can be divided into two subtypes. **Phenomenal consciousness** involves subjective experiential states and phenomenology; individual instances of experience are called [[Qualia are individual instances of subjective, conscious experience arising from perceptions|qualia]]. **Access consciousness** includes all the information that is globally available for reasoning and report in a cognitive system.
 
@@ -19,5 +22,5 @@ Scientific explanations of consciousness include:
 ---
 # References
 
-[[20221221-consciousness]]
-[[1982-jackson-epiphenomenal-qualia]]
+- [[20221221-consciousness]]
+- [[1982-jackson-epiphenomenal-qualia]]

@@ -8,7 +8,7 @@ tags:
   - topic-logic-mathematics
 publish: "true"
 date: 2024-02-01
-lastmod: 2024-02-07T12:08:09-08:00
+lastmod: 2024-02-07T12:11:01-08:00
 ---
 In [[Pragmatic statistics]], **inference** is concerned with understanding a real-world property $\theta$. This can be anything from a causal effect, a classification system for different objects, a regression coefficient, a function, etc. 
 

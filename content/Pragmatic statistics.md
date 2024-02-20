@@ -3,11 +3,11 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
-publish: 
+publish: "true"
 date: 2024-02-01
-lastmod: 2024-02-07T11:55:06-08:00
+lastmod: 2024-02-07T12:19:07-08:00
 ---
-Adapted from a presentation by Anthony Ozerov for [[2024-mcm|CUMMW 2024]]. Full notes [[20240124-CUMMW-modeling-right-when-the-time-is-tight|here]].
+Adapted from a presentation by Anthony Ozerov for [[20240207-mcm|CUMMW 2024]]. Full notes [[20240124-CUMMW-modeling-right-when-the-time-is-tight|here]].
 
 ---
 # Overview
@@ -16,6 +16,7 @@ Adapted from a presentation by Anthony Ozerov for [[2024-mcm|CUMMW 2024]]. Full 
 	- **Descriptive** statements only concern the data, and nothing outside the data.
 	- **Predictive** statements are about new, unseen observations (ideally similar to what is already observed).
 	- **Inference** involves showing understanding of real-world phenomena outside of the data.
+- Some widely applicable statistical tools include regression, bootstrapping, and [[Pragmatic Bayesian modeling]].
 
 ---
 # What is statistics for?

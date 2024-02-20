@@ -4,7 +4,7 @@ aliases:
 tags:
   - evergreen
 date: 2023-12-25
-lastmod: 2024-01-01T16:45:47-08:00
+lastmod: 2024-02-08T11:49:58-08:00
 title: My antilibrary
 ---
 [[2023-le-cunff-building-an-antilibrary]]
@@ -14,6 +14,7 @@ title: My antilibrary
 
 - *I and Thou* by Martin Buber
 - “Habit” by William James
+- “Existentialism is Humanism” by Jean-Paul Sartre
 
 ### Analytic philosophy
 - “On Sense and Reference” by Frege
@@ -26,12 +27,14 @@ title: My antilibrary
 ### Religion
 - *Mere Christianity* by C. S. Lewis
 
-## Science and technology
+## Science, technology, and mathematics
 
+## Pure mathematics
+
+- Tao’s analysis textbook
+## Applied mathematics
 - *Elements of Information Theory*
-
-### History of science and technology
-- *What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry* by John Markoff
+- *Nonlinear dynamics and Chaos* by Steven Strogatz
 
 ### Physics
 - *Physics for Mathematicians* by Spivak
@@ -58,6 +61,7 @@ title: My antilibrary
 - *Camera Lucida* by Roland Barthes
 - *Ninth Street Women* by Mary Gabriel
 - *Once* by Wim Wenders
+- *User Friendly* by Cliff Kuang
 
 ### Fashion
 - “Fashion” by Georg Simmel
@@ -86,7 +90,10 @@ title: My antilibrary
 ---
 # The filing cabinet
 
-
+**Quantum complexity theory**
+- [Quantum Complexity Theory lecture notes](https://danielgrier.com/courses/CSE291/Fa22/) by Daniel Grier
+- [Quantum Computing lecture notes](https://arxiv.org/pdf/1907.09415.pdf) by Ronald de Wolf
+- “[Introduction to the Quantum Circuit Model](https://www.cs.cmu.edu/~odonnell/quantum15/lecture01.pdf)” by Ryan O’Donnell
 
 ---
 # The scratchpad

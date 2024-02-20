@@ -8,7 +8,7 @@ tags:
   - topic-cognitive-science
   - seed
 publish: "true"
-lastmod: 2024-01-01T08:36:00-08:00
+lastmod: 2024-02-19T19:27:30-08:00
 date: 2023-12-26
 ---
 Embodied cognition investigates how cognition changes when situated in a physical environment. In the embodied approach to cognitive science, the mind and environment are a single intelligent system.
@@ -20,6 +20,7 @@ Like the traditional theory where cognition is [[Representation is describing so
 
 
 #wip can connect to content in [[2022-sfi-embodied-situated-and-grounded-intelligence]]
+#concept-question What is the distinction between embodied and extended cognition, a la [[Mathematics is a form of extended cognition]]
 
 ---
 # References

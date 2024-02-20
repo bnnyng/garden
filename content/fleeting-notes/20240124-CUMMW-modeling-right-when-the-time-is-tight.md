@@ -1,7 +1,7 @@
 ---
 tags:
   - fleeting-note
-lastmod: 2024-02-01T21:06:19-08:00
+lastmod: 2024-02-07T12:11:01-08:00
 ---
 # Pragmatic statistics
 
