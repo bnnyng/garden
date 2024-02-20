@@ -8,9 +8,11 @@ tags:
 title: Book | Models of the Mind
 publish: 
 date: 2024-02-15 10:26
-lastmod: 2024-02-19T20:02:03-08:00
+lastmod: 2024-02-19T20:12:13-08:00
 ---
 # Summary
+
+*By Dr. Grace Lindsay* – [[Models of the Mind|Highlights]]
 
 This book gives a history of [[Mathematical modeling|mathematical modeling ]] in neuroscience, a subdiscipline often referred to as computational or theoretical neuroscience. It emphasizes the many potential forms of modeling that can be used, from written equations to computer programs.
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - fleeting-note
-lastmod: 2024-02-14T14:05:18-08:00
+lastmod: 2024-02-19T20:08:28-08:00
 ---
 >_Submit a proposal of up to two pages outlining a real-world problem you wish to address. Your write-up should encompass a brief background, your research motivation, one or two proposed research questions, and a minimum of two peer-reviewed references. Evaluation of proposals will focus on the merit of the research question and the feasibility of the proposed project, irrespective of the chosen topic area. The decision to pursue this research during the program will be made collaboratively by you and your team during the first week of the program._
 

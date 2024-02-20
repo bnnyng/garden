@@ -4,7 +4,7 @@ tags:
   - permanent-note
 publish: 
 date: 2024-02-19 19:19
-lastmod: 2024-02-19T19:54:09-08:00
+lastmod: 2024-02-19T20:09:08-08:00
 ---
 >[!quote]
 >All models are wrong, but some are useful.

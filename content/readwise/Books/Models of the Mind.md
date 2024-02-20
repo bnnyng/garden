@@ -1,3 +1,6 @@
+---
+lastmod: 2024-02-19T20:08:27-08:00
+---
 # Models of the Mind
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/125244100/-pKJr1Bw93LpkbewHozgdMvMqsWzapcH8q8xtpAYexQ-cove_EvNBvSK.jpg)

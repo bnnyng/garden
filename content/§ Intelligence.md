@@ -5,6 +5,8 @@ tags:
   - topic-cognitive-science
   - moc
 publish: "true"
+date: <% tp.file.creation_date() %>
+lastmod: 2024-02-19T20:14:13-08:00
 ---
 # Topics
 

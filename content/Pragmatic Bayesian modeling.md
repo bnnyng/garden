@@ -13,13 +13,13 @@ tags:
   - topic-logic-mathematics
 publish: "true"
 date: 2024-02-07 12:13
-lastmod: 2024-02-07T12:34:42-08:00
+lastmod: 2024-02-19T20:08:28-08:00
 ---
 Bayesian modeling is an approach to estimating some property $\theta$ where, beginning with a **prior** subjective belief $p(\theta)$, we use new data $X$ and a likelihood model $p(X | \theta)$ to form a new **posterior** belief $p(\theta | X)$. 
 
 Practically speaking, the Bayesian approach simulates the **data-generating process**: what distributions generate the data, and with what parameters, and what parameter distributions, and so on? …Models can become very complicated!
 
-Related: [[Conditional probability and Bayes' theorem|Bayes' theorem]], [[Pragmatic statistics]], [[Frequentist vs. Bayesian inference]]
+Related: [[Mathematical modeling]], [[Conditional probability and Bayes' theorem|Bayes' theorem]], [[Pragmatic statistics]], [[Frequentist vs. Bayesian inference]]
 
 ---
 # Choosing priors
