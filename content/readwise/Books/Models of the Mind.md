@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-02-19T20:08:27-08:00
+lastmod: 2024-02-19T20:18:40-08:00
 ---
 # Models of the Mind
 

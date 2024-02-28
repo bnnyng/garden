@@ -4,6 +4,8 @@ tags:
   - permanent-note
   - topic-gender-sexuality
 publish: "true"
+date: 2023-12-24
+lastmod: 2024-02-19T20:15:59-08:00
 ---
 [[2022-the-economist-the-economics-of-thinness|"The economics of thinness"]]:
 

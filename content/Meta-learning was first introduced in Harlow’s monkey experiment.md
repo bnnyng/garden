@@ -4,6 +4,9 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
+date: 2023-12-24
+publish: "true"
+lastmod: 2024-02-20T13:48:11-08:00
 ---
 Harlow’s monkey experiment followed the following basic procedure:
 - Monkeys were presented with two unfamiliar objects. One led to a food reward, the other to an empty well. Monkeys then had to choose between the two objects.
@@ -16,4 +19,4 @@ The monkeys in Harlow’s experiment are [[Meta-learning is the process of learn
 ---
 # References
 
-[[2019-botvinick-reinforcement-learning-fast-and-slow]]
+- [[2019-botvinick-reinforcement-learning-fast-and-slow]]

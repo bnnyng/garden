@@ -1,13 +1,14 @@
 ---
-aliases: 
+aliases:
+  - computational cognitive science
 tags:
   - permanent-note
   - topic-cognitive-science
 publish: 
 date: 2024-02-15 10:21
-lastmod: 2024-02-19T20:08:28-08:00
+lastmod: 2024-02-22T15:33:05-08:00
 ---
-Related: [[Mathematical modeling]]
+Related: [[All models are wrong, but some are useful]]
 
 ---
 # Canonical examples
@@ -21,6 +22,8 @@ Related: [[Mathematical modeling]]
 
 ---
 # Ongoing research
+
+- [[Bayesian models of cognition]]
 
 ---
 # References

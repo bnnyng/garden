@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: "true"
 date: 2023-12-30 09:12
-lastmod: 2024-01-22T11:01:22-08:00
+lastmod: 2024-02-26T16:50:51-08:00
 title: Book reviews
 ---
 Standalone reviews for books that do not have [literature notes](https://by2328.github.io/garden/tags/literature-note).
@@ -23,6 +23,16 @@ My book ratings depend mostly on my personal whims and may have very little to d
 # Reviews
 
 ## 2024
+
+#### *Mrs. Dalloway* by Virginia Woolf
+
+Read 2024-02-22 – [Goodreads](https://www.goodreads.com/review/show/3971088804) – ⭐⭐⭐
+
+My first truly modernist novel, or at least, that I can remember (according to the Goodreads records I read *To the Lighthouse* once, might as well have been in another life). Instead of being discrete, credible individuals, characters in *Mrs. Dalloway* spill into one another, and attributing an experience to a single character often feels like a game of catch-up.
+
+Feeling indifferent toward the (in?)famous stream-of-consciousness style. There were many parts that did not engage me at all, but whenever I was tempted to set the book down, there would inevitably be a passage with words strung together in such a singular way that I had to read on.
+
+I like what Eagleton says of Woolf’s characters in [[2013-eagleton-how-to-read-literature|How to Read Literature]]: “the self is just a bundle of chance sensations and perceptions, with only a vacancy at its core.” Clarissa does not need to act to fulfill a particular image to herself, others, and us readers. Only Septimus brings his inner narrative complexity to the physical world, and he is the most cohesive character by far, with an obvious origin (wartime traumas, inadequacy of mental health services in 20th century society) and evolution (spiraling to his own demise). Is it valid to define oneself by unused inclinations and potentials? To me, the fact that the characters in *Mrs. Dalloway* are so interchangeable, aside from the one guy who actually does things, suggests “no.”
 
 #### *The Sea, the Sea* by Iris Murdoch
 

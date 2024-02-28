@@ -9,6 +9,8 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
+date: 2022-09-01
+lastmod: 2024-02-20T13:49:37-08:00
 ---
 - **Axiom** = something taken for granted (assumed to be true)
 - **Definition** = a new name and a description of "what properties must hold" for an object with that name

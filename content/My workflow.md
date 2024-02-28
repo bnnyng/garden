@@ -4,7 +4,7 @@ aliases:
 tags:
   - bud
 date: 2023-12-24
-lastmod: 2023-12-29T13:33:02-08:00
+lastmod: 2024-02-28T09:46:29-08:00
 ---
 # General note-taking
 
@@ -12,7 +12,7 @@ lastmod: 2023-12-29T13:33:02-08:00
 	1. If the material is written, try to find a digital copy, and make highlights and comments in Readwise.
 	2. (Optional) Written material – create a “raw” note of direct quotations or highlights. The note title follows the convention of \[publication year]-\[author or publication name]-\[source title]
 	3. (Optional) Video material – create a fleeting note for unpolished scratchings that are taken “live.”
-	4. Notes created during this step are not literature notes, and will rarely be linked to I can avoid doing so.
+	4. Notes created during this step are not literature notes, and will rarely be linked to if I can avoid doing so.
 2. **Process.** Create a literature note that paraphrases the original source. Sections of the literature note include:
 	1. Summary – capture the main ideas from the text in an informational way, in the same vein as a scientific abstract. Make a link to the associated raw note if it exists. This section is listed first in the literature note, but should be done as the final step.
 	2. (Optional) Takeaways – bullet points that I want to apply directly to my life via actions or thinking, which are distinct from a summary.
@@ -24,7 +24,7 @@ lastmod: 2023-12-29T13:33:02-08:00
 
 Ideally, **processing** should be done *at least one day after absorbing the source material*. Making and revising permanent notes is the most intellectually intensive step in this workflow and benefits from fresh eyes.
 
-Make new garden notes as they arise organically during **processing** (see: [[taxonomy-of-note-types]]).
+Make new permanent notes as they arise organically during **processing**.
 
 Specific workflows for different source types, like classes, will be created later.
 

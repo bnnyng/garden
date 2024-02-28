@@ -2,9 +2,11 @@
 tags:
   - fleeting-note
   - career/application
-lastmod: 2024-02-19T20:08:28-08:00
+lastmod: 2024-02-26T12:27:37-08:00
 ---
 # Overview
+
+[Program information](https://www.math.columbia.edu/programs-math/undergraduate-program/undergraduate-research/csuremm/)
 
 >Columbia Summer Undergraduate Research Experiences in Mathematical Modeling (CSUREMM) is a comprehensive ten-week program designed for collaborative summer research experiences in mathematical modeling among undergraduate students.
 >

@@ -4,7 +4,14 @@ tags:
   - project
 publish: 
 date: 2024-02-15 09:21
-lastmod: 2024-02-19T11:47:13-08:00
+lastmod: 2024-02-27T08:04:05-08:00
+---
+# Style guide
+
+- Fonts
+	- Subtitles (centered onscreen):
+	- Headers (e.g., date of vlog; centered at top of screen):
+
 ---
 # Content inspirations
 
@@ -40,3 +47,12 @@ lastmod: 2024-02-19T11:47:13-08:00
 
 - [Lauren Louise](https://www.youtube.com/@bigbooklady) – vlogs with specific design sensibility
 	- Monthly favorites and routines
+
+---
+
+# Log
+
+2024-02-26
+
+- Use Da Vinci Resolve as a free alternative to Premiere Pro
+- Tried to download last week’s “vlog” footage, but not nearly enough space on hard drive (evidently the zip file was 100+ GB?). Purchased 2 TB external hard drive; not 100% sure if storage solution is appropriate

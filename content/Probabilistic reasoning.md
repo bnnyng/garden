@@ -14,15 +14,16 @@ tags:
   - COGS-UN1001
 publish: "true"
 date: 2022-12-21
-lastmod: 2024-01-01T13:32:45-08:00
+lastmod: 2024-02-22T15:25:22-08:00
 ---
-# Overview
+>[!quote]
+>”Probability theory is nothing but common sense reduced to calculation.” – Laplace
 
 Probabilistic reasoning uses *subjective* probabilities, which can be computed by Bayes’ theorem. From a cognitive science perspective, Bayes’ theorem encodes two facts about how our beliefs change in response to new evidence: if we believe an event has a low probability, then the probably is still low in spite of reliable evidence; and if new evidence is unreliable, then our beliefs will change very little.
 
 Subjective probabilities are Bayesian optimal when they come from taking a weighted average of past events. However, agents often make incorrect probability judgements because of using heuristics, such as representativeness and availability.
 
-Related: [[Metacognition]], [[Conditional probability and Bayes' theorem]]
+Related: [[Bayesian models of cognition]], [[Metacognition]], [[Conditional probability and Bayes' theorem]]
 
 ---
 
@@ -50,3 +51,5 @@ Related: [[Metacognition]], [[Conditional probability and Bayes' theorem]]
 Bayes’ theorem encodes two facts about how beliefs change:
 - If you believe an event is almost impossible (i.e., **prior** probability of $H$ is low), new evidence will not make much of a difference (i.e., **posterior** probability will also be low).
 - If you believe your evidence is worthless (i.e., $P(E \mid H)$ and $P(E \mid \neg H)$ are similar), you will stick with what you already believed (i.e., the **posterior** will be close to the **prior**).
+
+

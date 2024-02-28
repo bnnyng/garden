@@ -7,7 +7,7 @@ tags:
 title: Book | Existentialism is a Humanism
 publish: 
 date: 2024-02-14 21:57
-lastmod: 2024-02-15T10:49:31-08:00
+lastmod: 2024-02-23T13:33:03-08:00
 ---
 *By Jean-Paul Sartre* – [Article link](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm)– [[RAW-20240214-existentialism-is-a-humanism|Highlights]]
 # Summary
@@ -83,3 +83,8 @@ In this lecture, Sartre gives his most famous formulation of existentialism: “
 >[!quote]
 >When Descartes said, “Conquer yourself rather than the world,” what he meant was, at bottom, the same – that we should act without hope.
 
+## On subjectivism
+
+
+
+## On humanism
