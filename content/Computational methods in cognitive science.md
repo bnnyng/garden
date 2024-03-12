@@ -6,7 +6,7 @@ tags:
   - topic-cognitive-science
 publish: 
 date: 2024-02-15 10:21
-lastmod: 2024-02-22T15:33:05-08:00
+lastmod: 2024-02-28T11:13:44-08:00
 ---
 Related: [[All models are wrong, but some are useful]]
 

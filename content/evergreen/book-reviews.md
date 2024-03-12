@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: "true"
 date: 2023-12-30 09:12
-lastmod: 2024-02-26T16:50:51-08:00
+lastmod: 2024-03-04T12:37:06-08:00
 title: Book reviews
 ---
 Standalone reviews for books that do not have [literature notes](https://by2328.github.io/garden/tags/literature-note).
@@ -26,7 +26,7 @@ My book ratings depend mostly on my personal whims and may have very little to d
 
 #### *Mrs. Dalloway* by Virginia Woolf
 
-Read 2024-02-22 – [Goodreads](https://www.goodreads.com/review/show/3971088804) – ⭐⭐⭐
+Read 2024-02-22 – [Goodreads](https://www.goodreads.com/review/show/3971088804) – ⭐⭐⭐⭐
 
 My first truly modernist novel, or at least, that I can remember (according to the Goodreads records I read *To the Lighthouse* once, might as well have been in another life). Instead of being discrete, credible individuals, characters in *Mrs. Dalloway* spill into one another, and attributing an experience to a single character often feels like a game of catch-up.
 

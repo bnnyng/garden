@@ -1,10 +1,12 @@
 ---
-aliases: 
+aliases:
+  - 2024 SFI undergradute research application
+  - SFI undergraduate research
 tags:
   - fruit
 publish: 
 date: 2024-01-09
-lastmod: 2024-01-10T14:20:02-08:00
+lastmod: 2024-03-03T19:00:40-08:00
 ---
 Essay responses for the 2024 Undergraduate Complexity Research program at SFI.
 
@@ -52,6 +54,7 @@ Although these social dilemma games are played *in silico*, the problem has real
 Broadly, I would like to build upon the research on social influence and untrained, emergent communication in MARL. I might begin by replicating results from Jaques et al., then adjust the experimental procedure to determine which factors are involved in emergence, such as trying different dilemma games or implementations of social influence. I am especially interested in the effect of adding a model of other agents (i.e., network layers that try to approximate other agents’ reward functions) to each individual agent, which is a similar concept to human theory of mind.
 
 ---
+
 # Collaborative work
 
 >The SFI UCR program requires collaboration. Please describe an experience with collaboration, whether in college or elsewhere, and what you learned from that experience about how to work effectively as part of a team.

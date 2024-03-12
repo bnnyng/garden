@@ -1,9 +1,32 @@
 ---
 tags:
   - fleeting-note
-lastmod: 2024-02-26T18:12:05-08:00
+lastmod: 2024-02-29T09:07:43-08:00
 ---
 >_Submit a proposal of up to two pages outlining a real-world problem you wish to address. Your write-up should encompass a brief background, your research motivation, one or two proposed research questions, and a minimum of two peer-reviewed references. Evaluation of proposals will focus on the merit of the research question and the feasibility of the proposed project, irrespective of the chosen topic area. The decision to pursue this research during the program will be made collaboratively by you and your team during the first week of the program._
+
+---
+# Outline
+
+1. Background / introduction
+	1. Basic facts of research area
+		1. What is probabilistic reasoning? Specifically, what is the Bayesian theory of cognition?
+	2. ~~Problem statement – main issue that needs to be addressed is explaining errors~~
+	3. ~~Motivation for research~~
+		1. Who cares? – AI industry, engineering human-like cognition
+		2. How important is it for industry advancement? – Fundamental goal of cognitive science as a field is to explain cognition at all levels (maybe don’t need to formally define levels)
+2. Literature review
+	1. Give main theories for errors in Bayesian rationality
+		1. Within rational approximation, approximation can be performed using variational inference or sampling from the hypothesis
+	2. Explain specific model that I’m focused on
+		1. General theory of learning to infer
+		2. Implementation details
+	3. Explain on how I will build on prior scholarship – two possible extensions in two different domains
+3. Research design and methods
+	1. Overall steps and practical approach – incorporating MCMC in the algorithm
+	2. Overall steps and practical approach – using data from multitasking setup
+
+
 
 ---
 # Notes
@@ -24,6 +47,17 @@ lastmod: 2024-02-26T18:12:05-08:00
 
 ---
 # Log
+
+2024-02-29
+- Morning writing breakdown:
+	- [ ] Make a copy of the draft proposal, start revising earlier sections to remove technical details
+	- [ ] Look at example research proposals – https://www.uh.edu/~lsong5/documents/A%20sample%20proposal%20with%20comment.pdf, 
+- [Initialize MCMC with draws from variational inference](https://discourse.mc-stan.org/t/initialize-mcmc-with-draws-from-variational-inference-in-cmdstanr/31075)
+
+2024-02-28
+- Extension to noisier and weirder data, based on model used in “The Signature of All Things: Children Infer Knowledge States from Static Images”—has to be image based!
+- Extension to include MCMC sampling of hypotheses in the variational inference procedure.
+- Extension to multitasking with richer data.
 
 2024-02-26
 - Most interesting modeling problems

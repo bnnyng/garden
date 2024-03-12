@@ -4,7 +4,7 @@ aliases:
 tags:
   - evergreen
 date: 2023-12-25
-lastmod: 2024-02-08T11:49:58-08:00
+lastmod: 2024-03-06T08:52:57-08:00
 title: My antilibrary
 ---
 [[2023-le-cunff-building-an-antilibrary]]
@@ -13,8 +13,6 @@ title: My antilibrary
 ## Philosophy and theory
 
 - *I and Thou* by Martin Buber
-- “Habit” by William James
-- “Existentialism is Humanism” by Jean-Paul Sartre
 
 ### Analytic philosophy
 - “On Sense and Reference” by Frege
@@ -24,8 +22,18 @@ title: My antilibrary
 - “Is there anything it is like to be a bat?” by Hacker
 ### Culture
 - *The Culture Industry* by Theodor Adorno
+
+### Psychology and psychoanalysis
+
+- “Habit” by William James
 ### Religion
 - *Mere Christianity* by C. S. Lewis
+
+### Women and gender studies
+
+**Cyberfeminism**
+- *A Cyborg Manifesto* by Donna Haraway
+- 
 
 ## Science, technology, and mathematics
 
