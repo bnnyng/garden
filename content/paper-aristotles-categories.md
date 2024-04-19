@@ -4,9 +4,9 @@ aliases:
 tags:
   - bloom
   - PHIL-UN2101
-publish: 
+publish: "true"
 date: 2022-11-21
-lastmod: 2024-04-02T16:37:07-07:00
+lastmod: 2024-04-19T14:29:08-07:00
 ---
 *Written for History of Philosophy I, Fall 2022*
 
