@@ -6,19 +6,25 @@ tags:
   - permanent-note
   - topic-logic-mathematics
   - theorem
+  - MATH-UN1207
 publish: "true"
 date: 2023-12-26
-lastmod: 2023-12-28T16:05:20-08:00
+lastmod: 2024-04-17T16:20:07-07:00
 ---
-The rank-nullity theorem says that a [[Axioms for fields and vector spaces|vector space]] can be thought of as a combination of vectors that “die” (the vectors in the [[Image and kernel|kernel]]) and the vectors that “survive” (the vectors in the image) after a linear transformation.
+The rank-nullity theorem says that a [[Vector space and subspace axioms|vector space]] can be thought of as a combination of vectors that “die” (the vectors in the [[Image and kernel|kernel]]) and the vectors that “survive” (the vectors in the image) after a linear transformation.
 
->If $A : V \to W$ is a linear map between finite-dimensional vector spaces, we have $\text{rank}(A) + \text{null}(A) = \text{dim}(V).$
+>[!abstract] Theorem: Rank-nullity
+>If $A : V \to W$ is a linear map between finite-dimensional vector spaces, we have 
+>$$
+>\text{rank}(A) + \text{null}(A) = \text{dim}(V).
+>$$
 
 As a corollary of the theorem, we can use facts about $A$ to determine the relative [[Bases and dimension|dimensions]] of $V$ and $W$.
 
->$$A \text{ is injective} \implies \text{dim}(V) \leq \text{dim}(W)$$
->$$A \text{ is surjective} \implies \text{dim}(V) \geq \text{dim}(W)$$
->$$A \text{ is bijective} \implies \text{dim}(V) = \text{dim}(W)$$
+>[!abstract] Corollary
+>- $A \text{ is injective} \implies \text{dim}(V) \leq \text{dim}(W)$
+>- $A \text{ is surjective} \implies \text{dim}(V) \geq \text{dim}(W)$
+>- $A \text{ is bijective} \implies \text{dim}(V) = \text{dim}(W)$
 
 ---
 # Proof

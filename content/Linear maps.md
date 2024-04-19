@@ -7,13 +7,14 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
+  - MATH-UN1207
 publish: "true"
 date: 2022-10-20
-lastmod: 2023-12-28T18:07:21-08:00
+lastmod: 2024-03-31T13:59:00-07:00
 ---
 # Overview
 
-**Linear maps** are functions that send elements from one [[Axioms for fields and vector spaces|vector space]] to another in a way that is compatible with the [[Axioms for fields and vector spaces]]. 
+**Linear maps** are functions that send elements from one [[Vector space and subspace axioms|vector space]] to another in a way that is compatible with the [[Vector space and subspace axioms]]. 
 
 **Linearity** is ubiquitous, meaning addition and scaling can be applied before or after the linear transformation without changing the result.
 
@@ -28,7 +29,9 @@ Linear maps are defined with respect to a [[Bases and dimension|basis]]. One ups
 >- (L2) **$A$ respects scaling.** For all $v \in V$ and $c \in \mathbb F$, $A(cv) = cA(v)$.
 
 Every linear function $f : \mathbb F^n \to F$ for some $a_1, \cdots , a_n \in \mathbb F$ takes the form 
-$$ f\begin{pmatrix} x_1 \\ \cdots \\  x_n\end{pmatrix} = a_1x_1 + \cdots + a_nx_n.$$
+$$ 
+f\begin{pmatrix} x_1 \\ \cdots \\  x_n\end{pmatrix} = a_1x_1 + \cdots + a_nx_n.
+$$
 
 Properties of linear maps include:
 - *(Lemma 44)* If $A : V \to W$ is a linear map, we have $A(\vec 0) = \vec 0.$

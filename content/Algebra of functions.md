@@ -4,52 +4,28 @@ aliases:
   - well-defined function
   - domain
   - codomain
-  - injective
-  - surjective
-  - bijective
-  - image
-  - preimage
+  - function
 tags:
   - permanent-note
   - topic-logic-mathematics
+  - MATH-UN1207
+  - MATH-GU4041
+lastmod: 2024-03-31T14:21:12-07:00
+publish: 
+date: 2023-02-01
 ---
-# Overview
+>[!example] Definition: Function
+>A function $f: X \to Y$ consists of three pieces of data:
+>- A set $X$, which is the **domain.**
+>- A set $Y$, which is the **codomain.**
+>- A rule $f$ which takes any input element $x \in X$ and produces an *unambiguous* output $f(x) \in Y$. 
 
-## Algebra of functions
+A **well-defined** function produces exactly one value in its **codomain** for every input from its **domain**; that is, there must be exactly one such $f(x)$ for each input $x$. An **ill-defined** function has a formula which is ambiguous, incomplete, or self-contradictory.
 
-- A function consists of three pieces of data: a domain set, a codomain set, and a rule which takes any input from the domain and produces a unique output in the codomain.
-- A **well-defined** function produces exactly one value in its **codomain** for every input from its **domain**; that is, there must be exactly one such $f(x)$ for each input $x$.
-- An **ill-defined** function has a formula which is ambiguous, incomplete, or self-contradictory.
+Related: [[Image and preimage]], [[Injectivity, surjectivity, and bijectivity]], 
 
 ---
-# Notes
-
-## Definition of a function
-
-
-*(Definition 7)* A function $f: X \to Y$ consists of three pieces of data:
-- A set $X$, which is the **domain.**
-- A set $Y$, which is the **codomain.**
-- A rule $f$ which takes any input element $x \in X$ and produces an *unambiguous* output $f(x) \in Y$. 
-
-## Images and preimages
-Given a function $f:X \to Y$, we can produce subsets of $X$ and $Y$:
-
-- If $S \subset X$, the **(forward) image** of $S$ under the function $f$ is the set of points in $Y$ which are mapped to by some point(s) in $S$.
-$$ f(S) = \{y \in Y \mid y = f(s) \text{ for some } s \in S \}$$
-- If $T \subset Y$, the **preimage** or **reverse image** of $T$ under the function $f$ is the set of points in $X$ which map to some point in $T$.
-$$ f^{-1}(T) = \{x \in X \mid f(x) \in T \} $$
-
-## Injectivity, surjectivity, and bijectivity
-Suppose $f : X \to Y$ is a function.
-
-- $f$ is **injective** means if two input values have the same output value, they were the same input value all along. The *contrapositive* is: Any two distinct elements in the **domain** map to distinct elements in the **codomain**.
-$$ \forall_{x \in X} [f(x) = f(x)^\prime] \implies [x = x^\prime]]$$
-- $f$ is **surjective** means that all possible output values are entered, so that the **image** of $f$ is the whole **codomain**.
-$$ f(X) = Y \equiv \forall_{y\in Y}\exists_{x\in X}[f(x) = y] $$
-- $f$ is **bijective** if it is both **injective** and **surjective.**
-
-## Proof strategies with functions
+# Proof strategies with functions
 
 - Two functions $f$ and $g$ are equal if:
 	- $f: X \to Y$ and $g: X \to Y$ have the same domain and codomain.
@@ -61,7 +37,7 @@ $$ f(X) = Y \equiv \forall_{y\in Y}\exists_{x\in X}[f(x) = y] $$
 
 # Review
 
-## Honors Math A
+[[MATH-UN1207]]
 
 - Show that $f^{-1}(Y) = X$ no matter what $f,X,Y$ are.
 - Suppose $f: \mathbb R \to \mathbb R$ is the function defined by $f(x) = x^2$. 
@@ -77,7 +53,8 @@ $$ f(X) = Y \equiv \forall_{y\in Y}\exists_{x\in X}[f(x) = y] $$
 - Prove each of the set inclusions above and the equality below using **definition pushing** arguments.
 	- $f(A\cup B) = f(A) \cup f(B)$
 
-## Modern Algebra I
+[[MATH-GU4041]]
+
 - Give an example for $f(\bigcap_{A \in T}A) \subset \bigcap_{A \in T} fA$.
 - Show that **compositions** are associative using a diagram.
 - Give an example where function **composition** does not commute.

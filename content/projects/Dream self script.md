@@ -1,7 +1,7 @@
 ---
 tags:
   - project
-lastmod: 2024-01-18T23:20:06-08:00
+lastmod: 2024-03-27T19:07:25-07:00
 date: 2023-12-31
 ---
 # Routine
@@ -68,6 +68,7 @@ date: 2023-12-31
 - I have at least three streams of income.
 - I make at least six figures a year outside of my primary occupation.
 - I am a millionaire. 
+- I always fly first class.
 
 ---
 # Relationships

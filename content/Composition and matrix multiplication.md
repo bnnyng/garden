@@ -5,8 +5,9 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
+  - MATH-UN1207
 date: 2022-11-16
-lastmod: 2023-12-28T18:17:56-08:00
+lastmod: 2024-03-31T13:24:39-07:00
 ---
 # Overview
 

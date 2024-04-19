@@ -4,7 +4,23 @@ tags:
   - evergreen
 publish: 
 date: 2024-02-25 15:08
-lastmod: 2024-02-28T11:12:20-08:00
+lastmod: 2024-03-26T17:38:12-07:00
+---
+# [[2024-03-26]]
+
+The last virtue discussed in the Ben Franklin group I’ve been attending is chastity.
+
+>[!quote]
+>CHASTITY. Rarely use venery but for health or offspring, never to dulness, weakness, or the injury of your own or another’s peace or reputation.
+
+What struck me most in this definition was how apparently lax it was. What is using venery for health? I feel like a similar sentiment was expressed by [[1890-schopenhauer-on-authorship-and-style]] on writing, the common thread being that one, in their own pursuits, should not inconvenience or harm another. To Schopenhauer, bad writing was indeed an inconvenience or burden to the readers.
+
+Eliza McLamb’s Substack essay “[Everyone’s Writing Sounds the Same Now](https://www.wordsfromeliza.com/p/everyones-writing-sounds-the-same)” brought this to mind once again; it is essentially an ode to the “girl-blog industrial complex.” And I agree, everything you create will have the touch of another artist. But what of this focus on the creator, and not the audience? 
+
+I spent a few hours editing a vlog today. To what end?
+
+Maybe I’m bitter because I do want to write, be a writer, but I struggle to string words together. Maybe I’m more meant for a wordless medium. My brain feels stuffed with cotton clouds.
+
 ---
 # [[2024-02-27]]
 

@@ -23,3 +23,6 @@
 - In a passage that would shock Aristotle, Daniel Kaufman, whose “preferred philosophy of life [is] Aristotelianism,” buys wholesale the metaphor of clothes: “It is not enough, then, that one admire a philosophy for its intellectual qualities. It must be well suited to the type of person one is and the type of life one leads, an ill-fitting philosophy being even more obvious and awkward and ultimately useless than an ill-fitting suit.” But Aristotle believed that his philosophy was *true*—one size fits all—not a good look for some that others need not sport. ([View Highlight](https://read.readwise.io/read/01hqq75dj56caetj1es78t72ta))
     - Note: Funny distinction! Where have I heard of Kaufman before?
 - Moral philosophy often works this way: the role of argument is not to compel assent—it almost never does—but to build conceptual schemes and through connection create new meaning. ([View Highlight](https://read.readwise.io/read/01hqq7s3nh1bm9v31hndjmrk14))
+## New highlights added April 17, 2024 at 2:52 PM
+- In this broader sense, self-help was entwined with philosophy at the birth of the Western tradition ([View Highlight](https://read.readwise.io/read/01hv8nsmrqzthmgwevaq7sghe6))
+    - Note: Make a permanent note on self-help!

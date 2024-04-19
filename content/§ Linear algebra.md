@@ -6,13 +6,13 @@ tags:
   - moc
 publish: "true"
 date: 2022-10-20
-lastmod: 2023-12-28T18:20:49-08:00
+lastmod: 2024-04-10T17:43:52-07:00
 ---
 # Topics
 
 ## Foundations of linear algebra
 
-- [[Axioms for fields and vector spaces]]
+- [[Vector space and subspace axioms]]
 - [[Linear combinations and spanning]]
 - [[Linear independence]]
 - [[Bases and dimension]]
@@ -32,6 +32,9 @@ lastmod: 2023-12-28T18:20:49-08:00
 **Theorems:**
 - [[(Theorem) Linear maps are determined by their values on a basis]]
 - [[(Theorem) Rank-nullity]]
-- [[(Theorem) Invertible matrix theorem]]
+- [[(Theorem) Invertible matrix]]
 
+## Inner products, orthogonality, and the spectral theorem
+
+- [[Inner product spaces and norms]]
 

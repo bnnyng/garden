@@ -4,7 +4,7 @@ aliases:
 tags:
   - evergreen
 date: 2023-12-25
-lastmod: 2024-03-06T08:52:57-08:00
+lastmod: 2024-04-11T12:07:42-07:00
 title: My antilibrary
 ---
 [[2023-le-cunff-building-an-antilibrary]]
@@ -98,10 +98,18 @@ title: My antilibrary
 ---
 # The filing cabinet
 
-**Quantum complexity theory**
+#wip EA Columbia reading lists?
+
+##### Computational models of mind
+
+[*See full reading list here.*](https://www.columbia.edu/~jrm2182/3654.pdf)
+
+##### Quantum complexity theory
 - [Quantum Complexity Theory lecture notes](https://danielgrier.com/courses/CSE291/Fa22/) by Daniel Grier
 - [Quantum Computing lecture notes](https://arxiv.org/pdf/1907.09415.pdf) by Ronald de Wolf
 - “[Introduction to the Quantum Circuit Model](https://www.cs.cmu.edu/~odonnell/quantum15/lecture01.pdf)” by Ryan O’Donnell
+
+
 
 ---
 # The scratchpad

@@ -9,9 +9,10 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
+  - MATH-UN1207
 publish: "true"
 date: 2022-10-20
-lastmod: 2023-12-28T18:07:44-08:00
+lastmod: 2024-03-31T13:23:58-07:00
 ---
 # Overview
 
@@ -37,6 +38,6 @@ Most generally, **inverses** are linear maps which “undo” another map. An in
 >- $A$ is **left invertible** if there exists a linear map $B : W \to V$ so that $BA = 1_V$.
 >- $A$ is **invertible** if there exists a linear map $B : W \to V$ so that $AB = 1_W$ and $BA = 1_V$. We write $B = A^{-1}$.
 
-- [[(Theorem) Invertible matrix theorem]]
+- [[(Theorem) Invertible matrix]]
 
 #wip examples of invertible maps

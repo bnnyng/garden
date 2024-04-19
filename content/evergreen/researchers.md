@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-02-15 09:36
-lastmod: 2024-03-03T18:52:59-08:00
+lastmod: 2024-04-05T13:02:02-07:00
 ---
 | Lab                                                                            | PI                                  | Location / department                    | Topic / techniques                                                                                                                 | Ongoing projects                                                                                                                                                                                                                     | Additional notes                                                 |
 | ------------------------------------------------------------------------------ | ----------------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
@@ -17,3 +17,11 @@ lastmod: 2024-03-03T18:52:59-08:00
 
 Others to look into:
 - Fei Xu – developmental psychology
+
+---
+# Potential senior thesis advisors
+
+- Wei Ji Ma – computational study of decision-making; sequential decision-making, social decision-making, approximate inference and resource rationality
+	- Has mentored Barnard cognitive science thesis in the past
+- Todd Gurekis
+- ARNI institute member

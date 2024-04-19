@@ -7,8 +7,9 @@ tags:
   - permanent-note
   - topic-cognitive-science
   - seed
+  - COGS-UN1001
 publish: "true"
-lastmod: 2024-02-19T19:27:30-08:00
+lastmod: 2024-04-02T15:38:19-07:00
 date: 2023-12-26
 ---
 Embodied cognition investigates how cognition changes when situated in a physical environment. In the embodied approach to cognitive science, the mind and environment are a single intelligent system.

@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: "true"
 date: 2023-12-30 09:12
-lastmod: 2024-03-04T12:37:06-08:00
+lastmod: 2024-04-18T11:47:16-07:00
 title: Book reviews
 ---
 Standalone reviews for books that do not have [literature notes](https://by2328.github.io/garden/tags/literature-note).
@@ -23,6 +23,26 @@ My book ratings depend mostly on my personal whims and may have very little to d
 # Reviews
 
 ## 2024
+
+#### *The Company She Keeps* by Mary McCarthy
+
+Read 2024-04-10 –  [Goodreads](https://www.goodreads.com/review/show/6309331512) –⭐⭐⭐⭐
+
+It is hard for me to decide whether McCarthy speaks to the social terrain between men and women with precise, timeless accuracy, or whether she only *appears* to do so by her own wit. There are a lot of topics of particular early 20th-century interest—Catholicism vs. Protestantism and puritanism, communism and Trotskyism, and psychoanalysis—that nevertheless remain engaging as vehicles of universal human behavior. I entirely see what basically every other reviewer means when they describe this book as similar to a maliciously truthful friend, speaking unsympathetically about its protagonist in confidence. There is something very frustrating about sexism laid bare, unbuffered by theorizing. Is McCarthy being unnecessarily cheeky or telling it like it is?
+
+> How indecent and anti-human it had been, like the tussle between the drowning man and the lifeguard! And of course she had invited \[the boys to lunge at her\], just as she was inviting it now, but what she was really asking along was not that the male should assault her, but that he should believe her a woman (103).
+
+>The ideas he put forward, familiar enough when clothed in their usual phraseology, emerged in his writing in a state of undress that made them look exciting and almost new, just as a woman whom one has known for years is always something of a surprise without her clothes on (169).
+
+The theme of asceticism was particularly thought-provoking to me: the expression of asceticism as restraint and sacrifice even while performing a sexual act, restraint again from making an intellectual commitment. Moderation is always performance in our consume-restrict tradition (something something Girard mimetic rivalry with excessive behavior).
+
+>That her asceticism should have to be expressed in terms of sensuality deepened, in a curious way, its value, for the sacrifice was both paradoxical and positive; this was no abstention like a meatless Friday or a chaste Sunday: it was the mortification of the flesh achieved through the performance of the act of pleasure (114).
+
+>It was true; he never swallowed any doctrine whole. Like a finicky eater, he took pride in the fact that he always left something on the plate. There was something peculiarly American and puritanical about this abstemiousness of his; in other countries children are taught that it is bad manners not to finish everything that is set before them (172).
+
+Anyway. I enjoyed it. I think this quote from the final story, about the protagonist’s appointment with her psychoanalyst, also captures the cleverness of McCarthy’s writing, and I’d be interested in reading more:
+
+>“I wasn’t listening,” she said, knowing this was not quite accurate. She *had* heard him, but the mind’s time is quicker than the tongue’s. Through the interstices of one of his measured paragraphs her whole life could flood in (280).
 
 #### *Mrs. Dalloway* by Virginia Woolf
 

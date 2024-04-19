@@ -3,12 +3,13 @@ lit-author:
 aliases:
   - Jackson (1982)
   - (Jackson, 1982)
+  - Epiphenomenal Qualia
 tags:
   - literature-note
 title: Essay | Epiphenomenal Qualia
 publish: "true"
 date: 2022-12-21
-lastmod: 2023-12-31T11:07:58-08:00
+lastmod: 2024-04-02T15:54:50-07:00
 ---
 # Summary
 

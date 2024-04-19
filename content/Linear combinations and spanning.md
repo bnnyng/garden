@@ -7,13 +7,14 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
+  - MATH-UN1207
 publish: "true"
 date: 2022-10-12
-lastmod: 2023-12-28T18:06:14-08:00
+lastmod: 2024-03-31T13:54:11-07:00
 ---
 # Overview
 
-A **linear combination** of the elements of a [[Axioms for fields and vector spaces|vector space]] $V$ defines another element of $V$. The **spanning set** is the set of all possible linear combinations that can be made out of elements in a subset of a vector space.
+A **linear combination** of the elements of a [[Vector space and subspace axioms|vector space]] $V$ defines another element of $V$. The **spanning set** is the set of all possible linear combinations that can be made out of elements in a subset of a vector space.
 
 Note the following phrasing:
 - “The span of $S$” = the vector subspace which is the set of all possible linear combinations we can make out of elements in the [[Axioms of set theory|set]] $S$. 
@@ -26,25 +27,34 @@ Note the following phrasing:
 Linear combinations are a meaningful way to make vectors out of other vectors. 
 
 >[!example] Definition: Linear combination
->If $a_1, \cdots , a_n \in \mathbb F$ and $V$ is a vector space over $\mathbb F$, the **linear combination** of $v_1, \cdots , v_n \in V$, then is an element of $V$ given by $$a_1v_1 + \cdots + a_nv_n.$$
+>If $a_1, \cdots , a_n \in \mathbb F$ and $V$ is a vector space over $\mathbb F$, the **linear combination** of $v_1, \cdots , v_n \in V$, then is an element of $V$ given by 
+>$$
+>a_1v_1 + \cdots + a_nv_n.
+>$$
 
 ---
 # Spans
 
 >[!example] Definition: Span
 >If $V$ is a vector space over the field $\mathbb F$, and $S \subset V$ is *any* subset, the **span** of $S$ is the set of all linear combinations that can be made out of the elements of $S$.
-$$ \text{span}(S) = \{a_1v_1 + \cdots + a_nv_n \mid a_1, \cdots, a_n \in \mathbb F \text{ and } v_1, \cdots, v_n \in S \} \subset V.$$
+>$$ 
+>\text{span}(S) = \{a_1v_1 + \cdots + a_nv_n \mid a_1, \cdots, a_n \in \mathbb F \text{ and } v_1, \cdots, v_n \in S \} \subset V
+>$$
 
 We can also define spans constructively: the set $v_1, \cdots , v_n$ **spans** $V$ if every element of $V$ can be written as a **linear combination** of the set of vectors. 
-$$ \text{span}(v_1,...,v_n) = \forall_{v \in V}\exists_{a_1, \cdots , a_n \in \mathbb F} [a_1v_1 + \cdots + a_nv_n] $$
+$$ 
+\text{span}(v_1,...,v_n) = \forall_{v \in V}\exists_{a_1, \cdots , a_n \in \mathbb F} [a_1v_1 + \cdots + a_nv_n] 
+$$
 
 ---
 # Spanning subspaces
 
 - *(Proposition 25)* See notes for example. The set of eventually-zero functions $S = \{f_0, f_1, f_2 \cdots \} \subset \text{Map}(\mathbb N, \mathbb F)$ is spanned by $S$. 
-$$span(S) = \text{Map}_{fin}$$
+$$
+span(S) = \text{Map}_{fin}
+$$
 - *(Proposition 26)* If $S \subset V$ is an arbitrary subset of vector space $V$, the set $\text{span}(S)$ satisfies the following properties:
-	- The set $\text{span}(S) \subset V$ is a [[Axioms for fields and vector spaces|linear subspace]];
+	- The set $\text{span}(S) \subset V$ is a [[Vector space and subspace axioms|linear subspace]];
 	- We have $S \subset \text{span}(S)$;
 	- If $S \subset W \subset V$ for a **linear subspace** $W$, then we have $\text{span}(S)$ in $W$;
 - Intuitively, $\text{span}(S)$ is the *smallest* subspace containing $S$.

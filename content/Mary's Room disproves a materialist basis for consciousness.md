@@ -3,9 +3,10 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
+  - COGS-UN1001
 publish: "true"
 date: 2023-12-24
-lastmod: 2024-01-24T12:47:03-08:00
+lastmod: 2024-04-02T15:47:06-07:00
 ---
 “Mary’s Room” is a hypothetical argument about a neuroscientist named Mary who has only ever experienced living in a black-and-white room. However, she has all the physical information needed to understand the visual system, and what it means to see things like the sky and colors like blue. One day, Mary is able to leave the room, and sees the color red. Does Mary learn anything?
 

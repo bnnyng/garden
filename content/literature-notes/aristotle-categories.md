@@ -8,7 +8,7 @@ tags:
 title: Book | Aristotle's Categories
 publish: "true"
 date: 2023-12-26
-lastmod: 2023-12-30T10:19:14-08:00
+lastmod: 2024-04-02T16:36:57-07:00
 ---
 # Summary
 
@@ -28,7 +28,6 @@ In *Categories*, Aristotle uses linguistic structuring to enumerate the most gen
 ---
 # Notes
 
-## Context
 - Aristotle studied with Plato, did some investigation into biology, then returned to Athens; *Categories* comes early in his career.
 - Aristotle was motivated to write this text in response to [[plato-phaedo|Phaedo]]; Socrates’ “second sailing” never fully explains its logic of change.
 
