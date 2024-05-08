@@ -11,9 +11,11 @@ tags:
   - MATH-42X
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2024-04-17T16:45:15-07:00
+lastmod: 2024-04-22T11:36:41-07:00
 status: 🟥
 ---
+Related: [[Measurable functions]]
+
 # Limits in Euclidean space
 
 >[!example] Definition: Limit point of a set
@@ -30,7 +32,7 @@ Limits for combinations of functions are defined as follows:
 - **Sums of functions**: Given $f,g: D \to \mathbb R^m$, if $\text{lim}(f) = \vec c$ and $\text{lim}(g) = \vec d$ exist, then $\text{lim}(f+g) = \vec c + \vec d$ exists.
 - **Products of functions**: given $f,g : D \to \mathbb R$, if $\text{lim}(f) = c$ and $\text{lim}(g)$ exists, then $\text{lim}(fg) = cd$ exists.
 - **Composite functions**: Given $f : D \subset \mathbb R^n \to \mathbb R^m$ and $g: D^\prime \subset \mathbb R^m \to \mathbb R^\ell$ so that the composite function $g \circ f : D \to \mathbb R^\ell$ is defined, if $\text{lim} \ f(\vec x) = \vec c$ as $\vec x \to \vec x_0$ exists and the limit for $g(\vec y)$ as $\vec y \to \vec c$ exists, then the limit $g(f(\vec x))$ as $\vec x \to \vec x_0$ exists, and is equal to the limit $g(\vec y)$ as $\vec y \to \vec c$.
-- **Composites with continuous functions**: If $g$ is [[Continuity|continuous]], then $\text{lim}_{\vec x \to \vec x_0} \ g(f(\vec x)) = g(\text{lim}_{\vec x \to x_0} \ f(\vec x))$.
+- **Composites with continuous functions**: If $g$ is [[Pointwise continuity|continuous]], then $\text{lim}_{\vec x \to \vec x_0} \ g(f(\vec x)) = g(\text{lim}_{\vec x \to x_0} \ f(\vec x))$.
 
 We have the following facts about limits:
 - **The limit on an open set does not change with a larger domain.** Given an **open set** $U \subset D \subset \mathbb R^m$, the function $f : D \to \mathbb R^m$, and an element $\vec x_0 \in U$, then the **limit** as $\vec x \to \vec x_0$ for some $\vec x \in U$ is the same as the **limit** for some $\vec x \in D$. 
@@ -45,7 +47,8 @@ We have the following facts about limits:
 >E \cap [B(x, \epsilon) \backslash \{x\}] \neq \emptyset.
 >$$
 
+
 ---
 # Review
 
-- Use the definitions of limits and continuity, respectively, to show that a function $f : D \to \mathbb R^m$ is [[Continuity|continuous at]] $x_0 \in D$ *if and only if* $\lim_{x \to x_0} f(x)$ exists and is equal to $f(x_0)$. ⭐
+- Use the definitions of limits and continuity, respectively, to show that a function $f : D \to \mathbb R^m$ is [[Pointwise continuity|continuous at]] $x_0 \in D$ *if and only if* $\lim_{x \to x_0} f(x)$ exists and is equal to $f(x_0)$. ⭐

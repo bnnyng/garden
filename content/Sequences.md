@@ -49,7 +49,7 @@ See also: [[Cauchy sequence]]
 >$$
 >If $x_n$ converges to $x$, then $x$ is called the **limit** of the sequence $x_n$, and we write $\lim_{n \to \infty} x_n = x$. A **divergent** sequence does not converge to some real number.
 
-- *(Proposition 3.1)* **Continuous functions take convergent sequences to convergent sequences.** If $f: D \to \mathbb R$ is [[Continuity|continuous]] and $x_n \in D$ is a **convergent sequence** $x_n \to x$ with $x \in D$ as well, then $f$ sends $x_n$ to another convergent sequence $f(x_n) \to f(x)$ .
+- *(Proposition 3.1)* **Continuous functions take convergent sequences to convergent sequences.** If $f: D \to \mathbb R$ is [[Pointwise continuity|continuous]] and $x_n \in D$ is a **convergent sequence** $x_n \to x$ with $x \in D$ as well, then $f$ sends $x_n$ to another convergent sequence $f(x_n) \to f(x)$ .
 - *(Proposition 3.2)* **Convergent sequences converge to a *unique* limit**. If $x_n \to x$ and $x_n \to x^\prime$, then $x = x^\prime$.
 - *(Lemma 3.3)* **Bounded monotone sequences converge.** Suppose $x_n$ is **monotone increasing**, so $x_n +1 \geq x$ for all $n \in \mathbb N$, and [[Supremum and infimum|bounded above]], so there exists an $x$ with $x_n \leq x$ for all $n \in \mathbb N$. Then $x_n$ **converges** to some $x^\prime$.
 - [[(Theorem) All bounded sequences have a convergent subsequence]] (Bolzano-Weierstrass).

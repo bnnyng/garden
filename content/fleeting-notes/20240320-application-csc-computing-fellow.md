@@ -2,7 +2,7 @@
 tags:
   - fleeting-note
   - career/application
-lastmod: 2024-04-11T14:02:17-07:00
+lastmod: 2024-05-01T11:32:55-07:00
 ---
 # Overview
 
@@ -33,11 +33,28 @@ Takeaways: Need strong communication skills, interpersonal skills for peer-to-pe
 ---
 # Application materials
 
-- [ ] Updated resume
+- [x] Updated resume
 - [ ] Cover letter describing interest in position
 
 ---
 # Cover letter
+
+## Draft
+
+Dear CSC team,
+
+I am writing to express my interest in becoming a Computing Fellow in Fall 2024. I believe the role is a perfect match for my existing skills in programming and data science, my STEM research background, and my passion for peer and self education.
+
+My experience with data management and modeling, including classical machine learning and deep neural networks, allows me to apply computational methods across a wide range of problems and STEM disciplines. I have over six years of coding experience and a strong foundation in general programming principles from taking Columbia’s Data Structures & Algorithms. More specifically, as a research assistant at NYU’s Center for Data Science, I used PyTorch to train and analyze both custom and foundation convolutional neural networks on image data, including writing a new “locally connected” layer class for the PyTorch library. Competing in the 2024 Mathematical Contest in Modeling, where teams were challenged to use Wimbledon data to model the flow of play in a tennis game, also gave me extensive experience in manipulating tabular data, applying both frequentist and Bayesian statistical models, and, most importantly, performing error and sensitivity analyses on the results of statistical inference. This summer, I will be studying emergent behavior among agents equipped with social motivation in a multi-agent reinforcement learning setting. Thus, I am prepared to support my peers with Python data analysis and learning algorithms, whether those algorithms are used to draw conclusions from various formats, or are themselves the object of study.
+
+My passion for computational research makes me an ideal Fellow for STEM courses. Beyond just computing, I have a thorough understanding of how data science fits in the scientific process. I believe I would be a particularly effective Fellow when paired with data-driven courses, especially those involving neuroscience domain knowledge, like “Introduction to Computational Thinking” and “Fundamentals in Computational Neuroscience Models.” I am also interested in leading data science CSC seminars, from introductory topics like using Pandas to niche techniques like probabilistic programming.
+
+Finally, participating in research communities has given me experience with peer teaching and effective communication. During poster sessions for Barnard’s Summer Research Institute and NYU’s CDS, I learned to distill highly technical research topics for a general audience and provide accessible answers to questions. Currently, I am a member of the University of Washington’s computational neuroscience journal club, where I am responsible for an hour-long presentation on a research paper each quarter. My comfort with peer teaching in both small groups and seminar-style large audiences will translate well to a Fellow’s pedagogical role.
+
+My interest in scientific research is motivated by my intellectual curiosity and desire to learn new skills, as well as sharing them with others. The Computing Fellow role not only suits my technical background, but also provides a uniquely fulfilling chance to prepare for graduate school teaching responsibilities. I am very excited for this job opportunity, and I thank you for your full consideration.
+
+Best,
+Bonnie
 
 ## Brainstorm
 

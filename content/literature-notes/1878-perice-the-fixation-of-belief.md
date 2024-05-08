@@ -9,7 +9,7 @@ tags:
 title: Essay | The Fixation of Belief
 publish: "true"
 date: 2024-04-15 16:55
-lastmod: 2024-04-19T14:25:35-07:00
+lastmod: 2024-04-29T14:18:38-07:00
 ---
 # Summary
 
@@ -59,6 +59,8 @@ There are three key differences between doubt and belief:
 >With the doubt, therefore, the struggle begins, and with the cessation of doubt it ends. Hence, the sole object of inquiry is the settlement of opinion.
 
 ## V
+
+^73872c
 
 There are four methods of fixing belief: tenacity, authority, reasoning *a priori*, and science. While the earlier methods may be more convenient than the later, they have disadvantages that the later aim to overcome. The method of science is superior because it is the only one that requires belief to coincide with reality.
 

@@ -90,12 +90,12 @@ $$
 - *(Proposition 113)* If $A : \mathbb F^n \to \mathbb F^m$ is a linear map, we have $\text{ker}(A^*) = \text{im}(A)^\perp$ and $\text{im}(A^*) = \text{ker}(A)^\perp$.
 
 ## Maps between inner product spaces
-- *(Definition 59)* If $V$ is an [[Inner product spaces and norms|inner product space]], an **isometry** is an [[Invertibility|invertible]] linear map $A : V \to V$ with $\langle Av_1, Av_2 \rangle = \langle v_1, v_2 \rangle$ for all $v_1, v_2 \in V$.
+- *(Definition 59)* If $V$ is an [[Inner product spaces|inner product space]], an **isometry** is an [[Invertibility|invertible]] linear map $A : V \to V$ with $\langle Av_1, Av_2 \rangle = \langle v_1, v_2 \rangle$ for all $v_1, v_2 \in V$.
 	- If $V = \mathbb R^n$ is a *real* inner product space, $A$ is called an **orthogonal transformation** and has a corresponding $n \times n$ **orthogonal matrix**. The set of **orthogonal matrices** is denoted $O(n)$.
 	- If $V = \mathbb C^n$ is *complex*, $A$ is called an **unitary transformation** and has a corresponding $n \times n$ **unitary matrix.** The set of **unitary matrices** is denoted $U(n)$.
 - *(Proposition 115)* If $A : V \to V$ is a linear map of a *finite-dimensional* **inner product space**, then the following are equivalent:
 	- $A$ is an **isometry**.
-	- $A$ preserves [[Inner product spaces and norms|norms]]; for all $v \in V$, we have $\|Av \| = \|v \|$.
+	- $A$ preserves [[Inner product spaces|norms]]; for all $v \in V$, we have $\|Av \| = \|v \|$.
 	- $A$ satisfies the equation $A^*A = I$.
 	- If $V = \mathbb F^n$ and $A$ corresponds with an $n \times n$ matrix, then the **columns** of $A$ form an [[Orthogonal complements|orthonormal basis]] for $\mathbb F^n$.
 - *(Lemma 118)* **Inner product and symmetric/Hermitian matrices.** 

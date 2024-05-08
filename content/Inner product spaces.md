@@ -11,7 +11,7 @@ tags:
   - MATH-UN1207
 publish: "true"
 date: 2024-04-10 17:44
-lastmod: 2024-04-10T18:33:46-07:00
+lastmod: 2024-05-01T13:25:16-07:00
 ---
 # Overview
 
@@ -19,7 +19,7 @@ An **inner product** is a function that takes two input vectors and outputs a sc
 
 An inner product space is a [[Vector space and subspace axioms|vector space]] together with an inner product on it. 
 
-Related: [[Metrics and metric spaces]]
+Related: [[Metrics and metric spaces]], [[Norms]]
 
 ---
 # Real and complex dot products
@@ -59,18 +59,6 @@ The **complex dot product** has the following properties:
 >- (I3 + I4) **Conjugate-linear, or antilinear, on the second input.** $\langle v, aw + bu \rangle = \overline{a} \langle v, w \rangle + \overline{b} \langle v, u \rangle$.
 
 Note that subspaces of inner product spaces also have the properties of inner product spaces.
-
----
-# Norms
-
->[!example] Definition: Norm on an inner product space
->If $V$ is an inner product space, the **norm**, or **magnitude**, is a function $\| \cdot \| : V \to [0, \infty)$ defined by $\sqrt{\langle v, v \rangle} \in [0, \infty)$.
-
->[!abstract] [[MATH-UN1207]], Lemma 102
->The **norm** on an **inner product space** satisfies the following properties:
->- (N1) $\| v \| \geq 0$, and $\|v\| = 0 \iff v = \vec 0$.
->- (N2) $\|cv\| = |c| \|v\|$
->- (N3) $\|v + w \|^2 = \|v\|^2 + \|w\|^2 + 2\text{Re} \langle v,w \rangle$. In particular, $\|v + w \|^2 = \|v\|^2 + \|w\|^2$ if and only if $\langle v, w \rangle$ has no real part. 
 
 ---
 # Review

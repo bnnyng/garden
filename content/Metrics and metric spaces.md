@@ -18,4 +18,4 @@ lastmod: 2024-04-10T18:08:03-07:00
 
 ^2a64da
 
-Related: [[Inner product spaces and norms]]
+Related: [[Inner product spaces]]

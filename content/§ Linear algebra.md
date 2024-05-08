@@ -36,5 +36,5 @@ lastmod: 2024-04-10T17:43:52-07:00
 
 ## Inner products, orthogonality, and the spectral theorem
 
-- [[Inner product spaces and norms]]
+- [[Inner product spaces]]
 

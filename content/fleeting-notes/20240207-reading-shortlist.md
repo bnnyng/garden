@@ -3,7 +3,7 @@ tags:
   - fleeting-note
 aliases:
   - 2024 reading shortlist
-lastmod: 2024-02-07T10:59:51-08:00
+lastmod: 2024-04-30T02:26:13-07:00
 ---
 
 # Reading shortlist
@@ -11,15 +11,15 @@ lastmod: 2024-02-07T10:59:51-08:00
 
 - [x] *The Sea, the Sea* by Iris Murdoch
 - [ ] *The Passion According to G.H.* by Clarice Lispector
-- [ ] *The Rings of Saturn* by W. G. Sebald
+- [x] *The Rings of Saturn* by W. G. Sebald
 - [ ] *Dictee* by Theresa Hak Kyung Cha
 - [ ] *Invisible Cities* by Italo Calvino
-- [ ] *Mrs. Dalloway* by Virginia Woolf
+- [x] *Mrs. Dalloway* by Virginia Woolf
 - [ ] *The Waves* by Virginia Woolf
 - [ ] *Yoga*
 - [ ] *The Recognitions* by William Gaddis
 - [ ] *Happening* by Annie Ernaux 
-- [ ] *Nausea* by Sartre
+- [x] *Nausea* by Sartre
 - [ ] *War and Peace* or *Anna Karenina*
 - [ ] *Hunger* by Knut Hamsun
 - [ ] *Brideshead Revisited*
@@ -54,13 +54,14 @@ lastmod: 2024-02-07T10:59:51-08:00
 - [ ] Samuel Beckett
 - [ ] Honoré de Balzac
 - [ ] Don DeLillo
-- [ ] Sartre 
+- [x] Sartre 
 - [ ] Annie Ernaux
 - [ ] Kierkegaard
 - [ ] William Burroughs
 - [ ] Susan Sontag
 - [ ] William T. Gaddis
 - [ ] Cormac McCarthy
+- [ ] William Faulkner
 ## Books to purchase
 - [ ] The Passion According to G. H.
 - [x] Dictee

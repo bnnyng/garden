@@ -25,6 +25,6 @@ Cauchy sequences are closely related to [[Sequences|convergent sequences]]; howe
 # Review
 
 - Prove or justify the following facts:
-	- Cauchy sequences are [[Bounded sets|bounded]] (hint: choose $N$ that satisfies the definition of boundedness).
+	- Cauchy sequences are [[Bounded sets and functions|bounded]] (hint: choose $N$ that satisfies the definition of boundedness).
 	- [[Sequences|Convergent sequences]] are Cauchy (hint: choose $N$ that satisfies the definition of Cauchy).
 	- Cauchy does not imply convergence.

@@ -2,7 +2,7 @@
 tags:
   - fleeting-note
   - career/application
-lastmod: 2024-04-18T12:51:34-07:00
+lastmod: 2024-04-30T20:21:36-07:00
 ---
 # Overview
 
@@ -11,7 +11,7 @@ lastmod: 2024-04-18T12:51:34-07:00
 ---
 # Application materials
 
-- [ ] Statement of interest
+- [x] Statement of interest
 - [x] One-page resume
 - [ ] 1-2 letters of reference – reference letters must be received before application is submitted
 
@@ -23,46 +23,44 @@ lastmod: 2024-04-18T12:51:34-07:00
 
 >In 300 words or less, please explain your interest in applying for the SURFiN Program, including how participating in this program will help you achieve your academic and career goals.
 
-By participating in SURFiN, I hope to make tangible progress in pursuing a research career and receive targeted training I lacked in past experiences. Although I would benefit from any SURFiN lab, I am especially eager to work on Lucas Tian’s project because it lies at the intersection of my primary interests (and majors): mathematics and cognitive science. 
+In the short term, lab work will teach me practical techniques and crucial domain knowledge for my senior thesis in computational cognition, where I plan to study the mechanisms of creative compositionality like mathematical proof-writing. Although I would benefit from any SURFiN lab, I believe Lucas Tian’s project on macaque drawing is the best match for both my research interests and existing skills in programming, statistical modeling, and deep neural networks, and I am thrilled to apply this background to novel modeling strategies. Further, in the long term, Tian’s emphasis on interdisciplinary collaboration with other labs will give me valuable familiarity with groups I could connect with in graduate school, like MIT’s Josh Tenenbaum, whose work on Bayesian brains first sparked my interest in computational cognition. Indeed, one project I proposed for this summer’s research internship was to replicate the extend the “learned inference model” (Tenenbaum et al. 2019) by incorporating hypothesis sampling in the model’s approximate inferences.
 
-In the short term, lab work will teach me practical computational techniques, and possibly a conceptual foundation, for my senior thesis in the 2025-2026 school year. Further ahead, the emphasis on interdisciplinary collaboration with researchers in theoretical neuroscience and cognition will give me valuable familiarity with groups and projects I could connect with in graduate school. 
-
-- Mention interest in Josh Tenenbaum’s work? The reason I became 
-
-As a first-generation, low-income student, I 
-
-- Why lab?
-	- Intersection between cognitive science and computational rigor, neuroscience and study of intelligence
-- Short-term goals
-	- Develop skills and make connections to do a senior thesis project for my degree
-	- Get a better understanding of the field itself
-	- Become familiar with what groups are doing what research so that I have a direction of where I want to apply for grad school
-- Long-term goals
-- Diversity focus
-	- First-gen college student, have always felt behind in terms of understanding *what* careers are available, still figuring out how a research career even works. Lack of connections to any industry or academia
-	- Allow me to progress on my immediate career goals without worrying about funding, employment that is directly related to my future
+As a first-generation, low-income student, I often face a trade-off between working to support myself and committing unconditionally to intellectual development. Although I consistently challenge myself with alternative ways of improving my neuroscience domain knowledge and computational skills—even during my current gap year, I participate in a weekly graduate journal club, and competed in an international modeling competition in February—direct career opportunities such as most undergraduate research assistantships are often unpaid, and hence unfeasible for me. Even without financial considerations, my university’s new cognitive science department has few connections to the (already niche) field of computational cognition and lacks advising for computational research. While SURFiN is not my only opportunity for financial support, participating in this program gives me access to a lab position and mentorship that perfectly aligns with my academic and professional interests.
 ## Research experience summary
 
 >In 300 words or less, please include a brief description of your prior and/or planned experience in the following subject areas: neuroscience, psychology, biology, computer science, math, physics or other relevant subjects. Experience may include research, project(s) or subject area study. Applicants are not expected to have research experience. In the absence of research experience, please detail any relevant coursework. This is intended to help us better understand each applicant's transcript and assess their fit with the available lab opportunities.
 
-- Academic experience
-	- Double major in cognitive science and pure mathematics, computational study of intelligence
-	- Survey course of strategies used across cognitive science, including behavioral and “hard” neuroscience
-		- Familiar with cognitive science theoretical frameworks and history like the different levels of analysis, computationalism vs. connectionism
-	- In terms of computational neuroscience, have been in journal club at the more cutting-edge research, have experience/comfort with reading literature
-	- Planned – the Neural Code computational neuroscience course
-- Project experience
-	- Mathematical modeling, including probabilistic programming
-	- Data-driven modeling (describe problem)
-- Research experience
-	- Computational neuroscience with Grace Lindsay – custom DNNs as well as large models, neuron-by-neuron analysis
-	- Planned – Santa Fe Institute
+My academic background gives me a strong foundation for computational neuroscience research. On the quantitative side, I am proficient with Python (4+ years across classes and projects), and have a rigorous understanding of calculus and statistics from proof-based math classes. Interdisciplinary cognitive science courses have exposed me philosophical principles behind research (e.g., computationalism vs. connectionism, Marr’s tri-level hypothesis), as well as various methods from behavioral studies to neuroimaging. In the 2024-2025 year, I am taking a project-based seminar on neural encoding frameworks and models, and a machine learning theory class.  
+
+At Grace Lindsay’s NYU lab, I applied neuroscience insights to convolutional neural networks to study the relationship between tuning and function in visual attention. My work included managing layer- and unit-wise data for both custom and foundation CNNs, writing hook functions to perturb individual layers and units, and creating a custom PyTorch “locally connected” layer that performs convolution with unshared weights. After experimenting with hyperparameters, I concluded that model architecture (e.g., receptive field size) affects both tuning-function correlations AND the extent to which gradient values are a useful proxy for function. Beyond specific conclusions, I gained experience reviewing neuroscience literature, self-teaching programming strategies, and understanding experimental limitations. At the Santa Fe Institute this summer, I am studying emergent behavior among agents equipped with social motivation in a multi-agent reinforcement learning setting.
+
+Lastly, competing in the 2024 Mathematical Contest in Modeling gave me extensive experience with pragmatic statistical modeling. Over four days and without any prior knowledge of Python’s PyMC or R’s Stan libraries, I created a Markov model for the “flow of play” in a tennis game, with transition probabilities obtained from Bayesian logistic regression. Crucially, I learned to thoroughly analyze uncertainties (posterior predictive modeling) and sensitivities (initializing different priors) for each variable to assess each prediction’s utility. 
+
+
 ## Additional information
 
 >In 100 words or less, please include additional information or circumstances not reflected elsewhere in your application. This may include an explanation of factors that may have affected your past academic or extracurricular performance, such as family care responsibilities, illness, military service or other factors. Please note that all application materials will be reviewed by Simons Foundation staff, external reviewers, and mentors/labs that you are invited to interview with if selected as a finalist for this program.
 
-- Working gap year to fund my undergraduate education
-	- However, have tried to stay engaged with academic/research community as much as possible: auditing classes, participating in math modeling competition, computational neuroscience journal club
+I am taking a working gap year in 2023-2024 to fund my undergraduate education. In the meantime, I have continued engaging with the academic community as much as I can by auditing higher math classes (analysis, differential equations), representing my university remotely in the 2024 Mathematical Contest in Modeling, and attending the University of Washington’s computational neuroscience journal club supervised by Dr. Eric Shea-Brown. Thus, the recommenders who can speak most directly to my current character and preparation for SURFiN (my restaurant manager and my modeling competition advisor) are slightly unconventional, and I hope they receive your full consideration regardless. 
+
+ALTERNATIVE: my restaurant manager and career mentor from another STEM discipline
+
+
+---
+# Letter of recommendation
+
+Dear admissions committee,
+
+It is my pleasure to recommend Bonnie Yang for the Shenoy Undergraduate Research Fellowship in Neuroscience. I have known Bonnie as a career mentor since summer 2022. I believe that Bonnie’s intellectual curiosity and analytical skills make her an excellent candidate for the research assistant position.
+
+Bonnie has an exceptional willingness to approach new and unfamiliar fields. In the time that I have known her, she has pursued assistantships in molecular biology, robotics, and computational neuroscience research groups, all without prior formal training in these fields. She is able to quickly digest scientific literature, correct gaps in knowledge, and manage an independent research schedule. As a mentor, I have seen her translate and improve these skills from one position to the next, and I have no doubt she will do the same in future labs.
+
+Additionally, Bonnie demonstrates a deep understanding of technical topics in her writing and communication. Her Honors Mathematics capstone, an expository paper on the Gauss-Bonnet theorem from differential geometry, was nominated for publication in the Columbia Journal of Undergraduate Mathematics for its unique accessibility to undergraduates with only a calculus background. While reviewing Bonnie’s research project proposals for summer 2024 internships, I was extremely impressed by the thoroughness of her literature review and her ability to identify meaningful extensions in topics such as complex systems and cognitive modeling. Although I do not have a cognitive science background, I could easily understand the motivation and significance of each project, and I would not have been surprised to learn if the proposal was written by a graduate student. 
+
+I occasionally advise undergraduates on preparing for post-graduate careers, and Bonnie has repeatedly shown the curiosity and dedication suited for research positions. Even as she is currently on a leave of absence from college, Bonnie has continued to develop her skills as a scientist by learning computational modeling techniques and joining a neuroscience journal club at her local university. I have full confidence that Bonnie will be a productive addition to your program.
+
+Sincerely,
+
 
 ---
 # Log

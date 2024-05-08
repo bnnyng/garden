@@ -34,3 +34,5 @@
 - Temporality … requires the mediation of the indirect discourse of narration … There can be no thought about time without narrated time ([View Highlight](https://read.readwise.io/read/01hm6az2wc5qfwk232e8fz3xk6))
 - What justifies our taking the subject of an action, so designated by his, her, or its proper name, as the same throughout a life that stretches from birth to death? The answer has to be narrative ([View Highlight](https://read.readwise.io/read/01hm6azbabvm87fp1nwj0werm7))
 - linguistic or social constructionism: the picture of a world made in significant measure by words. ([View Highlight](https://read.readwise.io/read/01hm6b0bm4pj3p1sd3fjnkyq7z))
+## New highlights added April 30, 2024 at 2:25 AM
+- The word ‘hermeneutics’ originally referred to the discipline of textual interpretation, especially of the Bible, and late 20th-century continental philosophy hinted that it should be philosophy’s successor. ([View Highlight](https://read.readwise.io/read/01hwq3zbn3b65jsndpxwkb00kz))

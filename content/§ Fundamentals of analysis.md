@@ -4,9 +4,9 @@ tags:
   - permanent-note
   - topic-logic-mathematics
   - moc
-lastmod: 2024-04-17T16:18:40-07:00
+lastmod: 2024-05-06T12:18:02-07:00
 date: 2023-09-01
-publish: "true"
+publish: 
 ---
 # Topics
 
@@ -23,7 +23,9 @@ publish: "true"
 
 ## Continuity
 
-- [[Continuity]]
+- [[Pointwise continuity]]
+- [[Uniform continuity]]
+- [[Continuous functions]]
 
 **Theorems:**
 - [[(Theorem) Intermediate value]]
@@ -35,6 +37,9 @@ publish: "true"
 	- [[Cauchy sequence]]
 - [[Limits and accumulation points]]
 
+**Theorems:**
+- [[(Lemma) Monotone convergence]]
+
 ## Differentiability
 
 
@@ -43,7 +48,7 @@ publish: "true"
 - [[Metrics and metric spaces]]
 - [[Open sets]]
 - [[Closed sets, closures, and dense subsets]]
-- [[Bounded sets]]
+- [[Bounded sets and functions]]
 
 **Theorems:**
 - [[(Theorem) Heine-Borel]]
@@ -57,7 +62,13 @@ publish: "true"
 - [[(Theorem) Compactness is an intrinsic property]]
 ## Lebesgue measure and integral
 
-- [[Lebesgue outer measure]]
+- [[Lebesgue measure]]
+- [[Measurable sets]]
+- [[Measurable functions]]
+- [[Lebesgue integral]]
+
+**Theorems:**
+- [[(Theorem) Approximation of measurable sets]]
 
 ---
 # Definitions

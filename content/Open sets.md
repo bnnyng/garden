@@ -28,8 +28,8 @@ status: 🟨
 ^956753
 We have the following facts about open sets:
 - The $r$-ball about a point $x$, as defined above, is an open set.
-- If $f: X \to Y$ is a [[Continuity|continuous]] function and $U \subset Y$ is open, then the [[Image and preimage|preimage]] $f^{-1}(U)$ is open as well.
-- $f$ is continuous *if and only if* for all open sets $U \subset X$, the image $f(U$) is an open set (see also: equivalent definitions of [[Continuity#Continuity in metric spaces|continuity in metric spaces]]).
+- If $f: X \to Y$ is a [[Pointwise continuity|continuous]] function and $U \subset Y$ is open, then the [[Image and preimage|preimage]] $f^{-1}(U)$ is open as well.
+- $f$ is continuous *if and only if* for all open sets $U \subset X$, the image $f(U$) is an open set (see also: equivalent definitions of [[Pointwise continuity#Continuity in metric spaces|continuity in metric spaces]]).
 
 Related: [[Closed sets, closures, and dense subsets]]
 

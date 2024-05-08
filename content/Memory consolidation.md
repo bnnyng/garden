@@ -6,6 +6,10 @@ aliases:
   - temporal discount
 tags:
   - permanent-note
+  - topic-cognitive-science
+date: 2023-09-01
+lastmod: 2024-04-26T11:10:32-07:00
+publish: "true"
 ---
 Memory consolidation is the process of reducing perceptual data for long-term storage. 
 
