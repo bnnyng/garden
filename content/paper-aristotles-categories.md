@@ -2,11 +2,11 @@
 aliases:
   - Aristotle's Categories
 tags:
-  - bloom
   - PHIL-UN2101
+  - fruit
 publish: "true"
 date: 2022-11-21
-lastmod: 2024-04-19T14:29:08-07:00
+lastmod: 2024-05-15T08:56:45-07:00
 ---
 *Written for History of Philosophy I, Fall 2022*
 
@@ -41,7 +41,3 @@ By evaluating Aristotle’s linguistic arguments for the priority of primary sub
 - [[20221025-lecture-the-structure-of-facts]]
 - [[aristotle-categories]]
 - [SEP – “Aristotle’s Categories”](https://plato.stanford.edu/entries/aristotle-categories/)
-
-Other resources:
-- [“A brief guide to writing the philosophy paper”](https://philosophy.fas.harvard.edu/files/phildept/files/brief_guide_to_writing_philosophy_paper.pdf)
-- [“Guidelines on writing a philosophy paper”](http://www.jimpryor.net/teaching/guidelines/writing.html)

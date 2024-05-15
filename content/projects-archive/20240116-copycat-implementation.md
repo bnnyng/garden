@@ -1,10 +1,10 @@
 ---
 aliases: 
 tags:
-  - bud
+  - project
 publish: 
 date: 2024-01-16 08:17
-lastmod: 2024-02-07T12:44:38-08:00
+lastmod: 2024-05-12T09:40:34-07:00
 hours-worked: "27.5"
 ---
 

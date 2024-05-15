@@ -1,10 +1,11 @@
 ---
-aliases: 
+aliases:
+  - Five-year plan
 tags:
-  - planner
+  - evergreen
 publish: 
 date: 2024-04-26 11:23
-lastmod: 2024-04-26T11:30:57-07:00
+lastmod: 2024-05-12T09:36:48-07:00
 ---
 # [[2024]]
 

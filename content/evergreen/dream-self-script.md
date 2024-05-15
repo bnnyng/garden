@@ -1,8 +1,10 @@
 ---
 tags:
-  - project
-lastmod: 2024-04-26T11:38:18-07:00
+  - evergreen
+lastmod: 2024-05-12T09:36:41-07:00
 date: 2023-12-31
+aliases:
+  - Dream self script
 ---
 # Routine
 

@@ -3,10 +3,11 @@ aliases:
   - Light Phone
 title: Light Phone diaries
 tags:
-  - evergreen
+  - words
+  - bud
 publish: 
 date: 2023-12-12
-lastmod: 2024-01-10T15:20:26-08:00
+lastmod: 2024-05-13T14:11:51-07:00
 ---
 The Light Phone is a so-called dumb phone that’s “[designed to be used as little as possible](https://www.thelightphone.com/).” Its essential function is to call and text. All the rest of its scant features—notes, podcasts, music, calculator, alarm, directions, and hotspot—are optional. It has no other apps, no internet browser. “[It’s intentionally the opposite of what an iPhone has become](https://www.bryanlehrer.com/entries/new-internet/).”
 

@@ -1,10 +1,11 @@
 ---
-aliases: 
+aliases:
+  - "Project: Personal website"
 tags:
   - project
 publish: 
 date: 2024-05-08 11:00
-lastmod: 2024-05-08T11:43:16-07:00
+lastmod: 2024-05-12T09:35:34-07:00
 ---
 # Inspiration
 

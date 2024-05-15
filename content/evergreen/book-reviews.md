@@ -4,10 +4,10 @@ tags:
   - evergreen
 publish: "true"
 date: 2023-12-30 09:12
-lastmod: 2024-04-18T11:47:16-07:00
+lastmod: 2024-05-13T10:11:05-07:00
 title: Book reviews
 ---
-Standalone reviews for books that do not have [literature notes](https://by2328.github.io/garden/tags/literature-note).
+Standalone reviews for books that do not have [literature notes](https://by2328.github.io/garden/tags/literature-note). More on [Goodreads](https://www.goodreads.com/user/show/83827426-bonnie).
 
 ---
 # A note on ratings
@@ -23,6 +23,16 @@ My book ratings depend mostly on my personal whims and may have very little to d
 # Reviews
 
 ## 2024
+
+#### *Worry* by Alexandra Turner
+
+Read 2024-05-10 – [Goodreads](https://www.goodreads.com/review/show/6395081674) – ⭐⭐
+
+This book might appeal to those who want the physical equivalent of scrolling on a social media feed: ephemeral fragments with no continuity or real lasting power; thinking to myself, _I think I've heard this exact take 50 times already today_. The sloppy, inconclusive ending reinforces this, because what good way is there to wrap up an eternal feed?  
+  
+I am unfortunately an enjoyer of character development and in this book there is hardly any, just more examples rehashing the same somewhat insufferable traits. The family dynamics, which are far more interesting than any of the quips about being online, are left entirely unexamined, and it seemed like the author was more focused on showing how tapped in she is to the internet zeitgeist than any narrative cohesion.  
+  
+The protagonist has some moments of incisive self-criticism, and Tanner captures the frustration and arrested development of being with family in a very natural way, hence two stars. Probably best for a light beach read.
 
 #### *The Company She Keeps* by Mary McCarthy
 

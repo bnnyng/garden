@@ -1,9 +1,9 @@
 ---
 aliases: 
 tags:
-  - bud
+  - seed
 date: 2023-12-25
-lastmod: 2023-12-29T13:32:44-08:00
+lastmod: 2024-05-13T14:10:47-07:00
 ---
 Something is arbitrary when it can be substituted with anything else that serves the same purpose.
 

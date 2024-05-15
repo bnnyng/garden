@@ -1,10 +1,10 @@
 ---
-aliases:
-  - My workflow
+aliases: []
+title: My workflow
 tags:
-  - bud
+  - evergreen
 date: 2023-12-24
-lastmod: 2024-02-28T09:46:29-08:00
+lastmod: 2024-05-13T14:12:15-07:00
 ---
 # General note-taking
 

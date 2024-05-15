@@ -41,7 +41,7 @@ In “Affliction II,” Lyddon discusses Weil’s personal history and uniquely 
 >The great enigma of human life is not suffering but affliction. It is not surprising that the innocent are killed, tortured, driven from their country, made destitute, or reduced to slavery, imprisoned in camps and cells… But it is surprising that God should have given affliction the power to seize the very souls of the innocent and to take possession of them as their sovereign lord. — [[Weil, Simone|Simone Weil]]
 
 - People’s reactions to affliction come from humans’ “carnal nature”; this shared nature with animals is why we attack weakness.
-	- What else leads people to animalic behavior in the present day? According to [[2010-han-the-burnout-society|Han (2010)]], it’s [[Against multitasking|multitasking]].
+	- What else leads people to animalic behavior in the present day? According to [[2010-han-the-burnout-society|Han (2010)]], it’s [[against-multitasking|multitasking]].
 
 >[!quote]
 >Affliction removes the disguise of reason and reveals the lowest and most animal parts of our nature, for both the afflicted and the unafflicted.

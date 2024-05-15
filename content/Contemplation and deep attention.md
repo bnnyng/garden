@@ -2,6 +2,8 @@
 aliases: 
 tags:
   - bud
+date: <% tp.file.creation_date() %>
+lastmod: 2024-05-13T14:07:35-07:00
 ---
 [[The contemplative life]] is characterized by deep attention. This deep a kind of “de-interiorization” and dissolution of perceptual sense into the observable world. In a sense, deep attention is a more [[Embodied cognition]].
 

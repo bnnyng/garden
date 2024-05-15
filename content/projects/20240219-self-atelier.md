@@ -1,10 +1,11 @@
 ---
-aliases: 
+aliases:
+  - "Project: Self atelier"
 tags:
   - project
 publish: 
 date: 2024-02-19 15:02
-lastmod: 2024-02-19T16:41:02-08:00
+lastmod: 2024-05-12T09:35:45-07:00
 ---
 # Overview
 
