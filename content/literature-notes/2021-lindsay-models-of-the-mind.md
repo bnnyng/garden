@@ -8,7 +8,7 @@ tags:
 title: Book | Models of the Mind
 publish: 
 date: 2024-02-15 10:26
-lastmod: 2024-02-20T13:47:21-08:00
+lastmod: 2024-05-26T15:57:36-07:00
 ---
 # Summary
 
@@ -26,7 +26,7 @@ This book gives a history of mathematical modeling in neuroscience, a subdiscipl
 
 - [[Mathematics is a form of extended cognition]]
 - Mathematics can be useful for drawing analogies between different phenomena that share an underlying mechanism.
-	- #open-question Possibly related to claim that “analogy is intelligent thinking” from [[Mitchell, Melanie|Melanie Mitchell]] and [[Hofstadter, Douglas|Douglas Hofstadter]]?
+	- #concept-question Possibly related to claim that “analogy is intelligent thinking” from [[Mitchell, Melanie|Melanie Mitchell]] and [[Hofstadter, Douglas|Douglas Hofstadter]]?
 
 >[!quote] Quoted from Larry Abbott (2008)
 >Equations force a model to be precise, complete and self-consistent, and they allow its full implications to be worked out. … Mathematical formulation of a model forces it to be self-consistent and, although self-consistency is not necessarily truth, self-inconsistency is certainly falsehood.

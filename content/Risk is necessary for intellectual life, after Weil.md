@@ -5,7 +5,7 @@ tags:
   - topic-philosophy-theory-religion
 publish: "true"
 date: 2023-12-29 13:00
-lastmod: 2023-12-31T12:14:15-08:00
+lastmod: 2024-05-26T15:49:21-07:00
 ---
 According to [[Weil, Simone|Simone Weil]], risk is a necessary part of human life. Without risk, we experience “a type of boredom which paralyzes in a different way from fear, but almost as much.” However, the experience of risk must be balanced between stimulating and fatal.
 
@@ -14,6 +14,7 @@ According to [[Weil, Simone|Simone Weil]], risk is a necessary part of human lif
 
 This stands in contrast to [[Han, Byung-Chul|Byung-Chul Han’s]] claim in his essay [[2010-han-the-burnout-society|”Profound Boredom”]] that [[Idleness is needed for creative generation]]. 
 
-#open-question How are Weil’s and Han’s definitions of boredom differently characterized? Can the two perspectives be reconciled?
+>[!question] #concept-question 
+>How are Weil’s and Han’s definitions of boredom differently characterized? Can the two perspectives be reconciled?
 
 Weil assumes a society without sufficient scaffolding for human flourishing; Han sees construction conditions for boredom as precisely the means for development. Weil examines the affliction and grace of individuals; Han seeks to characterize modern society as a collective. Weil and Han also hail from very different historical contexts—this is most likely the main explanation for their differences.

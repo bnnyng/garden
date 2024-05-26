@@ -9,7 +9,7 @@ tags:
 title: Paper | Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning
 publish: "true"
 date: 2023-12-28 18:40
-lastmod: 2024-01-10T14:07:38-08:00
+lastmod: 2024-05-26T15:57:43-07:00
 ---
 
 [Source](https://arxiv.org/abs/1810.08647) – [[RAW-20231228-jaques-et-al-social-influence-as-intrinsic-motivation|Highlights]]
@@ -82,4 +82,5 @@ lastmod: 2024-01-10T14:07:38-08:00
 	- In some cases, influence is actually required to achieve any form of learning!
 - Agents can use counterfactuals to develop “[[Empathy|empathy]]” by simulating how their actions will affect another agent’s value function.
 - We can view multi-agent networks as a single system and use influence to incentivize different parts of the network to use information from each other.
-	- #open-question What determines the “individual”? In the notion of complexity, for example, body is a complex system and also society is a complex system. However, different characteristics. Is there an analogy in RL hierarchies, or is it more self-similar? Could this somehow motivate more diverse hierarchies?
+
+>[!question] #open-question What determines the “individual”? In the notion of complexity, for example, body is a complex system and also society is a complex system. However, different characteristics. Is there an analogy in RL hierarchies, or is it more self-similar? Could this somehow motivate more diverse hierarchies?

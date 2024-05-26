@@ -26,3 +26,10 @@
 ## New highlights added April 17, 2024 at 2:52 PM
 - In this broader sense, self-help was entwined with philosophy at the birth of the Western tradition ([View Highlight](https://read.readwise.io/read/01hv8nsmrqzthmgwevaq7sghe6))
     - Note: Make a permanent note on self-help!
+## New highlights added May 25, 2024 at 10:48 AM
+- we are in pursuit of truth, not expressing our taste, if we take a critical stance toward consoling traditions, what assurance do we have that philosophy will help, not harm? In his madly egocentric autobiography, *Ecce Homo*, Nietzsche wrote: “my truth is terrible.” ([View Highlight](https://read.readwise.io/read/01hyfrm1kc6559s49nnr6ksvew))
+- It begins by distinguishing happiness—a subjective state of mind—from the activity of living well. ([View Highlight](https://read.readwise.io/read/01hyfrnjznar1c93ew3dc7xygm))
+    - Note: ED vs. normal life.
+- With telic activities, fulfillment is deferred to the future then archived in the past, so that the present feels empty—but atelic activities are fully realized in the Now. ([View Highlight](https://read.readwise.io/read/01hyft3h3kpnyk602mjb205gr2))
+- In Murdoch’s words, “the task of moral philosophers [is] to extend, as poets may extend, the limits of language, and enable it to illuminate regions which were formerly dark.”
+  The most profound achievements of moral and political philosophy lie not in abstract theory or geometric proof but in finding words by which to light our way to lives well-lived. ([View Highlight](https://read.readwise.io/read/01hyft62y1b5t17c4m2fe3cyrz))

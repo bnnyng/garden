@@ -6,7 +6,7 @@ tags:
   - literature-note
 title: "Workshop Report | Embodied, Situated, and Grounded Intelligence: Implications for AI"
 date: 2023-12-27
-lastmod: 2024-01-01T15:35:43-08:00
+lastmod: 2024-05-26T15:57:16-07:00
 publish: "true"
 ---
 # Summary
@@ -113,8 +113,10 @@ publish: "true"
 
 - [[Certain systems can only be understood in terms of things that lack an immediate causal effect in the system, after Smith]]
 - People generally agree that mental content can make a causal difference in cognitive processes, but disagree about whether causal power comes from high (mental representations and contents) or low (physical or sub-semantic) levels.
-	- #open-question *What is the definition of causation and content in this context? How does the content of a mental representation fit into the levels of explanation?*
 	- If we attribute causation to the lower levels, then the causal role of mental content falls under the study of cognitive science.
+
+>[!question] #concept-question 
+>What is the definition of causation and content in this context? How does the content of a mental representation fit into the levels of explanation?
 
 ## Day 2
 
@@ -142,8 +144,10 @@ publish: "true"
 
 - The “closest” word was more often found in the distributional space, while such words were “further out” in the sensorimotor space.
 - Connell’s work is exciting because it can be extended in a number of ways:
-	- #open-question *Are words even understood and compared along different general dimensions?* For example, people can lose their ability to recognize human faces, which is a narrow category-specific agnosia.
-	- #open-question *Which sensorimotor dimensions are most fundamental to understanding? Are representations for categories based on sensorimotor experience or causal networks?*
+
+>[!question] #open-question Are words even understood and compared along different general dimensions? For example, people can lose their ability to recognize human faces, which is a narrow category-specific agnosia.
+
+>[!question] #open-question Which sensorimotor dimensions are most fundamental to understanding? Are representations for categories based on sensorimotor experience or causal networks?
 
 ### Penny Pexman – “Multimodal grounding for concrete and abstract concepts”
 
@@ -163,8 +167,9 @@ publish: "true"
 
 >Embodying existing systems might improve their performance and, especially, their robustness and generalization abilities.
 
-- #open-question *Can reinforcement learning implement a symbol system that learns generalizable rules and augments an existing system?*
-- #open-question *How can we “embody” existing AI systems to improve robustness and generalization abilities?*
+>[!question] #open-question Can reinforcement learning implement a symbol system that learns generalizable rules and augments an existing system?
+
+>[!question] #open-question How can we “embody” existing AI systems to improve robustness and generalization abilities?
 
 ## Day 3
 
@@ -194,7 +199,8 @@ publish: "true"
 
 >Glenberg hypothesizes that humans understand many affordances through sensorimotor simulations of the relevant contexts and objects and that language models struggle because they rely on distributional information alone.
 
-- #open-question *What does training LLMs on the kind of language that parents use with children, instead of large corpora of written texts, reveal about what can be learned from language?*
+
+>[!question] #open-question What does training LLMs on the kind of language that parents use with children, instead of large corpora of written texts, reveal about what can be learned from language?
 
 ### Yoshua Bengio – “System 2 GFlowNets: Inductive biases towards machines that understand and think”
 

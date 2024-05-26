@@ -5,7 +5,7 @@ aliases:
 tags:
   - literature-note
 title: Workshop Report | Foundations of Intelligence in Natural and Artificial Systems
-lastmod: 2024-01-02T13:34:07-08:00
+lastmod: 2024-05-26T15:53:13-07:00
 date: 2023-12-26
 publish: "true"
 ---
@@ -99,8 +99,10 @@ publish: "true"
 ### Ricard Sole – “Intelligence and the Nature of Embodiment: From Liquid to Solid”
 
 - Sole seeks to understand the “nature of intelligence” by identifying a space of possible intelligences and exploring the actual intelligences in this space.
-- #open-question *What constraints give rise to patterns in forms of intelligence?*
-	- Ants are mobile and have more general intelligence than plants, which fall in an evolutionary niche where intelligence is not as important.
+
+>[!question] #open-question What constraints give rise to patterns in forms of intelligence? For example, ants are mobile and have more general intelligence than plants, which fall in an evolutionary niche where intelligence is not as important.
+
+
 - [[Liquid brains change both their connections and their structure, after Sole]]. One example is a group of ants.
 - Animal species show there may be a trade-off between collective and individual complexity. Sole is unsure how this generalizes to other collectives.
 
@@ -159,9 +161,12 @@ publish: "true"
 - “Stacking” combines the predictions of several machine learning models under a meta-model that is trained to both incorporate other models’ predictions and account for their biases.
 - Stacking has implications for improving the scientific method, which is currently more like single-model cross-validation.
 - General AI will most likely come from a “web-based ecology of AI systems.”
-	- #open-question *How do AI communities compare to human communities?*
+
+>[!question] #open-question How do AI communities compare to human communities?
+
 - Interestingly, we cannot predict (compute) the behavior of an AI community because individual AI programs are [[Turing|Turing complete]].
-	- #open-question *Is it worth sacrificing understanding of the systems we model for “predictive accuracy”?* Engineers already do this!
+
+> [!question] #open-question Is it worth sacrificing understanding of the systems we model for “predictive accuracy”? Engineers already do this!
 
 ### Risto Miikkulainen – “Evolving Intelligent Behavior in Virtual Agents”
 - Evolutionary constraints (resource limitation, body-brain co-evolution, competitive arms races, the need for coordination) “solve the harder problem of finding good body/behavior combinations.”

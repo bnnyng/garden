@@ -65,3 +65,6 @@
 - By subjectivity I mean when a writer thinks it sufficient for himself to know what he means and wants to say, and it is left to the reader to discover what is meant ([View Highlight](https://read.readwise.io/read/01hrabbtk1h99g2d1e1gqfvqpk))
 - whereas it should be a dialogue, and, moreover, a dialogue in which he must express himself all the more clearly as the questions of the reader cannot be heard. And it is for this very reason that style should not be subjective but objective, and for it to be objective the words must be written in such a way as to directly compel the reader to think precisely the same as the author thought. ([View Highlight](https://read.readwise.io/read/01hrabcprrhgf44arjtgpbzd25))
     - Note: There will always be information lost, compression, when writing. This is a futile project! -- and again, particularly relevant to mathematics.
+## New highlights added May 25, 2024 at 10:48 AM
+- There are, first of all, two kinds of authors: those who write for the subject’s sake, and those who write for writing’s sake. ([View Highlight](https://read.readwise.io/read/01hqphg3nen5rraqk0ks6q2n6a))
+    - Note: Banger of an introductory line.
