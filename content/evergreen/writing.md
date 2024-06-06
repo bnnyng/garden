@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-05-12 09:34
-lastmod: 2024-05-15T08:56:27-07:00
+lastmod: 2024-05-30T20:29:51-07:00
 ---
 # Nonfiction
 
@@ -46,6 +46,7 @@ lastmod: 2024-05-15T08:56:27-07:00
 - Boredom and play
 - Why Lakeside graduates are incapable of doing anything interesting
 - Online spirituality, manifestation, and explanations of change
+- Webcomics, when they end and when they do not, keeping up with the release over timeup with the release over time
 
 ---
 # Fiction

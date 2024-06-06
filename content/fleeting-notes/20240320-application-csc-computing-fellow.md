@@ -2,7 +2,7 @@
 tags:
   - fleeting-note
   - career/application
-lastmod: 2024-05-01T11:32:55-07:00
+lastmod: 2024-06-06T07:58:26-06:00
 ---
 # Overview
 
@@ -68,6 +68,57 @@ Bonnie
 		- Engagement with the academic community in a pedagogical role also relevant to my career goals in academia
 		- Want to apply my perspective to pedagogical skills – have always been interested in exposition and passionate about teaching; example is the math essay I did exceptionally well in 
 	- Interested in how classrooms engage with emerging technologies like AI, coming from the engineering/fully technical side. I believe that holistic view is necessary for people working in the field, which I intend to do, etc.
+
+---
+# Interview
+
+
+>You don't need to prepare anything in particular, we'll have a 20 minute conversation about your experiences and you'll have 10 or so minutes to ask us questions.
+
+[Application link](https://docs.google.com/document/d/1nkUaUa0xTl2ZbHgt19ZfrOx7S2ZmnA4O9VtywCIGMOU/edit)
+
+## Experiences
+
+**Cover letter**
+
+- Experiences with data management and modeling
+	- General programming principles from DS&A
+	- Computational neuroscience research at NYU – using convolutional neural networks to investigate the relationship between tuning and gradients [(link to poster](https://www.linkedin.com/in/bonnie-yang-1198a522a/overlay/1635539607457/single-media-viewer/?profileId=ACoAADlwzGUBCZUNpsGfOtRoKv3MDJ7kATp_BBI))
+	- 2024 MCM honorable mention
+		- Used [Markov chain with Bayesian logistic regression](https://github.com/by2328/mcm-2024) to get the transition probabilities (Bayesian obtaining the parameters)
+		- Posterior predictive model simulates data (possible score outcomes) by sampling from parameter posteriors, compare to observed values
+		- Best practice in model building is to separate training, validation, and test data; 69% accuracy
+		- Sensitivity analysis: perturb values for each parameter and assess changes in the posterior distribution to determine which parameter affects the output most
+	- Current summer project: computational epistemology of mathematics
+		- Ongoing similar project for science science using multi-agent algorithm; agents are individual scientists seeking “ground truth conclusions,” looking at epistemic success using different experimental choice strategies like falsification, confirmation, novelty-seeking
+		- May also be instead working on optimizing for the “ground truth” to avoid 
+- Familiar with how data science fits into the scientific process
+- Peer teaching and effective communication
+	- Poster sessions for Barnard’s SRI
+	- Current position involves giving flash talks and presenting a seminar at the end of the program, plenty of public speaking tutorials throughout
+	- Passionate about teaching when it comes to learning and teaching mathematics, motivating my entire potential project for the summer
+## Questions
+
+- What does a typical week look like for a Computing Fellow? Are all the tasks—help room, workshops, and supporting courses—done about equally, or do some Fellows focus on one over the other?
+	- *6-8 hours on average, don’t work more; includes weekly meetings.*
+	- *Any time spent as a Fellow can be logged for hours.*
+	- *Depends on course—can be multiple fellows! If not enough hours, can look for more work.*
+- What does training for the position look like? What will Fellows be expected to be able to do at different times?
+	- What kind of expectations do you have for how Fellows might develop both technical and “soft” skills while in the position?
+	- *First 4-5 meetings are training sessions.*
+	- *Anti-racism pedagogy training; pedagogy in general and workshop creation; documentation.*
+- What is the most challenging part about being a new Fellow for most people? What do new Fellows tend to not be prepared for?
+## Interview notes
+
+- CSC mission is to lower barrier to computing for all students—not only limited to CS, but application of tech to society
+- Schedule
+	- Biweekly workshops ranging from beginning to intermediate
+	- Growing program that looks at relationship between journalism/storytelling and technology
+- Computing Fellows are trained to be attached to Barnard courses with or without computing component
+	- Teaching workshops
+	- Help students with final projects
+	- Hold office hours
+
 
 ---
 # Log

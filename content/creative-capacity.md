@@ -6,7 +6,7 @@ tags:
   - bud
 publish: 
 date: 2024-05-12 10:02
-lastmod: 2024-05-13T14:33:45-07:00
+lastmod: 2024-06-02T21:06:40-06:00
 ---
 Since the beginning of May, I’ve been going through [[20240512-artists-way|The Artist’s Way]], a twelve-week process designed to help one achieve “creative recovery.” There is a direct parallel, likely inspired by the author Julia Cameron’s own journey to sobriety, between the Way and twelve-step recovery programs like Alcoholics Anonymous. Already, the premise of creativity as something to be “recovered” fundamentally assumes that *creative ability is some sort of birthright*; as with addiction recovery, we hope to revert to a more wholesome state, before we were corrupted by worldly distractions. The first week’s theme, “recovering a sense of safety,” involves interrogating the various expectations from parents, etc. that may have compelled one to stifle their creative impulses. 
 

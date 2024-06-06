@@ -12,7 +12,7 @@ tags:
   - topic-logic-mathematics
   - MATH-UN1207
 date: 2022-11-01
-lastmod: 2024-03-31T13:24:08-07:00
+lastmod: 2024-06-02T21:06:40-06:00
 publish: "true"
 ---
 # Overview
