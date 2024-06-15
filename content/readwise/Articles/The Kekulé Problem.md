@@ -27,3 +27,8 @@
 - The unconscious is a biological operative and language is not. ([View Highlight](https://read.readwise.io/read/01hsbw27jr8fa0zbjv2qrk1wdq))
     - Note: Main thesis. Relationship with Cartesian dualism, lol?
 - The unconscious is just not used to giving verbal instructions and is not happy doing so. Habits of two million years duration are hard to break. ([View Highlight](https://read.readwise.io/read/01hsc1kvh41t4987p4wh3xn0ka))
+## New highlights added June 15, 2024 at 1:03 AM
+- the actual process of thinking—in any discipline—is largely an unconscious affair. ([View Highlight](https://read.readwise.io/read/01j0amhd108njhdnpbw81x93bb))
+- the central idea of language—that one thing can be another thing. ([View Highlight](https://read.readwise.io/read/01j0amm6n0hzj46vh73v8kqa6f))
+- The difference between the history of a virus and that of language is that the virus has arrived by way of Darwinian selection and language has not. ([View Highlight](https://read.readwise.io/read/01j0ampnnkw1ztk66fg0kcap0g))
+- The log of knowledge or information contained in the brain of the average citizen is enormous. But the form in which it resides is largely unknown. You may have read a thousand books and be able to discuss any one of them without remembering a word of the text. ([View Highlight](https://read.readwise.io/read/01j0an04rda0y8rp3d5qfr7v78))

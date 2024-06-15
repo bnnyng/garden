@@ -1,0 +1,9 @@
+## New highlights added June 13, 2024 at 10:01 PM
+- I broke the problem down using a series of scale models, but even the simplest one baffles me. I thought I’d gotten a handle on it with a maximum principle argument, but everything fell apart. ([View Highlight](https://read.readwise.io/read/01hzppystrvyc2ajg6bxrdw2as))
+- Some people say that I understand the mathematical world of this equation better than anyone alive. ([View Highlight](https://read.readwise.io/read/01hzpq0y7ffgsqkbetefwb644p))
+- I’ll never solve it by myself. I’ve got to be able to explain what I’ve done so far to someone who knows the theory inside out. ([View Highlight](https://read.readwise.io/read/01hzpq1xgs1ne39x4qs274c0b4))
+- We discussed. We argued. Before long the board was flooded with symbols. ([View Highlight](https://read.readwise.io/read/01hzpq4jy6kw2kyzzcyfgj0y2n))
+- No one’s really looked at it from this angle before. Which reminds me … when was it? That’s it! Two years ago, at Princeton, a Chinese postdoc asked me a somewhat similar question. ([View Highlight](https://read.readwise.io/read/01hzpq5bshzneqkn9fp17j7pp0))
+- “Free transport” is a piece of jargon that refers to an ideal gas in which the particles do not interact. The model is too simplified to be at all realistic, but you can still learn a lot from it. ([View Highlight](https://read.readwise.io/read/01hzpq6kk00ffm893v4fg93qem))
+- Each of us set about reconstructing the argument that this postdoc, Dong Li, must have developed. No big deal, more like a minor exercise in problem solving. But maybe it will help us resolve the great enigma, who knows? And besides, it’s a contest—who can come up with the answer first? ([View Highlight](https://read.readwise.io/read/01hzpqxm5z0tp4gjrhmajf5w67))
+- my solution reminded him of a conversation he’d had three years ago ([View Highlight](https://read.readwise.io/read/01hzpqzm5c26ts5h39wrhq9qdh))

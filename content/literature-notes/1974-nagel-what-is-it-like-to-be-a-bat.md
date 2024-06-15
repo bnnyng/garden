@@ -9,7 +9,7 @@ tags:
 title: Essay | What is it Like to be a Bat?
 publish: "true"
 date: 2024-05-26 15:08
-lastmod: 2024-05-26T16:36:21-07:00
+lastmod: 2024-06-06T16:37:52-06:00
 ---
 # Summary and thoughts
 

@@ -14,7 +14,7 @@ tags:
   - COGS-UN1001
 publish: "true"
 date: 2022-12-21
-lastmod: 2024-02-28T11:57:01-08:00
+lastmod: 2024-06-07T13:11:09-06:00
 ---
 >[!quote]
 >”Probability theory is nothing but common sense reduced to calculation.” – Laplace
@@ -58,3 +58,11 @@ Subjective probabilities are Bayesian optimal when they come from taking a weigh
 One theory of Bayesian suboptimality is that people use heuristics to overcome limits in cognitive processing (e.g., representativeness and availability). On the other hand, [[Rational process models claim that judgement errors come from approximations of rational reasoning]] (e.g., hypothesis sampling). These theories are overlapping, as heuristics can be considered approximation methods.
 
 In “[[2020-dasgupta-et-al-a-theory-of-learning-to-infer|A Theory of Learning to Infer]],” the authors propose that Bayesian optimality is not an appropriate standard at all. Rather, the brain should be evaluated on how well it handles the trade-off between accurate probabilistic reasoning and computational costs.
+
+---
+# Notes
+
+- People may systematically deviate from Bayesian optimality by underreacting to either the prior or the likelihood.
+- Bayesian epistemology is incompatible with the following heuristics ([[2023-wolpert-kinney-stochastic-model-of-math-and-science|Wolpert & Kinney, 2023]]):
+	- Assigning greater degree of belief to a hypothesis that has multiple lines of evidence, also called the **variety of evidence** thesis;
+	- [[Abduction is going from a believed conclusion to requirements for the conclusion to be true, after Peirce|Abductive reasoning]].

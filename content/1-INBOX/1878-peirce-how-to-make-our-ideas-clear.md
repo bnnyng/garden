@@ -1,12 +1,15 @@
 ---
 lit-author: 
-aliases: 
+aliases:
+  - Peirce (1878)
+  - Peirce, 1878
+  - How to Make Our Ideas Clear
 tags:
   - literature-note
-title: 
+title: Essay | How to Make Our Ideas Clear
 publish: 
 date: 2024-04-29 14:13
-lastmod: 2024-05-01T13:13:59-07:00
+lastmod: 2024-06-07T09:37:16-06:00
 ---
 # Summary
 

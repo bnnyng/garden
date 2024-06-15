@@ -9,7 +9,7 @@ tags:
 title: Essay | The Fixation of Belief
 publish: "true"
 date: 2024-04-15 16:55
-lastmod: 2024-04-29T14:18:38-07:00
+lastmod: 2024-06-06T16:37:52-06:00
 ---
 # Summary
 

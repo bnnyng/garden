@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-04-02 15:29
-lastmod: 2024-04-06T00:18:35-07:00
+lastmod: 2024-06-13T23:01:50-06:00
 ---
 # Coursework
 
