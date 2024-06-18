@@ -1,10 +1,10 @@
 ---
 aliases: 
 tags:
-  - permanent-note
+  - workspace
 publish: 
 date: 2024-06-05 11:35
-lastmod: 2024-06-15T12:09:57-06:00
+lastmod: 2024-06-18T13:17:44-06:00
 ---
 
 DOOR CODE: 
@@ -24,7 +24,7 @@ DOOR CODE:
 - Determining features of proofs that lead to belief or understanding
 - Next steps: finish reading DeDeo and Wolpert papers, try to establish connection with DeDeo?
 	- [[2023-viteri-dedeo-epistemic-phase-transitions]]
-	- [[2023-wolpert-kinney-stochastic-model-of-math-and-science]]
+	- [[2-SOMEDAY/2023-wolpert-kinney-stochastic-model-of-math-and-science]]
 
 [[2024-06-07]]
 
@@ -39,14 +39,14 @@ DOOR CODE:
 [[2024-06-08]]
 
 - Emailed Kempes, Marina, and James about both potential projects
-- Began closer reading of [[2023-wolpert-kinney-stochastic-model-of-math-and-science]]
-- Next steps: continue closer reading of [[2023-wolpert-kinney-stochastic-model-of-math-and-science|Wolpert & Kinney (2023)]], possibly [[2023-viteri-dedeo-epistemic-phase-transitions|Viteri & DeDeo (2023)]] such that I can have a discussion about it
+- Began closer reading of [[2-SOMEDAY/2023-wolpert-kinney-stochastic-model-of-math-and-science]]
+- Next steps: continue closer reading of [[2-SOMEDAY/2023-wolpert-kinney-stochastic-model-of-math-and-science|Wolpert & Kinney (2023)]], possibly [[2023-viteri-dedeo-epistemic-phase-transitions|Viteri & DeDeo (2023)]] such that I can have a discussion about it
 
 [[2024-06-08]]
 
 - Emailed Kempes, Marina, and James about both potential projects
-- Began closer reading of [[2023-wolpert-kinney-stochastic-model-of-math-and-science]]
-- Next steps: continue closer reading of [[2023-wolpert-kinney-stochastic-model-of-math-and-science|Wolpert & Kinney (2023)]], possibly [[2023-viteri-dedeo-epistemic-phase-transitions|Viteri & DeDeo (2023)]] such that I can have a discussion about it
+- Began closer reading of [[2-SOMEDAY/2023-wolpert-kinney-stochastic-model-of-math-and-science]]
+- Next steps: continue closer reading of [[2-SOMEDAY/2023-wolpert-kinney-stochastic-model-of-math-and-science|Wolpert & Kinney (2023)]], possibly [[2023-viteri-dedeo-epistemic-phase-transitions|Viteri & DeDeo (2023)]] such that I can have a discussion about it
 
 [[2024-06-09]]
 - Preparatory materials for meeting with James & Andrew
@@ -115,4 +115,23 @@ DOOR CODE:
 - Next steps
 	- Finish book on dialogical proving
 	- Start looking at blog posts and comments
+
+---
+# Week 3
+
+[[2024-06-17]]
+
+- Flash talk tutorial takeaways
+	- Include project plans for feedback
+	- Humor is good, as well as intentionally re-engaging the audience at topical transitions
+	- Keep a forward momentum, try not to flip back to previous slides
+	- Tell an overarching story
+	- To practice or not to practice?
+- More literature review
+	- [What makes Individual I's a Collective We; Coordination mechanisms & costs](https://arxiv.org/abs/2306.02113#:~:text=What%20makes%20Individual%20I's%20a%20Collective%20We%3B%20Coordination%20mechanisms%20%26%20costs,-Jisung%20Yoon%2C%20Chris&text=Collectives%20must%20coordinate%20and%20regulate,the%20sum%20of%20individual%20abilities.)
+	- [The Polymath Project: Lessons from a Successful Online Collaboration in Mathematics](https://www.cs.cmu.edu/~jcransh/papers/cranshaw_kittur.pdf)
+	- [Internet Collaboration on Extremely Difficult Problems: Research versus Olympiad Questions on the Polymath Site](https://www.cs.cornell.edu/home/kleinber/www16-polymath.pdf)
+	- [Toward a Comparative Cognitive History: Archimedes and D. H. J. Polymath](https://arxiv.org/abs/1204.3534)
+
+[[2024-06-18]]
 

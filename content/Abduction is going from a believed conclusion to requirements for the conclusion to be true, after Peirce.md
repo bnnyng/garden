@@ -15,6 +15,6 @@ $$
 \text{conclusion believed to be true} \to \text{what would have to hold for the conclusion to be true.}
 $$
 
-Similarly, [[2023-wolpert-kinney-stochastic-model-of-math-and-science|Wolpert & Kinney (2023)]] define **abduction** as using the explanatory power of a claim to infer its *probability* of being correct.
+Similarly, [[2-SOMEDAY/2023-wolpert-kinney-stochastic-model-of-math-and-science|Wolpert & Kinney (2023)]] define **abduction** as using the explanatory power of a claim to infer its *probability* of being correct.
 
 Related: [[1878-peirce-the-fixation-of-belief]]

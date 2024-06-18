@@ -63,6 +63,6 @@ In “[[2020-dasgupta-et-al-a-theory-of-learning-to-infer|A Theory of Learning t
 # Notes
 
 - People may systematically deviate from Bayesian optimality by underreacting to either the prior or the likelihood.
-- Bayesian epistemology is incompatible with the following heuristics ([[2023-wolpert-kinney-stochastic-model-of-math-and-science|Wolpert & Kinney, 2023]]):
+- Bayesian epistemology is incompatible with the following heuristics ([[2-SOMEDAY/2023-wolpert-kinney-stochastic-model-of-math-and-science|Wolpert & Kinney, 2023]]):
 	- Assigning greater degree of belief to a hypothesis that has multiple lines of evidence, also called the **variety of evidence** thesis;
 	- [[Abduction is going from a believed conclusion to requirements for the conclusion to be true, after Peirce|Abductive reasoning]].

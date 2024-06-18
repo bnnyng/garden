@@ -1,11 +1,10 @@
 ---
 aliases:
   - "Project: The Artist's Way"
-tags:
-  - permanent-note
+tags: []
 publish: 
 date: 2024-05-12 09:37
-lastmod: 2024-05-12T10:06:06-07:00
+lastmod: 2024-06-18T11:21:30-06:00
 ---
 # Log
 

@@ -1,11 +1,11 @@
 ---
 aliases: 
 tags:
-  - permanent-note
   - career
+  - workspace
 publish: 
 date: 2024-04-26 11:11
-lastmod: 2024-04-26T11:40:39-07:00
+lastmod: 2024-06-18T11:21:27-06:00
 ---
 
 

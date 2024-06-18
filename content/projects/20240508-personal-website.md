@@ -2,7 +2,7 @@
 aliases:
   - "Project: Personal website"
 tags:
-  - project
+  - workspace
 publish: 
 date: 2024-05-08 11:00
 lastmod: 2024-05-12T09:35:34-07:00

@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - project
+  - workspace
 publish: 
 date: 2024-01-16 08:17
 lastmod: 2024-05-12T09:40:34-07:00

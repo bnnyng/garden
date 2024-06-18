@@ -9,9 +9,14 @@ tags:
 title: Book | The Dialogical Roots of Deduction
 publish: "true"
 date: 2024-06-14 14:53
-lastmod: 2024-06-15T13:41:47-06:00
+lastmod: 2024-06-18T13:22:27-06:00
 ---
-# Summary
+# Atomic notes
+
+- [[Three main features of deductive arguments, after Dutilh Novaes]]
+- [[Minimal conditions for a Skeptic to be convinced of a proof, after Dutilh Novaes]]
+- [[Cultural processes may change human minds at three different timescales]]
+- [[Informal proofs and proof practices are linguistic entities, after Dutilh Novaes]]
 
 ---
 # Key terms
@@ -21,14 +26,6 @@ lastmod: 2024-06-15T13:41:47-06:00
 - **Bracketing belief** = the requirement for a deductive reasoner to consider only the connections between premises and conclusions, taking the actual content of both at face value.
 - **Adversarial collaboration** = where parties in the dialogue collaborate to arrive at a comprehensive proof by disagreeing with each other and/or remining skeptical of their interlocutor’s position.
 - **Transferable proof** = from Easwaran (2009), “a proof must be such that a relevant expert will become convinced of the truth of the conclusion of the proof just by consideration of each of the steps in the proof.”
-
----
-# Atomic notes
-
-- [[Three main features of deductive arguments, after Dutilh Novaes]]
-- [[Minimal conditions for a Skeptic to be convinced of a proof, after Dutilh Novaes]]
-- [[Cultural processes may change human minds at three different timescales]]
-- [[Informal proofs and proof practices are linguistic entities, after Dutilh Novaes]]
 
 ---
 # Selected concepts and passages 
