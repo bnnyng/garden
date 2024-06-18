@@ -9,12 +9,12 @@ tags:
 title: Book | The Dialogical Roots of Deduction
 publish: "true"
 date: 2024-06-14 14:53
-lastmod: 2024-06-18T13:22:27-06:00
+lastmod: 2024-06-18T14:15:02-06:00
 ---
 # Atomic notes
 
 - [[Three main features of deductive arguments, after Dutilh Novaes]]
-- [[Minimal conditions for a Skeptic to be convinced of a proof, after Dutilh Novaes]]
+- [[Deductive dialogues are Prover-Skeptic games, after Dutilh Novaes]]
 - [[Cultural processes may change human minds at three different timescales]]
 - [[Informal proofs and proof practices are linguistic entities, after Dutilh Novaes]]
 

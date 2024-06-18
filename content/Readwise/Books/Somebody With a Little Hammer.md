@@ -1,0 +1,89 @@
+# Somebody With a Little Hammer
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-9.63dbe834380e.png)
+
+# Metadata
+- Author: [[Mary Gaitskill]]
+- Full Title: Somebody With a Little Hammer
+
+# Highlights
+- When I read the word fornication, I don’t read it as a description of sex outside legal marriage: I read it as sex done in a state of psychic disintegration, with no awareness of one’s self or one’s partner, let alone any sense of honor or even real playfulness. I still don’t know what to make of much of it, but I’m inclined to read it as a writer’s primitive attempt to give form to his moral urgency, to create a structure that could contain and give ballast to the most desperate human confusion. (Location 182)
+- Part of becoming responsible is learning how to make a choice about where you stand in respect to the social code and then holding yourself accountable for your choice. (Location 264)
+- “Holocaust” may be a grossly inappropriate exaggeration. But to speak in exaggerated metaphors about psychic injury is not so much the act of a crybaby as it is a distorted desire to make one’s experience have consequence in the eyes of others, and such desperation comes from a crushing doubt that one’s own experience counts at all or is even real. (Location 327)
+- The lengthy and rather hysterical debate about the film Thelma & Louise, in which two ordinary women become outlaws after one of them shoots the other’s would-be rapist, was predicated on the idea that stories are supposed to function as instruction manuals, and that whether the film was good or bad depended on whether the instructions were right. Such criticism assumes that viewers or readers need to see a certain type of moral universe reflected back at them or, empty vessels that they are, they might get confused or depressed or something. (Location 367)
+- Regardless of gender, all people have their strong, questing aspects as well as their more delicate aspects. If you haven’t developed these characteristics in ways that are respectful of yourself and others, you will find it hard to be responsible for any of them. I don’t think it’s possible to develop yourself in such ways if you are attuned to following rules and codes that don’t give your subjective experience enough importance. (Location 403)
+- To teach a boy that rape is “bad” is not as effective as making him see that rape is a violation of his own masculine dignity as well as a violation of the raped woman. (Location 409)
+- Rabelaisian (Location 446)
+    - Note: "displaying earthy humor; bawdy."
+- polemical, (Location 501)
+    - Note: "expressing or constituting a strongly critical attack on or controversial opinion about someone or something."
+- hectoring (Location 501)
+    - Note: "talking in a bullying way."
+- inchoate (Location 596)
+    - Note: "just begun and so not fully formed or developed; rudimentary."
+- sanguine (Location 647)
+    - Note: "optimistic or positive, especially in an apparently bad or difficult situation."
+- numinous (Location 716)
+    - Note: "having a strong religious or spiritual quality; indicating or suggesting the presence of a divinity."
+- protean (Location 877)
+    - Note: "tending or able to change frequently or easily."
+- palimpsest (Location 895)
+    - Note: "a manuscript or piece of writing material on which the original writing has been effaced to make room for later writing but of which traces remain."
+- perdition (Location 903)
+    - Note: "(in Christian theology) a state of eternal punishment and damnation into which a sinful and unpenitent person passes after death."; ie. Damnation.
+- In any genuine piece of fiction, the plot is like the surface personality or external body of a human being; it serves to contain the subconscious and viscera of the story. The plot is something you “see” with your rational mind, but the unconscious and the viscera—what you can smell and feel without being able to define—is the deeper subject of the story. (Location 1133)
+- accoutrement (Location 1180)
+    - Note: "additional items of dress or equipment, or other items carried or worn by a person or used for a particular activity."
+      Lovely metaphoric use of the word, similar to "accompaniment" or "accompanist."
+- And because some things cannot be triumphed over unless they are first accepted and endured, because, indeed, some things cannot be triumphed over at all, the “story” must be told again and again in endless pursuit of a happy ending. To be human is finally to be a loser, for we are all fated to lose our carefully constructed sense of self, our physical strength, our health, our precious dignity, and finally our lives. A refusal to tolerate this reality is a refusal to tolerate life, (Location 1203)
+- puerile (Location 1629)
+    - Note: "childishly silly and trivial."
+- This election makes me remember Vladimir Nabokov’s essay on Nikolai Gogol’s “The Overcoat,” in which he describes the short story as “a grotesque and grim nightmare making black holes in the dim pattern of life”; it is a beautiful, flexible, and fantastically broad phrase. (Location 1636)
+- For a gentle person who has been stung by clever, socially armored people adept at emotional cruelty may respond with oafish brutality; it is precisely because he is gentle that he can’t modulate his rage or disguise it the way a naturally cruel person can. (Location 1714)
+- preternatural (Location 1824)
+    - Note: "beyond what is normal or natural."
+- insouciant (Location 1829)
+    - Note: "showing a casual lack of concern; indifferent"
+- I told him the story and he said, “Oh, that was your trauma, was it?” I said yes. Yes, it was a trauma. You could say he was unkind. You could say I was silly. You could say he was priggish. You could say I was weak. (Location 1877)
+    - Note: "self-righteously moralistic and superior."
+- soigné, (Location 1940)
+    - Note: "dressed very elegantly; well groomed"
+- Human love is grossly flawed, and even when it isn’t, people routinely misunderstand it, reject it, use it, or manipulate it. It is hard to protect a person you love from pain, because people often choose pain; I am a person who often chooses pain. An animal will never choose pain; an animal can receive love far more easily than even a very young human. (Location 1956)
+- Who decides which relationships are appropriate and which are not? Which deaths are tragic and which are not? Who decides what is big and what is little? Is it a matter of numbers or physical mass or intelligence? If you are a little creature or a little person dying alone and in pain, you may not remember or know that you are little. (Location 2152)
+- “Of course the dog didn’t mean as much to him as his parents did, you moron. His parents meant so much to him, he could not afford to feel their loss. The dog he could feel, and through the door of that feeling came everything else.” (Location 2267)
+- My symbols were not beautiful; they were stupid and trite. They were related to the symbols of religion as a deformed and retarded child might be the distant cousin of a beautiful prince. But they were related nonetheless. (Location 2326)
+- This world is the only reality available to us, and if we do not love it in all its terror, we are sure to end up loving the “imaginary,” our own dreams and self-deceits, the utopias of politicians, or the futile promises of future reward and consolation which the misled blasphemously call “religion.” (Location 2341)
+- That kind of sudden nakedness, without even a posture of elegance, would’ve been a kind of violence to my father. It would’ve touched him forcefully in a place he had spent his life guarding. To say yes would’ve allowed too much of that force in too deeply. Saying no was a way of being faithful to the guarded place. (Location 2400)
+- A game is something conscious, with clear rules and goals that everyone agrees to. What I experienced too often, inside myself or with another, was a half-conscious, fast-moving blur of real and false, playfulness and anguish, ardent affection and its utter lack. More than a game, it was as if I were stumbling, with another person or alone, through a labyrinth of conflicting impulses and complex, overlaid patterns, trying to find a way to meet, or to avoid meeting, both at the same time. (Location 2512)
+- It was certainly wrong to use people to repeatedly replay this drama, whether they willingly participated or not, whether I knew what I was doing or not. (Location 2542)
+- I once read a Chekhov story that described a minor character as “trying to snatch from life more than it can give”; maybe I have turned into such a person, unable to accept what is given, always trying to tear things up in order to find what is “real,” even when I don’t know what “real” is, unable to maintain the respect, the dignity of not asking too much or even looking too closely at the workings of the heart, which, no matter how you look, can never be fully seen or understood. (Location 2545)
+- vituperative (Location 2711)
+    - Note: "bitter and abusive."
+- What is faithfulness anyway? Can you be unfaithful to your own feelings and be faithful to someone else? Is it faithful to lie in bed night after night with someone you love but no longer desire, while ardently dreaming of someone else? (Location 2731)
+- In The Marriage of Heaven and Hell, the poet William Blake said, “Sooner murder an infant in its cradle than nurse unacted desires.” (Location 2736)
+- But why should we announce that a woman has lost her dignity because her husband slept with someone else? Shouldn’t she be the judge of that? Or do we actually believe that her dignity is entirely dependent on how men or even one man relates to her? Is she “humiliated” because she has failed to be all things to her husband, all the time, in perpetuity, at least as far as he is concerned—in other words, because she has failed to do the impossible? (Location 2768)
+    - Note: Striking commentary!
+- I wonder if we will ever see a high-profile female adulterer in politics, and if so, how that would be dealt with in the public square. (Location 2785)
+    - Note: That one Agnes philosopher woman?
+- This is a quality that many, maybe all, good pop songs have, this deceptively light ability to touch and awaken multiple associations that blend with the wordless, innocent, and completely nonhierarchical sense of dreams. (Location 2910)
+- This is a contemporary idea of complexity and it is realistic to be sure; few people are definable by three or four traits, and even when three or four traits are paramount in a person, they can be dynamically related to their opposites. However, this “idea of complexity” can become a convention, a duty to be done for the comfort of the reader as much as anything, and it is curiously bracing to read a writer of clear intelligence and depth who has no interest in such conventions or comfort. (Location 2975)
+    - Note: Characteristic of detachment in Japanese literature that I've noted? Nuances reveal themselves through interpretation, not authorial explanation.
+- fecund (Location 3057)
+    - Note: "producing or capable of producing an abundance of offspring or new growth; fertile."
+- Nakadate drenches the viewer in this quality with her close-ups; through the intensity of her gaze, the girls bodily express vital, amoral goodness, good as a plant or animal is good just by being what it is. (Location 3057)
+- louche (Location 3066)
+    - Note: "disreputable or sordid in a rakish or appealing way."
+- rapacity (Location 3068)
+    - Note: "aggressive greed."
+- threnody (Location 3229)
+    - Note: "a lament."
+- The virtuosity that cool audiences today applaud, the sort Céline always fumbles, is not about having a multioctave voice or flamenco-fast fingers: It’s about being able to manipulate signs and symbols, to hitch them up and decouple them in a blink of an eye, to quote Homer but in the voice of Homer Simpson. It’s the kind of virtuosity an advertiser deploys to hook multiple demographics, as well as the playful or caviling way of the postmodern artist. (Location 3313)
+- What I mean by “artifice” is social language, styles, and manners—a public way of being that is by necessity coded, fixed, and hard, and which has become even more so through the emergence of the virtual world. (Location 3388)
+    - Note: Would love to see updated commentary in light of social media, digitized lives, etc.
+- It’s not exactly a new idea: Women are filthy, vicious idiots who must compensate with extreme self-control—dress exactly right, talk exactly right, pluck, diet, dye, and, hell yes, bleach—then claw at each other/bond over who is doing it best, and wow, is it ever cute! (Location 3399)
+- au courant (Location 3430)
+    - Note: "aware; well-informed."
+- Some people’s instincts have been so ruined by such disrespectful treatment that, for them, disrespect is not merely a norm; it has a kind of hyperreality that is absolutely compelling. (Location 3542)
+- Yet, in the same way Joan of Arc embodied social and spiritual forces that were most likely beyond her personality, Lovelace was fated to embody extreme and opposing social and sexual forces much too big for the limits of her self, for any self. Both women were torn apart by that which they embodied, yet for a moment glowed with enormous symbolic power. (Location 3625)
+- bowdlerization (Location 3634)
+    - Note: "remove material that is considered improper or offensive from (a text or account), especially with the result that it becomes weaker or less effective (as adj. bowdlerized)."

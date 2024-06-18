@@ -4,10 +4,10 @@ tags:
   - workspace
 publish: 
 date: 2024-06-05 11:35
-lastmod: 2024-06-18T14:04:23-06:00
+lastmod: 2024-06-18T14:11:33-06:00
 ---
 
-DOOR CODE: 
+DOOR CODE: 5891\*
 # Week 1
 
 ## Jun 5 to Jun 7 – One-on-one mentor meetings
@@ -121,12 +121,6 @@ DOOR CODE:
 
 [[2024-06-17]]
 
-- Flash talk tutorial takeaways
-	- Include project plans for feedback
-	- Humor is good, as well as intentionally re-engaging the audience at topical transitions
-	- Keep a forward momentum, try not to flip back to previous slides
-	- Tell an overarching story
-	- To practice or not to practice?
 - More literature review
 	- [What makes Individual I's a Collective We; Coordination mechanisms & costs](https://arxiv.org/abs/2306.02113#:~:text=What%20makes%20Individual%20I's%20a%20Collective%20We%3B%20Coordination%20mechanisms%20%26%20costs,-Jisung%20Yoon%2C%20Chris&text=Collectives%20must%20coordinate%20and%20regulate,the%20sum%20of%20individual%20abilities.)
 	- [The Polymath Project: Lessons from a Successful Online Collaboration in Mathematics](https://www.cs.cmu.edu/~jcransh/papers/cranshaw_kittur.pdf)
@@ -135,6 +129,12 @@ DOOR CODE:
 
 [[2024-06-18]]
 
+- Flash talk tutorial takeaways
+	- Include project plans for feedback
+	- Humor is good, as well as intentionally re-engaging the audience at topical transitions
+	- Keep a forward momentum, try not to flip back to previous slides
+	- Tell an overarching story
+	- To practice or not to practice?
 - Meeting with Simon & Marina
 	- Ideas
 		- Hidden Markov model of reply threads – comment emits one argument pattern, replies emit another; possibility that there are 6 argument patterns but 3 hidden states, etc; more general look at how argumentation happens

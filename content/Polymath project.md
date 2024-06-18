@@ -6,7 +6,7 @@ tags:
   - topic-complexity
 publish: 
 date: 2024-06-12 15:55
-lastmod: 2024-06-18T12:41:56-06:00
+lastmod: 2024-06-18T14:11:22-06:00
 ---
 [Blog](https://gowers.wordpress.com/)
 https://gowers.wordpress.com/category/polymath1/
