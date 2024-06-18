@@ -4,7 +4,7 @@ tags:
   - workspace
 publish: 
 date: 2024-06-05 11:35
-lastmod: 2024-06-18T13:17:44-06:00
+lastmod: 2024-06-18T14:04:23-06:00
 ---
 
 DOOR CODE: 
@@ -135,3 +135,7 @@ DOOR CODE:
 
 [[2024-06-18]]
 
+- Meeting with Simon & Marina
+	- Ideas
+		- Hidden Markov model of reply threads – comment emits one argument pattern, replies emit another; possibility that there are 6 argument patterns but 3 hidden states, etc; more general look at how argumentation happens
+		- Identifying how confidence is established, e.g. presence of 
