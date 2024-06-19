@@ -2,7 +2,7 @@
 tags:
   - fleeting-note
   - career/application
-lastmod: 2024-06-06T07:58:26-06:00
+lastmod: 2024-06-18T21:19:06-06:00
 ---
 # Overview
 
@@ -85,7 +85,7 @@ Bonnie
 	- General programming principles from DS&A
 	- Computational neuroscience research at NYU – using convolutional neural networks to investigate the relationship between tuning and gradients [(link to poster](https://www.linkedin.com/in/bonnie-yang-1198a522a/overlay/1635539607457/single-media-viewer/?profileId=ACoAADlwzGUBCZUNpsGfOtRoKv3MDJ7kATp_BBI))
 	- 2024 MCM honorable mention
-		- Used [Markov chain with Bayesian logistic regression](https://github.com/by2328/mcm-2024) to get the transition probabilities (Bayesian obtaining the parameters)
+		- Used [Markov chain with Bayesian logistic regression](https://github.com/bnnyng/mcm-2024) to get the transition probabilities (Bayesian obtaining the parameters)
 		- Posterior predictive model simulates data (possible score outcomes) by sampling from parameter posteriors, compare to observed values
 		- Best practice in model building is to separate training, validation, and test data; 69% accuracy
 		- Sensitivity analysis: perturb values for each parameter and assess changes in the posterior distribution to determine which parameter affects the output most

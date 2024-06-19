@@ -6,7 +6,7 @@ tags:
   - fruit
 publish: 
 date: 2024-01-09
-lastmod: 2024-03-03T19:00:40-08:00
+lastmod: 2024-06-18T21:16:59-06:00
 ---
 Essay responses for the 2024 Undergraduate Complexity Research program at SFI.
 
@@ -26,7 +26,7 @@ Related: [[Complex systems have nontrivial emergent and self-organizing behavior
 
 >Please briefly discuss what appeals to you about the study of complex systems and/or the research philosophy of the Santa Fe Institute. You can get a brief overview of SFI here: https://santafe.edu/about/overview
 
-I had an intrinsic attraction toward complexity long before I heard of complex systems science. For years, I’ve used an application called Obsidian to take “atomic” notes, short text files containing a single concept or proposition. Notes can be linked to build a personal Wikipedia, and Obsidian’s graph feature allows users to view all notes and links as an intricate network. I was, and still am, obsessed with watching connections between distinct topics develop over time. Most of my original ideas emerge from examining densely linked graph areas to be developed into essays or projects. My knowledge management strategy is complexity in practice. (I recently began publishing notes online; see “graph view” for some fledgling connections: by2328.github.io/garden.)
+I had an intrinsic attraction toward complexity long before I heard of complex systems science. For years, I’ve used an application called Obsidian to take “atomic” notes, short text files containing a single concept or proposition. Notes can be linked to build a personal Wikipedia, and Obsidian’s graph feature allows users to view all notes and links as an intricate network. I was, and still am, obsessed with watching connections between distinct topics develop over time. Most of my original ideas emerge from examining densely linked graph areas to be developed into essays or projects. My knowledge management strategy is complexity in practice. (I recently began publishing notes online; see “graph view” for some fledgling connections: bnnyng.github.io/garden.)
 
 Further, a complex systems framework helped me articulate why my interests in cognitive science and mathematics felt closely coupled, even though the subjects are only vaguely related. After reading *[[2009-mitchell-complexity-a-guided-tour|Complexity: A Guided Tour]]*, I noticed how mathematical reasoning is inherently complex: simple axioms and a strict formal system give rise to beautifully abstract forms, a creative process apparently unique to humans. Learning math is essentially a problem of how to ensure these imaginary forms are, ironically, accurately represented by individual brains. Teachers and researchers regularly develop new language, visuals, and gestures to communicate math, while their audiences essentially must learn novel cognitive processes—hence the common experience of poring over 1 or 2 lines of a proof for hours before comprehension strikes. In short, the language of complex systems, particularly intelligent systems, reveals how the practice of math fuses individual and collective cognition.
 

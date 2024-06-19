@@ -4,10 +4,10 @@ tags:
   - evergreen
 publish: "true"
 date: 2023-12-30 09:12
-lastmod: 2024-05-13T10:11:05-07:00
+lastmod: 2024-06-18T21:18:59-06:00
 title: Book reviews
 ---
-Standalone reviews for books that do not have [literature notes](https://by2328.github.io/garden/tags/literature-note). More on [Goodreads](https://www.goodreads.com/user/show/83827426-bonnie).
+Standalone reviews for books that do not have [literature notes](https://bnnyng.github.io/garden/tags/literature-note). More on [Goodreads](https://www.goodreads.com/user/show/83827426-bonnie).
 
 ---
 # A note on ratings

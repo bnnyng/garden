@@ -6,7 +6,7 @@ tags:
   - bud
 publish: 
 date: 2024-05-12 10:02
-lastmod: 2024-06-02T21:06:40-06:00
+lastmod: 2024-06-18T21:17:13-06:00
 ---
 Since the beginning of May, I’ve been going through [[20240512-artists-way|The Artist’s Way]], a twelve-week process designed to help one achieve “creative recovery.” There is a direct parallel, likely inspired by the author Julia Cameron’s own journey to sobriety, between the Way and twelve-step recovery programs like Alcoholics Anonymous. Already, the premise of creativity as something to be “recovered” fundamentally assumes that *creative ability is some sort of birthright*; as with addiction recovery, we hope to revert to a more wholesome state, before we were corrupted by worldly distractions. The first week’s theme, “recovering a sense of safety,” involves interrogating the various expectations from parents, etc. that may have compelled one to stifle their creative impulses. 
 
@@ -14,7 +14,7 @@ Since the beginning of May, I’ve been going through [[20240512-artists-way|The
 
 In any case, faced with this assumption, we are naturally led to wonder: *Does everyone actually have the capacity to be creative?* 
 
-The question certainly stumped me and the girls in our Week 1 reflection meeting. And frankly, I feel like I am unqualified to answer. Any semblance of creative generation I have practiced in my life as always been a form of imitation, like copying master artworks, summarizing content for [literature notes](https://by2328.github.io/garden/tags/literature-note) and [[book-reviews|book reviews]], wracking my brain to write a proof that has been solved by generations of undergraduates before me. I’m still wrestling with whether these count as actually creative acts, whatever that means. 
+The question certainly stumped me and the girls in our Week 1 reflection meeting. And frankly, I feel like I am unqualified to answer. Any semblance of creative generation I have practiced in my life as always been a form of imitation, like copying master artworks, summarizing content for [literature notes](https://bnnyng.github.io/garden/tags/literature-note) and [[book-reviews|book reviews]], wracking my brain to write a proof that has been solved by generations of undergraduates before me. I’m still wrestling with whether these count as actually creative acts, whatever that means. 
 
 As a non-expert, then, it seems fruitful to proceed in a Socratic manner—Socrates being the classic \[something, eternal learner?]—and interrogate the origins of the thing we want to define. We may ask instead: *What are the origins and conditions of creativity? What does it actually take to achieve?*
 
