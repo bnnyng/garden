@@ -4,7 +4,7 @@ tags:
   - workspace
 publish: 
 date: 2024-06-05 11:35
-lastmod: 2024-06-18T14:11:33-06:00
+lastmod: 2024-06-18T15:00:26-06:00
 ---
 
 DOOR CODE: 5891\*
@@ -138,4 +138,8 @@ DOOR CODE: 5891\*
 - Meeting with Simon & Marina
 	- Ideas
 		- Hidden Markov model of reply threads – comment emits one argument pattern, replies emit another; possibility that there are 6 argument patterns but 3 hidden states, etc; more general look at how argumentation happens
-		- Identifying how confidence is established, e.g. presence of 
+		- Identifying how confidence is established, e.g. presence of enthymematic gaps
+	- Next steps
+		- Scrape posts for comment data
+		- Implement Na clustering technique
+		- Continue literature review to identify significant suggested reasoning processes (e.g., Type 1 vs. Type 2 methods of establishing confidence, [[Deductive dialogues are Prover-Skeptic games, after Dutilh Novaes|Prover-Skeptic]] framework) and “argument” types (e.g., counterexamples, probabilistic reasoning)

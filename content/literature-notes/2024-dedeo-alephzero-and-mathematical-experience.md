@@ -6,10 +6,10 @@ aliases:
   - DeDeo, 2024
 tags:
   - literature-note
-title: Article | AlephZero and Mathematical Experience
+title: Essay | AlephZero and Mathematical Experience
 publish: "true"
 date: 2024-06-12 16:13
-lastmod: 2024-06-14T13:47:11-06:00
+lastmod: 2024-06-18T14:28:47-06:00
 ---
 DOI: https://doi.org/10.1090/bull/1824 
 # Summary
