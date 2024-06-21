@@ -5,7 +5,7 @@ aliases:
   - chaos
 tags:
   - permanent-note
-  - topic-complexity
+  - topic-physics-complexity
 date: 2023-12-28
 lastmod: 2023-12-31T11:39:17-08:00
 ---

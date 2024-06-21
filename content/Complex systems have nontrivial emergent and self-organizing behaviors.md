@@ -3,7 +3,7 @@ aliases:
   - complex system
 tags:
   - permanent-note
-  - topic-complexity
+  - topic-physics-complexity
 date: 2023-12-26
 lastmod: 2024-01-01T21:58:14-08:00
 publish: "true"

@@ -7,7 +7,7 @@ aliases:
   - ontogenetic timescale
 tags:
   - permanent-note
-  - topic-philosophy-theory-religion
+  - topic-humanities
 publish: "true"
 date: 2024-06-15 13:22
 lastmod: 2024-06-18T14:21:37-06:00

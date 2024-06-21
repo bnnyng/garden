@@ -2,9 +2,9 @@
 aliases: 
 tags:
   - permanent-note
-  - topic-philosophy-theory-religion
+  - topic-humanities
 publish: "true"
-lastmod: 2023-12-29T12:26:03-08:00
+lastmod: 2024-06-20T22:21:31-06:00
 ---
 We must multitask, regressing to be like wild animals, in order to attend to the excess stimuli created by excess positivity in achievement society. This limits our cultural development, because [[Hyperattention does not produce, but repeats what is already available]].
 

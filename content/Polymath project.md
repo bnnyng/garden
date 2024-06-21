@@ -3,10 +3,10 @@ aliases:
   - Polymath
 tags:
   - permanent-note
-  - topic-complexity
+  - topic-physics-complexity
 publish: 
 date: 2024-06-12 15:55
-lastmod: 2024-06-18T14:49:16-06:00
+lastmod: 2024-06-20T22:21:59-06:00
 ---
 [Blog](https://gowers.wordpress.com/)
 https://gowers.wordpress.com/category/polymath1/

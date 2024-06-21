@@ -4,7 +4,7 @@ aliases:
   - dynamics
 tags:
   - permanent-note
-  - topic-complexity
+  - topic-physics-complexity
 date: 2023-12-28
 lastmod: 2023-12-28T18:02:35-08:00
 ---

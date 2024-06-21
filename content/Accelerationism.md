@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - permanent-note
-  - topic-philosophy-theory-religion
+  - topic-humanities
 ---
 In general, left wing accelerationists argue that conditions must be made worse before they improve.
 

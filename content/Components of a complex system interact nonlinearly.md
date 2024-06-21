@@ -3,7 +3,7 @@ aliases:
   - nonlinear
 tags:
   - permanent-note
-  - topic-complexity
+  - topic-physics-complexity
 lastmod: 2023-12-29T20:14:40-08:00
 date: 2023-12-26
 publish: 

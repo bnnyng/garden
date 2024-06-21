@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - permanent-note
-  - topic-philosophy-theory-religion
+  - topic-humanities
   - seed
 lastmod: 2024-01-01T08:34:41-08:00
 ---

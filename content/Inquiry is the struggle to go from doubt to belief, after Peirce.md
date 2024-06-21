@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - permanent-note
-  - topic-philosophy-theory-religion
+  - topic-humanities
 publish: "true"
 date: 2024-04-19 14:20
 lastmod: 2024-05-01T12:47:01-07:00

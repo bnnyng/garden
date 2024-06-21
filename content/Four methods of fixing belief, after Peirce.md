@@ -8,7 +8,7 @@ aliases:
   - method of apriority
 tags:
   - permanent-note
-  - topic-philosophy-theory-religion
+  - topic-humanities
 publish: "true"
 date: 2024-04-29 14:14
 lastmod: 2024-05-01T12:57:59-07:00

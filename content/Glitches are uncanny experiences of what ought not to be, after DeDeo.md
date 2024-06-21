@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - permanent-note
-  - topic-complexity
+  - topic-physics-complexity
 publish: "true"
 date: 2024-06-12 16:30
 lastmod: 2024-06-18T14:28:24-06:00

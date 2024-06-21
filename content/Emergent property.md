@@ -5,7 +5,7 @@ aliases:
   - emergent properties
 tags:
   - permanent-note
-  - topic-complexity
+  - topic-physics-complexity
 publish: "true"
 date: 2023-12-27
 lastmod: 2023-12-31T11:32:08-08:00

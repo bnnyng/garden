@@ -4,7 +4,7 @@ aliases:
   - mathematical glitches
 tags:
   - permanent-note
-  - topic-complexity
+  - topic-physics-complexity
 publish: "true"
 date: 2024-06-12 16:33
 lastmod: 2024-06-12T16:39:00-06:00
