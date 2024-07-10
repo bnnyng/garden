@@ -7,7 +7,7 @@ tags:
 ---
 According to David Krakauer (Santa Fe Institute), intelligence is the acquisition of specific representations and rules (e.g., from a community) that are used for successful problem solving. Krakauer would consider a system intelligent once it exhibits domain-specific competence.
 
-As an example of “learned incomprehension,” professional athletes are able to consider high-level game strategies because of their automated competence with mechanical play. This complicates the relationship between kinds of competence produced by [[System 1 and System 2 thinking]].
+As an example of “learned incomprehension,” professional athletes are able to consider high-level game strategies because of their automated competence with mechanical play. This complicates the relationship between kinds of competence produced by [[Dual process theory of reasoning]].
 
 ---
 # References 

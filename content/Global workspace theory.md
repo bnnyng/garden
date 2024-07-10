@@ -14,4 +14,4 @@ The “global workspace” theory of higher-level human reasoning is the idea th
 From [[2022-sfi-embodied-situated-and-grounded-intelligence]]:
 >Because different modules can take alternatively take the mic, so to speak, this also pushes cognition toward sequential processing. Further, individual modules must encode their outputs in a way that allows other modules to utilize these outputs. The result is that cognition combines thoughts into a task-appropriate sequence for processing incoming information.
 
-The bottleneck forces sequential processing like that associated with [[System 1 and System 2 thinking|System 2]] thinking, which includes conscious reasoning, planning, and imagination.
+The bottleneck forces sequential processing like that associated with [[Dual process theory of reasoning|System 2]] thinking, which includes conscious reasoning, planning, and imagination.

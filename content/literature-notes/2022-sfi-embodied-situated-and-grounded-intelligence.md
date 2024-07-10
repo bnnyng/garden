@@ -205,7 +205,7 @@ publish: "true"
 ### Yoshua Bengio – “System 2 GFlowNets: Inductive biases towards machines that understand and think”
 
 - Bengio introduces a novel deep learning architecture called GFlowNets, which uses principles that can improve machine intelligence.
-- Current AI is only capable of System 1 thinking, of the [[System 1 and System 2 thinking]] used by humans.
+- Current AI is only capable of System 1 thinking, of the [[Dual process theory of reasoning]] used by humans.
 - [[Global workspace theory]] implies that cognition is sequential processing.
 - The key results of Bengio’s work are identifying a lack of System 2 thinking in existing neural network architectures and a way to actually implement System 2 thinking.
 ### General discussion for day 3

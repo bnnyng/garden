@@ -5,9 +5,9 @@ aliases:
 tags:
   - literature-note
 title: Workshop Report | Foundations of Intelligence in Natural and Artificial Systems
-lastmod: 2024-05-26T15:53:13-07:00
+lastmod: 2024-07-10T00:09:34-06:00
 date: 2023-12-26
-publish: "true"
+publish: 
 ---
 # Summary
 
@@ -34,7 +34,7 @@ publish: "true"
 	- In AI, domain-specific progress is often mistaken for progress toward general AI.
 	- Reflexive thinking is better understood and distinct from higher-level thinking, which remains undefined.
 	- Other forms of intelligence include “liquid brain” architecture in ant colonies and “learned incomprehension” in competitive puzzle-solving.
-- The distinction between [[System 1 and System 2 thinking]] is controversial and hard to draw.
+- The distinction between [[Dual process theory of reasoning]] is controversial and hard to draw.
 - Social networks are important for understanding intelligence.
 	- Social groups provide scaffolding for learning.
 	- Social connections enhance intelligence by connecting us with diverse perspectives.
@@ -93,7 +93,7 @@ publish: "true"
 	- More advanced techniques require individuals to spend more time adopting them. Individual learning curves determine collective advancement.
 	- Collective intelligence develops in a “stair” progression.
 - Representation of a problem domain is important for finding useful rules and good performance.
-- [[Intelligence is a “learned incomprehension” that comes from acquisition of expertise, after J. Krakauer]]
+- [[Intelligence is a “learned incomprehension” that comes from acquisition of expertise, after D. Krakauer]]
 - #concept-question What is “Searle Inversion”?
 
 ### Ricard Sole – “Intelligence and the Nature of Embodiment: From Liquid to Solid”

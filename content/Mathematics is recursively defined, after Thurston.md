@@ -3,6 +3,8 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
+date: 2022-09-01
+lastmod: 2024-06-21T10:43:16-06:00
 ---
 Mathematical advancements help refine our thinking; more sophisticated thinking leads to new mathematical concepts and structures.
 

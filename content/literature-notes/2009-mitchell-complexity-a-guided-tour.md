@@ -6,7 +6,7 @@ aliases:
 tags:
   - literature-note
 date: 2023-12-28
-lastmod: 2024-01-24T12:10:56-08:00
+lastmod: 2024-06-22T17:00:16-06:00
 ---
 # Summary
 
@@ -29,7 +29,7 @@ lastmod: 2024-01-24T12:10:56-08:00
 - **Linear system** = [[Linear systems can be understood through their individual parts]]
 
 ### What is complexity?
-- [[Complex systems have nontrivial emergent and self-organizing behaviors]]
+- Complex systems have nontrivial emergent and self-organizing behaviors.
 - Complexity science asks how these emergent and self-organizing behaviors actually happen.
 
 ## Part 3: Computation writ large

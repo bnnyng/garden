@@ -4,7 +4,7 @@ aliases:
 tags:
   - literature-note
 date: 2023-12-27
-lastmod: 2024-06-18T14:11:22-06:00
+lastmod: 2024-06-22T17:19:17-06:00
 ---
 # Summary
 
@@ -32,8 +32,7 @@ Broadly, complex systems are self-organized systems of relatively simple compone
 
 ## Properties common to complex systems
 - [[Complex systems are made of relatively simple agents]]
-- [[Components of a complex system interact nonlinearly]]
-- [[Complex systems are self-organized]]
+- Components of complex systems interact non-linearly.
 - Complex systems display emergent properties like hierarchical organization, information processing, complex dynamics, and evolution and learning.
 
 ## Core goals, disciplines, and methodologies of the sciences of complexity

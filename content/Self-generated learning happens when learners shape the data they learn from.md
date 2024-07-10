@@ -4,6 +4,9 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
+publish: "true"
+date: 2023-12-25
+lastmod: 2024-07-09T19:35:06-06:00
 ---
 Self-generated learning occurs when a learning system behaves to generate useful data for a particular context. A domain-general learning system should be able to shape their future experiences and enhance learning across a wide variety of contexts.
 

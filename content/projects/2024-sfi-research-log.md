@@ -4,7 +4,7 @@ tags:
   - workspace
 publish: 
 date: 2024-06-05 11:35
-lastmod: 2024-06-20T10:19:50-06:00
+lastmod: 2024-07-09T16:24:30-06:00
 ---
 
 DOOR CODE: 5891\*
@@ -105,7 +105,7 @@ DOOR CODE: 5891\*
 - Next steps
 	- Understand relevance of Redner “generative assembly model” paper – the communal reasoning composition as a network that grows slowly over time? Where to draw the distinction between a well-formed proof “piece” that is added to the overall argument?
 	- Talk to Mirta Galesic about collective problem-solving – how do these sorts of things scale? Categorically different situation when goal is this cohesive?
-	- Look into sources of comments for [[Polymath project]] – [polymath1](https://gowers.wordpress.com/category/polymath1/)
+	- Look into sources of comments for [[Polymath projectss]] – [polymath1](https://gowers.wordpress.com/category/polymath1/)
 
 [[2024-06-14]]
 
@@ -168,3 +168,230 @@ DOOR CODE: 5891\*
 
 [[2024-06-20]]
 
+- Added more information for each comment
+	- Custom ID, e.g., `G300-1000` for Gowers comment 1000 on post 300
+	- References to parent comment if in blog “reply” structure (`in-reply-to`, `in-reply-to-href`)
+	- Links to comment itself, and author if available
+
+[[2024-06-21]]
+
+- Contemplating assembly theory perspective and math – mostly reading day (didn’t feel very productive, however)
+- Meeting with Marina & Simon – see daily note
+	- Topical modeling how-to
+- Next steps
+	- Make a text file for all relevant blog links
+	- Finish collecting *clean* data for as many projects as possible
+
+---
+# Week 4 - Flash talks
+
+[[2024-06-24]]
+
+- Saving URLs
+	- For consistency, only saved “research” threads that were officially tagged under the project name for each blog
+	- Omitted comments to published papers for now, since the interaction is not fully captured in the comments (but can add)?
+- Tentatively scraped all comments, reasons for inconsistency with Kloumann paper?
+- Next steps
+	- Add project id column
+	- Include up/down vote data
+
+---
+# Further notes
+
+- Potential avenues of investigation
+	- Does interaction change as people get more familiar with online etiquette?- Added more information for each comment
+	- Custom ID, e.g., `G300-1000` for Gowers comment 1000 on post 300
+	- References to parent comment if in blog “reply” structure (`in-reply-to`, `in-reply-to-href`)
+	- Links to comment itself, and author if available
+
+[[2024-06-21]]
+
+- Contemplating assembly theory perspective and math – mostly reading day (didn’t feel very productive, however)
+- Meeting with Marina & Simon – see daily note
+	- Topical modeling how-to
+- Next steps
+	- Make a text file for all relevant blog links
+	- Finish collecting *clean* data for as many projects as possible
+
+---
+# Week 4 - Flash talks
+
+[[2024-06-24]]
+
+- Saving URLs
+	- For consistency, only saved “research” threads that were officially tagged under the project name for each blog
+	- Omitted comments to published papers for now, since the interaction is not fully captured in the comments (but can add)?
+- Tentatively scraped all comments, reasons for inconsistency with Kloumann paper?
+- Next steps
+	- Add project id column
+	- Include up/down vote data
+
+[[2024-06-25]]
+
+- Meeting with Simon and Marina
+	- Clean comments for topic modeling – remove LaTeX for now, change to all lowercase, possibly standardize tenses?
+	- Get word counts and remove top words
+	- Start “quick and dirty” topic modeling
+- Slack discussion – potential plots 
+	- “The distribution of the length of comments in words; this might tell us a little bit about the “norms” of the system. My guess is that it will look rather Poissonian (with a characteristic length that indicates a target), rather than exponential (implying a constant “probability of stopping”) or power law (indicating more complex processes beloved of the Santa Fe Institute).”
+	- “A scatter plot of “number of non-Latex words” versus “number of Latex equations”, that might separate out “business posts” from more discursive ones”
+- Debugging for web scraping
+	- Fixed replies for Polymath blog
+	- Changed LaTeX to print alt text, bracketed by $s
+- Starting topic modeling
+	- Downloaded necessary packages – will probably have to work from command line
+	- Consolidated and cleaned all comment *content* – did not remove single characters or numbers
+- Next steps
+	- Decide which of the most common words to remove from content – check if I should use a single “document”
+	- Run quick start topic model using the command line
+
+[[2024-06-27]]
+
+- Notes from giving flash talk
+	- Tamyra Walker – look into ethnomathematics, consider how “mathematical reasoning” might be qualified
+	- Cris Moore – tracking math concepts; extend to comparisons to final proof
+- Topic modeling
+	- Tried with 10 and 20 topics
+- Next steps
+	- Talk to Tamyra (`tamyrawalker@gmail.com`) about quantitative social science, topic modeling, ethnomathematics
+	- Get access to “fast machines” via ssh
+		- `bnnyng@ganesha.lan.cmu.edu`
+		- [http://www.linuxproblem.org/art_9.html](http://www.linuxproblem.org/art_9.html)
+
+[[2024-06-27]]
+
+- Notes from giving flash talk
+	- Tamyra Walker – look into ethnomathematics, consider how “mathematical reasoning” might be qualified
+	- Cris Moore – tracking math concepts; extend to comparisons to final proof
+- Topic modeling
+	- Tried with 10 and 20 topics
+- Next steps
+	- Talk to Tamyra (`tamyrawalker@gmail.com`) about quantitative social science, topic modeling, ethnomathematics
+	- Get access to “fast machines” via ssh
+		- `bnnyng@ganesha.lan.cmu.edu`
+		- [http://www.linuxproblem.org/art_9.html](http://www.linuxproblem.org/art_9.html)
+
+[[2024-06-27]]
+
+- Notes from giving flash talk
+	- Tamyra Walker – look into ethnomathematics, consider how “mathematical reasoning” might be qualified
+	- Cris Moore – tracking math concepts; extend to comparisons to final proof
+- Topic modeling
+	- Tried with 10 and 20 topics
+- Next steps
+	- Talk to Tamyra (`tamyrawalker@gmail.com`) about quantitative social science, topic modeling, ethnomathematics
+	- Get access to “fast machines” via ssh
+		- `bnnyng@ganesha.lan.cmu.edu`, `12-Pr48`
+		- [http://www.linuxproblem.org/art_9.html](http://www.linuxproblem.org/art_9.html)
+		- https://computing.cs.cmu.edu/security/security-ssh
+
+[[2024-06-28]]
+
+- Meeting with Simon & Marina
+	- Current stage is “playing around”; aim to get “cognitive move” word list
+	- Interviewing real people about how they conduct math, take inspiration from [[2024-dedeo-alephzero-and-mathematical-experience]]
+- Topic modeling
+	- Redid model with a large number of topics (100)
+	- Filtered comments for words not shared across projects; in particular, words not used at least three times in all *main* Polymaths
+- Next steps
+	- Try a smaller number of topics (5-10)
+	- Get top comment examples for each topic
+
+---
+# Week 5
+
+[[2024-07-01]]
+
+- Retrieved top comments for 10 topics with shared words only
+	- Possibly too constrained? Instead, try words that appear in 50 percent of Polymaths, standardizing words
+- Made general plots for data
+	- Distributions of comment lengths (number of words)
+	- Number of words vs. number of TeX equations
+- Next steps
+	- Examine example comments and get a sense of topic classifications
+
+
+[[2024-07-02]]
+- Meeting with Simon and Marina
+	- Make final word filtered list, then train topic model again
+	- Adjust hyperparameters during training
+	- Aim for smaller number of categories to be more interpretable—look for log-likelihood asymptote
+- Reading recommendations from Simon
+	- “The Birth of a Theorem”
+	- Rota, “Indiscrete Thoughts”
+	- Ruben Hirsch
+- Finalizing word list
+	- Inspecting top 15 comments from each previously assigned topic, adding words to keep based on original text and *removing* words based on filtered content; general heuristic is to remove words highly associated with categories that seem to be about one math topic
+- Next steps
+	- Finalize word list
+	- Retrain topics, adjusting hyperparameters and looking at log-likelihood asymptote for optimal numbers
+	- Create Overleaf document and appendix with examples for each topic
+	- Try working with bi-grams
+
+[[2024-07-03]]
+- Finalizing word list – see daily note for heuristics
+	- Added bi-grams
+- Try MALLET modeling with 5 and 10 topics
+- Next steps
+	- Put results in an Overleaf document
+
+[[2024-07-05]]
+
+- Running anchored CorEx models – see daily note
+- Meeting with Simon and Marina
+	- Further word filtering
+	- Use domain knowledge to come up with “anchor words”
+	- Verify by running unsupervised model on the documents with top 100 words from each topic, etc.
+- Next steps
+	- Come up with list of questions to ask mathematicians
+	- Data preprocessing for CorEx – use higher minimum bi-gram ratio
+
+---
+# Week 6
+
+[[2024-07-08]]
+- Trying contextual/combined models
+- Next steps
+	- Solidify topics and decide on metrics for evaluation
+	- Clarify next directions for research
+
+[[2024-07-09]]
+
+- Meeting with Simon and Marina
+	- Finalize word “inclusion” list and run unsupervised model
+	- Can perform analyses using both supervised and unsupervised results
+- Next steps
+	- Run LDA with “inclusion” word lists and select best model (based on interpretability and loss?)
+
+---
+# References
+
+- Topic modeling
+	- [Complexity Explorer course from Simon](https://www.complexityexplorer.org/courses/162-foundations-applications-of-humanities-analytics-spring-2023/segments/15615?summary)
+
+- Topic modeling with CorEx
+	- [Notebook with example](https://gist.github.com/patrickvankessel/0d5bd690910edece831dbdf32fb2fb2d)
+	- [Main example with sparse matrix](https://github.com/gregversteeg/corex_topic/blob/master/corextopic/example/corex_topic_example.ipynb)
+
+---
+# Further notes
+
+- Potential avenues of investigation
+	- Does interaction change as people get more familiar with online etiquette?
+	- Do people engage in Lakatos-style [[Dialogical reasoning]]?
+	- Find “hidden states” of local dialogue patterns
+
+#### Topic modeling with MALLET
+
+Importing data to be used by Mallet
+```
+bin\mallet import-file --input data\comments-mallet-bigrams-20.tsv --output commentsBigrams20.mallet --keep-sequence 
+```
+
+```
+bin\mallet train-topics --input commentsBigrams20.mallet --num-topics 10 --output-state commentsOutput10.gz --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics commentsTopics10.txt --output-topic-keys commentsKeys10.txt 
+```
+
+```
+bin\mallet train-topics --input commentsBigrams20.mallet --num-topics 20 --input-state commentsOutput20.gz --no-inference --diagnostics-file diagnostics20.xml
+```

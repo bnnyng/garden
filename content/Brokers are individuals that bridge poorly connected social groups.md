@@ -5,6 +5,8 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
+date: <% tp.file.creation_date() %>
+lastmod: 2024-07-09T19:20:38-06:00
 ---
 According to Wood, Kleinbaum, & Wheatley (2019), “brokers” have special skills that make them more successful at bridging gaps between poorly connected social groups; such skills are learned by past experience in diverse communities.
 

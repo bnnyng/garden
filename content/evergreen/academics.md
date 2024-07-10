@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-04-02 15:29
-lastmod: 2024-06-13T23:01:50-06:00
+lastmod: 2024-07-08T09:45:53-06:00
 ---
 # Coursework
 
@@ -35,6 +35,40 @@ lastmod: 2024-06-13T23:01:50-06:00
 
 ---
 # Log
+
+2024-07-03
+- Plan for next course registration
+	- Drop Cognitive Neuro for social neuro
+	- Decide whether to keep cognitive science major or not
+- Potential specialization
+	- Knowledge ecosystems
+		- [Theoretical ecology](https://doc.sis.columbia.edu/#subj/EEEB/W4150-20243-001/)
+	- Embodied and distributed cognition
+		- The Neural Code – how brain encodes information about the world
+- Count physics classes towards math electives
+
+2024-07-02
+- Dropping cognitive science major & taking more physics courses instead; motivation is to get more understanding of models to apply later, as well as philosophy of physics
+	- Good pairing with neuroscience models, professor with physics background
+	- More quantitative graduate studies
+	- Can do cognition stuff as an extracurricular, many cogsci courses that I’m uninterested in
+- Alternatively, stay with cognitive science major and add in physics classes as desired
+	- Would help motivate doing research
+- General classes
+	- Social neuroscience – switch with cogneuro
+- Cognitive science elective ideas – embodied and distributed cognition
+	- Physics – mechanics maybe (precedent: economics classes in the specialization)
+	- “Ecology” related
+	- Diverse intelligences inspiration
+- Potential specialization courses
+	- [Behavioral Epigenetics](https://doc.sis.columbia.edu/#subj/PSYC/G4498-20243-001/)
+	- [Language & Mind](https://doc.sis.columbia.edu/#subj/PSYC/W4244-20243-001/) or cognitive linguistics, or independent study
+	- [Architecture of Knowledge](https://doc.sis.columbia.edu/#subj/AHIS/G8368-20241-001/) – Elenora Pistis (potential independent study?)
+	- Social and culture theory
+	- Social neuroscience
+	- Sounds: Music, math, and mind
+	- Introduction to music cognition – something related to music
+- Filling that last slot – cogsci or
 
 2024-04-04
 - Faculty to take courses with:

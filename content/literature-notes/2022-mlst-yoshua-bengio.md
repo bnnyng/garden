@@ -15,7 +15,7 @@ lastmod: 2024-01-02T12:59:04-08:00
 - Abstract causal dependencies are preserved across changes in distribution.
 - Our brain is a machine that discovers new abstractions, using discrete concepts to get better generalization.
 - [[GFlowNets]] are an active learning framework where, unlike typical RL where the goal is to maximize expected reward of an action, the learning algorithm tries to learn the underlying structure of the reward function.
-- #queue The usage matches Michael Graziano’s theory of consciousness: one network is a “world model” (possibly Bayesian, modeling uncertainty), while a second, higher-level network controls the search policy to drive further exploration. The two levels are a way to implement [[System 1 and System 2 thinking]].
+- #queue The usage matches Michael Graziano’s theory of consciousness: one network is a “world model” (possibly Bayesian, modeling uncertainty), while a second, higher-level network controls the search policy to drive further exploration. The two levels are a way to implement [[Dual process theory of reasoning]].
 
 ---
 # Key terms

@@ -26,7 +26,7 @@ Communication in a subfield is efficient because of shared patterns of thinking.
 
 - Most broadly, mathematicians advance human understanding.
 	- A computer-produced proof, despite being correct, led to controversy, suggesting that human understanding of the proof is key to mathematics.
-- [[Mathematics is recursively defined]].
+- [[Mathematics is recursively defined, after Thurston]].
 
 > The subject matter of mathematics changes to reflect how we think.
 
