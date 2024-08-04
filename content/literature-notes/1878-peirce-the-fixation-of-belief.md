@@ -7,9 +7,10 @@ aliases:
 tags:
   - literature-note
 title: Essay | The Fixation of Belief
+permalink: http://www.sophia-project.org/uploads/1/3/9/5/13955288/peirce_belief.pdf
 publish: "true"
 date: 2024-04-15 16:55
-lastmod: 2024-06-06T16:37:52-06:00
+lastmod: 2024-08-04T11:55:20-06:00
 ---
 # Summary
 

@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-06-18 15:06
-lastmod: 2024-07-07T11:40:57-06:00
+lastmod: 2024-08-04T02:32:37-06:00
 ---
 - Multicellular life as a “charismatic center”
 - Semantic drift
@@ -14,6 +14,7 @@ lastmod: 2024-07-07T11:40:57-06:00
 - The Ludic Century, from Eric Zimmerman
 - Living things are big in space, not in time, after Sara Walker
 - UKLG daily routine: https://deepstash.com/article/73298/ursula-k-le-guins-daily-routine-the-discipline-that-fueled-her-imagination
+- Renormalization
 
 Things to look into:
 - Tree automata
@@ -29,3 +30,8 @@ Research leads:
 Broad ideas:
 - Embodied learning, VR for visualizations
 - Model of mental illness, an ecological account
+- Agent based model for key actors to collaborate on climate change
+
+People to reach out to:
+- Robin Na
+- 

@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-02-15 09:36
-lastmod: 2024-07-07T11:40:57-06:00
+lastmod: 2024-08-04T02:26:59-06:00
 ---
 | Lab                                                                            | PI                                  | Location / department                    | Topic / techniques                                                                                                                 | Ongoing projects                                                                                                                                                                                                                     | Additional notes                                                 |
 | ------------------------------------------------------------------------------ | ----------------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
@@ -22,6 +22,9 @@ Others to look into:
 - Mirta Galesic
 - James Evans
 - Thalia Wheatley
+- Robb Rutledge
+- Rockefeller Center in general
+- Simon Levin
 
 ---
 # Potential senior thesis advisors
@@ -30,3 +33,8 @@ Others to look into:
 	- Has mentored Barnard cognitive science thesis in the past
 - Todd Gurekis
 - ARNI institute member
+
+---
+# Fall 2024 PI hunt
+
+- [Lucas Tian (Rockefeller Center)](https://www.linkedin.com/in/lucas-y-tian-24822326)

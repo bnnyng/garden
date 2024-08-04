@@ -1,15 +1,16 @@
 ---
 lit-author: 
 aliases:
-  - "\"Mckinsey & Company: Capital's Willing Executioners\""
+  - "McKinsey & Company: Capital's Willing Executioners"
 tags:
   - literature-note
+title: "McKinsey & Company: Capital's Willing Executioners"
+permalink: https://www.currentaffairs.org/2019/02/mckinsey-company-capitals-willing-executioners#
+highlights: "[[RAW-20231219-mckinsey-and-company]]"
 date: 2023-12-24
-lastmod: 2023-12-31T11:13:44-08:00
+lastmod: 2024-08-04T11:58:01-06:00
 ---
 # Summary
-
-[Source](https://www.currentaffairs.org/2019/02/mckinsey-company-capitals-willing-executioners#) – [[RAW-20231219-mckinsey-and-company|Highlights]]
 
 The author is an anonymous former employee of McKinsey & Company, the most prominent of the “Big Three” consulting firms. The author claims that McKinsey is “capitalism’s most effective messenger” and thus determined capital’s impact on the world.
 

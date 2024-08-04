@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-04-02 15:29
-lastmod: 2024-07-08T09:45:53-06:00
+lastmod: 2024-08-04T02:26:36-06:00
 ---
 # Coursework
 
@@ -35,6 +35,19 @@ lastmod: 2024-07-08T09:45:53-06:00
 
 ---
 # Log
+
+[Course registration spreadsheet](https://docs.google.com/spreadsheets/d/1EC1K1KxJ2XQmm4FhbcpVILMZ_cCeUwDmW9XHl_NVEOU/edit?gid=827761127#gid=827761127)
+
+2024-08-01 
+- Plan for next course registration
+	- Drop cognitive neuroscience for social neuroscience – professor is good for networking!
+	- Keep E&M planned, but don’t register – save this class for P/F
+	- Drop accelerated physics, get on waitlist for Psychology of Learning
+	- Drop Metacognition, WL Cognition: Memory and Stress with Janet Metcalfe
+- If not a final cogsci elective, could do independent study
+	- Networks, agent-based modeling
+- Other classes
+	- [Machine intelligence](https://doc.sis.columbia.edu/#subj/PSYC/G4836-20243-001/)
 
 2024-07-03
 - Plan for next course registration

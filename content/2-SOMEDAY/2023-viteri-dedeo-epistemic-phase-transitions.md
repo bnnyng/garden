@@ -7,12 +7,11 @@ aliases:
 tags:
   - literature-note
 title: Paper | Epistemic phase transitions in mathematical proofs
+permalink: https://doi.org/10.1016/j.cognition.2022.105120
 publish: 
 date: 2024-06-06 16:35
-lastmod: 2024-06-14T13:51:22-06:00
+lastmod: 2024-08-04T11:53:54-06:00
 ---
-
-DOI: [https://doi.org/10.1016/j.cognition.2022.105120](https://doi.org/10.1016/j.cognition.2022.105120 "Persistent link using digital object identifier")
 # Summary
 
 >[!abstract]

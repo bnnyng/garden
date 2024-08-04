@@ -6,9 +6,10 @@ aliases:
 tags:
   - literature-note
 title: Paper | Intrinsically Motivated Reinforcement Learning
+permalink: https://www.cs.cornell.edu/~helou/IMRL.pdf
 publish: "true"
 date: 2023-12-29 17:41
-lastmod: 2023-12-31T11:38:38-08:00
+lastmod: 2024-08-04T11:56:09-06:00
 ---
 # Summary
 

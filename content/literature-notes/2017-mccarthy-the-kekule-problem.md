@@ -1,14 +1,15 @@
 ---
-lit-author: 
+lit-author: Cormac McCarthy
 aliases:
   - The Kekule Problem
   - the Kekule problem
 tags:
   - literature-note
 title: Essay | The Kekule Problem
+permalink: https://nautil.us/the-kekul-problem-236574/
 publish: "true"
 date: 2024-06-23 13:17
-lastmod: 2024-06-24T07:14:22-06:00
+lastmod: 2024-08-04T11:58:48-06:00
 ---
 # Summary
 

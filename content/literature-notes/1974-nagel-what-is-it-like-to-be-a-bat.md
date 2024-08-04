@@ -7,9 +7,10 @@ aliases:
 tags:
   - literature-note
 title: Essay | What is it Like to be a Bat?
+permalink: https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf
 publish: "true"
 date: 2024-05-26 15:08
-lastmod: 2024-06-06T16:37:52-06:00
+lastmod: 2024-08-04T11:55:55-06:00
 ---
 # Summary and thoughts
 
