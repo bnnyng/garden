@@ -1,4 +1,9 @@
 ---
+lastmod: 2024-08-14T07:42:14-07:00
+tags:
+  - workspace
+---
+ 
 aliases:
   - SFI UCR
   - undergraduate complexity research
@@ -7,14 +12,15 @@ tags:
   - workspace
 publish: 
 date: 2024-06-05 11:35
-lastmod: 2024-08-04T11:35:28-06:00
----
+lastmod: 2024-08-09T00:25:07-06:00
+ 
 
 DOOR CODE: 5891\*
 # Content
 
 **Overview**
 - [[Polymath projects]]
+- [[ucr-final-abstract]]
 
 **Literature and related theory**
 - [[A cognitive taxonomy for mathematical collaboration]]
@@ -29,15 +35,14 @@ DOOR CODE: 5891\*
 - [[Coarse-graining]]
 
 **Fleeting notes and workspaces**
-- [[20240724-sfi-final-talk-brain-dump]]
-- [[20240802-a-potential-talk-narrative]]
 - [[20240802-semantic-topic-hierarchy-specs]]
 - [[20240803-cognitive-topic-hierarchy-specs]]
 
----
-# Week 1
+ ---
+# Santa Fe Institute REU
+## Week 1
 
-## Jun 5 to Jun 7 – One-on-one mentor meetings
+#### Jun 5 to Jun 7 – One-on-one mentor meetings
 
 [[2024-06-05]]
 
@@ -82,11 +87,11 @@ DOOR CODE: 5891\*
 	- Binary choice models – [discrete choice with social interactions (2022)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267083), [binary choice (2022)](https://iopscience.iop.org/article/10.1088/2632-072X/ac8c78/pdf)
 	- Formal models of social disagreement in science (Seselja, 2022)
 
----
+ 
 
-# Week 2
+## Week 2
 
-## Jun 10 to Jun 11 – Write project abstract
+#### Jun 10 to Jun 11 – Write project abstract
 
 [[2024-06-10]]
 
@@ -110,7 +115,7 @@ DOOR CODE: 5891\*
 		- DeDeo AMS paper
 		- Catherine Novales Duluth, *Dialogical Roots of Deduction*, general thoughts
 
-## Jun 11 to Jun 14 – Research days
+#### Jun 11 to Jun 14 – Research days
 
 [[2024-06-12]]
 
@@ -143,8 +148,8 @@ DOOR CODE: 5891\*
 	- Finish book on dialogical proving
 	- Start looking at blog posts and comments
 
----
-# Week 3
+ 
+## Week 3
 
 [[2024-06-17]]
 
@@ -209,8 +214,8 @@ DOOR CODE: 5891\*
 	- Make a text file for all relevant blog links
 	- Finish collecting *clean* data for as many projects as possible
 
----
-# Week 4 - Flash talks
+ 
+## Week 4 - Flash talks
 
 
 [[2024-06-24]]
@@ -268,8 +273,8 @@ DOOR CODE: 5891\*
 	- Try a smaller number of topics (5-10)
 	- Get top comment examples for each topic
 
----
-# Week 5
+ 
+## Week 5
 
 [[2024-07-01]]
 
@@ -317,8 +322,8 @@ DOOR CODE: 5891\*
 	- Come up with list of questions to ask mathematicians
 	- Data preprocessing for CorEx – use higher minimum bi-gram ratio
 
----
-# Week 6
+ 
+## Week 6
 
 [[2024-07-08]]
 - Trying contextual/combined models
@@ -363,8 +368,8 @@ DOOR CODE: 5891\*
 - Got most distinct comments for MALLET topics
 - Scraped main blog posts to make larger corpus for “semantic” topics
 
----
-# Week 7
+ 
+## Week 7
 
 [[2024-07-15]]
 
@@ -399,8 +404,8 @@ DOOR CODE: 5891\*
 	- Remove blank comments and posts
 	- Remove meta posts and comments
 
----
-# Week 8
+ 
+## Week 8
 
 [[2024-07-22]]
 
@@ -466,8 +471,7 @@ DOOR CODE: 5891\*
 	- Work on refining cognitive topics, augmenting word lists
 	- Re-run analyses on singular project
 
----
-# Week 9
+## Week 9
 
 2024-07-29
 - Tried modeling with anchored CorEx – led to high correlations between comment length and entropy
@@ -527,8 +531,32 @@ DOOR CODE: 5891\*
 	- Decide which topic reductions to use, get labels
 
 
+[[2024-08-04]]
+- Put together most talk slides
+- Next steps
+	- Complete background information portion of talk
+
+## Week 10 – Final talks
+
+2024-08-07
+
+- Final talk preparation
+	- [x] Run through slides in reverse
+- Final talk slides
+	- [x] Fix acknowledgement slide
+	- [x] Download and refine final version
+- Next steps
+	- Read [“Topics in Semantic Representation”](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.2.211) for theory of inferring information from text
+
+[[2024-08-08]]
+
+- Drafting project abstract
+- Future directions from Simon (via Slack)
 
 ---
+
+
+ ---
 # References
 
 - Topic modeling
@@ -538,7 +566,7 @@ DOOR CODE: 5891\*
 	- [Notebook with example](https://gist.github.com/patrickvankessel/0d5bd690910edece831dbdf32fb2fb2d)
 	- [Main example with sparse matrix](https://github.com/gregversteeg/corex_topic/blob/master/corextopic/example/corex_topic_example.ipynb)
 
----
+ 
 # Further notes
 
 

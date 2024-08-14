@@ -6,9 +6,9 @@ tags:
   - POLS-UN1501
 publish: "true"
 date: 2023-05-08
-lastmod: 2024-04-02T16:34:11-07:00
+lastmod: 2024-08-11T15:03:41-07:00
 ---
-*Written for Introduction to Comparative Politics final exam, Spring 2023*
+*Written for Introduction to Comparative Politics final exam, Spring 2023.*
 
 >[!example] Prompt
 >Economic growth is generally seen as a necessary ingredient for development. What challenges and opportunities did states in the developing world face in pursuing economic growth during the second half of the 20th century? How can we account for variation in whether they achieved growth and development?

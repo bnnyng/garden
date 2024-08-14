@@ -1,7 +1,8 @@
 ---
 tags:
   - fleeting-note
-lastmod: 2024-08-03T15:30:05-06:00
+  - polymetamath
+lastmod: 2024-08-08T11:57:17-06:00
 ---
 # Overview
 
@@ -57,6 +58,19 @@ lastmod: 2024-08-03T15:30:05-06:00
 # 8 topics
 
 - Why? Last “big jump” for diversity/eliminating redundant top words; suggests that this last topic to be reduced (originals 17 & 18) were actually rather meaningful
+
+```
+8 REDUCED TOPICS
+0 [10 28 29]
+1 [ 4  7 16 24 26 27]
+2 [17 18]
+3 [ 0 11 19 21]
+4 [2 5]
+5 [ 3  6  9 13 15 20 25]
+6 [ 1 14 22]
+7 [ 8 12 23]
+```
+
 #### Top words
 
 ```
@@ -76,11 +90,11 @@ lastmod: 2024-08-03T15:30:05-06:00
 0. REG – Uniformity and metric properties
 1. FRR – Fourier analysis and orthogonality
 2. VDS – Varnavides theorem
-3. GAR – Geometric and arithmetic regularity
+3. REG – Geometric and arithmetic regularity
 4. EGT – Ergodic theory and proofs
 5. EXT – Extremals and structural bounds
 6. GPH – Graph theory
-7. RAM
+7. RCN – Ramsey and recursion
 
 
 

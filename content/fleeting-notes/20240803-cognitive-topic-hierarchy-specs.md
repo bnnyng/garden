@@ -1,10 +1,79 @@
 ---
 tags:
   - fleeting-note
+  - polymetamath
 lastmod: 3024-08-03T15:46:47-06:00
 ---
 # MALLET inputs
 
+**Importing  data**
+```
+bin\mallet import-file --input data\cognitive-seeded-minis.tsv --output cognitive-seeded-minis.mallet --keep-sequence 
+```
+
+**Training 30 topics**
+```
+bin\mallet train-topics --input cognitive-seeded-minis.mallet --num-topics 30 --output-state cognitiveSeededMinisOutput30.gz --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics cognitiveSeededMinisTopics30.txt --output-topic-keys cognitiveSeededMinisKeys30.txt --diagnostics-file cognitiveSeededMinisDiagnostics30.txt
+```
+
+**Output diagnostics file**
+```
+bin\mallet train-topics --input cognitiveSeededBigrams30.mallet --num-topics 30 --input-state cognitiveSeededOutput30.gz --no-inference --diagnostics-file diagnostics30.xml
+```
+
+---
+# 8 topics
+
+#### Top words
+
+```
+8 REDUCED TOPICS
+Topic 0: response, intuitively, hypothesis, true, suspect, intuition, rigorous, familiar, relate, therefore
+Topic 1: variant, promise, construction, straightforward, recall, rule*out, build, dont*think, achieve, construct
+Topic 2: explain, translate, perspective, not**obvious, analogy, encode, reply, go*wrong, trouble, stick
+Topic 3: hence, proof*strategy, recap, unpleasant, confidently, sketch, heuristic*argument, should*be, ignore, hmm
+Topic 4: procedure, attack, proper, feasible, confident, target, method, similar*to, approach, preliminary
+Topic 5: counterexample, nice, formulate, propose, iff, language, roughly, precise, reasonable, imagine
+Topic 6: toy, toy*problem, difficulty, naive, advantage, aim, investigation, not*clear, in*principle, hopefully
+Topic 7: support, interpret, demonstrate, benefit, achievable, inspire, there*exists, more*precisely, trick, believe
+```
+
+#### Topic labels
+
+```
+Labeling topics can be somewhat subjective, but here are some suggested labels based on the top words for each topic:
+
+1. **Topic 0: Reasoning and Intuition**
+   - response, intuitively, hypothesis, true, suspect, intuition, rigorous, familiar, relate, therefore
+
+2. **Topic 1: Construction and Problem-Solving**
+   - variant, promise, construction, straightforward, recall, rule out, build, don't think, achieve, construct
+
+3. **Topic 2: Explanation and Clarification**
+   - explain, translate, perspective, not obvious, analogy, encode, reply, go wrong, trouble, stick
+
+4. **Topic 3: Proof and Strategy**
+   - hence, proof strategy, recap, unpleasant, confidently, sketch, heuristic argument, should be, ignore, hmm
+
+5. **Topic 4: Methods and Procedures**
+   - procedure, attack, proper, feasible, confident, target, method, similar to, approach, preliminary
+
+6. **Topic 5: Formulation and Counterexamples**
+   - counterexample, nice, formulate, propose, iff, language, roughly, precise, reasonable, imagine
+
+7. **Topic 6: Simplified Problems and Investigation**
+   - toy, toy problem, difficulty, naive, advantage, aim, investigation, not clear, in principle, hopefully
+
+8. **Topic 7: Demonstration and Interpretation**
+   - support, interpret, demonstrate, benefit, achievable, inspire, there exists, more precisely, trick, believe
+
+These labels aim to encapsulate the main themes and types of discussions each topic represents based on the provided words.
+```
+
+---
+# Version 1
+
+## MALLET inputs
 
 **Importing  data**
 ```
@@ -22,7 +91,7 @@ bin\mallet train-topics --input cognitiveSeededBigrams30.mallet --num-topics 30 
 ```
 
 ---
-# 8 topics
+## 8 topics
 
 #### Top words
 
@@ -78,7 +147,7 @@ Here are concise and comprehensive labels for each of the 8 topics based on the 
 ```
 
 ---
-# 15 topics
+## 15 topics
 
 - Justification: about the same “distinctiveness” as 20-topic reduction for semantic topics (see [[20240802-semantic-topic-hierarchy-specs]])
 

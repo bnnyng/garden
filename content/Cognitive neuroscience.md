@@ -7,7 +7,7 @@ date: 2023-12-28
 lastmod: 2023-12-28T20:49:20-08:00
 publish: "true"
 ---
-Cognitive neuroscience seeks to understand “how the functions of the physical brain can yield the thoughts and ideas of an intangible mind”; that is, the relationship between cognitive computations and data about the brain. The field is a bridge between cognitive psychology, in which [[Cognitive science treats the brain as an information-processing system]], and neuroscience, which concerns the physical substrate of cognitive processes.
+Cognitive neuroscience seeks to understand “how the functions of the physical brain can yield the thoughts and ideas of an intangible mind”; that is, the relationship between cognitive computations and data about the brain. The field is a bridge between cognitive psychology, in which [[Computationalist and connectionist approaches to cognition]], and neuroscience, which concerns the physical substrate of cognitive processes.
 
 Research methods in cognitive neuroscience include:
 - Investigating cognitive changes after changes in the physical brain (e.g., injury);

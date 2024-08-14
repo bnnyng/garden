@@ -3,9 +3,10 @@ aliases:
   - MALLET
 tags:
   - workspace
+  - polymetamath
 publish: 
 date: 2024-07-12 06:37
-lastmod: 2024-08-02T20:32:02-06:00
+lastmod: 2024-08-08T11:58:11-06:00
 ---
 MALLET is a Java-based package for quantitate text analysis, including LDA and hierarchical LDA implementations of [[Topic modeling|topic models]]. The following prompts are used to fit an LDA algorithm from the command line.
 

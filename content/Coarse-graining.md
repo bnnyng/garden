@@ -6,9 +6,10 @@ aliases:
 tags:
   - permanent-note
   - topic-physics-complexity
+  - polymetamath
 publish: "true"
 date: 2024-07-31 15:30
-lastmod: 2024-07-31T16:23:09-06:00
+lastmod: 2024-08-08T11:58:23-06:00
 ---
 The coarse-graining axiom states that a fine-grained uncertainty should be equal to a coarse-grained uncertainty.
 

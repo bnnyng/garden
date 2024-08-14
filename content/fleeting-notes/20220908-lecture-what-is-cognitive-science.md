@@ -8,7 +8,7 @@ tags:
 ---
 ## What is not cognitive science?
 
-- [[Cognitive science treats the brain as an information-processing system]]
+- [[Computationalist and connectionist approaches to cognition]]
 #### Phenomenology
 - Phenomenologists (e.g. Sartre, Heidegger) aim to describe personal experience as fully and accurately as possible
 - Phenomenology focuses on "introspectable" states of consciousness, rather than using the motor or perceptual system

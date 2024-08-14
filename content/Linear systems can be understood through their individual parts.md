@@ -11,4 +11,4 @@ In complexity science, linear systems are systems that can be understood as a wh
 
 One example of linear interaction is temperature, which is an average over the activity of gas molecules. Here, the average is meaningful because of limited interaction between individual variables.
 
-Linearity is axiomatically defined in [[§ Linear algebra]] via [[Vector space and subspace axioms]]: linear transformations respect addition and scaling.
+Linearity is axiomatically defined in [[§ Linear Algebra]] via [[Vector space and subspace axioms]]: linear transformations respect addition and scaling.

@@ -4,9 +4,10 @@ aliases:
   - metric space
 tags:
   - permanent-note
+  - topic-logic-mathematics
 publish: "true"
 date: 2024-04-10 17:32
-lastmod: 2024-04-10T18:08:03-07:00
+lastmod: 2024-08-04T12:04:13-06:00
 ---
 >[!example] Definition: Metric, metric space 
 >A **metric** on a set $X$ is a function $d: X \times X \to \mathbb R$ that satisfies the following conditions for all $x, y, z \in X$:

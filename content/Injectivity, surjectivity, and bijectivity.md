@@ -7,9 +7,10 @@ aliases:
   - permutation
 tags:
   - permanent-note
+  - topic-logic-mathematics
 publish: "true"
 date: 2024-03-31 14:16
-lastmod: 2024-03-31T14:20:36-07:00
+lastmod: 2024-08-04T12:03:53-06:00
 ---
 Suppose $f : X \to Y$ is a function.
 

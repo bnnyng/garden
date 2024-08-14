@@ -9,10 +9,10 @@ aliases:
   - bracketing belief
 tags:
   - permanent-note
-  - topic-logic-mathematics
+  - topic-cognitive-science
 publish: "true"
 date: 2024-06-15 12:37
-lastmod: 2024-06-15T13:20:12-06:00
+lastmod: 2024-08-04T12:02:50-06:00
 ---
 According to [[2020-dutilh-novaes-dialogical-roots-of-deduction|Dutilh Novaes (2020)]], deductive arguments have three main aspects, in order of greatest to least importance:
 - **Necessary truth-preservation** – if the premises are true, then the conclusion is *necessarily* true. It follows from truth-preservation that deductive arguments are also **monotonic**; that is, if $A \wedge B \implies C$, then adding an arbitrary inference $D$ does not block the existing inference.

@@ -7,7 +7,7 @@ publish: "true"
 date: 2024-02-01
 lastmod: 2024-02-07T12:19:07-08:00
 ---
-Adapted from a presentation by Anthony Ozerov for [[20240207-mcm|CUMMW 2024]]. Full notes [[20240124-CUMMW-modeling-right-when-the-time-is-tight|here]].
+Adapted from a presentation by Anthony Ozerov for [[20240104-mcm|CUMMW 2024]]. Full notes [[20240124-CUMMW-modeling-right-when-the-time-is-tight|here]].
 
 ---
 # Overview

@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-02-15 09:36
-lastmod: 2024-08-04T02:26:59-06:00
+lastmod: 2024-08-11T15:05:09-07:00
 ---
 | Lab                                                                            | PI                                  | Location / department                    | Topic / techniques                                                                                                                 | Ongoing projects                                                                                                                                                                                                                     | Additional notes                                                 |
 | ------------------------------------------------------------------------------ | ----------------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
@@ -38,3 +38,13 @@ Others to look into:
 # Fall 2024 PI hunt
 
 - [Lucas Tian (Rockefeller Center)](https://www.linkedin.com/in/lucas-y-tian-24822326)
+
+---
+# Log
+
+[[2024-03-19]]
+- Notes on writing a senior thesis/getting research experience
+	- Should find thesis advisor before fall of senior year; will spend approximately the year writing. Ideally, have a relationship with the professor beforehand, but not necessary.
+	- Advisors are not restricted to Barnard/Columbia
+	- Research can count as an elective towards the major requirements (limitations?)
+	- Potential mentors: Kriegsorte, Lila Davachi, Wei Ji Ma (mentored in the past, Hannah?)

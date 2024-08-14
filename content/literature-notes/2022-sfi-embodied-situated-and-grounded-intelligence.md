@@ -75,7 +75,7 @@ publish: "true"
 
 ### Lisa Miracchi – “Why intelligent reasoning must be embodied”
 - Mirachi’s philosophical argument for the importance of embodied cognition, particularly how agents are situated in their environments, is based on **semantic efficacy** and **semantic externalism**.
-- Describing cognitive systems is different from understanding the meaning of its output (that is, the output of [[Cognitive science treats the brain as an information-processing system]])
+- Describing cognitive systems is different from understanding the meaning of its output (that is, the output of [[Computationalist and connectionist approaches to cognition]])
 	- The traditional approach to cognitive science uses content-neutral descriptions of cognitive mechanisms at various [[Information-processing systems are understood at knowledge, algorithm, and physical implementation levels|levels of explanation]].
 	- To assign meaning to that description, we need to consider how it is incorporated into the agent’s “cognitive economy” and how the agent is situated in its environment.
 

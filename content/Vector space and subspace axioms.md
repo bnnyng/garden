@@ -13,7 +13,7 @@ publish: "true"
 date: 2022-10-12
 lastmod: 2024-04-10T17:55:39-07:00
 ---
-The axioms for [[Field axioms|fields]], vector spaces, and vector subspaces are the basic operations of [[§ Linear algebra]]. 
+The axioms for [[Field axioms|fields]], vector spaces, and vector subspaces are the basic operations of [[§ Linear Algebra]]. 
 
 ---
 # Vector spaces

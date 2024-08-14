@@ -2,9 +2,10 @@
 aliases: 
 tags:
   - workspace
+  - polymetamath
 publish: 
 date: 2024-07-23 09:42
-lastmod: 2024-07-24T20:18:44-06:00
+lastmod: 2024-08-08T11:58:01-06:00
 ---
 - PCA
 - Potentially read about rhetoric mining?

@@ -37,7 +37,7 @@ Broadly, complex systems are self-organized systems of relatively simple compone
 
 ## Core goals, disciplines, and methodologies of the sciences of complexity
 - The core disciplines and research areas in complexity are dynamics, information, and computation.
-	- Note: it seems that [[Cognitive science treats the brain as an information-processing system]] fits naturally into the study of complexity!
+	- Note: it seems that [[Computationalist and connectionist approaches to cognition]] fits naturally into the study of complexity!
 - Complex systems science has two different goals:
 	- Developing mathematical and computational tools that lead to cross-disciplinary insights; for example, ant colonies as an analogy for cities.
 	- Developing a general theory of complexity that unites the core disciplines. This goal is seen as unrealistic by many.

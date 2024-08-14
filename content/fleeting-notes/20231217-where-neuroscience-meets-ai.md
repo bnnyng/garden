@@ -45,7 +45,7 @@ tags:
 
 ### What is cognitive neuroscience?
 - Cognitive revolution led to new fields – AI and cognitive psychology
-	- Brain as information processing system allows one to abstract away from physical substrate; takes from information theory! ([[Cognitive science treats the brain as an information-processing system]])
+	- Brain as information processing system allows one to abstract away from physical substrate; takes from information theory! ([[Computationalist and connectionist approaches to cognition]])
 
 ### Innateness
 - Aristotle vs. Plato

@@ -6,9 +6,9 @@ tags:
   - fruit
 publish: "true"
 date: 2022-11-21
-lastmod: 2024-05-15T08:56:45-07:00
+lastmod: 2024-08-11T15:03:36-07:00
 ---
-*Written for History of Philosophy I, Fall 2022*
+*Written for History of Philosophy I, Fall 2022.*
 
 >[!example] Prompt
 >Aristotle develops a view of primary substances - the basic explanatory entities - in  

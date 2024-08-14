@@ -27,7 +27,7 @@ According to the **dual process theory**, humans are capable of two “systems�
 
 Yoshua Bengio believes that System 2 supports System 1 thinking by adding to a set of “intelligent reflexes.” This suggests that implementing System 2 thinking in neural networks may lead to advances in machine intelligence.
 
-Related: [[Squire's taxonomy of long-term memory|Non-declarative memory]], [[Cognitive science treats the brain as an information-processing system|Computationalism vs. connectionism]], [[Global workspace theory]]
+Related: [[Squire's taxonomy of long-term memory|Non-declarative memory]], [[Computationalist and connectionist approaches to cognition|Computationalism vs. connectionism]], [[Global workspace theory]]
 
 ---
 # References
