@@ -4,9 +4,9 @@ aliases:
 tags:
   - literature-note
 title: "Podcast | Prof. Yoshua Bengio: GFlowNets, Consciousness, & Causality"
-publish: "true"
+publish: 
 date: 2024-01-01 22:18
-lastmod: 2024-01-02T12:59:04-08:00
+lastmod: 2024-08-14T10:56:44-07:00
 ---
 *Machine Learning Street Talk Podcast* – [Source](https://youtu.be/M49TMqK5uCE?si=SMqf6RrFbe2VJynW)  
 
