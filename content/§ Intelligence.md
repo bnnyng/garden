@@ -6,7 +6,8 @@ tags:
   - moc
 publish: "true"
 date: 2024-01-02
-lastmod: 2024-02-19T20:15:40-08:00
+lastmod: 2024-08-14T09:52:33-07:00
+title: §  Intelligence
 ---
 # Topics
 

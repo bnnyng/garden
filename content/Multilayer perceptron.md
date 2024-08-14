@@ -15,7 +15,7 @@ tags:
 
 A multilayer perceptron, sometimes called a feedforward network, is a model which defines a mapping $y = f(x, \theta)$ and learns the values of $\theta$ which best approximate a target function $f^*$.
 
-In the [[§ Deep learning|deep learning]] approach, the model output is given by  $$ y = f(x; \theta,w) = \phi(x; \theta)^{\top}w, $$ where $\phi$ is a nonlinear function called a hidden layer. The parameters $\theta$ specify $\phi$ from a family of functions, and the weights $w$ are used to map $\phi(x)$ to the desired output $y$.
+In the [[§ Deep Learning|deep learning]] approach, the model output is given by  $$ y = f(x; \theta,w) = \phi(x; \theta)^{\top}w, $$ where $\phi$ is a nonlinear function called a hidden layer. The parameters $\theta$ specify $\phi$ from a family of functions, and the weights $w$ are used to map $\phi(x)$ to the desired output $y$.
 
 ---
 # Key terms

@@ -4,6 +4,8 @@ tags:
   - permanent-note
   - topic-logic-mathematics
   - moc
+title: §  Mathematical Logic and Formal Proofs
+lastmod: 2024-08-14T09:52:46-07:00
 ---
 # Topics
 

@@ -6,7 +6,8 @@ tags:
   - permanent-note
   - topic-computer-science-information
   - moc
-lastmod: 2023-12-29T15:12:29-08:00
+lastmod: 2024-08-14T09:53:04-07:00
+title: §  Deep Learning
 ---
 # Overview
 

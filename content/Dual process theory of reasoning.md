@@ -23,7 +23,7 @@ According to the **dual process theory**, humans are capable of two “systems�
 | Implicit knowledge                                                | Explicit knowledge                                                               |
 | Unconscious, cannot be reported                                   | Conscious, linguistic                                                            |
 | 1-step parallel                                                   | Sequential, algorithmic                                                          |
-| Demonstrated by current [[§ Deep learning\|deep learning]] models | Demonstrated by agents with [[Generalization\|generalized]] ability, like humans |
+| Demonstrated by current [[§ Deep Learning\|deep learning]] models | Demonstrated by agents with [[Generalization\|generalized]] ability, like humans |
 
 Yoshua Bengio believes that System 2 supports System 1 thinking by adding to a set of “intelligent reflexes.” This suggests that implementing System 2 thinking in neural networks may lead to advances in machine intelligence.
 

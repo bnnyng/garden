@@ -6,7 +6,8 @@ tags:
   - moc
 publish: "true"
 date: 2022-10-20
-lastmod: 2024-04-10T17:43:52-07:00
+lastmod: 2024-08-14T09:51:14-07:00
+title: §  Linear Algebra
 ---
 # Topics
 
