@@ -6,8 +6,8 @@ tags:
   - permanent-note
   - topic-cognitive-science
   - COGS-UN1001
-lastmod: 2024-08-15T12:40:06-07:00
-date: <% tp.file.creation_date() %>
+lastmod: 2024-08-15T20:26:55-07:00
+date: 2024-08-15
 publish: "true"
 ---
 Any system carrying out an information-processing task must be understood at three levels: knowledge, algorithm, and physical implementation [[@1982marr]].

@@ -1,3 +1,4 @@
+```
 ---
 citekey: {{citekey}}
 ​aliases:
@@ -8,7 +9,7 @@ title: {{itemType}} | {{title}}
 year: {{date | format("YYYY")}}
 permalink: {{url}}
 publish:
-date: {{dateAdded | format("MM-DD-YYYY")}}
+date: {{dateAdded | format("YYYY-MM-DD")}}
 ---
 
 # Summary
@@ -39,3 +40,5 @@ date: {{dateAdded | format("MM-DD-YYYY")}}
 
 # Reading notes
 
+
+```
