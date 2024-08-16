@@ -9,11 +9,12 @@ year: 2023
 permalink: https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey
 publish: "true"
 date: 2024-08-15
-lastmod: 2024-08-15T17:33:09-07:00
+lastmod: 2024-08-15T20:37:25-07:00
+---
+> Chiang, T. (2023). _Will A.I. Become the New McKinsey? | The New Yorker_. [https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey](https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey)
+
 ---
 # Summary
-
-> Chiang, T. (2023). _Will A.I. Become the New McKinsey? | The New Yorker_. [https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey](https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey)
 
 Chiang argues that the primary risk of AI is its “execution” and strengthening of capitalism. He begins with an analogy between AI and management consulting firms like McKinsey, which are used by corporations to accrue wealth at the expense of human consumers and workers. 
 

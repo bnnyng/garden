@@ -9,11 +9,13 @@ year: 1999
 permalink: https://doi.org/10.1016/S1364-6613(99)01361-3
 publish: "true"
 date: 2022-10-20
-lastmod: 2024-08-15T17:39:39-07:00
+lastmod: 2024-08-15T20:43:04-07:00
+---
+>"Clark, A. (1999). An embodied cognitive science? _Trends in Cognitive Sciences_, _3_(9), 345–351. [https://doi.org/10.1016/S1364-6613(99)01361-3](https://doi.org/10.1016/S1364-6613(99)01361-3)"
+
+
 ---
 # Summary
-
->"Clark, A. (1999). An embodied cognitive science? _Trends in Cognitive Sciences_, _3_(9), 345–351. [https://doi.org/10.1016/S1364-6613(99)01361-3](https://doi.org/10.1016/S1364-6613(99)01361-3)"
 
 The author describes the difference between two different approaches to facts about embodiment, which involves the physical relationship between an intelligent system and bodily and environmental properties. In “simple” embodiment, properties of the physical world provide rules to constrain cognitive science theories. “Radical” embodiment sees the representational theories of cognition as inadequate, and seeks to develop a new framework for cognitive science.
 

@@ -4,12 +4,12 @@ citekey: "[@2020dutilhnovaes]"
   - The Dialogical Roots of Deduction
 tags:
   - literature-note
-title: "book | The Dialogical Roots of Deduction: Historical, Cognitive, and Philosophical Perspectives on Reasoning"
+title: "Book | The Dialogical Roots of Deduction: Historical, Cognitive, and Philosophical Perspectives on Reasoning"
 year: 2020
 permalink: https://www.cambridge.org/core/books/dialogical-roots-of-deduction/ADAD1844B5F559ECA15EE175690B612D
 publish: "true"
 date: 06-12-2024
-lastmod: 2024-08-15T17:57:18-07:00
+lastmod: 2024-08-15T20:36:43-07:00
 ---
 > Dutilh Novaes, C. (2020). _The Dialogical Roots of Deduction: Historical, Cognitive, and Philosophical Perspectives on Reasoning_. Cambridge University Press. [https://doi.org/10.1017/9781108800792](https://doi.org/10.1017/9781108800792)
 

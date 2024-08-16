@@ -9,11 +9,12 @@ year: 1995
 permalink: 
 publish: "true"
 date: 2022-10-03
-lastmod: 2024-08-15T17:34:07-07:00
+lastmod: 2024-08-15T20:43:14-07:00
+---
+> Stillings, N. A., Chase, C. H., Weisler, S. E., Feinstein, M. H., Garfield, J. L., & Rissland, E. L. (1995). _Cognitive Science: An Introduction_. MIT Press.
+
 ---
 # Summary
-
-> Stillings, N. A., Chase, C. H., Weisler, S. E., Feinstein, M. H., Garfield, J. L., & Rissland, E. L. (1995). _Cognitive Science: An Introduction_. MIT Press.
 
 Information processes are formal, goal-oriented operations with symbols related to information in the world. Understanding information processes requires analysis at the knowledge, formal, and physical levels.
 

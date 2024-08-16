@@ -9,12 +9,12 @@ year: 2024
 permalink: https://www.ams.org/bull/2024-61-03/S0273-0979-2024-01824-2/
 publish: "true"
 date: 2024-06-11
-lastmod: 2024-08-15T17:57:27-07:00
+lastmod: 2024-08-15T20:37:47-07:00
+---
+> DeDeo, S. (2024). AlephZero and Mathematical Experience. _Bulletin of the American Mathematical Society_, _61_(3), 375–386. [https://doi.org/10.1090/bull/1824](https://doi.org/10.1090/bull/1824)
+
 ---
 # Summary
-
-
-> DeDeo, S. (2024). AlephZero and Mathematical Experience. _Bulletin of the American Mathematical Society_, _61_(3), 375–386. [https://doi.org/10.1090/bull/1824](https://doi.org/10.1090/bull/1824)
 
 
 > [!Abstract]

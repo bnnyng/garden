@@ -9,13 +9,12 @@ year: 2024
 permalink: https://doi.org/10.1007/s10701-024-00755-9
 publish: 
 date: 2024-06-07
-lastmod: 2024-08-15T17:46:41-07:00
+lastmod: 2024-08-15T20:38:00-07:00
 ---
-
-# Summary
-
-
 > Wolpert, D. H., & Kinney, D. B. (2024). A Stochastic Model of Mathematics and Science. _Foundations of Physics_, _54_(2), 1–67. [https://doi.org/10.1007/s10701-024-00755-9](https://doi.org/10.1007/s10701-024-00755-9)
+
+---
+# Summary
 
 The SMS framework is applied to establish the benefit of two heuristics that are not compatible with [[Probabilistic reasoning|Bayesian epistemology]]: stronger belief in a hypothesis with multiple lines of reasoning, and [[Abduction is going from a believed conclusion to requirements for the conclusion to be true, after Peirce|abductive inference]].
 

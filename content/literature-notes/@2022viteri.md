@@ -9,14 +9,12 @@ year: 2022
 permalink: https://www.sciencedirect.com/science/article/pii/S0010027722001081
 publish: "true"
 date: 2024-06-11
-lastmod: 2024-08-15T17:51:44-07:00
+lastmod: 2024-08-15T20:38:42-07:00
 ---
-
-# Summary
-
-
 > Viteri, S., & DeDeo, S. (2022). Epistemic phase transitions in mathematical proofs. _Cognition_, _225_, 105120. [https://doi.org/10.1016/j.cognition.2022.105120](https://doi.org/10.1016/j.cognition.2022.105120)
 
+---
+# Summary
 
 > [!Abstract]
 >

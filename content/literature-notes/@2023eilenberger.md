@@ -9,11 +9,12 @@ year: 2023
 permalink: 
 publish: "true"
 date: 2024-01-17
-lastmod: 2024-08-15T17:57:33-07:00
+lastmod: 2024-08-15T20:38:11-07:00
+---
+> Eilenberger, W., & Whiteside, S. (2023). _The Visionaries_ (First U.S. hardcover edition). Penguin Press.
+
 ---
 # Review
-
-> Eilenberger, W., & Whiteside, S. (2023). _The Visionaries_ (First U.S. hardcover edition). Penguin Press.
 
 A biographical and intellectual account of four philosophers—Hannah Arendt, Simone de Beauvoir, Ayn Rand, and Simone Weil—that charts their developments in parallel over the “dark” decade of 1933-1943. Fascinating how the same “irrational” historical conditions led them to four drastically different directions of inquiry: Arendt’s humanism, Beauvoir’s existentialism, Rand’s egoism/objectivism, and Weil’s mystic altruism. 
 

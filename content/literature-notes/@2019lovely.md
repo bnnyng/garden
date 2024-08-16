@@ -9,13 +9,12 @@ year: 2019
 permalink: https://www.currentaffairs.org/news/2019/01/mckinsey-company-capitals-willing-executioners
 publish: 
 date: 2023-12-24
-lastmod: 2024-08-15T17:38:40-07:00
+lastmod: 2024-08-15T20:39:20-07:00
 ---
-
-# Summary
-
-
 > Lovely, G. (2019, February 5). McKinsey & Company: Capital’s Willing Executioners. _Current Affairs_. [https://www.currentaffairs.org/news/2019/01/mckinsey-company-capitals-willing-executioners](https://www.currentaffairs.org/news/2019/01/mckinsey-company-capitals-willing-executioners)
+
+---
+# Summary
 
 Originally published anonymously, this article was written by a former employee of McKinsey & Company, the most prominent of the “Big Three” consulting firms. The author claims that McKinsey is “capitalism’s most effective messenger” and thus determined capital’s impact on the world.
 

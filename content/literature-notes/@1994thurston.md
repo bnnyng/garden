@@ -9,12 +9,13 @@ year: 1994
 permalink: https://doi.org/10.48550/arXiv.math/9404236
 publish: "true"
 date: 2024-08-15
-lastmod: 2024-08-15T17:34:51-07:00
+lastmod: 2024-08-15T20:42:46-07:00
 ---
-
-# Summary
-
 > Thurston, W. P. (1994). _On Proof and Progress In Mathematics_ (arXiv:math/9404236). arXiv. [https://doi.org/10.48550/arXiv.math/9404236](https://doi.org/10.48550/arXiv.math/9404236)
+
+
+---
+# Summary
 
 
 > [!Abstract]

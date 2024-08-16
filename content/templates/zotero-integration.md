@@ -1,4 +1,3 @@
-```
 ---
 citekey: {{citekey}}
 ​aliases:
@@ -39,5 +38,3 @@ date: {{dateAdded | format("YYYY-MM-DD")}}
 
 # Reading notes
 
-
-```

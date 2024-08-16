@@ -9,13 +9,12 @@ year: 2004
 permalink: https://proceedings.neurips.cc/paper/2004/hash/4be5a36cbaca8ab9d2066debfe4e65c1-Abstract.html?ref=https://githubhelp.com
 publish: 
 date: 2024-08-15
-lastmod: 2024-08-15T18:06:39-07:00
+lastmod: 2024-08-15T20:43:33-07:00
 ---
-
-# Summary
-
-
 > Chentanez, N., Barto, A., & Singh, S. (2004). Intrinsically Motivated Reinforcement Learning. _Advances in Neural Information Processing Systems_, _17_. [https://proceedings.neurips.cc/paper/2004/hash/4be5a36cbaca8ab9d2066debfe4e65c1-Abstract.html?ref=https://githubhelp.com](https://proceedings.neurips.cc/paper/2004/hash/4be5a36cbaca8ab9d2066debfe4e65c1-Abstract.html?ref=https://githubhelp.com)
+
+---
+# Summary
 
 
 >[!abstract]

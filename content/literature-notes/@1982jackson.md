@@ -9,11 +9,12 @@ year: 1982
 permalink: https://doi.org/10.2307/2960077
 publish: "true"
 date: 2022-10-02
-lastmod: 2024-08-15T17:37:37-07:00
+lastmod: 2024-08-15T20:42:30-07:00
+---
+>Jackson, F. (1982). Epiphenomenal Qualia. _The Philosophical Quarterly_, _32_(127), 127. [https://doi.org/10.2307/2960077](https://doi.org/10.2307/2960077)
+
 ---
 # Summary
-
->Jackson, F. (1982). Epiphenomenal Qualia. _The Philosophical Quarterly_, _32_(127), 127. [https://doi.org/10.2307/2960077](https://doi.org/10.2307/2960077)
 
 In "Epiphenomenal Qualia," philosopher Frank Jackson argues that consciousness is not physical and does not necessarily have physical effects. 
 

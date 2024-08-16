@@ -9,12 +9,13 @@ year: 1877
 permalink: http://www.sophia-project.org/uploads/1/3/9/5/13955288/peirce_belief.pdf
 publish: "true"
 date: 2024-08-15
-lastmod: 2024-08-15T20:32:28-07:00
+lastmod: 2024-08-15T20:42:17-07:00
+---
+> Peirce, C. S. (1877). The Fixation of Belief. _Popular Science Monthly_, _12_(1), 1–15.
+
+
 ---
 # Summary
-
-
-> #literature-note Peirce, C. S. (1877). The Fixation of Belief. _Popular Science Monthly_, _12_(1), 1–15.
 
 This paper, the first of a series on scientific investigation, aims to define belief and distinguish the method of science from other methods of fixing belief: tenacity, authority, and *a priori* reasoning.
 

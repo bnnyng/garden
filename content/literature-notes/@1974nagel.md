@@ -8,12 +8,14 @@ year: 1974
 permalink: https://doi.org/10.2307/2183914
 publish: 
 date: 2022-10-02
-lastmod: 2024-08-15T17:36:58-07:00
+lastmod: 2024-08-15T20:42:05-07:00
 citekey: "[@1974nagel]"
 ---
-# Summary and thoughts
-
 >Nagel, T. (1974). What Is It Like to Be a Bat? _The Philosophical Review_, _83_(4), 435. [https://doi.org/10.2307/2183914](https://doi.org/10.2307/2183914)
+
+
+---
+# Summary and thoughts
 
 In this classic work of philosophy of mind, Nagel argues that subjective experiences, or what it is like to be a thing, have no objective nature that an external point of view can apprehend. Importantly, Nagel does not reject physical explanations of consciousness outright, but points out that physicalism is limited by the current gap between subjective and objective understandings.
 

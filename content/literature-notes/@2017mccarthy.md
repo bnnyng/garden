@@ -9,11 +9,12 @@ year: 2017
 permalink: https://nautil.us/the-kekul-problem-236574/
 publish: "true"
 date: 2024-06-23 13:11
-lastmod: 2024-08-15T17:38:05-07:00
+lastmod: 2024-08-15T20:39:54-07:00
+---
+> McCarthy, C. (2017). _The Kekulé Problem_. [https://nautil.us/the-kekul-problem-236574/](https://nautil.us/the-kekul-problem-236574/)
+
 ---
 # Summary
-
-> McCarthy, C. (2017). _The Kekulé Problem_. [https://nautil.us/the-kekul-problem-236574/](https://nautil.us/the-kekul-problem-236574/)
 
 Using the story of August Kekule’s discovery of the benzene molecule as a starting point, writer Cormac McCarthy explores the role of the unconscious as a primal, pre-linguistic evolved system. Further, the uniquely human capacity for language—that is, using sounds to describe things in reality—suggests that language is not inherited but a technology of “our own devising.”
 
