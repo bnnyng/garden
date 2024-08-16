@@ -11,9 +11,9 @@ tags:
   - topic-humanities
 publish: "true"
 date: 2024-04-29 14:14
-lastmod: 2024-05-01T12:57:59-07:00
+lastmod: 2024-08-15T12:06:02-07:00
 ---
-[[1878-peirce-the-fixation-of-belief|Peirce (1878)]] identifies four methods of fixing belief: tenacity, authority, reasoning *a priori*, and science. The method of science is superior to others because it is the only one that requires belief to coincide with reality.
+[[@1877peirce]] identifies four methods of fixing belief: tenacity, authority, reasoning *a priori*, and science. The method of science is superior to others because it is the only one that requires belief to coincide with reality.
 
 | Name                | Description                                                                                                                                                                                      | Advantages                                                                                                                 | Disadvantages                                                                                                                                                                                                               |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

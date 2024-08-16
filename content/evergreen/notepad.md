@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-06-18 15:06
-lastmod: 2024-08-07T21:56:46-06:00
+lastmod: 2024-08-15T16:24:44-07:00
 ---
 - Multicellular life as a “charismatic center”
 - Semantic drift
@@ -17,6 +17,7 @@ lastmod: 2024-08-07T21:56:46-06:00
 - Renormalization\
 - Scientific pluralism 
 - Goodhart’s law
+- Self-reference
 
 Things to look into:
 - Tree automata
@@ -36,4 +37,6 @@ Broad ideas:
 
 People to reach out to:
 - Robin Na
-- 
+
+Automated theorem proving
+- https://lean-fro.org/events/

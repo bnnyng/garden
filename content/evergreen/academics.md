@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-04-02 15:29
-lastmod: 2024-08-04T02:26:36-06:00
+lastmod: 2024-08-15T10:14:14-07:00
 ---
 # Coursework
 
@@ -18,6 +18,10 @@ lastmod: 2024-08-04T02:26:36-06:00
 
 **Gap year**
 - [[MATH-42X]] – Fundamentals of Analysis
+
+**Fall 2024**
+- [[COMS-W4771]] – Machine Learning
+- 
 
 ---
 # Assignments
@@ -34,9 +38,17 @@ lastmod: 2024-08-04T02:26:36-06:00
 
 
 ---
+# Notes
+
+- [[2024-cognitive-science-specialization]]
+
+---
 # Log
 
 [Course registration spreadsheet](https://docs.google.com/spreadsheets/d/1EC1K1KxJ2XQmm4FhbcpVILMZ_cCeUwDmW9XHl_NVEOU/edit?gid=827761127#gid=827761127)
+
+2024-08-14
+- Potential specialization: complexity in cognitive science?
 
 2024-08-01 
 - Plan for next course registration

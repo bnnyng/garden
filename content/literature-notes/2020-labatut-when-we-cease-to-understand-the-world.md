@@ -7,7 +7,7 @@ tags:
 title: Book | When We Cease to Understand the World
 publish: "true"
 date: 2023-12-31 11:23
-lastmod: 2023-12-31T13:21:25-08:00
+lastmod: 2024-08-15T11:30:21-07:00
 ---
 # Review
 
@@ -23,7 +23,7 @@ Labatut talks of solving equations as if these scientists are performing pagan r
 In _The Need for Roots_, Simone Weil describes risk as essential for intellectual life but warns of "going beyond the soul's resources." (Weil also wrote as if divinely inspired, particularly toward the end of her life.) These scientists experience affliction in proportion to their intellect. They experience psychosis, primal humiliation, and irrational degrees of interpersonal conflict. Something of their human souls has been stripped during the course of their accomplishments. Much to think about.
 
 ---
-# Highlights
+# Selected concepts and passages
 
 ## Schwarzschild’s Singularity
 

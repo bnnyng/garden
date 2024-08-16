@@ -7,14 +7,14 @@ tags:
   - seed
 publish: 
 date: 2024-07-09 11:16
-lastmod: 2024-08-04T11:40:49-06:00
+lastmod: 2024-08-15T17:56:28-07:00
 ---
 
 
 ---
 # Literature notes
 
-#### [[2020-dutilh-novaes-dialogical-roots-of-deduction]]
+#### [[@2020dutilhnovaes]]
 
 - **Dialogical interactions between mathematicians often begin as a request for help:** “True enough, these dialogues do not always correspond neatly to Prover–Skeptic dialogues, in particular in that *they often start with a question or a request for help* … Nevertheless, once a candidate proof or argument is put forward, those involved in the interaction will presumably behave as Skeptics, looking for possible flaws or steps in the proof which remain obscure.”
 

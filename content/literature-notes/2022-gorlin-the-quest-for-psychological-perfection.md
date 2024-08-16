@@ -70,4 +70,4 @@ In this article, Gorlin, a psychologist, argues that, in contrast with mainstrea
 >I conceive of human beings as fully capable of building, and re-building, themselves—motives, mindsets, emotions, action habits, and all.
 
 - Gorlin believes that when her psychologist colleagues advocate against self-perfection, they undersell the human capacity for self-determination (i.e., from our society or ancestry).
-	- To what extent might this conflict with [[Human cognition might depend on artifact and culture]]?
+	- To what extent might this conflict with [[Human cognition depends on artifact and culture]]?

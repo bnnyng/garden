@@ -4,8 +4,9 @@ tags:
   - evergreen
 publish: 
 date: 2024-02-15 09:36
-lastmod: 2024-08-11T15:05:09-07:00
+lastmod: 2024-08-15T11:07:05-07:00
 ---
+
 | Lab                                                                            | PI                                  | Location / department                    | Topic / techniques                                                                                                                 | Ongoing projects                                                                                                                                                                                                                     | Additional notes                                                 |
 | ------------------------------------------------------------------------------ | ----------------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
 | [Computation & Cognition Lab](https://cocolab.stanford.edu/)                   | Noah Goodman                        | Stanford                                 |                                                                                                                                    |                                                                                                                                                                                                                                      |                                                                  |
@@ -25,6 +26,8 @@ Others to look into:
 - Robb Rutledge
 - Rockefeller Center in general
 - Simon Levin
+- [Kwabena Boahen](https://profiles.stanford.edu/kwabena-boahen)
+- [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) – program synthesis
 
 ---
 # Potential senior thesis advisors
@@ -33,11 +36,6 @@ Others to look into:
 	- Has mentored Barnard cognitive science thesis in the past
 - Todd Gurekis
 - ARNI institute member
-
----
-# Fall 2024 PI hunt
-
-- [Lucas Tian (Rockefeller Center)](https://www.linkedin.com/in/lucas-y-tian-24822326)
 
 ---
 # Log

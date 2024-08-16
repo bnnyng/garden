@@ -6,9 +6,8 @@ tags:
   - wip
 publish: 
 date: 2024-06-12 16:24
-lastmod: 2024-06-18T14:29:01-06:00
+lastmod: 2024-08-15T17:41:40-07:00
 ---
->[!quote] From “[[2024-dedeo-alephzero-and-mathematical-experience|AlephZero and Mathematical Experience]]”:
 >The judgement that Theorem A’s involvement in Theorem B is important, depends, in the final analysis, on someone trying to prove Theorem B, and experiencing, directly, both the difficulty of the **impasses** that A resolves, and the ways in which A **resolves** them.
 
 - impasse and resolve

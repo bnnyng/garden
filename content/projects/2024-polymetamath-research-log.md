@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-08-14T07:42:14-07:00
+lastmod: 2024-08-15T09:38:49-07:00
 tags:
   - workspace
 ---
@@ -37,6 +37,18 @@ DOOR CODE: 5891\*
 **Fleeting notes and workspaces**
 - [[20240802-semantic-topic-hierarchy-specs]]
 - [[20240803-cognitive-topic-hierarchy-specs]]
+
+---
+
+# Fall 2024 log
+
+## August
+
+2024-08-14
+
+- Meeting with Simon and Marina
+	- Target Cogsci 2024 conference with diversity research, and possible paper
+	- Work on “cognitive moves” in the long term
 
  ---
 # Santa Fe Institute REU
@@ -552,9 +564,6 @@ DOOR CODE: 5891\*
 
 - Drafting project abstract
 - Future directions from Simon (via Slack)
-
----
-
 
  ---
 # References
