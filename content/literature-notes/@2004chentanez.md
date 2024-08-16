@@ -1,19 +1,22 @@
 ---
-lit-author: 
-aliases:
-  - Singh et al., 2004
-  - Singh et al. (2004)
+citekey: "[@2004chentanez]"
+​aliases:
+  - Intrinsically Motivated Reinforcement Learning
 tags:
   - literature-note
 title: Paper | Intrinsically Motivated Reinforcement Learning
-permalink: https://www.cs.cornell.edu/~helou/IMRL.pdf
+year: 2004
+permalink: https://proceedings.neurips.cc/paper/2004/hash/4be5a36cbaca8ab9d2066debfe4e65c1-Abstract.html?ref=https://githubhelp.com
 publish: 
-date: 2023-12-29 17:41
-lastmod: 2024-08-04T11:56:09-06:00
+date: 2024-08-15
+lastmod: 2024-08-15T18:06:39-07:00
 ---
+
 # Summary
 
-[Source](https://www.cs.cornell.edu/~helou/IMRL.pdf) – [[RAW-20231229-intrinsically-motivated-reinforcement-learning|Highlights]]
+
+> Chentanez, N., Barto, A., & Singh, S. (2004). Intrinsically Motivated Reinforcement Learning. _Advances in Neural Information Processing Systems_, _17_. [https://proceedings.neurips.cc/paper/2004/hash/4be5a36cbaca8ab9d2066debfe4e65c1-Abstract.html?ref=https://githubhelp.com](https://proceedings.neurips.cc/paper/2004/hash/4be5a36cbaca8ab9d2066debfe4e65c1-Abstract.html?ref=https://githubhelp.com)
+
 
 >[!abstract]
 >Psychologists call behavior intrinsically motivated when it is engaged in for its own sake rather than as a step toward solving a specific problem of clear practical value. But what we learn during intrinsically motivated behavior is essential for our development as competent autonomous entities able to efficiently solve a wide range of practical problems as they arise. In this paper we present initial results from a computational study of intrinsically motivated reinforcement learning aimed at allowing artificial agents to construct and extend hierarchies of reusable skills that are needed for competent autonomy.
@@ -35,7 +38,7 @@ Inspired by the role of dopamine as a neurological reward, the authors present a
 - **Intra-option learning methods** = methods which allow the policies for multiple options to be updated simultaneously as the agent interacts with the environment.
 
 ---
-# Notes
+# Reading notes
 
 ## Introduction
 - Behaviors that do not have explicit rewards (e.g., exploration, play) help develop “broad competence” that is not applied to specific goals.

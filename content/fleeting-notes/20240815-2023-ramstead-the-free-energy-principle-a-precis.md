@@ -2,12 +2,11 @@
 lit-author: 
 aliases:
   - "The Free Energy Principle: a Precis"
-tags:
-  - literature-note
+tags: []
 title: "Article | The Free Energy Principle: a Precis"
-publish: "true"
+publish: 
 date: 2024-01-24 12:13
-lastmod: 2024-01-24T12:41:05-08:00
+lastmod: 2024-08-15T18:02:13-07:00
 ---
 # Summary
 

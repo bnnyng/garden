@@ -21,4 +21,4 @@ As a principle, the FEP is *unfalsifiable.*
 
 # References
 - [[2021-lindsay-models-of-the-mind]]
-- [[2023-ramstead-the-free-energy-principle-a-precis]]
+- [[20240815-2023-ramstead-the-free-energy-principle-a-precis]]

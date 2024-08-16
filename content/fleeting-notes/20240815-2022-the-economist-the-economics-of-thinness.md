@@ -2,12 +2,11 @@
 lit-author: 
 aliases:
   - The Economics of Thinness
-tags:
-  - literature-note
+tags: []
 title: Article | The Economics of Thinness
-publish: "true"
+publish: 
 date: 2023-12-26
-lastmod: 2023-12-31T11:18:07-08:00
+lastmod: 2024-08-15T18:01:54-07:00
 ---
 # Summary
 
