@@ -5,8 +5,8 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
-publish: "true"
+publish: 
 date: 2023-12-24
-lastmod: 2024-01-24T12:47:30-08:00
+lastmod: 2024-08-16T14:34:56-07:00
 ---
 Information processes can only occur when physically implemented. 

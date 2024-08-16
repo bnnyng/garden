@@ -1,6 +1,6 @@
 ---
 citekey: "[@2023chiang]"
-​aliases:
+aliases:
   - Will A.I. Become the New McKinsey? | The New Yorker
   - Chiang (2023)
   - Chiang, 2023
@@ -11,7 +11,7 @@ year: 2023
 permalink: https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey
 publish: "true"
 date: 2024-08-15
-lastmod: 2024-08-16T13:16:11-07:00
+lastmod: 2024-08-16T14:22:05-07:00
 ---
 > Chiang, T. (2023). _Will A.I. Become the New McKinsey? | The New Yorker_. [https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey](https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey)
 

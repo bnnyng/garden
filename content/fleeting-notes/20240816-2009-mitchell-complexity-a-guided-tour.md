@@ -4,9 +4,9 @@ lit-author: "[[Mitchell, Melanie]]"
 aliases:
   - "Complexity: A Guided Tour"
 tags:
-  - literature-note
+  - fleeting-note
 date: 2023-12-28
-lastmod: 2024-06-22T17:00:16-06:00
+lastmod: 2024-08-16T15:03:44-07:00
 ---
 # Summary
 

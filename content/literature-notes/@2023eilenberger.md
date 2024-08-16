@@ -1,6 +1,6 @@
 ---
 citekey: 2023eilenberger
-​aliases:
+aliases:
   - The Visionaries
   - Eilenberger (2023)
   - Eilenberger, 2023
@@ -11,7 +11,7 @@ year: 2023
 permalink: 
 publish: "true"
 date: 2024-01-17
-lastmod: 2024-08-16T13:16:21-07:00
+lastmod: 2024-08-16T14:21:39-07:00
 ---
 > Eilenberger, W., & Whiteside, S. (2023). _The Visionaries_ (First U.S. hardcover edition). Penguin Press.
 

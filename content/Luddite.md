@@ -3,15 +3,15 @@ aliases:
   - Luddites
 tags:
   - permanent-note
-  - topic-society-culture
+  - topic-humanities
   - seed
-lastmod: 2024-01-01T09:51:06-08:00
+lastmod: 2024-08-16T14:15:55-07:00
 date: 2023-12-25
 publish: "true"
 ---
 Luddites were English workers in the 1810s who destroyed industrial machines as a means of protesting for economic justice. At the time, workers faced falling wages, increasing food prices, and unsafe working conditions, while factory owners’ profits grew. The original Luddites criticized harmful new technologies that benefited shareholders over workers.
 
-Today, “Luddite” is a disparaging term for people who oppose new technologies. Chiang claims in [[literature-notes/2023-chiang-will-ai-become-the-new-mckinsey|"Will AI Become the New McKinsey?"]] that this is merely a sign of capitalism’s cultural hegemony:
+Today, “Luddite” is a disparaging term for people who oppose new technologies. In ““ that this is merely a sign of capitalism’s cultural hegemony:
 
 >[!quote]
 >Whenever anyone accuses anyone else of being a Luddite, it’s worth asking, is the person being accused actually against technology? Or are they in favor of economic justice? And is the person making the accusation actually in favor of improving people’s lives? Or are they just trying to increase the private accumulation of capital?

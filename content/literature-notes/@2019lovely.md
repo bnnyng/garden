@@ -1,6 +1,6 @@
 ---
 citekey: "[@2019lovely]"
-​aliases:
+aliases:
   - "McKinsey & Company: Capital’s Willing Executioners"
   - Lovely, 2019
   - Lovely (2019)
@@ -11,7 +11,7 @@ year: 2019
 permalink: https://www.currentaffairs.org/news/2019/01/mckinsey-company-capitals-willing-executioners
 publish: 
 date: 2023-12-24
-lastmod: 2024-08-16T13:15:19-07:00
+lastmod: 2024-08-16T14:24:56-07:00
 ---
 > Lovely, G. (2019, February 5). McKinsey & Company: Capital’s Willing Executioners. _Current Affairs_. [https://www.currentaffairs.org/news/2019/01/mckinsey-company-capitals-willing-executioners](https://www.currentaffairs.org/news/2019/01/mckinsey-company-capitals-willing-executioners)
 

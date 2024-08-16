@@ -4,11 +4,10 @@ tags:
   - evergreen
 publish: 
 date: 2024-06-18 15:06
-lastmod: 2024-08-16T12:32:17-07:00
+lastmod: 2024-08-16T14:10:11-07:00
 ---
 - Multicellular life as a “charismatic center”
 - Semantic drift
-- Chiang’s slide about “extrapolation using poetic license”
 - Assembly theory in biology
 	- Walker’s podcast points
 - The Ludic Century, from Eric Zimmerman
@@ -19,7 +18,9 @@ lastmod: 2024-08-16T12:32:17-07:00
 - Goodhart’s law
 - Self-reference
 - A theory of information architecture (Simon’s UCR presentation)
+	- Grice conversational implicature
 - Extra metabolic energy
+- David Deutsch universal explaners
 
 Potential seeds:
 - Impasse – [[Inquiry is the struggle to go from doubt to belief, after Peirce]], [[The value of a mathematical claim is guided by experiences of impasse and resolution, after DeDeo]]
@@ -45,3 +46,10 @@ People to reach out to:
 
 Automated theorem proving
 - https://lean-fro.org/events/
+
+- Sara Walker talk at SFI
+	- [[Narratives become and make reality]]
+	- [[Life is a lineage of information, after Walker]]
+	- The origin of life is the boundary where we can generate complexity in our universe – relationship to imagination?
+	- LLMs store the dynamics of language
+	- Imagination is causal, how deep in time you are

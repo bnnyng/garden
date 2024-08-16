@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: []
 tags:
   - permanent-note
   - topic-humanities
 publish: "true"
 date: 2024-02-23 13:11
-lastmod: 2024-02-23T13:39:22-08:00
+lastmod: 2024-08-16T15:32:13-07:00
 ---
-In [[2013-eagleton-how-to-read-literature|How to Read Literature]], Eagleton describes the difference between modes of characterization in realist and modernist works as a difference in continuity. 
+[[@2013eagleton|Eagleton (2013)]] describes the difference between modes of characterization in realist and modernist works as a difference in continuity. 
 
 Realist characters “are seen as caught up in a web of complex mutual dependencies. They are formed by social and historical forces greater than themselves, and shaped by processes of which they may only be fitfully conscious.” As such, realist characters have a coherent origin and evolution, and act as agents in a collective history.
 

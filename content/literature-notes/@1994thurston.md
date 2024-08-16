@@ -1,6 +1,6 @@
 ---
 citekey: "[@1994thurston]"
-​aliases:
+aliases:
   - On Proof and Progress in Mathematics
   - Thurston (1994)
   - Thurston, 1994
@@ -11,7 +11,7 @@ year: 1994
 permalink: https://doi.org/10.48550/arXiv.math/9404236
 publish: "true"
 date: 2024-08-15
-lastmod: 2024-08-16T13:12:50-07:00
+lastmod: 2024-08-16T14:23:52-07:00
 ---
 > Thurston, W. P. (1994). _On Proof and Progress In Mathematics_ (arXiv:math/9404236). arXiv. [https://doi.org/10.48550/arXiv.math/9404236](https://doi.org/10.48550/arXiv.math/9404236)
 
@@ -33,7 +33,7 @@ Communication in a subfield is efficient because of shared patterns of thinking.
 ---
 # Atomic notes
 
-- [[Mathematics is recursively defined, after Thurston]]
+- [[Mathematics is what mathematicians do]]
 - [[Mathematical communication is most effective in subfields due to shared patterns of thinking]]
 
 ---

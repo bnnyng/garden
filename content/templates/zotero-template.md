@@ -1,11 +1,11 @@
 ```
 ---
 citekey: {{citekey}}
-​aliases:
-  - "{{title}}"
-​tags:
+aliases:
+  - {{title}}
+tags:
   - literature-note
-title: {{itemType}} | {{title}}
+title: "{{itemType}} | {{title}}"
 year: {{date | format("YYYY")}}
 permalink: {{url}}
 publish:

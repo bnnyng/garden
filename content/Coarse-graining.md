@@ -26,7 +26,7 @@ More precisely, given a set $X$, the goal of an uncertainty measure is to captur
 
 More generally, the key features of coarse-graining are that it *reduces the size* of the uncertainty problem and *cannot be reversed*.
 
-Related: [[Renormalization]]
+Related: [[1-INBOX/Renormalization]]
 
 ---
 # Coarse graining representations

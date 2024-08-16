@@ -1,17 +1,8 @@
 ---
-citekey: "[@2024wolpert]"
-aliases:
-  - A Stochastic Model of Mathematics and Science
-  - Wolpert & Kinney (2024)
-  - Wolpert & Kinney, 2024
 tags:
-  - literature-note
-title: Paper | A Stochastic Model of Mathematics and Science
-year: 2024
-permalink: https://doi.org/10.1007/s10701-024-00755-9
-publish: 
-date: 2024-06-07
-lastmod: 2024-08-16T16:09:31-07:00
+  - fleeting-note
+date: 2024-08-16 16:11
+lastmod: 2024-08-16T16:12:25-07:00
 ---
 > Wolpert, D. H., & Kinney, D. B. (2024). A Stochastic Model of Mathematics and Science. _Foundations of Physics_, _54_(2), 1–67. [https://doi.org/10.1007/s10701-024-00755-9](https://doi.org/10.1007/s10701-024-00755-9)
 

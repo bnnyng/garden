@@ -6,11 +6,13 @@ aliases:
   - emergent properties
   - self-organization
   - self-organized
+  - complex adaptive system
+  - complex adaptive systems
 tags:
   - permanent-note
   - topic-physics-complexity
 date: 2023-12-26
-lastmod: 2024-06-22T17:22:41-06:00
+lastmod: 2024-08-16T15:12:23-07:00
 publish: "true"
 ---
 There are three properties that characterize all complex systems:
@@ -18,9 +20,9 @@ There are three properties that characterize all complex systems:
 - Complex systems are **self-organized**, meaning they are able to organize their behavior without an internal or external “central executive”;
 - Complex systems show **emergent** macroscopic behaviors that are hard to predict from individual components due to their **nonlinear** interaction. Examples of emergent properties include hierarchies, collective information processing, complex dynamics, and evolution and learning.
 
-Related: [[Complexity is the study of teleonomic matter, after Krakauer|Complex systems encode patterns of the world, after Krakauer]]
+David Krakauer believes that a necessary condition of **complex adaptive systems** is that they encode or represent patterns of the world: “Everything adaptive has a model.” This enables complex adaptive systems to have goals and purpose (see [[Complexity is the study of teleonomic matter, after Krakauer]]).
 
 ---
 # References
-- [[2009-mitchell-complexity-a-guided-tour]]
+- [[@2009mitchell]]
 - [[2018-sfi-introduction-to-complexity]]

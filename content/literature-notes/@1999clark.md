@@ -1,6 +1,6 @@
 ---
 citekey: "[@1999clark]"
-​aliases:
+aliases:
   - An embodied cognitive science?
   - Clark (1999)
   - Clark, 1999
@@ -11,7 +11,7 @@ year: 1999
 permalink: https://doi.org/10.1016/S1364-6613(99)01361-3
 publish: "true"
 date: 2022-10-20
-lastmod: 2024-08-16T13:13:11-07:00
+lastmod: 2024-08-16T14:23:36-07:00
 ---
 >"Clark, A. (1999). An embodied cognitive science? _Trends in Cognitive Sciences_, _3_(9), 345–351. [https://doi.org/10.1016/S1364-6613(99)01361-3](https://doi.org/10.1016/S1364-6613(99)01361-3)"
 
