@@ -1,7 +1,7 @@
 ---
 tags:
-  - evergreen
-lastmod: 2024-05-12T09:36:41-07:00
+  - workspace
+lastmod: 2024-08-16T09:29:33-07:00
 date: 2023-12-31
 aliases:
   - Dream self script

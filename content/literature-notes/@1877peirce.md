@@ -9,10 +9,9 @@ year: 1877
 permalink: http://www.sophia-project.org/uploads/1/3/9/5/13955288/peirce_belief.pdf
 publish: "true"
 date: 2024-08-15
-lastmod: 2024-08-15T20:42:17-07:00
+lastmod: 2024-08-16T12:46:41-07:00
 ---
 > Peirce, C. S. (1877). The Fixation of Belief. _Popular Science Monthly_, _12_(1), 1–15.
-
 
 ---
 # Summary
@@ -82,7 +81,8 @@ However, there will always be individuals “raised above” authoritarian tacti
 
 The **method of science** uses induction from facts about reality that affect every person in order to obtain conclusions that will be accepted by every person. It is the only method that does not generate more doubt. Its basic “hypothesis” is that there are indeed facts that are “real.”
 
->[!question] #concept-question What distinguishes this so-called hypothesis from an axiom, if it is concretely assumed and justified by an argument of reason?
+>[!question] #concept-question 
+>What distinguishes this so-called hypothesis from an axiom, if it is concretely assumed and justified by an argument of reason?
 
 >There are Real things, whose characters are entirely independent of our opinions about them; those Reals affect our senses according to regular laws, and, though our sensations are as different as are our relations to the objects, yet, by taking advantage of the laws of perception, we can ascertain by reasoning how things really and truly are; and any man, if he have sufficient experience and he reason enough about it, will be led to the one True conclusion. The new conception here involved is that of Reality.
 

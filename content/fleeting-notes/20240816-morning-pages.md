@@ -1,10 +1,10 @@
 ---
 aliases: 
 tags:
-  - evergreen
+  - fleeting-note
 publish: 
 date: 2024-02-25 15:08
-lastmod: 2024-03-26T17:38:12-07:00
+lastmod: 2024-08-16T09:30:33-07:00
 ---
 # [[2024-03-26]]
 

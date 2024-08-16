@@ -2,9 +2,9 @@
 aliases:
   - My antilibrary
 tags:
-  - evergreen
+  - fleeting-note
 date: 2023-12-25
-lastmod: 2024-04-11T12:07:42-07:00
+lastmod: 2024-08-16T09:31:05-07:00
 title: My antilibrary
 ---
 [[2023-le-cunff-building-an-antilibrary]]

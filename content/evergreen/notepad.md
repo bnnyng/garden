@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-06-18 15:06
-lastmod: 2024-08-15T16:24:44-07:00
+lastmod: 2024-08-16T12:32:17-07:00
 ---
 - Multicellular life as a “charismatic center”
 - Semantic drift
@@ -18,6 +18,11 @@ lastmod: 2024-08-15T16:24:44-07:00
 - Scientific pluralism 
 - Goodhart’s law
 - Self-reference
+- A theory of information architecture (Simon’s UCR presentation)
+- Extra metabolic energy
+
+Potential seeds:
+- Impasse – [[Inquiry is the struggle to go from doubt to belief, after Peirce]], [[The value of a mathematical claim is guided by experiences of impasse and resolution, after DeDeo]]
 
 Things to look into:
 - Tree automata

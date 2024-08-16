@@ -1,6 +1,6 @@
 ---
 kanban-plugin: board
-lastmod: 2024-08-14T12:50:37-07:00
+lastmod: 2024-08-16T12:18:10-07:00
 ---
 
 ## 🔗 Connectors
@@ -31,14 +31,20 @@ lastmod: 2024-08-14T12:50:37-07:00
 
 ## 💌 Contacted
 
+- [ ] ###### [Zenna Tavares (ZI)](https://www.zenna.org/jobs/)
+	>1. I develop algorithms for probabilistic and causal reasoning. These algorithms are generic in the sense that they are able to compute answers to a wide variety of queries posed on a wide variety of models.
+	>2. I formalise novel forms of reasoning, reducing the gap between what we can reason about as humans, and what is within the domain of automated reasoning.
+	
+	#causal-inference #probabilistic-programming
 - [ ] ###### [Mark Ho (NYU) – Computation and Decision-Making Lab](https://codec-lab.github.io/)
-	- [ ] Read representative papers
 	
 	>- How do people teach and communicate?
 	>- How do groups coordinate their thoughts, plans, and actions to achieve joint goals?
 	>- How do people plan and learn in complex, uncertain environments?
 	>- How do cognitive biases emerge from the avoidance of mental effort?
 	>- How can we align interactive machine learning systems with human cognition and values?
+	
+	#reinforcement-learning #social-cognition
 
 
 

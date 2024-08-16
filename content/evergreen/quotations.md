@@ -3,8 +3,8 @@ aliases:
 tags:
   - evergreen
 publish: 
-date: <% tp.file.creation_date() %>
-lastmod: 2024-04-11T12:11:48-07:00
+date: 2024-04-11
+lastmod: 2024-08-16T12:27:58-07:00
 ---
 # On treating others
 
