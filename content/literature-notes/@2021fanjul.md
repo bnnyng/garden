@@ -2,6 +2,8 @@
 citekey: "[@2021fanjul]"
 ​aliases:
   - "Byung-Chul Han: The Smartphone is a Tool of Domination"
+  - Fanjul (2021)
+  - Fanjul, 2021
 tags:
   - literature-note
 title: "Article | Byung-Chul Han: The Smartphone Is a Tool of Domination"
@@ -9,7 +11,7 @@ year: 2021
 permalink: https://english.elpais.com/usa/2021-10-15/byung-chul-han-the-smartphone-is-a-tool-of-domination-it-acts-like-a-rosary.html
 publish: "true"
 date: 2024-08-15
-lastmod: 2024-08-15T20:38:58-07:00
+lastmod: 2024-08-16T13:15:47-07:00
 ---
 > Fanjul, S. C. (2021, October 15). _Byung-Chul Han: The Smartphone is a Tool of Domination_. EL PAÍS English. [https://english.elpais.com/usa/2021-10-15/byung-chul-han-the-smartphone-is-a-tool-of-domination-it-acts-like-a-rosary.html](https://english.elpais.com/usa/2021-10-15/byung-chul-han-the-smartphone-is-a-tool-of-domination-it-acts-like-a-rosary.html)
 

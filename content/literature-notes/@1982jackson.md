@@ -2,6 +2,8 @@
 citekey: "[@1982jackson]"
 aliases:
   - Epiphenomenal Qualia
+  - Jackson (1982)
+  - Jackson, 1982
 tags:
   - literature-note
 title: Essay | Epiphenomenal Qualia
@@ -9,7 +11,7 @@ year: 1982
 permalink: https://doi.org/10.2307/2960077
 publish: "true"
 date: 2022-10-02
-lastmod: 2024-08-15T20:42:30-07:00
+lastmod: 2024-08-16T13:11:15-07:00
 ---
 >Jackson, F. (1982). Epiphenomenal Qualia. _The Philosophical Quarterly_, _32_(127), 127. [https://doi.org/10.2307/2960077](https://doi.org/10.2307/2960077)
 

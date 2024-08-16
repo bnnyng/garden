@@ -2,6 +2,8 @@
 citekey: "[@1877peirce]"
 aliases:
   - The Fixation of Belief
+  - Peirce (1877)
+  - Peirce, 1877
 tags:
   - literature-note
 title: Essay | The Fixation of Belief
@@ -9,7 +11,7 @@ year: 1877
 permalink: http://www.sophia-project.org/uploads/1/3/9/5/13955288/peirce_belief.pdf
 publish: "true"
 date: 2024-08-15
-lastmod: 2024-08-16T12:46:41-07:00
+lastmod: 2024-08-16T13:07:38-07:00
 ---
 > Peirce, C. S. (1877). The Fixation of Belief. _Popular Science Monthly_, _12_(1), 1–15.
 

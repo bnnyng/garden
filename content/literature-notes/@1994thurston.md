@@ -2,6 +2,8 @@
 citekey: "[@1994thurston]"
 ​aliases:
   - On Proof and Progress in Mathematics
+  - Thurston (1994)
+  - Thurston, 1994
 tags:
   - literature-note
 title: Essay | On Proof and Progress in Mathematics
@@ -9,7 +11,7 @@ year: 1994
 permalink: https://doi.org/10.48550/arXiv.math/9404236
 publish: "true"
 date: 2024-08-15
-lastmod: 2024-08-15T20:42:46-07:00
+lastmod: 2024-08-16T13:12:50-07:00
 ---
 > Thurston, W. P. (1994). _On Proof and Progress In Mathematics_ (arXiv:math/9404236). arXiv. [https://doi.org/10.48550/arXiv.math/9404236](https://doi.org/10.48550/arXiv.math/9404236)
 

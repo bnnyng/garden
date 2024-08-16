@@ -2,6 +2,8 @@
 citekey: "[@1977alexander]"
 aliases:
   - A Pattern Language
+  - Alexander (1977)
+  - Alexander, 1977
 tags:
   - literature-note
 title: Book | A Pattern Language
@@ -9,7 +11,7 @@ year: 1977
 permalink: 
 publish: 
 date: 2023-12-24
-lastmod: 2024-08-15T17:58:12-07:00
+lastmod: 2024-08-16T13:10:59-07:00
 ---
 
 >Alexander, C. (1977). _A Pattern Language: Towns, buildings, construction_. Oxford University Press.

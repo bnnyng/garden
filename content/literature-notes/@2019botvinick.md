@@ -1,6 +1,8 @@
 ---
 aliases:
   - Reinforcement Learning, Fast and Slow
+  - Botvinick et al., 2019
+  - Botvinick et al. (2019)
 tags:
   - literature-note
 title: Journal Article | Reinforcement Learning, Fast and Slow
@@ -8,7 +10,7 @@ year: 2019
 permalink: https://doi.org/10.1016/j.tics.2019.02.006
 publish: 
 date: 2022-12-01
-lastmod: 2024-08-15T11:58:33-07:00
+lastmod: 2024-08-16T13:15:06-07:00
 ---
 # Summary
 

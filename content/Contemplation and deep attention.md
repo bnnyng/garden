@@ -3,11 +3,11 @@ aliases:
 tags:
   - bud
 date: <% tp.file.creation_date() %>
-lastmod: 2024-08-15T17:16:13-07:00
+lastmod: 2024-08-16T13:20:47-07:00
 ---
 [[The contemplative life]] is characterized by deep attention. This deep a kind of “de-interiorization” and dissolution of perceptual sense into the observable world. In a sense, deep attention is a more [[Embodied cognition]].
 
-Per [[aristotle-nichomachean-ethics]], the contemplative life is one way to achieve a happy human life, and thus human excellence. [[@2015han]] extends this to the claim that [[Humanity's greatest cultural achievements are produced through deep contemplation]]. 
+Per [[aristotle-nichomachean-ethics]], the contemplative life is one way to achieve a happy human life, and thus human excellence. [[@2015han|Han (2015)]] extends this to the claim that [[Humanity's greatest cultural achievements are produced through deep contemplation]]. 
 
 Deep attention is preceded by idleness. Thus, [[Idleness is needed for creative generation]] and broad cultural flourishing.
 

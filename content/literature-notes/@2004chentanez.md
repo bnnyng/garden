@@ -2,6 +2,8 @@
 citekey: "[@2004chentanez]"
 ​aliases:
   - Intrinsically Motivated Reinforcement Learning
+  - Chentanez et al., 2004
+  - Chentanez et al. (2004)
 tags:
   - literature-note
 title: Paper | Intrinsically Motivated Reinforcement Learning
@@ -9,7 +11,7 @@ year: 2004
 permalink: https://proceedings.neurips.cc/paper/2004/hash/4be5a36cbaca8ab9d2066debfe4e65c1-Abstract.html?ref=https://githubhelp.com
 publish: 
 date: 2024-08-15
-lastmod: 2024-08-15T20:43:33-07:00
+lastmod: 2024-08-16T13:14:19-07:00
 ---
 > Chentanez, N., Barto, A., & Singh, S. (2004). Intrinsically Motivated Reinforcement Learning. _Advances in Neural Information Processing Systems_, _17_. [https://proceedings.neurips.cc/paper/2004/hash/4be5a36cbaca8ab9d2066debfe4e65c1-Abstract.html?ref=https://githubhelp.com](https://proceedings.neurips.cc/paper/2004/hash/4be5a36cbaca8ab9d2066debfe4e65c1-Abstract.html?ref=https://githubhelp.com)
 

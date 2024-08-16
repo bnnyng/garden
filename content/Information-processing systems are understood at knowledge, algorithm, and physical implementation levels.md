@@ -6,11 +6,11 @@ tags:
   - permanent-note
   - topic-cognitive-science
   - COGS-UN1001
-lastmod: 2024-08-15T20:26:55-07:00
+lastmod: 2024-08-16T13:18:50-07:00
 date: 2024-08-15
 publish: "true"
 ---
-Any system carrying out an information-processing task must be understood at three levels: knowledge, algorithm, and physical implementation [[@1982marr]].
+Any system carrying out an information-processing task must be understood at three levels: knowledge, algorithm, and physical implementation ([[@1982marr|Marr, 1982]]).
 
 - [[Knowledge-level analysis reveals general principles about a system’s significance or purpose]]
 - [[Algorithmic analysis reveals the formal processes which underlie a system’s visible behavior]]

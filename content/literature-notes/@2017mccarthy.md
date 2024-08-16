@@ -2,6 +2,8 @@
 citekey: "[@2017mccarthy]"
 ​aliases:
   - The Kekulé Problem
+  - McCarthy (2017)
+  - McCarthy, 2017
 tags:
   - literature-note
 title: Essay | The Kekulé Problem
@@ -9,7 +11,7 @@ year: 2017
 permalink: https://nautil.us/the-kekul-problem-236574/
 publish: "true"
 date: 2024-06-23 13:11
-lastmod: 2024-08-15T20:39:54-07:00
+lastmod: 2024-08-16T13:14:43-07:00
 ---
 > McCarthy, C. (2017). _The Kekulé Problem_. [https://nautil.us/the-kekul-problem-236574/](https://nautil.us/the-kekul-problem-236574/)
 
