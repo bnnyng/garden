@@ -11,7 +11,7 @@ year: 2024
 permalink: https://www.ams.org/bull/2024-61-03/S0273-0979-2024-01824-2/
 publish: "true"
 date: 2024-06-11
-lastmod: 2024-08-16T14:20:59-07:00
+lastmod: 2024-08-16T20:19:16-07:00
 ---
 > DeDeo, S. (2024). AlephZero and Mathematical Experience. _Bulletin of the American Mathematical Society_, _61_(3), 375–386. [https://doi.org/10.1090/bull/1824](https://doi.org/10.1090/bull/1824)
 
@@ -27,9 +27,9 @@ lastmod: 2024-08-16T14:20:59-07:00
 ---
 # Atomic notes
 
-- [[The value of a mathematical claim is guided by experiences of impasse and resolution, after DeDeo]] #wip 
+- [[The value of a mathematical claim is guided by experiences of impasse and resolution, after DeDeo]] 
 - [[Glitches are uncanny experiences of what ought not to be, after DeDeo]]
-- [[Mathematical glitches, after DeDeo]]
+- [[Mathematical glitches]]
 
 ---
 # Selected concepts and passages

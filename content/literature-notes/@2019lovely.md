@@ -11,7 +11,7 @@ year: 2019
 permalink: https://www.currentaffairs.org/news/2019/01/mckinsey-company-capitals-willing-executioners
 publish: 
 date: 2023-12-24
-lastmod: 2024-08-16T14:24:56-07:00
+lastmod: 2024-08-16T19:48:29-07:00
 ---
 > Lovely, G. (2019, February 5). McKinsey & Company: Capital’s Willing Executioners. _Current Affairs_. [https://www.currentaffairs.org/news/2019/01/mckinsey-company-capitals-willing-executioners](https://www.currentaffairs.org/news/2019/01/mckinsey-company-capitals-willing-executioners)
 
@@ -37,10 +37,7 @@ Originally published anonymously, this article was written by a former employee 
 - The author compares McKinsey to the fabled “cabal” that controls “the direction of human history.”
 - The effects of McKinsey are difficult to measure due to the firm’s secrecy and role as consultant, not final decision-maker. However, it has a notable willingness to work for “all sides,” including corrupt businesses and governments.
 	- Because of its secrecy, McKinsey can benefit from clients’ success while remaining protected from their failures.
-- By working for only those in power, McKinsey “solves the world’s problems” by providing solutions ([[Problem and solution space|solution space]]) that preserve the status quo.
-
-> To quell dissent, the leader reassured us: We only do execution, not policy.
-
+- By working for only those in power, McKinsey “solves the world’s problems” by providing solutions that preserve the status quo.
 - The contrast between McKinsey’s effects and its employees’ values, such as liberal political leanings, can be explained by its partnership structure.
 	- To take on a client, a partner only has to provide a team. Associates can opt out of any team they choose.
 	- Over time, standards for political risk have lowered in order to maintain the company’s yearly growth.

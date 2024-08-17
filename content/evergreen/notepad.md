@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-06-18 15:06
-lastmod: 2024-08-16T14:10:11-07:00
+lastmod: 2024-08-16T19:47:53-07:00
 ---
 - Multicellular life as a “charismatic center”
 - Semantic drift
@@ -21,6 +21,7 @@ lastmod: 2024-08-16T14:10:11-07:00
 	- Grice conversational implicature
 - Extra metabolic energy
 - David Deutsch universal explaners
+- Conversational backchannels
 
 Potential seeds:
 - Impasse – [[Inquiry is the struggle to go from doubt to belief, after Peirce]], [[The value of a mathematical claim is guided by experiences of impasse and resolution, after DeDeo]]
@@ -53,3 +54,5 @@ Automated theorem proving
 	- The origin of life is the boundary where we can generate complexity in our universe – relationship to imagination?
 	- LLMs store the dynamics of language
 	- Imagination is causal, how deep in time you are
+
+- Peirce says truth is what wins out over long run of intelligent inquiry, related to reason “working” in *The Enigma of Reason* – best idea wins

@@ -4,29 +4,32 @@ aliases:
   - A Stochastic Model of Mathematics and Science
   - Wolpert & Kinney (2024)
   - Wolpert & Kinney, 2024
+  - stochastic mathematical system
 tags:
   - literature-note
 title: Paper | A Stochastic Model of Mathematics and Science
 year: 2024
 permalink: https://doi.org/10.1007/s10701-024-00755-9
-publish: 
+publish: "true"
 date: 2024-06-07
-lastmod: 2024-08-16T16:09:31-07:00
+lastmod: 2024-08-16T20:14:43-07:00
 ---
 > Wolpert, D. H., & Kinney, D. B. (2024). A Stochastic Model of Mathematics and Science. _Foundations of Physics_, _54_(2), 1–67. [https://doi.org/10.1007/s10701-024-00755-9](https://doi.org/10.1007/s10701-024-00755-9)
 
 ---
 # Summary
 
-The SMS framework is applied to establish the benefit of two heuristics that are not compatible with [[Probabilistic reasoning|Bayesian epistemology]]: stronger belief in a hypothesis with multiple lines of reasoning, and [[Abduction is going from a believed conclusion to requirements for the conclusion to be true, after Peirce|abductive inference]].
+In this paper, both individual agents and the “ground truth” universe are represented as **stochastic mathematical systems**, and an agent’s reasoning process is represented by sequences of question-answer distributions. An agent’s performance is evaluated by calibration with the universe-SMS; that is, the universe-SMS acts as an oracle and arbiter of “correct” answers.
 
-Under this framework, an individual scientist is a dependent projection of the physical universe.
+The mathematician-SMS and universe-SMS—the accepted claims by a far-future community of mathematicians—have no *a priori* relationship. On the other hand, the scientist-SMS is embedded in the universe-SMS—the physical universe generating outcomes of experiments—by a partial function so that the scientist’s claim set (interpreted as brain states) are a subset of the universe’s claim sets. 
+
+Further, while evidence in mathematics involves chains of proof-like reasoning, evidence in science involves chains of *brain states* of the scientist that correspond to experimental outcomes or observations. This abstraction reflects the fact that scientists’ interpretations often depend on theories they have previously committed to. Then a scientist’s brain state, or set of claims, is mapped to by the collection of all physical processes in the universe that might have led to it (the preimage of the embedding function); for example, a brain state where the scientist recalls some facts would be mapped to by a set of processes that includes reading the textbook that contains the fact, the publication of that textbook, etc.
+
+The SMS framework is applied to establish the benefit of two heuristics that are not compatible with [[Probabilistic reasoning|Bayesian epistemology]]: stronger belief in a hypothesis with multiple lines of reasoning, and [[Abduction is going from a believed conclusion to requirements for the conclusion to be true, after Peirce|abductive inference]]. 
 
 ---
 # Atomic notes
 
-- [[Abstract reasoning in science is normatively constrained by the physical universe, while in math it is not]]
-	- Scientists are embedded, mathematicians are not
 - [[Mathematical ground truth is the set of answers given by a future community of mathematicians]]
 
 ---
@@ -35,8 +38,6 @@ Under this framework, an individual scientist is a dependent projection of the p
 - **Stochastic mathematical system (SMS)** = “stochastic processes that generate pairs of questions and associated answers, with no explicit referents.”
 	- **Referent** = the thing being signified in a “reference” relationship between symbol and object.
 - **[[Abduction is going from a believed conclusion to requirements for the conclusion to be true, after Peirce|Abduction]]** = using the explanatory power of a claim to infer its probability of being correct.
-
-Mathematical universe hypothesis, ontic structural realists
 
 ---
 # Reading notes
@@ -47,13 +48,12 @@ Mathematical universe hypothesis, ontic structural realists
 - As the mathematician or scientist conducts research, the set of *established facts* and the set of *beliefs* evolves over time. Further, their *reasoning* about questions they investigate and explanations they provide is a *stochastic process*.
 - Real mathematicians and scientists are not limited to a single formal system, such as Bayesian probabilistic reasoning, when forming the propositions they are investigating $\to$ both “settled facts” and “unsettled propositions” are represented as *question-answer pairs* without a specified formal system.
 
->[!question] #concept-question What are the differences in formalizing “established facts,” “propositions they are investigating,” and “set of beliefs about non-settled facts”?
-
+#concept-question *What are the differences in formalizing “established facts,” “propositions they are investigating,” and “set of beliefs about non-settled facts”?*
 ### Assumptions
 
-- “Mathematicians is what mathematicians do.” When using the SMS model to represent mathematics itself, this implies that there is no unique answer to a mathematical question; instead, there is a “non-degenerate objective distribution over possible answers.”
+- “[[Mathematics is what mathematicians do]].” When using the SMS model to represent mathematics itself, this implies that there is no unique answer to a mathematical question; instead, there is a “non-degenerate objective distribution over possible answers.”
 
->[!question] #concept-question What is a non-degenerate distribution (support of the same dimension)? How is it related to the concept of an isomorphism for non-degenerate functions?
+#concept-question *What is a non-degenerate distribution (support of the same dimension)? How is it related to the concept of an isomorphism for non-degenerate functions?*
 
 - The physical universe is a mathematical object.
 - sequences of claims are iteratively generated by a discrete stochastic process
@@ -73,9 +73,7 @@ Mathematical universe hypothesis, ontic structural realists
 >
 >The **step** of the SMS is the integer argument of $X$.
 
-
->[!question] #concept-question Explicitly, what are the inputs and outputs?
-
+#concept-question *Explicitly, what are the inputs and outputs?*
 ### Important distributions
 
 - Agents’ epistemic positions—that is, belief in possible answers to a given question—are represented as the distribution over possible answers [[Conditional probability and Bayes' theorem|conditioned]] on their associated questions and a particular set of established claims.
@@ -90,7 +88,7 @@ Mathematical universe hypothesis, ontic structural realists
 > 
 >The output value $P^n(v \ | \ q, \hat C)$ is **sure** if and only if it is a delta function about some answer $v$.
 
->[!question] #concept-question To clarify: the SMS does not produce the response distribution itself?
+#concept-question *To clarify: the SMS does not produce the response distribution itself?*
 
 
 ## Calibration
