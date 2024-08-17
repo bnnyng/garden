@@ -7,14 +7,15 @@ tags:
   - permanent-note
   - topic-cognitive-science
 date: 2023-12-24
-lastmod: 2024-02-19T20:06:33-08:00
+lastmod: 2024-08-17T00:45:29-07:00
 publish: "true"
 ---
-Reinforcement learning (RL) is the method of learning from rewards and punishments, rather than explicit instructions. Specifically, the agent must learn a behavioral policy, or mapping from states to actions, which maximizes cumulative long-term reward. The agent then explores or exploits the state using actions and learns from the resulting rewards. 
+**Reinforcement learning (RL**) is the method of learning from rewards and punishments, rather than explicit instructions. Specifically, the agent must learn a **behavioral policy**, or mapping from states to actions, which maximizes cumulative long-term reward. The agent then explores or exploits the state using actions and learns from the resulting rewards. 
 
-Reinforcement learning can be divided into model-free, which is based on direct stimulus-response associations (i.e., a value associated with each action), and model-based, which leverages internal representations of the task structure.
+Reinforcement learning can be divided into **model-free**, which is based on direct stimulus-response associations (i.e., a value associated with each action), and **model-based**, which leverages internal representations of the task structure.
 
-#question *How is model-based learning different from representation learning?*
+>[!question] #concept-question 
+>How is model-based learning different from representation learning?
 
 ---
 # Topics

@@ -3,10 +3,10 @@ lit-author:
 aliases: 
 tags:
   - literature-note
-publish: "true"
+publish: 
 title: Article | What is Culture?
 date: 2023-12-27
-lastmod: 2023-12-31T11:21:04-08:00
+lastmod: 2024-08-17T00:44:37-07:00
 ---
 # Summary
 

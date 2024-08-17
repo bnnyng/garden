@@ -6,9 +6,9 @@ aliases:
 tags:
   - literature-note
 title: Essay | Affliction I & II
-publish: "true"
+publish: 
 date: 2023-12-29 12:11
-lastmod: 2024-01-17T06:09:22-08:00
+lastmod: 2024-08-17T00:44:33-07:00
 ---
 # Summary
 

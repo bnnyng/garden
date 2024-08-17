@@ -8,7 +8,7 @@ year: 1974
 permalink: https://doi.org/10.2307/2183914
 publish: 
 date: 2022-10-02
-lastmod: 2024-08-15T20:42:05-07:00
+lastmod: 2024-08-17T00:42:20-07:00
 citekey: "[@1974nagel]"
 ---
 >Nagel, T. (1974). What Is It Like to Be a Bat? _The Philosophical Review_, _83_(4), 435. [https://doi.org/10.2307/2183914](https://doi.org/10.2307/2183914)
@@ -42,7 +42,8 @@ The example of being a bat illustrates the difference between subjective phenome
 6. Hence, we cannot completely extrapolate what it is like for a bat to be a bat from human experience.
 7. Hence, there exist facts beyond the reach of human concepts. Specifically, these facts cannot be expressed in *true propositions of a human language*.
 
->[!question] #concept-question What is the relationship between concepts, essentially [[Representation is describing some aspect of reality with a useful symbol|representations]], and cognitive structure? Cognitive science fundamentally assumes a connection between physical and knowledge [[Information-processing systems are understood at knowledge, algorithm, and physical implementation levels|levels of explanation]].
+>[!question] #concept-question 
+>What is the relationship between concepts, essentially [[Representation is describing some aspect of reality with a useful symbol|representations]], and cognitive structure? Cognitive science fundamentally assumes a connection between physical and knowledge [[Information-processing systems are understood at knowledge, algorithm, and physical implementation levels|levels of explanation]].
 
 Subjective experience can only be understood by individuals that share a point of view, while knowledge of objective facts can be observed by individuals from different points of view (see also: [[Mary's Room disproves a materialist basis for consciousness]]).
 
