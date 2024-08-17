@@ -1,25 +1,36 @@
 ---
-lit-author: 
-aliases: 
+citekey: 2000rosen
+aliases:
+  - On Biology and Physics
+  - Rosen (2000)
+  - Rosen, 2000
 tags:
   - literature-note
-title: 
+title: Book Section | On Biology and Physics
+year: 2000
+permalink: 
 publish: 
-date: 2024-07-10 11:50
-lastmod: 2024-07-10T12:02:53-06:00
+date: 2024-08-17
+lastmod: 2024-08-17T01:10:06-07:00
 ---
-# Summary
+> Rosen, R. (2000). _Essays on Life Itself_. Columbia University Press.
 
-*By Robert Rosen*
+---
+
+# Summary
 
 In this brief note, Rosen identifies [[Complex systems have nontrivial emergent and self-organizing behaviors|complex systems]] as those which do not have computable and formalizable models: “no list, no algorithm, no decision procedure” exists to give a full account. He argues that organisms are 
 
 ---
+
 # Atomic notes
 
+---
 
+# Key terms
 
 ---
+
 # Selected concepts and passages
 
 - “Any question becomes unanswerable if we do not permit ourselves a universe large enough to deal with the question.”
@@ -29,3 +40,8 @@ In this brief note, Rosen identifies [[Complex systems have nontrivial emergent 
 - **Organisms are more generic, complex, and unformalizable than inorganic systems:** “Rather than an organism being just a standard material system plus a list of special conditions, an organism is a repository of meanings andimpredicativities; it is more generic than an inorganic system rather than less. … If this is so, then organisms possess noncomputable, unformalizable models. *Such systems are what I call complex*.”
 
 #wip note on Godel’s theorem
+
+---
+
+# Reading notes
+

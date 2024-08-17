@@ -1,12 +1,13 @@
 ---
 aliases:
   - Prover-Skeptic
+  - dialogical deduction
 tags:
   - permanent-note
   - topic-cognitive-science
 publish: "true"
 date: 2024-06-15 13:14
-lastmod: 2024-08-16T13:22:51-07:00
+lastmod: 2024-08-17T16:12:08-07:00
 ---
 [[@2020dutilhnovaes|Dutilh Novaes (2020)]] defines deductive dialogues as **Prover-Skeptic games.** The key distinction between the Prover-Skeptic and Prover-Refuter frameworks is that the Skeptic does not “lose” after being convinced by the Prover’s argument, unlike the Refuter that *actively* tries to disprove the argument. (This framework is also more aligned with the Hegelian-dialectical perspective that the ultimate goal of the dialogue, or game, is to arrive at true belief. See also: [[Inquiry is the struggle to go from doubt to belief, after Peirce]].)
 

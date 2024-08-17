@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-06-18 15:06
-lastmod: 2024-08-16T19:47:53-07:00
+lastmod: 2024-08-17T00:52:56-07:00
 ---
 - Multicellular life as a “charismatic center”
 - Semantic drift
@@ -56,3 +56,4 @@ Automated theorem proving
 	- Imagination is causal, how deep in time you are
 
 - Peirce says truth is what wins out over long run of intelligent inquiry, related to reason “working” in *The Enigma of Reason* – best idea wins
+

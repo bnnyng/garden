@@ -10,7 +10,3 @@ Most permanent notes are “atomic” concepts (these are always titled with a c
 - “Definition” notes for technical terms or terms of art, which are different from topic notes in that they contain complete sentence descriptions;
 - “Bridge” notes which capture similarities and differences between two concepts;
 - Other proper nouns, such as “person” notes, which are not concept-oriented.
-
-%%
-
-%%

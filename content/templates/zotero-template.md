@@ -2,7 +2,7 @@
 ---
 citekey: {{citekey}}
 aliases:
-  - {{title}}
+  - {{shortTitle}}
 tags:
   - literature-note
 title: "{{itemType}} | {{title}}"

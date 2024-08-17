@@ -6,19 +6,18 @@ tags:
   - seed
 publish: 
 date: 2024-07-26 09:55
-lastmod: 2024-08-04T11:40:02-06:00
+lastmod: 2024-08-17T01:06:56-07:00
 ---
 # Literature notes
 
 ## Dialogical reasoning
 
-![[Dialogical reasoning#2020-dutilh-novaes-dialogical-roots-of-deduction]]
-![[Dialogical reasoning#2017-mercier-sperber-the-enigma-of-reason]]
+![[Dialogical reasoning#@2020dutilhnovaes]]
+![[Dialogical reasoning#@2017mercier]]
 ![[Dialogical reasoning#1976-lakatos-proofs-and-refutations]]
 ## Explanation
 
-#### [[2019-pease-et-al-explanation-in-mathematical-conversations]]
-
+[[@2019pease]]
 ## Impasse
 #### [[2024-dedeo-alephzero-and-mathematical-experience]]
 

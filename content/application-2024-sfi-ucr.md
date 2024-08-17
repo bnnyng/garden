@@ -16,7 +16,7 @@ Associated notes:
 
 References:
 - [[2019-jaques-social-influence-as-intrinsic-motivation]]
-- [[2019-spelke-from-core-concepts-to-new-systems-of-knowledge]]
+- [[20240817-2019-spelke-from-core-concepts-to-new-systems-of-knowledge]]
 - [[20231228-video-social-influence-as-intrinsic-motivation]]
 
 Related: [[Complex systems have nontrivial emergent and self-organizing behaviors|complex system]]

@@ -6,7 +6,7 @@ lastmod: 2024-01-10T14:07:18-08:00
 2024-01-03
 - Project 1: Evolving a core knowledge system
 	- Background
-		- Spelke’s theories of core knowledge: [[2019-spelke-from-core-concepts-to-new-systems-of-knowledge]]
+		- Spelke’s theories of core knowledge: [[20240817-2019-spelke-from-core-concepts-to-new-systems-of-knowledge]]
 		- Chose one to evolve? Try to see what kind of core knowledge gets evolved, whether it ends up being useful for anything? Give similar tasks as used in developmental psychology in each of these (pre-defined) domains, hope that something has a result?
 	- Importance
 		- [[Evolution is the only guaranteed method of producing general intelligence]]

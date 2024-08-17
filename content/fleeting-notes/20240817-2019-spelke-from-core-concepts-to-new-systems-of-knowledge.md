@@ -2,13 +2,13 @@
 lit-author: "[[Spelke, Elizabeth]]"
 aliases: 
 tags:
-  - literature-note
+  - fleeting-note
 title: "Talk | Elizabeth Spelke: From Core Concepts to New Systems of Knowledge"
 permalink: https://youtu.be/u4jUxjf0bAY?si=9JVZkitHsC8ZFLe4
 highlights: "[[RAW-20240102-spelke-from-core-concepts-to-new-systems-of-knowledge]]"
-publish: "true"
+publish: 
 date: 2024-01-02 12:10
-lastmod: 2024-08-04T11:59:03-06:00
+lastmod: 2024-08-17T16:09:36-07:00
 ---
 [Source](https://youtu.be/u4jUxjf0bAY?si=9JVZkitHsC8ZFLe4) – [[RAW-20240102-spelke-from-core-concepts-to-new-systems-of-knowledge|Highlights]]
 # Takeaways

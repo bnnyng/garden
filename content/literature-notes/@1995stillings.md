@@ -6,12 +6,12 @@ citekey: "[@1995stillings]"
   - Stillings (1995)
 tags:
   - literature-note
-title: Chapter | What is Cognitive Science?
+title: Book Section | What is Cognitive Science?
 year: 1995
 permalink: 
 publish: "true"
 date: 2022-10-03
-lastmod: 2024-08-16T13:13:01-07:00
+lastmod: 2024-08-17T01:03:25-07:00
 ---
 > Stillings, N. A., Chase, C. H., Weisler, S. E., Feinstein, M. H., Garfield, J. L., & Rissland, E. L. (1995). _Cognitive Science: An Introduction_. MIT Press.
 
