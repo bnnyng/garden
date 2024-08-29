@@ -6,9 +6,9 @@ aliases:
 tags:
   - literature-note
 title: Book | Phaedo
-publish: "true"
+publish: 
 date: 2022-11-01
-lastmod: 2023-12-29T19:12:05-08:00
+lastmod: 2024-08-26T16:43:23-07:00
 ---
 # Summary
 

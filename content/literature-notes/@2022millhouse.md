@@ -1,5 +1,5 @@
 ---
-citekey: 2022millhouse
+citekey: "[@2022millhouse]"
 aliases:
   - Embodied, Situated, and Grounded Intelligence
   - Millhouse et al. (2022)
@@ -11,7 +11,7 @@ year: 2022
 permalink: http://arxiv.org/abs/2210.13589
 publish: "true"
 date: 2023-12-27
-lastmod: 2024-08-17T16:16:25-07:00
+lastmod: 2024-08-26T16:41:42-07:00
 ---
 > Millhouse, T., Moses, M., & Mitchell, M. (2022). _Embodied, Situated, and Grounded Intelligence: Implications for AI_ (arXiv:2210.13589). arXiv. [https://doi.org/10.48550/arXiv.2210.13589](https://doi.org/10.48550/arXiv.2210.13589)
 

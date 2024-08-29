@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-08-15T09:38:49-07:00
+lastmod: 2024-08-27T09:08:29-07:00
 tags:
   - workspace
 ---
@@ -37,6 +37,7 @@ DOOR CODE: 5891\*
 **Fleeting notes and workspaces**
 - [[20240802-semantic-topic-hierarchy-specs]]
 - [[20240803-cognitive-topic-hierarchy-specs]]
+- [[20240820-gpt-topic-hierarchy-specs]]
 
 ---
 
@@ -50,7 +51,70 @@ DOOR CODE: 5891\*
 	- Target Cogsci 2024 conference with diversity research, and possible paper
 	- Work on “cognitive moves” in the long term
 
- ---
+2024-08-20
+
+- Using the ChatGPT API to extract mathematical terms from comments – 387 unique words
+	- Processed word list by splitting multi-word terms into bi-grams for word pairs, making 441 words total
+	- Re-ran analyses with the GPT word list, found fairly different curves from hand-picked lists
+- Meeting with Simon and Marina
+	- Do we want to keep “internal” language, or only words that correspond with proper math subfields? I personally think yes, at least with our current method
+	- What could we do with 20 math grad students?
+	- Instead of building hierarchy based on word frequency/co-occurrence, get people (i.e., grad students) to rate the most similar pair in a triplet of topics
+		- Can also use GPT, some notion of inter-rater reliability?
+		- Can also do this with individual words and weight words as they appear in topics?
+	- If things do not work well, potentially look at ways to get probability decompositions other than topic modeling
+- Literature recommendations from Marina
+	- Robert Hawkins on norms: https://pcl.sitehost.iu.edu/papers/normEmergence.pdf
+	- Psychology of Invention in the Mathematical Field: https://worrydream.com/refs/Hadamard_1945_-_The_psychology_of_invention_in_the_mathematical_field.pdf
+- Next steps
+	- [x] Check the distribution of comment lengths for cleaned comments
+	- [x] Check stochasticity of MALLET using both handpicked and GPT word lists
+	- [x] Re-prompt GPT and run multiple times
+	- [ ] Send OpenAI receipts to Simon
+	- [x] Clean up word lists – delete author names, isolated words like “proof” or “theorem”
+	- [ ] Figure out how to get more flexible n-grams
+	- [x] Read Hawkins paper from Marina
+
+2024-08-22
+
+- Cleaned GPT word list – removed words based on inspection, as well as “cognitive” terms made previously (can’t be perfect!)
+- Note error with making bi-grams in previous code – did not capture bi-grams with spaces only, required at least one word between the two words
+	- Potential issue with hand-picked list
+- Next steps
+	- [x] Try a combined GPT “franken-list”
+	- [x] (Optional) Try hand-picked list again?
+
+2024-08-23
+
+- Meeting with Simon
+	- Current work explores how the topic model is working—possible TMs are not the right approach, or we want a more “principled” word list
+
+> (It may also be the case that “topics” are not the right way to think about things — like, people love topic models, but there’s no reason to believe that these are truly how we should track ideas… heresy for many, I’m sure, but also worth thinking about. What if communication is too squishy for us? I don’t think that’s the case here, but I think useful to be aware of…)
+
+
+- Next steps
+	- [ ] Run model with different numbers of topics (10 and 20); for each word list, run the topic model a few times and pick version with lowest loss
+
+2024-08-26
+
+- Best loss
+```
+20 topics
+1 -4.76302
+2 -4.76216
+3 -4.6021
+4 -4.49545
+5 -4.5612
+
+10 topics
+5 -4.60292
+
+```
+- Next steps
+	- [ ] Write a script that outputs average loss automatically from command line outputs
+
+
+---
 # Santa Fe Institute REU
 ## Week 1
 
@@ -67,8 +131,6 @@ DOOR CODE: 5891\*
 - Agent-based modeling of math epistemology
 - Determining features of proofs that lead to belief or understanding
 - Next steps: finish reading DeDeo and Wolpert papers, try to establish connection with DeDeo?
-	- [[2023-viteri-dedeo-epistemic-phase-transitions]]
-	- [[2-SOMEDAY/2023-wolpert-kinney-stochastic-model-of-math-and-science]]
 
 [[2024-06-07]]
 

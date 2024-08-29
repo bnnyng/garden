@@ -7,7 +7,7 @@ tags:
   - polymetamath
 publish: 
 date: 2024-08-08 11:56
-lastmod: 2024-08-11T15:03:26-07:00
+lastmod: 2024-08-29T13:52:21-07:00
 ---
 *Written for the SFI Undergraduate Complexity Research program, Summer 2024.*
 

@@ -6,9 +6,9 @@ aliases:
 tags:
   - literature-note
 title: Book | Aristotle's Nichomachean Ethics
-publish: "true"
+publish: 
 date: 2023-12-26
-lastmod: 2023-12-29T19:10:14-08:00
+lastmod: 2024-08-26T16:43:19-07:00
 ---
 # Summary
 

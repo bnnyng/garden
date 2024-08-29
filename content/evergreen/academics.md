@@ -1,10 +1,10 @@
 ---
 aliases: 
 tags:
-  - evergreen
+  - planner
 publish: 
 date: 2024-04-02 15:29
-lastmod: 2024-08-15T10:14:14-07:00
+lastmod: 2024-08-28T15:01:42-07:00
 ---
 # Coursework
 
@@ -21,7 +21,11 @@ lastmod: 2024-08-15T10:14:14-07:00
 
 **Fall 2024**
 - [[COMS-W4771]] – Machine Learning
-- 
+- [[MATH-GU4051]] – Topology
+- [[MATH-GU4061]] – Introduction to Modern Analysis I
+- [[MATH-GU4391]] – Introduction to Quantum Mechanics
+- [[NSBV-BC3386]] – The Neural Code
+- [[PHIL-UN2655]] – Cognitive Science and Philosophy
 
 ---
 # Assignments
@@ -46,6 +50,17 @@ lastmod: 2024-08-15T10:14:14-07:00
 # Log
 
 [Course registration spreadsheet](https://docs.google.com/spreadsheets/d/1EC1K1KxJ2XQmm4FhbcpVILMZ_cCeUwDmW9XHl_NVEOU/edit?gid=827761127#gid=827761127)
+
+2024-08-18 – Adding one more class
+- General reqs
+	- Locally
+		- [American Literature Since 1945](https://doc.sis.columbia.edu/#subj/ENGL/X3183-20243-001/)
+		- [History of the City of NY](https://doc.sis.columbia.edu/#subj/HIST/W2535-20243-001/) – full
+		- [Science For Sustainable Devpt](https://doc.sis.columbia.edu/#subj/EESC/W2330-20243-001/)
+	- Social difference
+		- American Lit
+		- [History of Capitalism](https://doc.sis.columbia.edu/#subj/HIST/X2101-20243-001/)
+- Design my own independent study in formal systems, computational cogsci – ask Simon to help
 
 2024-08-14
 - Potential specialization: complexity in cognitive science?

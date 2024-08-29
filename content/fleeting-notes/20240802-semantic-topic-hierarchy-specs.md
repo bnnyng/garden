@@ -2,11 +2,48 @@
 tags:
   - fleeting-note
   - polymetamath
-lastmod: 2024-08-08T11:57:17-06:00
+lastmod: 2024-08-26T15:55:43-07:00
+---
+# MALLET inputs
+
+
+**Importing  data**
+```
+bin\mallet import-file --input data\semantic-seeded-P1-onlyG-2.tsv --output semantic-seeded-P1-onlyG-2.mallet --keep-sequence 
+```
+
+**Training 30 topics**
+```
+bin\mallet train-topics --input semantic-seeded-P1-onlyG-2.mallet --num-topics 30 --output-state semanticSeededOutput30.gz --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticSeededTopics30.txt --output-topic-keys semanticSeededKeys30.txt --diagnostics-file semanticSeededDiagnostics30.txt
+```
+
+
+**Checking stochasticity**
+```
+bin\mallet train-topics --input semantic-seeded-P1-onlyG-2.mallet --num-topics 30 --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticSeededTopics2-1.txt --output-topic-keys semanticSeededKeys2-1.txt
+```
+
+```
+bin\mallet train-topics --input bin\mallet train-topics --input semantic-seeded-P1-onlyG-2.mallet --num-topics 30 --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticSeededTopics2-4.txt --output-topic-keys semanticSeededKeys2-4.txtsemantic-seeded-P1-onlyG-2.mallet --num-topics 30 --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticSeededTopics2-2.txt --output-topic-keys semanticSeededKeys2-2.txt
+```
+
+```
+bin\mallet train-topics --input semantic-seeded-P1-onlyG-2.mallet --num-topics 30 --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticSeededTopics2-3.txt --output-topic-keys semanticSeededKeys2-3.txt
+```
+
+```
+bin\mallet train-topics --input semantic-seeded-P1-onlyG-2.mallet --num-topics 30 --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticSeededTopics2-4.txt --output-topic-keys semanticSeededKeys2-4.txt
+```
+
+```
+bin\mallet train-topics --input semantic-seeded-P1-onlyG-2.mallet --num-topics 30 --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticSeededTopics2-5.txt --output-topic-keys semanticSeededKeys2-5.txt
+```
+
+
 ---
 # Overview
 
-```
+
 8 REDUCED TOPICS
 0 [10 28 29]
 1 [ 4  7 16 24 26 27]

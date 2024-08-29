@@ -1,4 +1,4 @@
 ---
 title: Content maps
-publish:
+publish: "true"
 ---

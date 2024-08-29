@@ -6,9 +6,9 @@ aliases:
 tags:
   - literature-note
 title: Book | Aristotle's Categories
-publish: "true"
+publish: 
 date: 2023-12-26
-lastmod: 2024-04-02T16:36:57-07:00
+lastmod: 2024-08-26T16:43:27-07:00
 ---
 # Summary
 

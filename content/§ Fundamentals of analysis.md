@@ -4,7 +4,7 @@ tags:
   - permanent-note
   - topic-logic-mathematics
   - moc
-lastmod: 2024-05-06T12:18:02-07:00
+lastmod: 2024-08-27T07:40:40-07:00
 date: 2023-09-01
 publish: 
 ---
@@ -21,6 +21,23 @@ publish:
 **Theorems:**
 - [[(Theorem) There exists a unique isomorphism between two complete ordered fields]]
 
+## Topology of metric spaces
+
+- [[Metrics and metric spaces]]
+- [[Open sets]]
+- [[Closed sets, closures, and dense subsets]]
+- [[Bounded sets and functions]]
+
+**Theorems:**
+- [[(Theorem) Heine-Borel]]
+
+## Sequences and series
+
+- [[Sequences]]
+	- [[Cauchy sequence]]
+- [[Limits and accumulation points]]
+
+
 ## Continuity
 
 - [[Pointwise continuity]]
@@ -31,27 +48,14 @@ publish:
 - [[(Theorem) Intermediate value]]
 - [[(Theorem) Sequential characterization of continuity]]
 
-## Sequences and series
 
-- [[Sequences]]
-	- [[Cauchy sequence]]
-- [[Limits and accumulation points]]
-
-**Theorems:**
-- [[(Lemma) Monotone convergence]]
 
 ## Differentiability
 
 
-## Metric spaces
+## Integration
 
-- [[Metrics and metric spaces]]
-- [[Open sets]]
-- [[Closed sets, closures, and dense subsets]]
-- [[Bounded sets and functions]]
 
-**Theorems:**
-- [[(Theorem) Heine-Borel]]
 
 ## Compactness, connectedness, and convergence
 

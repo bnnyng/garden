@@ -7,7 +7,7 @@ tags:
   - permanent-note
   - topic-cognitive-science
 date: 2023-12-24
-lastmod: 2024-08-17T00:45:29-07:00
+lastmod: 2024-08-27T12:14:02-07:00
 publish: "true"
 ---
 **Reinforcement learning (RL**) is the method of learning from rewards and punishments, rather than explicit instructions. Specifically, the agent must learn a **behavioral policy**, or mapping from states to actions, which maximizes cumulative long-term reward. The agent then explores or exploits the state using actions and learns from the resulting rewards. 
@@ -36,9 +36,3 @@ Reinforcement learning can be divided into **model-free**, which is based on dir
 	- Computational/knowledge – maximizing reward.
 	- Algorithmic – temporal difference learning for a value function.
 	- Implementational/physical – dopamine neurons encode error signals needed for updating association values.
-
----
-
-# Resources
-
-- [[2021-lindsay-models-of-the-mind]]

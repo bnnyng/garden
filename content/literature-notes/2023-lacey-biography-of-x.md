@@ -5,9 +5,9 @@ aliases:
 tags:
   - literature-note
 title: Book | Biography of X
-publish: "true"
+publish: 
 date: 2024-03-04 12:08
-lastmod: 2024-03-04T12:30:33-08:00
+lastmod: 2024-08-26T16:43:02-07:00
 ---
 # Summary
 

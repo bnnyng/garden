@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-06-18 15:06
-lastmod: 2024-08-17T00:52:56-07:00
+lastmod: 2024-08-26T16:55:32-07:00
 ---
 - Multicellular life as a “charismatic center”
 - Semantic drift
@@ -22,6 +22,9 @@ lastmod: 2024-08-17T00:52:56-07:00
 - Extra metabolic energy
 - David Deutsch universal explaners
 - Conversational backchannels
+- Origins of doubt and why to hold off on doubts of this world [[@2022mccarthya]]
+	- Signposts vs. freedom to wander
+	- The use of the unconscious in doing mathematics
 
 Potential seeds:
 - Impasse – [[Inquiry is the struggle to go from doubt to belief, after Peirce]], [[The value of a mathematical claim is guided by experiences of impasse and resolution, after DeDeo]]
@@ -33,6 +36,7 @@ Things to look into:
 - The Civilizing Process?
 - Computational complexity of cognition
 - Wittgenstein’s language games
+- Michael Ralph – Radical cartography?
 
 Research leads:
 - Ann Senghas Nicaraguan sign language – modeling something?
