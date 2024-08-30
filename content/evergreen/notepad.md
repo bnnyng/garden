@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-06-18 15:06
-lastmod: 2024-08-26T16:55:32-07:00
+lastmod: 2024-08-29T17:54:58-07:00
 ---
 - Multicellular life as a “charismatic center”
 - Semantic drift
@@ -61,3 +61,4 @@ Automated theorem proving
 
 - Peirce says truth is what wins out over long run of intelligent inquiry, related to reason “working” in *The Enigma of Reason* – best idea wins
 
+Right now, I am mostly interested in [math](https://bnnyng.github.io/garden/tags/topic-logic-mathematics) and [cognitive science](https://bnnyng.github.io/garden/tags/topic-cognitive-science). I am also cleaning and organizing a two-year backlog of old notes, which will be published periodically. 
