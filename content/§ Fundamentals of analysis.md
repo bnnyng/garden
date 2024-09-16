@@ -13,7 +13,7 @@ publish:
 ## The real numbers
 
 - [[The real numbers]]
-	- [[Ordered sets and fields]]
+	- [[Order relations on sets and fields]]
 	- [[Supremum and infimum]]
 	- [[Completeness]]
 	- [[Decimal representation of reals]]

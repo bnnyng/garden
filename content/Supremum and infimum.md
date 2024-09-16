@@ -13,11 +13,12 @@ tags:
   - permanent-note
   - topic-logic-mathematics
   - MATH-UN1208
+  - MATH-GU4061
 publish: "true"
 date: 2024-03-28 10:43
-lastmod: 2024-03-31T18:05:59-07:00
+lastmod: 2024-09-15T10:27:33-04:00
 ---
-Let $(X, <)$ be an [[Ordered sets and fields|ordered set]] with [[Axioms of set theory|subset]] $S \subset X$. We have the following definitions in $X$:
+Let $(X, <)$ be an [[Order relations on sets and fields|ordered set]] with [[Axioms of set theory|subset]] $S \subset X$. We have the following definitions in $X$:
 
 >[!example] Definition: Upper and lower bounds
 >An **upper bound** for $S$ is an element $x \in X$ where for all $s \in S$, we have $s \leq x$. A **lower bound** for $S$ is an element where we have $x \leq s$.
@@ -31,6 +32,8 @@ Let $(X, <)$ be an [[Ordered sets and fields|ordered set]] with [[Axioms of set 
 >The **greatest lower bound** or **infimum** is written as $\text{glb}(S)$ or $\text{inf}(S)$.
 
 - *(Lemma)* If $(X,<)$ is an ordered set and $S \subset X$ is a subset with both $x, x^\prime$ as its least upper bounds, then we have $x = x^\prime$.
+
+![[(Theorem) Elements in a subset of the reals can be arbitrarily close to the least upper bound#^438b35]]
 
 ---
 # Review

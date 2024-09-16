@@ -13,7 +13,7 @@ tags:
   - MATH-42X
 publish: "true"
 date: 2024-03-31 14:56
-lastmod: 2024-04-17T16:26:45-07:00
+lastmod: 2024-09-04T21:07:49-04:00
 status: 🟨
 ---
 >[!example] Definition: Open set in a metric space
@@ -31,7 +31,9 @@ We have the following facts about open sets:
 - If $f: X \to Y$ is a [[Pointwise continuity|continuous]] function and $U \subset Y$ is open, then the [[Image and preimage|preimage]] $f^{-1}(U)$ is open as well.
 - $f$ is continuous *if and only if* for all open sets $U \subset X$, the image $f(U$) is an open set (see also: equivalent definitions of [[Pointwise continuity#Continuity in metric spaces|continuity in metric spaces]]).
 
-Related: [[Closed sets, closures, and dense subsets]]
+![[Topological spaces and open sets#^f12524]]
+
+Related: [[Closed sets, closures, and dense subsets]], [[Topological spaces and open sets]]
 
 ---
 # Review

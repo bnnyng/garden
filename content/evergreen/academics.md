@@ -4,7 +4,7 @@ tags:
   - planner
 publish: 
 date: 2024-04-02 15:29
-lastmod: 2024-08-28T15:01:42-07:00
+lastmod: 2024-09-14T16:50:46-04:00
 ---
 # Coursework
 
@@ -15,17 +15,20 @@ lastmod: 2024-08-28T15:01:42-07:00
 **Spring 2023**
 - [[MATH-UN1208]] – Honors Mathematics B
 - [[MATH-GU4041]] – Introduction to Modern Algebra I
+- [[STAT-UN1201]] – Calc-Based Intro to Statistics
 
 **Gap year**
 - [[MATH-42X]] – Fundamentals of Analysis
 
-**Fall 2024**
-- [[COMS-W4771]] – Machine Learning
+#### Fall 2024
+
 - [[MATH-GU4051]] – Topology
 - [[MATH-GU4061]] – Introduction to Modern Analysis I
-- [[MATH-GU4391]] – Introduction to Quantum Mechanics
 - [[NSBV-BC3386]] – The Neural Code
 - [[PHIL-UN2655]] – Cognitive Science and Philosophy
+- [[PSYC-UN2435]] – SOCIAL NEUROSCIENCE
+- [[STAT-GU4203]] – Probability Theory
+
 
 ---
 # Assignments
@@ -50,6 +53,17 @@ lastmod: 2024-08-28T15:01:42-07:00
 # Log
 
 [Course registration spreadsheet](https://docs.google.com/spreadsheets/d/1EC1K1KxJ2XQmm4FhbcpVILMZ_cCeUwDmW9XHl_NVEOU/edit?gid=827761127#gid=827761127)
+
+2024-09-05 
+
+- Drop European Social History
+- [[20240903-cogsci-program-director-meeting]]
+- [[20240905-polymetamath-independent-study-petition]]
+
+2024-09-04
+
+- Math major advising meeting with Dusa
+	- Can sign up for undergrad math seminar in Spring 2025, drop if topics prove unappealing
 
 2024-08-18 – Adding one more class
 - General reqs

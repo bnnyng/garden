@@ -10,12 +10,13 @@ tags:
   - topic-logic-mathematics
   - MATH-UN1207
   - MATH-GU4041
-lastmod: 2024-03-31T14:21:12-07:00
-publish: 
+  - MATH-GU4061
+lastmod: 2024-09-05T14:04:15-04:00
+publish: "true"
 date: 2023-02-01
 ---
 >[!example] Definition: Function
->A function $f: X \to Y$ consists of three pieces of data:
+>A function $f: X \to Y$ consists of three pieces of data (i.e., a triple $(f, X, Y)$):
 >- A set $X$, which is the **domain.**
 >- A set $Y$, which is the **codomain.**
 >- A rule $f$ which takes any input element $x \in X$ and produces an *unambiguous* output $f(x) \in Y$. 

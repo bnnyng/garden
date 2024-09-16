@@ -1,19 +1,15 @@
 ---
-lastmod: 2024-08-27T09:08:29-07:00
+lastmod: 2024-09-13T10:02:24-04:00
 tags:
   - workspace
----
- 
 aliases:
   - SFI UCR
   - undergraduate complexity research
   - Santa Fe Institute
-tags:
-  - workspace
+  - Polymetamath
 publish: 
 date: 2024-06-05 11:35
-lastmod: 2024-08-09T00:25:07-06:00
- 
+---
 
 DOOR CODE: 5891\*
 # Content
@@ -38,6 +34,7 @@ DOOR CODE: 5891\*
 - [[20240802-semantic-topic-hierarchy-specs]]
 - [[20240803-cognitive-topic-hierarchy-specs]]
 - [[20240820-gpt-topic-hierarchy-specs]]
+- [[20240905-polymetamath-independent-study-petition]]
 
 ---
 
@@ -93,26 +90,32 @@ DOOR CODE: 5891\*
 
 
 - Next steps
-	- [ ] Run model with different numbers of topics (10 and 20); for each word list, run the topic model a few times and pick version with lowest loss
+	- [x] Run model with different numbers of topics (10 and 20); for each word list, run the topic model a few times and pick version with lowest loss
+	- [x] Write a script that outputs average loss automatically from command line outputs
 
-2024-08-26
+2024-08-27
 
-- Best loss
-```
-20 topics
-1 -4.76302
-2 -4.76216
-3 -4.6021
-4 -4.49545
-5 -4.5612
-
-10 topics
-5 -4.60292
-
-```
+- Meeting with Marina and Simon
+	- Why is there variability?
+		- If lack of coverage, then merged word list should help
+	- What should we use as a single “process”?
+		- Marina: Include GPT word generation, run 1000 times to get error bars
+	- Current goal is to make process less bullshit, future goal would be investigating quantitative questions with dependent variables (e.g., successful vs. unsuccessful); “the father, the son, and the holy spirit”
 - Next steps
-	- [ ] Write a script that outputs average loss automatically from command line outputs
+	- [ ] Try to get lower variability at GPT step by using smaller comment batches
+	- [ ] Remake word lists with correct bi-gram counting—look for bi-grams first, then remove them from the “content”
+	- [ ] Redo analyses with combined word list
+	- [ ] Change x-axis scale to be the average time of a comment group
+	- [ ] Run for large numbers of trials (e.g., 1000 trials) and use this mean/standard error for plots
 
+## September
+
+2024-09-06
+
+- To discuss during meeting
+	- First attempt yielded 1786 unique terms, currently trying to preserve them as n-grams
+		- Possibly limit n?
+	- Independent study
 
 ---
 # Santa Fe Institute REU
@@ -637,10 +640,12 @@ DOOR CODE: 5891\*
 	- [Notebook with example](https://gist.github.com/patrickvankessel/0d5bd690910edece831dbdf32fb2fb2d)
 	- [Main example with sparse matrix](https://github.com/gregversteeg/corex_topic/blob/master/corextopic/example/corex_topic_example.ipynb)
 
- 
+---
+
 # Further notes
 
-
+- Literature recommendations
+	- Books: Objectivity, Inventing Temperature
 - Potential avenues of investigation
 	- Does interaction change as people get more familiar with online etiquette?
 	- Do people engage in Lakatos-style [[Dialogical reasoning]]?

@@ -11,19 +11,22 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
-lastmod: 2024-02-13T16:41:27-08:00
+  - MATH-UN1207
+  - MATH-GU4061
+date: 2022-09-03
+lastmod: 2024-09-07T11:44:42-04:00
+publish: "true"
 ---
 # Overview
 
-## Axioms of set theory
+The axioms of naïve set theory allow sets to be useful for more math. 
 
-The axioms of naïve set theory allow sets to be useful for more math. They are as follows:
-
-1. Sets are specified by their elements.
-2. The natural numbers form a set.
-3. Subsets can be defined with formulas.
-4.  If $X, Y$ are sets, there is a set called the **Cartesian product** $X \times Y$ whose elements are ordered pairs.
-5.  If $X$ is a set, there is a **power set of X** whose elements $s \in \mathcal P(x)$ are the subsets $S \subseteq X$.
+>[!abstract] Axioms: Naïve set theory
+>1. Sets are specified by their elements.
+>2. The natural numbers form a set.
+>3. Subsets can be defined with formulas.
+>4. If $X, Y$ are sets, there is a set called the **Cartesian product** $X \times Y$ whose elements are ordered pairs.
+>5. If $X$ is a set, there is a **power set of X** whose elements $s \in \mathcal P(x)$ are the subsets $S \subseteq X$.
 
 Sets contain unique member elements. Subsets can be produced from the elements of a larger set that satisfy a given condition. To prove two sets are equal (i.e., contain the same elements) we must prove that each is a subset of the other.
 
@@ -34,21 +37,22 @@ The [[Algebra of sets]] gives four ways to construct new sets out of existing on
 
 - **Set** = a collection of non-specific objects
 - **Element** = an object that is a member of a set
-- **Naive set theory** = a few reasonable [[Mathematical jargon|axioms]] which give *basic facts* about what a **set** is. These facts make sets useful for making precise mathematical statements. Axioms can be added as needed without worrying about the theoretical framework (i.e., whether axioms completely consistent with each other).
+- **Naïve set theory** = a few reasonable [[Mathematical jargon|axioms]] which give *basic facts* about what a **set** is. These facts make sets useful for making precise mathematical statements. Axioms can be added as needed without worrying about the theoretical framework (i.e., whether axioms completely consistent with each other).
 - **Axiomatic set theory** = a complete list of axioms for set theory. Notions of set theory will depend on precise axioms. These axioms are a major area of research in mathematical logic.
 
 ---
-# Notes
-
-## Set-builder notation
+# Set-builder notation
 $$ S = \{x \in X \mid \text{property of } x\} $$
 - $x \in X$ = gives a name to a generic element of the set; states what larger set it comes from
 - $\text{property of } x$ = tells what conditions the elements of $X$ must satisfy to be in $S$
 
-## Set theory axioms
+---
+# Set theory axioms
 #### 1. Sets are specified by their elements
-- Two sets are **equal** if they have precisely the same elements.
-$$ S = T \iff \forall_x [x \in S \iff x \in T] $$
+- Two sets are **equal** if they have precisely the same elements; equivalently, we have double containment $S \subseteq T$ and $T \subseteq S$.
+$$ 
+S = T \iff \forall_x [x \in S \iff x \in T] 
+$$
 - Sets themselves can be elements of other sets. Example: $\{\{2,7\}\}$ is a set with one element, the set $\{2,7\}$.
 - Elements do not appear more than once in a set; an element is either in a set or not.
 
@@ -65,7 +69,8 @@ $$ S = \{x \in X \mid P(x) \text{ is true} \} $$
 - **Double containment argument:** To *prove* two sets are equal, show that each is contained in the other (proving each implication separately).
 $$S = T \iff [S \subseteq T] \wedge [T \subseteq S]$$
 
-## Set operation axioms
+---
+# Set operation axioms
 #### 4. Products exist
 - If $X, Y$ are sets, there is a set called the **Cartesian product** whose elements are ordered pairs.
 $$ X \times Y = \{(x,y) \mid x\in X, y\in Y\} $$
@@ -77,6 +82,15 @@ $$ X \times Y = \{(x,y) \mid x\in X, y\in Y\} $$
 	- $\mathcal P(\mathbb N)$ has *uncountably many* elements!
 - *Why does the power set matter?* Many mathematical objects are understood in terms of simpler subsets, which are elements of the power set.
 
-## Additional notes
+---
+# Notes
+
 - A negative proposition, such as \[ $x$ is not rational ], is still a valid condition for building new sets
 - **Russell's paradox** states that if a set contains all sets that are not members of itself, that set must be an element of itself. This paradox is related to the axiom of restricted comprehension.
+
+## [[MATH-GU4061|Modern Analysis I]]
+
+>[!abstract] Naive set theory
+>1. A set consists of distinguishable elements.
+>2. The elements of the set uniquely determine the set.
+>3. Each statement $P(x)$ defines the set $\{ x \ : \ P(x)\}$ which consists of the objects $x$ that satisfy $P(x)$.

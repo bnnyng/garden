@@ -5,25 +5,24 @@ aliases:
   - bijective
   - bijection
   - permutation
+  - inverse
 tags:
   - permanent-note
   - topic-logic-mathematics
 publish: "true"
 date: 2024-03-31 14:16
-lastmod: 2024-08-04T12:03:53-06:00
+lastmod: 2024-09-05T14:15:47-04:00
 ---
-Suppose $f : X \to Y$ is a function.
+>[!example] Definition: Injective, surjective, and bijective functions
+>Suppose $f : X \to Y$ is a [[Algebra of functions|function]]. We say $f$ is
+>- **Injective** if for all $x \in X$, $f(x_1) = f(x_2)$ implies that $x_1 = x_2$.
+>	- Contrapositive: any two distinct elements in the [[Algebra of functions|domain]] map to distinct elements in the codomain.
+>- **Surjective** if for each $y \in Y$, there exists $x \in X$ such that $f(x) = y$; that is, the [[Image and preimage|image]] of $f$ is the whole codomain.
+>- **Bijective** if $f$ is both **injective** and **surjective**.
 
->[!example] Definition: Injective
->$f$ is **injective** means if two input values have the same output value, they were the same input value all along. The *contrapositive* is: Any two distinct elements in the **domain** map to distinct elements in the **codomain**.
->$$ 
->\forall_{x \in X} [f(x) = f(x)^\prime] \implies [x = x^\prime]]
->$$
+A function’s injectivity and surjectivity depends entirely on its domain and codomain. 
 
->[!example] Definition: Surjective
->$f$ is **surjective** means that all possible output values are entered, so that the **image** of $f$ is the whole **codomain**.
->$$ 
->f(X) = Y \equiv \forall_{y\in Y}\exists_{x\in X}[f(x) = y] 
->$$
+---
+# Review
 
-$f$ is **bijective** if it is both **injective** and **surjective.**
+- If $f(x) = x^2$ injective, surjective, or bijective? How can the domain and codomain be restricted to satisfy each definition?

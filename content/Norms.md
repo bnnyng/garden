@@ -5,13 +5,14 @@ aliases:
   - p-norm
   - Euclidean norm
   - equivalent norms
+  - standard norm
 tags:
   - permanent-note
   - topic-logic-mathematics
 status: 
 publish: "true"
 date: 2024-05-01 13:24
-lastmod: 2024-05-01T13:32:06-07:00
+lastmod: 2024-09-05T15:27:38-04:00
 ---
 Related: [[Metrics and metric spaces]]
 

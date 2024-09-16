@@ -1,7 +1,8 @@
 ---
 aliases:
   - "#NSBV-BC3386"
-title: Class | NSBV-BC3386 | The Neural Code
+  - The Neural Code
+title: Class | The Neural Code
 ---
 # Overview
 
@@ -21,11 +22,15 @@ title: Class | NSBV-BC3386 | The Neural Code
 
 # Readings
 
-| Date       | Topic                              | Cite Key |
-| ---------- | ---------------------------------- | -------- |
-| 2024-09-11 | Tuning curves and receptive fields |          |
-| 2024-09-18 | Sparse codes and representations   |          |
-| 2024-09-25 | Rate codes and temporal codes      |          |
-| 2024-10-02 | Thinking is too damn expensive     |          |
-| 2024-10-09 | Mechanisms of feature selectivity  |          |
-| 2024-10-16 | Information theory in neuroscience |          |
+| Date       | Topic                              | Cite Key                                        | Short Essay Response                                                                                               |
+| ---------- | ---------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 2024-09-11 | Tuning curves and receptive fields | [[@1984enroth-cugell]]<br>[[@1982georgopoulos]] | [[20240910-reflection-essay-tuning-curves-receptive-fields\|Reflection Essay: Tuning Curves and Receptive Fields]] |
+| 2024-09-18 | Sparse codes and representations   |                                                 |                                                                                                                    |
+| 2024-09-25 | Rate codes and temporal codes      |                                                 |                                                                                                                    |
+| 2024-10-02 | Thinking is too damn expensive     |                                                 |                                                                                                                    |
+| 2024-10-09 | Mechanisms of feature selectivity  |                                                 |                                                                                                                    |
+| 2024-10-16 | Information theory in neuroscience |                                                 |                                                                                                                    |
+
+---
+# Notes
+https://www.pnas.org/doi/full/10.1073/pnas.1921882118

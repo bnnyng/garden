@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-06-18 15:06
-lastmod: 2024-08-29T17:54:58-07:00
+lastmod: 2024-09-13T10:44:13-04:00
 ---
 - Multicellular life as a “charismatic center”
 - Semantic drift
@@ -58,7 +58,13 @@ Automated theorem proving
 	- The origin of life is the boundary where we can generate complexity in our universe – relationship to imagination?
 	- LLMs store the dynamics of language
 	- Imagination is causal, how deep in time you are
+- Math is the most concise way we have of communicating information about the physical world
+- Parse Walker’s book
 
 - Peirce says truth is what wins out over long run of intelligent inquiry, related to reason “working” in *The Enigma of Reason* – best idea wins
 
 Right now, I am mostly interested in [math](https://bnnyng.github.io/garden/tags/topic-logic-mathematics) and [cognitive science](https://bnnyng.github.io/garden/tags/topic-cognitive-science). I am also cleaning and organizing a two-year backlog of old notes, which will be published periodically. 
+
+---
+Stats stuff
+- Central limit theorem

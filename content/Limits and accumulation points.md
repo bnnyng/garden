@@ -9,14 +9,22 @@ tags:
   - topic-logic-mathematics
   - MATH-UN1208
   - MATH-42X
+  - MATH-GU4051
 publish: "true"
-date: <% tp.file.creation_date() %>
-lastmod: 2024-04-22T11:36:41-07:00
-status: 🟥
+date: 2024-04-22
+lastmod: 2024-09-14T14:12:43-04:00
+status: 🔴
 ---
+
+>[!question]
+>- Why is the definition of a limit point in topology the same as saying $x$ is a limit point if it is in the [[Closed sets, closures, and dense subsets|closure]] of $A \backslash \{x\}$?
+
+---
+
 Related: [[Measurable functions]]
 
-# Limits in Euclidean space
+---
+# In Euclidean space
 
 >[!example] Definition: Limit point of a set
 >Let $D \subset \mathbb R^n$. We say that $a \in D$ is a **limit point of** $D$ if there exists a [[Sequences|sequence]] $\{x_n\} \in D \backslash \{a\}$ such that $x_n \to a$.
@@ -39,7 +47,7 @@ We have the following facts about limits:
 
 
 ---
-# Limits in general metric spaces
+# In general metric spaces
 
 >[!example] Definition: Accumulation point
 >Given any set $E \subset X$, a point $x \in X$ is an **accumulation point** if for all $\epsilon > 0$, there exists $y \in E$ such that $y \neq x$ and the distance metric has $d(x,y) < \epsilon$. That is, for all $\epsilon > 0$,
@@ -49,6 +57,25 @@ We have the following facts about limits:
 
 
 ---
+
+# In topological spaces
+
+
+>[!example] Definition: Limit point in topological space
+>Given a subset $A$ of a [[Topological spaces and open sets|topological space]] $X$, a point $x \in X$ is a **limit point** if every [[Open sets|neighborhood]] of $x$ intersects $A$ at some point other than $x$ itself; that is, for all neighborhoods $U \subseteq X$ with $x \in U$, we have
+>$$
+>A \cap (U \backslash \{x\}) \neq \varnothing.
+>$$
+>Equivalently, $x$ is a limit point if it is in the [[Closed sets, closures, and dense subsets|closure]] of $A \backslash \{x\}$. We write $A’$ to denote the set of all limit points of $A$ in $X$.
+
+---
 # Review
 
+## Definitions
+
+[[MATH-GU4051|Topology]]
+- Limit point in topological space
+## Exercises
+
+[[MATH-UN1208|Honors Mathematics B]]
 - Use the definitions of limits and continuity, respectively, to show that a function $f : D \to \mathbb R^m$ is [[Pointwise continuity|continuous at]] $x_0 \in D$ *if and only if* $\lim_{x \to x_0} f(x)$ exists and is equal to $f(x_0)$. ⭐

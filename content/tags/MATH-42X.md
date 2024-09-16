@@ -5,7 +5,7 @@ aliases:
   - MATH 425
   - MATH 426
   - Fundamentals of Analysis
-title: Class | MATH-42X | Fundamentals of Analysis
+title: Class | Fundamentals of Analysis
 publish:
 ---
 # Overview

@@ -8,33 +8,33 @@ lastmod: 2025-08-27T09:01:57-07:00
 
 **Import data**
 ```
-bin\mallet import-file --input data\semantic-gpt-5.tsv --output semantic-gpt-5.mallet --keep-sequence 
+bin\mallet import-file --input data\semantic-gpt-1.tsv --output semantic-gpt-1.mallet --keep-sequence 
 ```
 
 **Training 30 topics**
 ```
-bin\mallet train-topics --input semantic-gpt-5.mallet --num-topics 10 --output-state semanticGPTOutput30-P5-onlyG-1.gz --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticGPTTopics30-P5-onlyG-1.txt --output-topic-keys semanticGPTKeys30-P5-onlyG-1.txt --diagnostics-file semanticGPTDiagnostics30-P5-onlyG-1.txt
+bin\mallet train-topics --input semantic-gpt-1.mallet --num-topics 10 --output-state semanticGPTOutput30-P5-onlyG-1.gz --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticGPTTopics30-P5-onlyG-1.txt --output-topic-keys semanticGPTKeys30-P5-onlyG-1.txt --diagnostics-file semanticGPTDiagnostics30-P5-onlyG-1.txt
 ```
 
 **Checking stochasticity**
 ```
-bin\mallet train-topics --input semantic-gpt-5.mallet --num-topics 10 --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticGPTTopics5-1.txt --output-topic-keys semanticGPTKeys5-1.txt 
+bin\mallet train-topics --input semantic-gpt-1.mallet --num-topics 10 --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticGPTTopics5-1.txt --output-topic-keys semanticGPTKeys5-1.txt 
 ```
 
 ```
-bin\mallet train-topics --input semantic-gpt-5.mallet --num-topics 10 --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticGPTTopics5-2.txt --output-topic-keys semanticGPTKeys5-2.txt
+bin\mallet train-topics --input semantic-gpt-1.mallet --num-topics 10 --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticGPTTopics5-2.txt --output-topic-keys semanticGPTKeys5-2.txt
 ```
 
 ```
-bin\mallet train-topics --input semantic-gpt-5.mallet --num-topics 10 --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticGPTTopics5-3.txt --output-topic-keys semanticGPTKeys5-3.txt 
+bin\mallet train-topics --input semantic-gpt-1.mallet --num-topics 10 --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticGPTTopics5-3.txt --output-topic-keys semanticGPTKeys5-3.txt 
 ```
 
 ```
-bin\mallet train-topics --input semantic-gpt-5.mallet --num-topics 10 --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticGPTTopics5-4.txt --output-topic-keys semanticGPTKeys5-4.txt
+bin\mallet train-topics --input semantic-gpt-1.mallet --num-topics 10 --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticGPTTopics5-4.txt --output-topic-keys semanticGPTKeys5-4.txt
 ```
 
 ```
-bin\mallet train-topics --input semantic-gpt-5.mallet --num-topics 10 --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticGPTTopics5-5.txt --output-topic-keys semanticGPTKeys5-5.txt
+bin\mallet train-topics --input semantic-gpt-1.mallet --num-topics 10 --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticGPTTopics5-5.txt --output-topic-keys semanticGPTKeys5-5.txt
 ```
 
 ---
@@ -67,7 +67,7 @@ Original
 Original
 ``` Python
     response = client.chat.completions.create(
-        model='gpt-5.5-turbo',
+        model='gpt-1.5-turbo',
         messages=[
             {'role': 'system', 'content': 'You are a text processing assistant that specializes in mathematical writing and proofs.'},
             {'role': 'user', 'content': f'Your task is to extract all mathematical terms from a set of documents. The terms you extract should be copied verbatim and match the formatting of the provided text. Your answer should be a list of terms on a single line with a comma separating each term. Do not include additional descriptions in your output. Following the previous instructions, extract the mathematical terms from these documents: \n\n{docs[i:i+batch_size]}'}

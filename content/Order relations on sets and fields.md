@@ -1,20 +1,38 @@
 ---
 aliases:
-  - relation
   - ordered set
   - ordered field
   - trichotomy
   - transitivity
+  - order relation axioms
+  - order relation
+  - relation
 tags:
   - permanent-note
   - topic-logic-mathematics
   - MATH-UN1208
+  - MATH-GU4061
 publish: "true"
 date: 2024-03-28 10:40
-lastmod: 2024-03-31T13:36:16-07:00
+lastmod: 2024-09-15T09:45:09-04:00
 ---
+
+#wip Square definitions from [[MATH-UN1208|Honors Mathematics B]] and [[MATH-GU4061|Modern Analysis I]].
+
+----
+# Order relations
+
 >[!example] Definition: Relation
 >A **relation** $<$ is a rule which returns *true* or *false* depending on whether $x < y$ for some elements of a set $x,y \in X$.
+
+>[!abstract] Axioms: Order relations
+>- (O1) **Reflexivity.**  $x \leq x$.
+>- (O2) **Antisymmetry.**  $x \leq y \wedge y \leq x \implies x = y$.
+>- (O3) **Transitivity.**  $x \leq y \wedge y \leq z \implies x \leq z$.
+>- (O4) **Linearity.**  We must have $x \leq y$ or $y \leq x$.
+
+---
+# Ordered sets and fields
 
 >[!example] Definition: Ordered set
 >An **ordered set** $(X, <)$ is a [[Axioms of set theory|set]] $X$ together with a relation $<$, which satisfies two axioms:

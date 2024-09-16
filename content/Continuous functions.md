@@ -10,8 +10,9 @@ tags:
 status: 
 publish: "true"
 date: 2024-05-06 12:11
-lastmod: 2024-05-06T12:15:56-07:00
+lastmod: 2024-09-05T13:30:01-04:00
 ---
+
 
 >[!example] Definition: Continuous function
 >A function $f : D \to \mathbb R$ is **continuous** if for all $x \in D$, $f$ is **continuous at** $x_0$.

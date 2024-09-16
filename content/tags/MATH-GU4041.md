@@ -1,7 +1,7 @@
 ---
 aliases:
   - "#MATH-GU4041"
-title:
+title: Class | Modern Algebra I
 ---
 # Overview
 

@@ -3,7 +3,9 @@ aliases:
   - "#MATH-UN1208"
   - Honors Mathematics B
 publish: 
-title: Class | MATH-UN1208 | Honors Mathematics B
+title: Class | Honors Mathematics B
+tags:
+  - topic-logic-mathematics
 ---
 # Overview
 

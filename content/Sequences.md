@@ -16,8 +16,8 @@ tags:
   - MATH-42X
 publish: "true"
 date: 2023-02-26
-lastmod: 2024-04-10T20:19:08-07:00
-status: 🟨
+lastmod: 2024-09-14T14:36:21-04:00
+status: 🟡
 ---
 # Overview
 
@@ -26,7 +26,9 @@ A sequence is a function whose domain is the natural numbers. Sequences can dive
 A **convergent sequence** has a [[The real numbers|real]] **limit** $x$ such that the values $x_n$ can be made arbitrarily close to $x$ for large values of $n \in \mathbb N$.
 
 ---
-# Sequences and subsequences
+# In Euclidean and metric spaces
+
+## Sequences and subsequences
 
 >[!example] Definition: Sequence
 >A **sequence**, often denoted $(x_n)_{n \in \mathbb N}$, is a discrete function $\mathbb N \to \mathbb R$ which maps each natural number $n$ to a real value $x_n$. 
@@ -37,8 +39,7 @@ A **convergent sequence** has a [[The real numbers|real]] **limit** $x$ such tha
 >[!example] Definition: Bounded sequence
 >A sequence is **bounded** if there exists an $M > 0$ such that $|x_n| \leq M$ for all values in the sequence (see also: [[Supremum and infimum]]).
 
----
-# Convergent sequences and limits
+## Convergent sequences and limits
 
 See also: [[Cauchy sequence]]
 
@@ -53,3 +54,11 @@ See also: [[Cauchy sequence]]
 - *(Proposition 3.2)* **Convergent sequences converge to a *unique* limit**. If $x_n \to x$ and $x_n \to x^\prime$, then $x = x^\prime$.
 - *(Lemma 3.3)* **Bounded monotone sequences converge.** Suppose $x_n$ is **monotone increasing**, so $x_n +1 \geq x$ for all $n \in \mathbb N$, and [[Supremum and infimum|bounded above]], so there exists an $x$ with $x_n \leq x$ for all $n \in \mathbb N$. Then $x_n$ **converges** to some $x^\prime$.
 - [[(Theorem) All bounded sequences have a convergent subsequence]] (Bolzano-Weierstrass).
+
+---
+# In topological spaces
+
+>[!example] Definition: Convergent sequence in a topological space
+>A squence $x_1, x_2, …$ of points in an arbitrary [[Topological spaces and open sets|topological space]] $X$ **converges** to the point $x$ if, for each **neighborhood** $U$ of $x$, there exists a positive integer $N$ such that $x_n \in U$ for all $n \geq N$. 
+
+The key difference is that sequences *can converge to more than one point* in an arbitrary space!
