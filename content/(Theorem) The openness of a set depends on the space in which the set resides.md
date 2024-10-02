@@ -13,7 +13,7 @@ See 425 lect6 remark and examples
 Similarly for closed sets
 
 >[!abstract] Theorem
->Let $E \subset Y \subset X$. The subset $E \subset Y$ is [[Open sets|open]] in the [[Metrics and metric spaces|metric space]] $(Y, d)$ if and only if $E = Y \cap U$ for some open set $U$ of $(X, d)$.
+>Let $E \subset Y \subset X$. The subset $E \subset Y$ is [[Open sets|open]] in the [[Metrics, metric spaces, and the metric topology|metric space]] $(Y, d)$ if and only if $E = Y \cap U$ for some open set $U$ of $(X, d)$.
 
 
 

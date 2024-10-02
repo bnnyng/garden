@@ -16,7 +16,7 @@ lastmod: 2024-03-31T14:35:14-07:00
 >m + \sum^\infty_{i=1} \frac{a_i}{10^i}. 
 >$$
 
-- The [[The real numbers|real number]] associated with a **decimal representation** is formally the [[Supremum and infimum|least upper bound]] of the set of all finite decimal approximations
+- The [[The real numbers|real number]] associated with a **decimal representation** is formally the [[Bounded sets and functions|least upper bound]] of the set of all finite decimal approximations
 $$ 
 m.a_1a_2a_3... = \text{lub}\{m + \sum^n_{i=1} \frac{a_i}{10^i} \mid i \in \mathbb N \}.
 $$

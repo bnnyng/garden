@@ -2,20 +2,20 @@
 aliases:
   - topology
   - topological space
-  - the standard topology
   - topologies
   - finer
   - coarser
   - discrete topology
   - indiscrete topology
   - finite complement topology
+  - standard topology
 tags:
   - permanent-note
   - topic-logic-mathematics
   - MATH-GU4051
 publish: "true"
 date: 2024-09-04 20:48
-lastmod: 2024-09-14T11:45:04-04:00
+lastmod: 2024-09-26T14:34:47-04:00
 status: 🟠
 ---
 >[!question]
@@ -23,6 +23,7 @@ status: 🟠
 >- How to understand the topology induced by a norm (correct phrasing)?
 >	- What about other norms?
 >- Why is a topological space discrete $\iff$ every singleton is open? Isn’t this by definition—the fact that the discrete topology includes all the open singletons? Is there such a thing as a non-discrete topology with non-open singletons?
+>- Why, in general, do we require finite intersections, aside from the intuition that an open set should have something like a neighborhood for each point?
 
 ---
 # Overview

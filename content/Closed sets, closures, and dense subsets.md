@@ -5,15 +5,17 @@ aliases:
   - closed
   - dense
   - interior (topology)
+  - dense in
 tags:
   - permanent-note
   - topic-logic-mathematics
   - MATH-42X
   - MATH-GU4051
+  - MATH-GU4061
 publish: "true"
 date: 2024-04-10 17:23
-lastmod: 2024-09-14T14:27:36-04:00
-status: 🔴
+lastmod: 2024-10-01T14:10:30-04:00
+status: 🟠
 ---
 A **closed set** is a set that contains all of its [[Limits and accumulation points|accumulation points]]. Equivalently, a closed set is the complement of an [[Open sets|open set]].
 
@@ -27,15 +29,25 @@ The **closure** of any set $E$ is the *smallest closed set* that contains $E$—
 
 ^27b93a
 
+
+>[!example] Definition: Dense subset in a metric space
+>For subsets $E, S \in X$, we say that $E$ is **dense** in $S$ if $E \subset S \subset \overline E$. 
+>
+>More precisely, $E$ is dense in $S$ if $E \subset S$ is indeed a subset and for all $\epsilon >0$ and all $x \in S$, the [[Open sets|neighborhood]] $B(x, \epsilon) \cap E \neq \varnothing$. Then every point in $S$ is either a [[Limits and accumulation points|limit point]] of $E$ or in $E$ itself, or both.
+
+^575cce
+
 >[!abstract] Theorem: Rudin 2.27
 >1. $\bar E$ is a closed set.
 >2. $E$ is closed if and only if $E = \bar E$.
 >3. If $E \subset F$ is a subset and $F$ is closed, then $\bar E \subset F$.
 
->[!example] Definition: Dense
->For subsets $E, S \in X$, we say that $E$ is **dense** in $S$ if $E \subset S \subset \overline E$. More precisely, $E$ is dense in $S$ if $E \subset S$ is indeed a subset and for all $\epsilon >0$ and all $x \in S$, the [[Open sets|neighborhood]] $B(x, \epsilon) \cap E \neq \emptyset$.
 
-^575cce
+>[!abstract] Proposition
+>Let $A \subseteq X$ be [[Bounded sets and functions|bounded]]. Then $\text{diam}(A) = \text{diam} (\overline A)$, where $\overline A$ is the [[Closed sets, closures, and dense subsets|closure]] of $A$.
+
+^161a01
+
 
 ---
 # In topological spaces
@@ -75,12 +87,12 @@ In principle, one can “do topology” using closed sets instead of open sets; 
 >[!abstract] Theorem (Munkres 17.4): Closure of a subset in a subspace
 >Let $Y \subseteq X$ be a [[Subspace (induced) topology|subspace]], and let $A \subset Y$ be any subset. Then the closure of $A$ in $Y$ is equal to $\bar A \cap Y$, where $\bar A$ is the closure of $A$ in $X$.
 
+^ee0a7e
 
-![[(Theorem) Closure of a set from a topological basis#^111747]]
+
+![[(Theorem) Describing the closure of a set using a topological basis#^111747]]
 
 ![[(Theorem) The closure of a set is the union of the set with its limit points#^f956e9]]
-
-![[(Theorem) The closure of a set is the union of the set with its limit points#^39fa20]]
 
 ---
 # Review
@@ -95,13 +107,30 @@ In principle, one can “do topology” using closed sets instead of open sets; 
 ## Exercises
 
 [[MATH-GU4051|Topology]]
-- Prove that given a subspace $Y \subseteq X$ and a subset $A \subseteq Y$, the closure of $A$ in $Y$ is equal to $Y$ intersected with the closure of $A$ in $X$. ⭐
-- Prove [[(Theorem) Closure of a set from a topological basis]]. (Hint: for (i), prove the contrapositive.) ⭐
-- Prove [[(Theorem) The closure of a set is the union of the set with its limit points]]. (Hint: use [[(Theorem) Closure of a set from a topological basis]] for one of the containments). ⭐
+- Prove that given a subspace $Y \subseteq X$ and a subset $A \subseteq Y$, the closure of $A$ in $Y$ is equal to $Y$ intersected with the closure of $A$ in $X$. ⭐ 
+- Prove [[(Theorem) Describing the closure of a set using a topological basis]]. (Hint: for (i), prove the contrapositive.) ⭐
+- Prove [[(Theorem) The closure of a set is the union of the set with its limit points]]. (Hint: use [[(Theorem) Describing the closure of a set using a topological basis]] for one of the containments). ⭐
 
 [[MATH-UN1208|Honors Mathematics B]]
 
 - Is $\mathbb Q$ dense in $\mathbb R$? Why or why not?
+
+---
+# Proof appendix
+
+![[Closed sets, closures, and dense subsets#^161a01]]
+
+*Proof.*
+
+Since $A \subseteq \overline A$, we know automatically $\text{diam}(A) \leq \text{diam}(\overline A)$. Conversely, let $\epsilon> 0$. Then there exist $x, y \in \overline A$ such that 
+$$
+d(x, y) \geq \text{diam}(\overline A) - \epsilon.
+$$
+Further, by definition of $\overline A$, there exist $x’, y’ \in A$ such that $d(x, x’) < \epsilon$ and $d(y’, y) < \epsilon$. Then 
+$$
+\text{diam}(A) \geq d(x', y') \geq d(x, y) - d(x', x) - d(y', y) \geq \text{diam}(\overline A) - 3\epsilon.
+$$
+Since this holds for any $\epsilon > 04, we must have $\text{diam}(A) \geq \text{diam}(\overline A)$ as well.
 
 ---
 # Notes

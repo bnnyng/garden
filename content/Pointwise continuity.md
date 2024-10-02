@@ -52,7 +52,7 @@ Most presentations of continuity use the “epsilon-delta” property.
 # Continuity in metric spaces
 
 >[!example] Definition: Pointwise continuity in metric spaces
->Suppose $(X, d_X)$ and $(Y, d_Y)$ are [[Metrics and metric spaces|metric spaces]]. Then a function $f: X \to Y$ is **continuous at** $a \in X$ if for all $\epsilon > 0$, there exists $\delta > 0$ such that for all $x \in X$, we have
+>Suppose $(X, d_X)$ and $(Y, d_Y)$ are [[Metrics, metric spaces, and the metric topology|metric spaces]]. Then a function $f: X \to Y$ is **continuous at** $a \in X$ if for all $\epsilon > 0$, there exists $\delta > 0$ such that for all $x \in X$, we have
 >$$
 >d_X(x, a) < \delta \implies d_Y(f(x), f(a))< \epsilon.
 >$$

@@ -14,7 +14,7 @@ publish: "true"
 date: 2024-05-01 13:24
 lastmod: 2024-09-05T15:27:38-04:00
 ---
-Related: [[Metrics and metric spaces]]
+Related: [[Metrics, metric spaces, and the metric topology]]
 
 ---
 # Norms on inner product spaces

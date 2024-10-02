@@ -11,17 +11,18 @@ tags:
   - topic-logic-mathematics
   - MATH-UN1208
   - MATH-42X
+  - MATH-GU4061
 publish: "true"
 date: 2024-03-31 14:56
-lastmod: 2024-09-04T21:07:49-04:00
-status: 🟨
+lastmod: 2024-09-24T14:15:16-04:00
+status: 🟠
 ---
 >[!example] Definition: Open set in a metric space
 >A set $E \subset X$ is **open** if every point of $E$ is an **interior point**. More precisely, for all points $x \in E$, there exists $r>0$ such that the $r$-neighborhood or $r$-ball about $x$ given by 
 >$$
 >B(x, r) = \{y \in X \ | \ d(x,y) < r \},
 >$$ 
->where $d$ is a [[Metrics and metric spaces|metric]] on $E$, is completely contained in $E$.
+>where $d$ is a [[Metrics, metric spaces, and the metric topology|metric]] on $E$, is completely contained in $E$.
 
 ^06ed9e
 
@@ -37,6 +38,13 @@ Related: [[Closed sets, closures, and dense subsets]], [[Topological spaces and 
 
 ---
 # Review
+
+## Exercises
+
+[[MATH-GU4061|Modern Analysis I]]
+- Using the definition of an open set in a metric space, prove that arbitrary unions and *finite* intersections of open sets are open. ⭐
+
+[[MATH-42X]]
 
 - Determine whether the following intervals in $\mathbb R$ are open, closed, both, or neither: 
 	- Bounded: $(a,b)$, $[a,b)$ $(a,b]$, $[a,b]$
@@ -56,3 +64,5 @@ Related: [[Closed sets, closures, and dense subsets]], [[Topological spaces and 
 >$$ 
 >\| \vec x - \vec x_o \|_2 < \epsilon \implies \vec x \in U.
 >$$
+
+#wip Define interior point

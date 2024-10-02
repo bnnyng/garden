@@ -22,14 +22,14 @@ title: Class | The Neural Code
 
 # Readings
 
-| Date       | Topic                              | Cite Key                                        | Short Essay Response                                                                                               |
-| ---------- | ---------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 2024-09-11 | Tuning curves and receptive fields | [[@1984enroth-cugell]]<br>[[@1982georgopoulos]] | [[20240910-reflection-essay-tuning-curves-receptive-fields\|Reflection Essay: Tuning Curves and Receptive Fields]] |
-| 2024-09-18 | Sparse codes and representations   |                                                 |                                                                                                                    |
-| 2024-09-25 | Rate codes and temporal codes      |                                                 |                                                                                                                    |
-| 2024-10-02 | Thinking is too damn expensive     |                                                 |                                                                                                                    |
-| 2024-10-09 | Mechanisms of feature selectivity  |                                                 |                                                                                                                    |
-| 2024-10-16 | Information theory in neuroscience |                                                 |                                                                                                                    |
+| Date       | Topic                              | Cite Key                                                     | Short Essay Response                                                                                                 |
+| ---------- | ---------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-11 | Tuning curves and receptive fields | [[@1984enroth-cugell]]<br>[[@1982georgopoulos]]              | [[20240910-reflection-essay-tuning-curves-receptive-fields\|Reflection Essay: Tuning Curves and Receptive Fields]]   |
+| 2024-09-18 | Sparse codes and representations   | [[@2000decharms]]<br>[[@1996yu]]<br>[[@2005quiroga]]         | Not completed                                                                                                        |
+| 2024-09-25 | Rate codes and temporal codes      | [[@1995mainen]]<br>[[@1996shadlen]]                          | [[20240922-reflection-essay-rate-temporal-codes\|Reflection Essay: Rate Codes and Temporal Codes]]                   |
+| 2024-10-02 | Thinking is too damn expensive     | [[@2008okawa]]<br>[[@2003lennie]]<br>[[@2022quintela-lopez]] | [[20241001-reflection-essay-efficient-coding-metabolic-cost\|Reflection Essay: Efficient Coding and Metabolic Cost]] |
+| 2024-10-09 | Mechanisms of feature selectivity  |                                                              |                                                                                                                      |
+| 2024-10-16 | Information theory in neuroscience |                                                              |                                                                                                                      |
 
 ---
 # Notes

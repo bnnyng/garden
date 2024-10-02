@@ -25,9 +25,7 @@ tags:
 
 - [ ]
 
-## Future file
-
-- [ ]
+![[active-assignments#Future file]]
 
 ---
 # Study status

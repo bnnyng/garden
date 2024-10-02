@@ -26,7 +26,7 @@ lastmod: 2024-09-11T18:22:08-04:00
 ---
 # Related notes
 
-- [[202409011-discussion-post-psychology-ii-cognitivism|Discussion Post: Behaviorism to Cognitivism]]
+- [[20240911-discussion-post-psychology-ii-cognitivism|Discussion Post: Behaviorism to Cognitivism]]
 
 ---
 

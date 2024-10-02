@@ -4,6 +4,8 @@ aliases:
   - binomial coefficient
   - Bose-Einstein
   - binomial theorem
+  - sampling with replacement
+  - sampling without replacement
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -11,7 +13,7 @@ tags:
 status: 🔴
 publish: 
 date: 2024-09-14 17:01
-lastmod: 2024-09-14T18:26:59-04:00
+lastmod: 2024-09-23T11:00:41-04:00
 ---
 >[!question]
 >- Difference between “ordered outcomes” in sampling without replacement, and total possible “n choose k”?
@@ -54,8 +56,12 @@ The **binomial coefficient** counts the number of ways to choose subsets of a ce
 >$$
 >\begin{pmatrix} n \\ k \end{pmatrix} = \frac{n(n-1) \cdots (n-k+1)}{k!} = \frac{n!}{(n-k)!k!}.
 >$$
->For $k > n$, this is $0$.
+>For $k > n$, this is $0$. If we want to choose multiple subsets of $k_1, k_2,…$, we compute this by 
+>$$
+>\begin{pmatrix} n \\ k_1 \end{pmatrix}\begin{pmatrix} n-k_1\\ k_2 \end{pmatrix} \cdots = \frac{n!}{k_1!k_2!...}
+>$$
 
+#concept-question Why does this last formula work?
 ## Examples
 
 #### Binomial theorem

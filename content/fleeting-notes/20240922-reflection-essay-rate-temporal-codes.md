@@ -1,0 +1,19 @@
+---
+aliases:
+  - "Reflection Essay: Rate Codes and Temporal Codes"
+tags:
+  - fleeting-note
+  - NSBV-BC3386
+date: 2024-09-22 18:11
+lastmod: 2024-09-24T21:18:22-04:00
+---
+>We're going to read papers that give examples of rate codes and temporal codes. We'll compare and contrast these in class to get an understanding of what a rate code is and what a temporal code is, what the implications are for various brain functions and how these codes affect the timing of our behavior, and how our interpretations of brain signals are impacted by how we measure those signals.
+
+
+The effect of a stimulus on a neuron’s activity can be interpreted using direct stimulus-response analyses or by “decoding,” which involves inferring stimulus characteristics based on neural spike train data. Decoding analyses are more naturalistically motivated than stimulus-response analyses, since the experimenter is mimicking the process of “reading out” information when spike activity is transmitted between neurons: “This approach reflects the organism’s point of view, because it requires the experimenter to interpret neuronal activity in the way that the organism itself is posited to interpret it” [[@2000decharms]]. This suggests that how decoding is performed in experimental analyses has strong implications for how we understand downstream neuronal activity beyond cells that respond to measurable external stimuli.
+
+Rate coding and temporal coding are two fundamental assumptions about how to implement the decoding process. [[@2000decharms]] define the “rate-coding hypothesis” as the assumption that data from an entire spike train can be replaced with the average firing rate—a single value—while the “temporal-coding hypothesis” is the assumption that the structure of the spike train over time carries additional information about the stimulus to the neuron. Importantly, the debate between using rate vs. temporal coding is not about whether the temporal structure of a spike train is informative—that much is clear—but the extent to which temporal structure captures information that is not included in the overall average. 
+
+[[@1995mainen]] give a key result in favor of the importance of temporal coding. By reconstructing currents meant to mimic natural inputs, they found that neurons stimulated with fluctuating currents had more reliable spike trains than neurons stimulated with constant inputs. Their results further suggest that consistent temporal coding is caused by greater sensitivity to fluctuations than constant inputs in individual neurons. The fluctuating stimuli were designed to be relatively similar to the inputs neurons receive in vivo, which makes these results more likely to apply to naturalistic neuronal activity.
+
+In contrast to the previous study focusing on low-level mechanisms of individual neurons, [[@1996shadlen]] attempt to connect neural activity involved in representing sensory stimuli with performance on high-level cognitive tasks. By measuring the activity of individual motor neurons involved in a monkey’s eye saccades, they find that neurons “integrate weak, slowly arriving sensory information to generate a \[motor] decision”—a result that suggests rate-coding, or aggregating information over time, allows for neurons to be robust to weaker stimuli. Tangentially, I found their use of the terms “cognitive” misleading: the eye saccades certainly equal a cognitive process in the sense that the brain is processing information (the computationalist definition of cognitive science) with an observable behavioral output, but “cognition” (and calling this behavior a “decision”) implies that there is some mental content of the type [[@2000decharms]] discuss involved. 

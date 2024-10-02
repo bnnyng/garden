@@ -164,7 +164,7 @@ publish:
 
 >[!question] #open-question How do AI communities compare to human communities?
 
-- Interestingly, we cannot predict (compute) the behavior of an AI community because individual AI programs are [[Turing|Turing complete]].
+- Interestingly, we cannot predict (compute) the behavior of an AI community because individual AI programs are [[Humans as Turing machines|Turing complete]].
 
 > [!question] #open-question Is it worth sacrificing understanding of the systems we model for “predictive accuracy”? Engineers already do this!
 

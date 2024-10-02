@@ -2,6 +2,7 @@
 aliases:
   - uniformly continuous
   - uniform
+  - uniform continuity
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -10,7 +11,7 @@ tags:
 status: 🟨
 publish: "true"
 date: 2024-05-06 12:11
-lastmod: 2024-05-06T12:17:21-07:00
+lastmod: 2024-09-27T22:33:36-04:00
 ---
 Informally, a function is **uniformly continuous** if it is [[Pointwise continuity|continuous]] “in the same way” at every point—no matter how close the outputs are chosen to be, as long as the inputs are some close enough, then the outputs will be at least that close.
 

@@ -5,21 +5,22 @@ aliases:
   - real dot product
   - complex dot product
   - standard inner product
+  - inner product space
 tags:
   - permanent-note
   - topic-logic-mathematics
   - MATH-UN1207
 publish: "true"
 date: 2024-04-10 17:44
-lastmod: 2024-05-01T13:25:16-07:00
+lastmod: 2024-09-23T06:35:02-04:00
 ---
 # Overview
 
-An **inner product** is a function that takes two input vectors and outputs a scalar; this function must be positive, definite, linear on the first input, and have [[Complex numbers and conjugates|conjugate]] symmetry. The most important examples of inner products are the standard dot products on $\mathbb R^n$ and $\mathbb C^n$.
+An **inner product** is a function that takes two input vectors and outputs a scalar; this function must be positive, definite, linear on the first input, and have [[Complex numbers, conjugates, and absolute value|conjugate]] symmetry. The most important examples of inner products are the standard dot products on $\mathbb R^n$ and $\mathbb C^n$.
 
 An inner product space is a [[Vector space and subspace axioms|vector space]] together with an inner product on it. 
 
-Related: [[Metrics and metric spaces]], [[Norms]]
+Related: [[Metrics, metric spaces, and the metric topology]], [[Norms]]
 
 ---
 # Real and complex dot products
@@ -41,7 +42,7 @@ The **complex dot product** has the following properties:
 - Additive in both coordinates: $(z + z^\prime) \cdot w = z \cdot w + z^\prime \cdot w$;
 - Respects scaling in first coordinate only: $(cz) \cdot w = c(z \cdot w)$;
 - Scaling the second coordinate is equal to scaling the dot product by the complex conjugate of that scalar: $z \cdot (cw) = \overline{c}(z \cdot w)$;
-- Swapping the terms changes the dot product by a [[Complex numbers and conjugates|complex conjugation]]: $z \cdot w = \overline{w \cdot z}$.
+- Swapping the terms changes the dot product by a [[Complex numbers, conjugates, and absolute value|complex conjugation]]: $z \cdot w = \overline{w \cdot z}$.
 
 ---
 # Inner product spaces

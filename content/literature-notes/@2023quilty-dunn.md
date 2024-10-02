@@ -4,11 +4,12 @@ aliases:
   - The Best Game in Town
 tags:
   - literature-note
-title: "journalArticle | The Best Game in Town: The Reemergence of the Language-of-Thought Hypothesis across the Cognitive Sciences"
+title: Paper | The Best Game in Town
 year: 2023
 permalink: https://www.cambridge.org/core/product/identifier/S0140525X22002849/type/journal_article
-publish:
+publish: 
 date: 2024-09-10
+lastmod: 2024-09-27T21:18:16-04:00
 ---
 > Quilty-Dunn, J., Porot, N., & Mandelbaum, E. (2023). The Best Game in Town: The Reemergence of the Language-of-Thought Hypothesis across the Cognitive Sciences. _Behavioral and Brain Sciences_, _46_, e261. [https://doi.org/10.1017/S0140525X22002849](https://doi.org/10.1017/S0140525X22002849)
 

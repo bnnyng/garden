@@ -12,7 +12,7 @@ tags:
   - MATH-GU4051
 publish: "true"
 date: 2024-04-22
-lastmod: 2024-09-14T14:12:43-04:00
+lastmod: 2024-09-18T14:21:04-04:00
 status: 🔴
 ---
 
@@ -68,6 +68,11 @@ We have the following facts about limits:
 >$$
 >Equivalently, $x$ is a limit point if it is in the [[Closed sets, closures, and dense subsets|closure]] of $A \backslash \{x\}$. We write $A’$ to denote the set of all limit points of $A$ in $X$.
 
+^7d2717
+
+![[(Theorem) The closure of a set is the union of the set with its limit points#^f956e9]]
+
+
 ---
 # Review
 
@@ -76,6 +81,9 @@ We have the following facts about limits:
 [[MATH-GU4051|Topology]]
 - Limit point in topological space
 ## Exercises
+
+[[MATH-GU4051|Topology]]
+- Prove $\bar A = A \cup A’$ for a subset of topological space $A \subseteq X$.
 
 [[MATH-UN1208|Honors Mathematics B]]
 - Use the definitions of limits and continuity, respectively, to show that a function $f : D \to \mathbb R^m$ is [[Pointwise continuity|continuous at]] $x_0 \in D$ *if and only if* $\lim_{x \to x_0} f(x)$ exists and is equal to $f(x_0)$. ⭐

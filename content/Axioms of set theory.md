@@ -6,7 +6,6 @@ aliases:
   - naive set theory
   - product set
   - power set
-  - Cartesian product
   - set
 tags:
   - permanent-note
@@ -14,7 +13,7 @@ tags:
   - MATH-UN1207
   - MATH-GU4061
 date: 2022-09-03
-lastmod: 2024-09-07T11:44:42-04:00
+lastmod: 2024-09-21T17:30:02-04:00
 publish: "true"
 ---
 # Overview
@@ -72,7 +71,7 @@ $$S = T \iff [S \subseteq T] \wedge [T \subseteq S]$$
 ---
 # Set operation axioms
 #### 4. Products exist
-- If $X, Y$ are sets, there is a set called the **Cartesian product** whose elements are ordered pairs.
+- If $X, Y$ are sets, there is a set called the [[Cartesian product]] whose elements are ordered pairs.
 $$ X \times Y = \{(x,y) \mid x\in X, y\in Y\} $$
 
 #### 5. There is a set of all subsets of X

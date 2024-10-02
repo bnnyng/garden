@@ -13,7 +13,7 @@ lastmod: 2024-09-15T10:26:48-04:00
 *From [[MATH-UN1208|Honors Mathematics B]], Homework 1.*
 
 >[!abstract] Theorem: Elements in a subset of $\mathbb R$ can be arbitrarily close to the supremum and infimum
->Suppose $S \subset \mathbb R$ is a set of real numbers, and that $x \in \mathbb R$ is an [[Supremum and infimum|upper bound]] for this set (i.e., for all $s \in S$, we have $s \leq x$). Then 
+>Suppose $S \subset \mathbb R$ is a set of real numbers, and that $x \in \mathbb R$ is an [[Bounded sets and functions|upper bound]] for this set (i.e., for all $s \in S$, we have $s \leq x$). Then 
 >$$
 >x = \mathsf{lub}(S) \iff \forall_{\substack{\epsilon \in \Bbb R \\ \epsilon > 0}} \exists_{s \in S} \;\; x \le s + \epsilon.
 >$$

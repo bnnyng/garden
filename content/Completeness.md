@@ -18,7 +18,7 @@ status:
 
 
 >[!example] Definition: Complete ordered field
->A **complete** ordered field $(\mathbb F, + , \cdot, <)$ is an [[Order relations on sets and fields|ordered field]] satisfying the “[[Supremum and infimum|least upper bound]] property”: if $S \subset \mathbb F$ is bounded above and $S \neq \emptyset$, then $S$ has a least upper bound.
+>A **complete** ordered field $(\mathbb F, + , \cdot, <)$ is an [[Order relations on sets and fields|ordered field]] satisfying the “[[Bounded sets and functions|least upper bound]] property”: if $S \subset \mathbb F$ is bounded above and $S \neq \emptyset$, then $S$ has a least upper bound.
 
 See also: [[(Theorem) There exists a unique isomorphism between two complete ordered fields]]
 
@@ -26,7 +26,7 @@ See also: [[(Theorem) There exists a unique isomorphism between two complete ord
 # Completeness in metric spaces
 
 >[!example] Definition: Complete set
->A set $X$ in a [[Metrics and metric spaces|metric space]] $(X, d)$ is **complete** if every [[Cauchy sequence]] in $X$ converges to a point in $X$.
+>A set $X$ in a [[Metrics, metric spaces, and the metric topology|metric space]] $(X, d)$ is **complete** if every [[Sequences]] in $X$ converges to a point in $X$.
 
 ^fb5297
 

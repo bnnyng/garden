@@ -14,7 +14,7 @@ publish:
 
 - [[The real numbers]]
 	- [[Order relations on sets and fields]]
-	- [[Supremum and infimum]]
+	- [[Bounded sets and functions]]
 	- [[Completeness]]
 	- [[Decimal representation of reals]]
 
@@ -23,7 +23,7 @@ publish:
 
 ## Topology of metric spaces
 
-- [[Metrics and metric spaces]]
+- [[Metrics, metric spaces, and the metric topology]]
 - [[Open sets]]
 - [[Closed sets, closures, and dense subsets]]
 - [[Bounded sets and functions]]
@@ -34,14 +34,14 @@ publish:
 ## Sequences and series
 
 - [[Sequences]]
-	- [[Cauchy sequence]]
+	- [[Sequences]]
 - [[Limits and accumulation points]]
 
 
 ## Continuity
 
 - [[Pointwise continuity]]
-- [[Uniform continuity]]
+- [[Uniformly continuous function]]
 - [[Continuous functions]]
 
 **Theorems:**
@@ -59,7 +59,7 @@ publish:
 
 ## Compactness, connectedness, and convergence
 
-- [[Open covers and compactness]]
+- [[Compact sets]]
 
 **Theorems:**
 - [[(Theorem) The openness of a set depends on the space in which the set resides]]

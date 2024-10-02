@@ -11,7 +11,7 @@ publish:
 date: 2024-04-22 11:00
 lastmod: 2024-04-24T16:11:59-07:00
 ---
-Related: [[Convergence and limits of measurable functions]]
+Related: [[Convergence of functions]]
 
 >[!example] Definition: Measurable function
 >Let $E \subset \mathbb R$ be a [[Measurable sets|measurable set]]. A function to the extended real numbers $f : E \to \mathbb R \cup \{ \pm \infty \}$ is **measurable** if any of the following equivalent statements hold for all $c \in \mathbb R$:

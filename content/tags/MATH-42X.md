@@ -34,7 +34,7 @@ SORT lastmod ASC
 
 ## Basics of metric spaces
 
-![[Metrics and metric spaces#^2a64da]]
+![[Metrics, metric spaces, and the metric topology#^2a64da]]
 
 ![[Open sets#^06ed9e]]
 
@@ -44,7 +44,7 @@ SORT lastmod ASC
 
 ![[Closed sets, closures, and dense subsets#^575cce]]
 
-![[Cauchy sequence#^e1c6fb]]
+![[Sequences#^e1c6fb]]
 
 ![[Completeness#^fb5297]]
 

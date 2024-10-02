@@ -1,12 +1,13 @@
 ---
-aliases: 
+aliases:
+  - intelligence
 tags:
   - permanent-note
   - topic-cognitive-science
   - moc
 publish: "true"
 date: 2024-01-02
-lastmod: 2024-08-14T09:52:33-07:00
+lastmod: 2024-09-28T12:31:42-04:00
 title: §  Intelligence
 ---
 # Topics

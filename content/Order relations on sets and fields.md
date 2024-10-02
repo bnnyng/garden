@@ -14,7 +14,7 @@ tags:
   - MATH-GU4061
 publish: "true"
 date: 2024-03-28 10:40
-lastmod: 2024-09-15T09:45:09-04:00
+lastmod: 2024-09-21T17:15:49-04:00
 ---
 
 #wip Square definitions from [[MATH-UN1208|Honors Mathematics B]] and [[MATH-GU4061|Modern Analysis I]].
@@ -22,8 +22,10 @@ lastmod: 2024-09-15T09:45:09-04:00
 ----
 # Order relations
 
->[!example] Definition: Relation
->A **relation** $<$ is a rule which returns *true* or *false* depending on whether $x < y$ for some elements of a set $x,y \in X$.
+>[!example] Definition: Order relation
+An **order** on a set $X$ is a [[Relation|relation]], denoted $<$, which satisfies the following two properties:
+>- (O1) **Trichotomy.** Given $x,y \in X$, exactly one of $x < y$ or $x = y$ or $y < x$ is true.
+>- (O2) **Transitivity.** If $x < y$ and $y <z$, then $x < z$.
 
 >[!abstract] Axioms: Order relations
 >- (O1) **Reflexivity.**  $x \leq x$.
@@ -35,9 +37,7 @@ lastmod: 2024-09-15T09:45:09-04:00
 # Ordered sets and fields
 
 >[!example] Definition: Ordered set
->An **ordered set** $(X, <)$ is a [[Axioms of set theory|set]] $X$ together with a relation $<$, which satisfies two axioms:
->- (O1) **Trichotomy.** Given $x,y \in X$, exactly one of $x < y$ or $x = y$ or $y < x$ is true.
->- (O2) **Transitivity.** If $x < y$ and $y <z$, then $x < z$.
+>An **ordered set** $(X, <)$ is a [[Axioms of set theory|set]] $X$ together with a relation $<$, 
 
 >[!example] Definition: Ordered field
 >An **ordered field** $(\mathbb F, + , \cdot, <)$ is a [[Field axioms|field]] $(\mathbb F, + , \cdot)$ with an order $<$ *on* $\mathbb F$ so that we have:

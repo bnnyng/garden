@@ -8,9 +8,10 @@ tags:
   - seed
 publish: "true"
 date: 2024-06-05
-lastmod: 2024-08-17T15:14:35-07:00
+lastmod: 2024-09-24T12:05:36-04:00
 ---
 Author Ted Chiang presented the following claims during a talk for SFI’s [“Thought Experiments in Science and Fiction”](https://www.santafe.edu/events/thought-experiments-in-science-and-fiction) working group:
+
 > - The learning gained by interacting with intelligent entities cannot be replicated by interacting with non-intelligent entities.
 > - Life experience is incompressible. There are no shortcuts.
 
@@ -31,6 +32,8 @@ As an aside, it seems that acquiring these shared memory examples is quite a con
 >From [[@2022millhouse]]:
 >- Is self-generated learning fully captured in the data gathered by infants about the world? That is, can AI agents learn from being trained on infant data without interacting with the world themselves?
 >- Would an AI system trained on infant data have the same capacity for generalization as infants?
+
+#wip Relations to Nicaraguan sign language, UG?
 
 ---
 # Further reading

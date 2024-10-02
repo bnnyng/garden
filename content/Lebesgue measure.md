@@ -21,7 +21,7 @@ status: 🟧
 ---
 # Overview
 
-The Lebesgue outer measure for a set $E$, denoted $m^*$, is defined as the [[Supremum and infimum|greatest lower bound]] of the sum of lengths in any [[Open covers and compactness|open cover]] of $E$. The **Lebesgue measure** $m$ is simply the restriction of outer measure to [[Measurable sets|measurable sets]].
+The Lebesgue outer measure for a set $E$, denoted $m^*$, is defined as the [[Bounded sets and functions|greatest lower bound]] of the sum of lengths in any [[Compact sets|open cover]] of $E$. The **Lebesgue measure** $m$ is simply the restriction of outer measure to [[Measurable sets|measurable sets]].
 
 Outer measure and measure share most key properties, with the important distinction being that measure is **countably additive**, while outer measure is only **countably *sub*additive**. Countable additivity is precisely what gives the [[Lebesgue integral]] an advantage over the [[Riemann integral]].
 
@@ -29,7 +29,7 @@ Outer measure and measure share most key properties, with the important distinct
 # Outer measure
 
 >[!example] Definition: Lebesgue outer measure
->Given a set $E \subset \mathbb R$, let $\{I_k\}_{k=1}^\infty$ be the collection of all [[Open covers and compactness|open covers]] of $E$; that is, each interval $I_k$ is open and bounded. The **Lebesgue outer measure** of $E$ is the [[Supremum and infimum|greatest lower bound]] of the sum of such collections’ lengths.
+>Given a set $E \subset \mathbb R$, let $\{I_k\}_{k=1}^\infty$ be the collection of all [[Compact sets|open covers]] of $E$; that is, each interval $I_k$ is open and bounded. The **Lebesgue outer measure** of $E$ is the [[Bounded sets and functions|greatest lower bound]] of the sum of such collections’ lengths.
 >$$
 >m^*(E) := \text{inf} \left \{ \sum_{k=1}^\infty I_k \ | \ E \subset \bigcup_{k=1}^\infty I_k \right \}
 >$$
@@ -63,7 +63,7 @@ The key difference between properties of outer measure and properties of the Leb
 We can also name the following key properties of measure:
 - **Finite additivity.** Countable additivity holds for any *finite* disjoint collection of measurable sets $\{E_k\}_{k=1}^n$.
 - **Excision.** If $A \subset B$ and $m(A) < \infty$, then $m(B \smallsetminus A) = m(B) - m(A)$.
-- **Countable monotonicity.** This is an oft-used combination of montonicity and countable additivity of measure: if $E$ is [[Open covers and compactness|covered]] by a countable collection of measurable sets $\{E_k\}_{k=1}^\infty$, then 
+- **Countable monotonicity.** This is an oft-used combination of montonicity and countable additivity of measure: if $E$ is [[Compact sets|covered]] by a countable collection of measurable sets $\{E_k\}_{k=1}^\infty$, then 
 $$
 m(E) \leq \sum_{k=1}^\infty m(E_k).
 $$

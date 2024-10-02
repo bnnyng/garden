@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-09-13T10:02:24-04:00
+lastmod: 2024-09-30T13:57:30-04:00
 tags:
   - workspace
 aliases:
@@ -116,6 +116,85 @@ DOOR CODE: 5891\*
 	- First attempt yielded 1786 unique terms, currently trying to preserve them as n-grams
 		- Possibly limit n?
 	- Independent study
+
+2024-09-16
+
+- 1000 word minimum: 1, 5, 8, 15, 16
+- Further cleaning steps
+	- Remove all single characters (strings less than three characters?)
+
+```
+Project P1: 1760 documents
+Project P2: 88 documents
+Project M1: 346 documents
+Project P4: 486 documents
+Project P3: 810 documents
+Project P5: 3621 documents
+Project M2: 122 documents
+Project P6: 63 documents
+Project M3: 148 documents
+Project P7: 605 documents
+Project M4: 86 documents
+Project P8: 8113 documents
+Project P9: 287 documents
+Project P10: 601 documents
+Project P11: 845 documents
+Project P12: 276 documents
+Project P13: 569 documents
+Project P14: 450 documents
+Project P15: 1581 documents
+Project P16: 2719 documents
+```
+
+```
+Number of unique words in combined list for project P1: 5263
+Number of unique words in combined list for project P2: 456
+Number of unique words in combined list for project M1: 1091
+Number of unique words in combined list for project P4: 2337
+Number of unique words in combined list for project P3: 2283
+Number of unique words in combined list for project P5: 7998
+Number of unique words in combined list for project M2: 213
+Number of unique words in combined list for project P6: 262
+Number of unique words in combined list for project M3: 444
+Number of unique words in combined list for project P7: 2495
+Number of unique words in combined list for project M4: 199
+Number of unique words in combined list for project P8: 9788
+Number of unique words in combined list for project P9: 1002
+Number of unique words in combined list for project P10: 1634
+Number of unique words in combined list for project P11: 3124
+Number of unique words in combined list for project P12: 1073
+Number of unique words in combined list for project P13: 1717
+Number of unique words in combined list for project P14: 1170
+Number of unique words in combined list for project P15: 4766
+Number of unique words in combined list for project P16: 7132
+```
+
+```
+Length of combined list without minis: 37082
+Length of combined list of all projects: 37809
+```
+
+- Word list filtering – what ended up saved as a text file
+	- Removed “remove list” words and single characters
+	- Removed terms that had fewer than 3 characters and greater than 99 characters
+
+2024-09-20
+- Word list filtering using regex
+- Next steps
+	- [ ] Perform new analysis on P1 Gowers’ posts only
+
+## October
+
+[[2024-09-30]]
+
+- Additional filtering steps for final word list
+	- Remove all cognitive words
+	- Must appear at least 5 times in the comments
+	- Not in the top 100 ngrams
+- Next steps after meeting with Simon
+	- [ ] Remake word lists to remove all “cognitive” words
+	- [ ] Make scatterplot of author entropy (make distribution over authors by counting the number of posts per author for the given phase) vs. JSD for each phase
+	- [ ] Use R to perform regression with random effects on author entropy vs. JSD data
 
 ---
 # Santa Fe Institute REU
