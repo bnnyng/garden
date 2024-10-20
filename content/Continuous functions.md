@@ -2,16 +2,21 @@
 aliases:
   - continuous function
   - continuous
+  - pasting lemma
+  - uniformly continuous
+  - uniform
+  - uniform continuity
 tags:
   - permanent-note
   - topic-logic-mathematics
   - MATH-UN1208
   - MATH-42X
   - MATH-GU4051
-status: 🔴🔨
+  - MATH-GU4061
+status: 🟠
 publish: "true"
 date: 2024-05-06 12:11
-lastmod: 2024-09-27T22:33:32-04:00
+lastmod: 2024-10-15T19:20:28-04:00
 ---
 >[!question]
 >- Fact (4) – why restrict domain and codomain? Is this an accurate takeaway? How is it different from (6)?
@@ -21,8 +26,9 @@ lastmod: 2024-09-27T22:33:32-04:00
 
 - Continuity in topology can be checked in terms of open or closed sets
 - Subspace and product topology arise naturally from the definition of continuous function in topological spaces
+- Continuous functions preserve topological prope[[Continuous functions]][Pointwise continuity]], [[Uniformly continuous function]], [[Homeomorphisms and topological embeddings]]
 
-See also: [[Pointwise continuity]], [[Uniformly continuous function]], [[Homeomorphisms and topological embeddings]]
+Informally, a function is **uniformly continuous** if it is [[Pointwise continuity|continuous]] “in the same way” at every point—no matter how close the outputs are chosen to be, as long as the inputs are some close enough, then the outputs will be at least that close.
 
 ---
 # In Euclidean space
@@ -35,13 +41,29 @@ See also: [[Pointwise continuity]], [[Uniformly continuous function]], [[Homeomo
 
 ^b2b746
 
-More continuous functions can be generated from the following rules:
-- The identity function $f(x) = x$ is continuous.
-- Constant functions $f(x) = c$ for some chosen $c \in \mathbb R$ are continuous.
-- The function $f(x) = 1/x$ is continuous on $\mathbb R \backslash \{0\}$.
-- The function $f: (0, \infty) \to \mathbb R$ defined by $f(x) = \sqrt{x}$ is continuous.
-- Products, sums, and composites of continuous functions (when defined) are continuous.
 
+
+---
+# In metric spaces
+
+>[!example] Definition: Continuous functions in metric spaces
+>Let $(X, d_X)$ and $(Y, d_Y)$ be [[Metrics, metric spaces, and the metric topology|metric spaces]]. We say a function $f: X \to Y$ is:
+>- **Continuous at $x_0 \in X$** if for every $\epsilon > 0$, there exists $\delta > 0$ such that
+>$$
+>d_X(x, x_0) < \delta \implies d_Y(f(x), f(x_0)) < \epsilon,
+>$$
+>and $f$ **continuous** if this holds for *all* $x_0 \in X$.
+>- **Uniformly continuous** if for all $\epsilon > 0$, there exists $\delta > 0$ such that for *any* choice of $x, x_0 \in X$, we have
+>$$
+>d_X(x, x_0) < \delta \implies d_Y(f(x), f(x_0)) < \epsilon.
+>$$
+
+^700d8d
+
+>[!abstract] Theorem: 
+>Let $(X, d_X)$ and $(Y, d_Y)$ be [[Metrics, metric spaces, and the metric topology|metric spaces]]. If $f: X \to Y$ is continuous and $X$ is [[Compactness|compact]], then $f$ is uniformly continuous.
+
+^96dcf9
 
 ---
 # In general topological spaces
@@ -57,7 +79,7 @@ Note that continuity can also be checked in terms of closed sets!
 >Let $f: X \to Y$ be a function between [[Topological spaces and open sets|topological spaces]] $X, Y$. Then the following are equivalent:
 >- (a) $f$ is [[Continuous functions|continuous]].
 >- (b) For every closed set $B \subset Y$, the set $f^{-1}(B)$ is closed in $X$.
->- (c) For all $x \in X$ and every neighborhood $V$ of (i.e., open set $V$ containing) $f(x)$m there is a neighborhood $U$ of $x$ such that $f(U) \subseteq V$.
+>- (c) For all $x \in X$ and every neighborhood $V$ of (i.e., open set $V$ containing) $f(x)$, there is a neighborhood $U$ of $x$ such that $f(U) \subseteq V$.
 >- (d) For every [[Subspace (induced) topology|subset]] $A \subset X$, we have $f (\overline A) \subset \overline{f(A)}$, where the overline denotes the [[Closed sets, closures, and dense subsets|closure]] of a set.
 
 ^a5487f
@@ -109,6 +131,13 @@ The pasting lemma is a special case of this “local formulation of continuity.�
 
 ^21deb4
 
+#### Continuous functions preserve limits
+
+>[!abstract] Lemma ([[MATH-GU4051|Topology]] HW 3.6): Continuous functions preserve limits
+>If a [[Sequences|sequence]] $\{ x_n \}_{n \geq 1}$ in a [[Topological spaces and open sets|topological space]] $X$ converges to some [[Limits and accumulation points|limit point]] $x \in X$, and $f : X \to Y$ is continuous, then $\{f(x_n)\}_{n \geq 1}$ converges to $f(x) \in Y$.
+
+^66eaae
+
 ---
 # In general metrizable spaces
 
@@ -130,8 +159,19 @@ Recall that a general [[Topological spaces and open sets|topological space]] $(X
 
 ^02c80b
 
+---
+# Examples
 
+#### Basic examples of continuous functions in $\mathbb R$
 
+More continuous functions can be generated from the following rules:
+- The identity function $f(x) = x$ is continuous.
+- Constant functions $f(x) = c$ for some chosen $c \in \mathbb R$ are continuous.
+- The function $f(x) = 1/x$ is continuous on $\mathbb R \backslash \{0\}$.
+- The function $f: (0, \infty) \to \mathbb R$ defined by $f(x) = \sqrt{x}$ is continuous.
+- Products, sums, and composites of continuous functions (when defined) are continuous.
+
+#### Continuity vs. uniform continuity
 
 ---
 # Review
@@ -148,4 +188,40 @@ Recall that a general [[Topological spaces and open sets|topological space]] $(X
 ---
 # Proof appendix
 
+![[Continuous functions#^96dcf9]]
+
+*Proof from [[MATH-GU4061|Modern Analysis I]]*.
+
+Given $\epsilon > 0$, we know for all $x’ \in X$, there exists $\delta(x’)> 0$ such that 
+$$
+d_X(x, x') < \delta(x') \implies d_Y(f(x), f(x')) < \epsilon
+$$
+for *all* $x \in X$. Then $\delta : X \to \mathbb R$ is a map.
+
+🔺 *Exercise.* Show that $\delta : X \to \mathbb R$ can be chosen to be continuous.
+
+Since $\delta$ can be chosen to be continuous, by the [[(Theorem) Extreme value|extreme value theorem]], it attains its minimum $\delta_0 > 0$ on the domain $X$. Then, in particular, for this choice of $\epsilon> 0$ and all $x, x’ \in X$, we have
+$$
+d_X(x, x') < \delta_0 \implies d_Y(f(x), f(x')) < \epsilon
+$$
+as well. Hence, $f$ is uniformly continuous.
+
+❓ *Question*. Works because choosing the minimum…?
+
+*Proof from [[MATH-GU4051|Topology]]*.
+
+Let $\epsilon > 0$. Cover $X$ by 
+$$
+\mathcal C = \{ f^{-1}(B(y, \epsilon / 2)\}_{y \in Y}.
+$$
+Let $\delta$ be a Lebesgue number for $\mathcal C$. If $d(x_1, x_2) < \delta$ (DISTANCE), then 
+$$
+\diam\{ x_1, x_2\} < \delta \implies \{x_1, x_2\} \subseteq f^{-1}(B(y, \epsilon /2)) \text{ for some }y \in Y \implies d_Y(f(x_1), f(x_2)) < \epsilon.
+$$
+
+#wip Lebesgue number stuff
+
+
 ![[Continuous functions#^02c80b]]
+
+#wip

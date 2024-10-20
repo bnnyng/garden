@@ -4,7 +4,7 @@ tags:
   - planner
 publish: 
 date: 2024-04-02 15:29
-lastmod: 2024-09-20T22:47:41-04:00
+lastmod: 2024-10-10T08:59:12-04:00
 ---
 # Coursework
 
@@ -20,13 +20,13 @@ lastmod: 2024-09-20T22:47:41-04:00
 **Gap year**
 - [[MATH-42X]] – Fundamentals of Analysis
 
-#### Fall 2024
+**Fall 2024**
 
 - [[MATH-GU4051]] – Topology
 - [[MATH-GU4061]] – Introduction to Modern Analysis I
 - [[NSBV-BC3386]] – The Neural Code
 - [[PHIL-UN2655]] – Cognitive Science and Philosophy
-- [[PSYC-UN2435]] – SOCIAL NEUROSCIENCE
+- [[PSYC-UN2435]] – Social Neuroscience
 - [[STAT-GU4203]] – Probability Theory
 
 
@@ -42,7 +42,19 @@ lastmod: 2024-09-20T22:47:41-04:00
 | 2022-12-19 | [[COMS-W3134]]  | Data Structures capstone project – CommonWordFinder                                      | Program         | 9     |
 | 2023-05-08 | [[POLS-UN1501]] | [[paper-20th-century-development\|Intro CP final exam – 20th century development paper]] | Paper           | 36    |
 | 2023-06-12 | [[MATH-UN1208]] | Honors B final project – The Gauss-Bonnet Theorem                                        | Paper           | 120+  |
+|            | [[PHIL-UN2655]] | Final paper                                                                              | Paper           |       |
+|            | [[NSBV-BC3386]] | Final portfolio                                                                          | Paper + project |       |
+|            |                 |                                                                                          |                 |       |
 
+---
+
+# Exams
+
+| Date       | Class                                | Type and format                                    | What went well?                                                                                                                                                                                                    | What would I do differently next time?                                                                                                                                                                                                                    |
+| ---------- | ------------------------------------ | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-10-07 | [[PSYC-UN2435\|Social Neuroscience]] | Midterm; multiple choice + two short answer        | - Anki notecard review was extremely useful for remembering information                                                                                                                                            | - Make notecards immediately after class, since doing all at once is time-consuming<br>- Make sure that I am reviewing *readings* as well as lecture content—had to B.S. one of the short answers<br>- Attend lecture!                                    |
+| 2024-10-09 | [[STAT-GU4203\|Probability Theory]]  | Midterm; computational problems                    | - Making a “formulas” sheet helped me remember formulas<br>- Looking at a lot of example solutions helped me understand how to approach problems                                                                   | - Learn from doing homework problems instead of rushing through, and trying to catch up after<br>- Practice more and get more exposure to problems, though I was in the right direction; particularly weak in proofs<br>- Attend lecture!                 |
+| 2024-10-09 | [[MATH-GU4051\|Topology]]            | Midterm; short true/false questions, longer proofs | - Making notecards for review “snacks”<br>- Replicating the proofs discussed in class (when I was doing this)<br>- Taking notes by hand in class, gives me the opportunity to learn things a second time on my own | - Prioritize *speed* in studying, and doing problems in general: mental flexibility, getting comfortable with proof approaches, strategies for moving forward when stuck<br>- Trust intuition when uncertain of a true/false question<br>- Study EXAMPLES |
 
 ---
 # Notes

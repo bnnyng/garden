@@ -12,6 +12,10 @@ aliases:
   - infimum
   - bounded above
   - bounded below
+  - diameter
+  - limit superior
+  - limit inferior
+  - escapes to infinity
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -20,11 +24,15 @@ tags:
   - MATH-GU4061
 publish: "true"
 date: 2024-03-28 10:43
-lastmod: 2024-10-01T14:11:29-04:00
-status: ⬛
+lastmod: 2024-10-15T18:45:23-04:00
+status: 🔴🔨
 ---
 
 - Boundedness is a property of metric, not a property of the general topological space
+
+>[!question]
+>- How is sequence escaping to infinity different from diverging to infinity?
+>- Negative $-\infty$ case of limit superior?
 
 ---
 # Supremum and infimum
@@ -64,18 +72,35 @@ Let $(X, <)$ be an [[Order relations on sets and fields|ordered set]] with [[Axi
 >$$
 >\text{diam} (A) = \text{sup} \{ d(x, y) \ | \ x,y \in A\}. 
 >$$
+>Note that $A$ is **bounded** if and only if the diameter is finite.
 
 ^437db8
 
 ![[Closed sets, closures, and dense subsets#^161a01]]
 
 
-## Bounded sequences
+## Bounded sequences, limit superior and inferior
 
 >[!example] Definition: Bounded sequences in metric spaces
->Let $(X, d)$ be a [[Metrics, metric spaces, and the metric topology|metric space]]. We say a [[Sequences|sequence]] $(x_n)_{n \in \mathbb N}$ in $X$ is **bounded** if there exist $x \in X$ and $r > 0$ such that for all $n \in \mathbb N$, we have $d(x_n, r) < x$. 
+>Let $(X, d)$ be a [[Metrics, metric spaces, and the metric topology|metric space]]. We say a [[Sequences|sequence]] $(x_n)_{n \in \mathbb N}$ in $X$ is **bounded** if there exist $x \in X$ and $r > 0$ such that for all $n \in \mathbb N$, we have $d(x_n, x) < r$. 
 
 ^9253f7
+
+>[!example] Definition: Sequence escaping to infinity in $\mathbb R$
+>We say a sequence $(x_n)_{n \in \mathbb N}$ in $\mathbb R$ **escapes to infinity** if for every $C \in \mathbb N$, there exists $N \in \mathbb N$ such that $x_n \geq C$ for all $n \geq N$. 
+>
+
+^53990e
+
+>[!example] Definition: Limit superior of a sequence in $\mathbb R$
+>Let $(x_n)_{n \in \mathbb N}$ be a sequence $\mathbb R$, and let $A$ be the set of all **sub-sequential limits** of $(x_n)_{n \in \mathbb N}$. Then the **limit superior**, denoted $\lim \sup x_n$, is the value given by:
+>- $\sup A$, if $A$ is bounded and not empty;
+>- $\infty$, if there exists a *sub-sequence* of $(x_n)_{n \in \mathbb N}$ that [[Bounded sets and functions|escapes to infinity]];
+>- $-\infty$, if the entire sequence $(x_n)_{n \in \mathbb N}$ escapes to $-\infty$.
+
+^496c53
+
+
 
 ---
 # Review

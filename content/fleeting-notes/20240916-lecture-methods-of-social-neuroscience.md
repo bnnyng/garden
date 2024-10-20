@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Lecture: Methods of social neuroscience"
+  - "Lecture: Methods of Social Neuroscience"
 tags:
   - PSYC-UN2435
   - fleeting-note
@@ -8,8 +8,51 @@ title: Methods of social neuroscience
 unit: "1"
 status: 
 date: 2024-09-16 14:53
-lastmod: 2024-09-23T14:58:45-04:00
+lastmod: 2024-10-06T19:46:26-04:00
 ---
+# Main concepts
+
+- Neurons:
+	- Action potential and spiking rate
+	- Regional functional specialization
+- Brain anatomy:
+	- Gray vs. white matter
+	- Corpus callosum
+	- Brodmann’s areas (BA)
+	- fMRI slice planes
+	- Cortex
+	- Subcortex: basal ganglia, limbic system, thalamus, hypothalamus
+- Brain methods:
+	- Computer mouse-tracking
+	- Electromyography (EMG)
+	- Event-related potentials (ERP)
+	- Functional neuroimaging, fMRI
+	- Hemodynamic response function
+	- Voxels
+	- Contrast experimental design (t-test)
+	- Correcting for multiple statistical comparison (Bonferroni correction)
+	- Spatial smoothing
+	- Motion correction
+	- Talairach and MNI atlases
+	- Analysis of variance (ANOVA)
+	- Multi-voxel pattern analysis, classification vs. similarity
+
+---
+# Papers
+
+![[PSYC-UN2435#^68864d]]
+
+
+---
+# Notes
+
+## Brain anatomy
+
+
+
+
+---
+
 # Brain anatomy
 
 ---

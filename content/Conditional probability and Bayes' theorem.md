@@ -18,7 +18,7 @@ tags:
   - STAT-GU4203
 publish: "true"
 date: 2022-12-21
-lastmod: 2024-09-25T16:34:56-04:00
+lastmod: 2024-10-14T10:35:53-04:00
 status: 🟠
 ---
 # Overview
@@ -77,6 +77,15 @@ Equivalently, we require $A_1, …, A_n$ to **partition** the whole set $S$; tha
 >[!example] Definition: Bayes’ theorem (reversing the conditioning)
 >If $A_1, ..., A_k$ are **mutually exclusive** and **exhaustive** events, then for any other event $B$, the **posterior probability** of $A_j$ given that $B$ as occurred is 
 >$$ P(A_j|B) =\frac{P(A_j \cap B)}{P(B)} = \frac{P(B|A_j) \cdot P(A_j)}{\sum^k_{i=1}P(B|A_i) \cdot P(A_i)}. $$
+
+We can incorporate “extra conditioning” into Bayes’ theorem using the definition of conditional probability again. Let $P (B \cap E) > 0$. Then
+$$
+\begin{align}
+P(A | B \cap E) 
+&= \frac{P(A \cap B \cap E)}{P(B \cap E)} = \frac{P(B | A \cap E)P(A \cap E)}{P(B | E) P(B)} \\
+&= \frac{P(B | A \cap E) P(A | E) P(E)}{P(B | E) P(E)} = \frac{P(B| A \cap E)P(A | E)}{P(B|E)}
+\end{align}.
+$$
 
 
 ---

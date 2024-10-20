@@ -6,12 +6,11 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
-  - MATH-UN1208
-  - MATH-GU4061
+  - theorem
 status: 
 publish: "true"
 date: 2024-09-15 10:02
-lastmod: 2024-09-21T17:38:51-04:00
+lastmod: 2024-10-13T19:23:33-04:00
 ---
 >[!abstract] Theorem: Density of the rationals in $\mathbb R$
 >(i) For all [[The real numbers|real numbers]] $x, y \in \mathbb R$ with $x, y > 0$, there exists $n \in \mathbb N$ such that $nx > y$.

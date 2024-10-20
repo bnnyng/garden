@@ -12,7 +12,7 @@ tags:
 status: 🔴
 publish: "true"
 date: 2024-09-23 08:35
-lastmod: 2024-09-24T16:07:00-04:00
+lastmod: 2024-10-17T18:41:57-04:00
 ---
 # Overview
 
@@ -34,19 +34,39 @@ Crucially, since homeomorphisms give correspondences between *collections of ope
 Homeomorphisms, which preserve *topological structure*, are analogous to [[Isomorphism|isomorphisms]] in algebra, which are bijective correspondences that preserve *algebraic structure*. However, while a isomorphism—or bijective homomorphism—in algebra is guaranteed to have an inverse that is also a homomorphism, a continuous function in topology is NOT guaranteed to have a continuous inverse.
 
 ---
-# Examples of homeomorphisms
-
-#wip 
-
-
-
----
 # Embeddings
 
 >[!example] Definition: Topological embedding
 >A function between [[Topological spaces and open sets|topological spaces]] $f: X \to Y$ is an **embedding** if it is [[Continuous functions|continuous]], injective, and the restriction of its range to the image of $f$, the function $f’ : X \to f(X)$ defined by $x \mapsto f(x)$ is a homeomorphism.
 
 ^b02723
+
+
+---
+# Examples of homeomorphisms
+
+#wip See homeworks
+
+#### All circles are homeomorphic 
+
+
+#### Stereographic projections
+
+We have 
+$$
+\mathbb R^n \cong S^n \backslash \{ N\}
+$$
+where $N$ is the “north pole” of the the $n + 1$ dimensional unit sphere $S^n$. The associated homeomorphism is $\mathbf i : \mathbb R^n \to S^n \backslash \{ N\}$ defined by
+$$
+\mathbf i (x) = (t(x)x_1, \ldots, t(x)x_n, 1-t(x)),
+\quad \quad \quad
+t(x) = \frac{1}{1 + x^2_1 + \cdots + x_n^2},
+$$
+and the inverse is $f : S^n \backslash \{ N\} \to \mathbb R^n$ defined by 
+$$
+f(x) = \frac{1}{1- x_{n+1}} (x_1, \cdots, x_n).
+$$
+🔺 *Exercise.* Check this is a homeomorphism.
 
 ---
 # Review

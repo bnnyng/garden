@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-09-30T13:57:30-04:00
+lastmod: 2024-10-18T17:34:23-04:00
 tags:
   - workspace
 aliases:
@@ -27,7 +27,7 @@ DOOR CODE: 5891\*
 **Methods**
 - [[Methods for PolyMetaMath]]
 - [[Topic modeling with MALLET]]
-- [[Axioms of Shannon entropy]]
+- [[Shannon information (entropy)]]
 - [[Coarse-graining]]
 
 **Fleeting notes and workspaces**
@@ -184,6 +184,25 @@ Length of combined list of all projects: 37809
 	- [ ] Perform new analysis on P1 Gowers’ posts only
 
 ## October
+
+[[2024-10-18]]
+
+- Meeting with Marina
+	- Prompting ChatGPT with examples – choose random selection, rate each of them and compare interrater reliability
+	- Also emotional valence
+	- Gather more information? Instead of 0 or 1, ask it to put degree of confidence
+
+```
+"Please rate the emotional charge of the following comment on a scale from -10 to 10, where -10 represents extremely negative emotions, 0 represents a neutral tone, and 10 represents extremely positive emotions."
+```
+
+[[2024-10-12]]
+
+- Getting relative LL of cognitive words across projects
+	- Look at all comments—issue is that some comments were completely filtered out. What to do about empty comments?
+		- Case for considering only non-empty comments, since everything else can be background “noise”
+	- How to clean up “overall” content? e.g., include HTTP links? – simple for now, don’t clean the rest of the content
+	- How to count the cognitive n_grams – remove, then sum for the count of “total” words?—actually, total shouldn’t matter because we’re looking for just a probability distribution, i.e., proportion
 
 [[2024-09-30]]
 

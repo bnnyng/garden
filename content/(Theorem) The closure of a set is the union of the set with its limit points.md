@@ -4,11 +4,11 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
-  - MATH-GU4051
+  - theorem
 status: 
 publish: 
 date: 2024-09-14 14:24
-lastmod: 2024-09-19T08:59:06-04:00
+lastmod: 2024-10-13T13:50:08-04:00
 ---
 
 >[!abstract] Theorem (Munkres 17.6): The closure of a set is the union of the set with its limit points

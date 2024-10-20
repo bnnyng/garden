@@ -3,11 +3,10 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
-  - MATH-GU4051
 status: 
 publish: 
 date: 2024-09-26 18:19
-lastmod: 2024-09-27T22:09:54-04:00
+lastmod: 2024-10-13T13:50:43-04:00
 ---
 
 >[!example] Definition: $\mathbb R^\omega$
@@ -19,14 +18,7 @@ lastmod: 2024-09-27T22:09:54-04:00
 
 ^90a2bd
 
->[!abstract] Theorem (Munkres 20.5): Metric inducing the product topology on $\mathbb R^\omega$
->Let $\overline d (a, b) = \text{min}\{ |a-b|, 1\}$ be the [[Metrics, metric spaces, and the metric topology|standard bounded metric]] on $\mathbb R$. If $\mathbf x, \mathbf y$ are two sequences in $\mathbb R^\omega$, define
->$$
->D (x, y) = \text{sup}\left \{ \frac{\overline d (x_i, y_i)}{i} \right \}, 
->$$
->where $i > 0$. Then (1) $D$ is a metric on $\mathbb R^\omega$ and (2) $D$ induces the [[The product topology|product topology]]. 
-
-^6ac36d
+![[(Theorem) The countable product of the real line is metrizable#^6ac36d]]
 
 ---
 # Notes

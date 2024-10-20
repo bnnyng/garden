@@ -4,11 +4,10 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
-  - MATH-GU4051
 status: 
 publish: "true"
 date: 2024-09-19 09:22
-lastmod: 2024-09-19T09:58:09-04:00
+lastmod: 2024-10-13T13:49:40-04:00
 ---
 
 >[!abstract] Theorem (Munkres 17.8 & 17.10)

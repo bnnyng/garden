@@ -4,9 +4,11 @@ aliases:
 tags:
   - fleeting-note
 date: 2024-10-01 21:40
-lastmod: 2024-10-01T23:00:46-04:00
+lastmod: 2024-10-02T16:18:27-04:00
 ---
-# Notes
+# Sketch
+- Explainer: spare NNs
+
 [[@2008okawa]]
 - Rods and cones consume similar amounts of energy in darkness, but rods consume significantly less in light
 - Eye evolved around reducing energy use by photoreceptors

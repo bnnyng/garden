@@ -7,8 +7,8 @@ aliases:
   - convergent sequence
   - converge
   - converges to
-  - bounded sequence
   - sequence definition
+  - sequentially compact
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -17,16 +17,16 @@ tags:
   - MATH-GU4061
 publish: "true"
 date: 2024-04-10 18:42
-lastmod: 2024-10-01T13:53:10-04:00
-status: 🟡
+lastmod: 2024-10-15T10:54:32-04:00
+status: 🟠
 ---
 # Overview
 
 A sequence is a function whose domain is the natural numbers. Sequences can diverge (e.g., $x_n = n$), converge (e.g., $x_n = 1/n$), or oscillate (e.g., $x_n = (-1)^n$).
 
-A **convergent sequence** has a **limit** $x$ such that the values $x_n$ can be made arbitrarily close to $x$ for large values of $n \in \mathbb N$. Every convergent sequence is also [[Cauchy sequences|Cauchy]].
+A **convergent sequence** has a **limit** $x$ such that the values $x_n$ can be made arbitrarily close to $x$ for large values of $n \in \mathbb N$. Every convergent sequence is also [[Cauchy sequences and complete metric spaces|Cauchy]].
 
-Related: [[Convergence of functions]], 
+Related: [[Convergence of functions]], [[Bounded sets and functions#Bounded sequences|Bounded sequences]]
 
 ---
 # In metric spaces
@@ -34,7 +34,7 @@ Related: [[Convergence of functions]],
 ## Sequences and subsequences
 
 >[!example] Definition: Sequence in a metric space
->Given a [[Metrics, metric spaces, and the metric topology|metric space]] $(X, d)$, a **sequence**, often denoted $(x_n)_{n \in \mathbb N}$, is a discrete function $\mathbb N \to \mathbb X$ which maps each natural number $n$ to a real value $x_n$. 
+>Given a [[Metrics, metric spaces, and the metric topology|metric space]] $(X, d)$, a **sequence**, often denoted $(x_n)_{n \in \mathbb N}$, is a discrete function $\mathbb N \to \mathbb X$ which maps each natural number $n$ to some $x_n \in X$. 
 ^bdedb7
 
 >[!example] Definition: Subsequence
@@ -42,7 +42,7 @@ Related: [[Convergence of functions]],
 
 ![[Bounded sets and functions#^9253f7]]
 
-## Convergent sequences
+## Convergent sequences and limits
 
 
 >[!example] Definition: Convergent sequence in a metric space
@@ -57,15 +57,21 @@ Related: [[Convergence of functions]],
 >[!abstract] Proposition: Facts about convergent sequences *in metric spaces* 
 >- (i) Convergent sequences converge to a unique limit.
 >- (ii) If a sequence converges, then it is also [[Bounded sets and functions|bounded]].
->- (iii) Every convergent sequence is [[Cauchy sequences|Cauchy]].
+>- (iii) Every convergent sequence is [[Cauchy sequences and complete metric spaces|Cauchy]].
 
 ^ac6d87
+
+>[!abstract] Proposition: The set of sub-sequential limits is closed.
+>Let $A$ be the set of [[Limits and accumulation points|limits]] of subsequences of a [[Sequences|sequence]] $(x_n)_{n \in \mathbb N}$ in $\mathbb R$. Then $A$ is [[Closed sets, closures, and dense subsets|closed]].
+
+^c93f86
+
 
 ---
 # In topological spaces
 
 >[!example] Definition: Convergent sequence in a topological space
->A squence $x_1, x_2, …$ of points in an arbitrary [[Topological spaces and open sets|topological space]] $X$ **converges** to the point $x$ if, for each **neighborhood** $U$ of $x$, there exists a positive integer $N$ such that $x_n \in U$ for all $n \geq N$. 
+>A sequence $x_1, x_2, …$ of points in an arbitrary [[Topological spaces and open sets|topological space]] $X$ **converges** to the point $x$ if, for each **neighborhood** $U$ of $x$, there exists a positive integer $N$ such that $x_n \in U$ for all $n \geq N$. 
 ^24c72a
 
 The key difference is that sequences *can converge to more than one point* in an arbitrary space!
@@ -96,6 +102,24 @@ $$
 d(x_n, x_m) \leq d(x_n, x) + d(x, x_m) < \epsilon,
 $$
 which is precisely what it means for $(x_n)_{n \in \mathbb N}$ to converge.
+
+![[Sequences#^c93f86]]
+
+*Proof.*
+
+It suffices to show that every convergent sequence in $A$ has a limit in $A$. Let $(a_i)_{i \in \mathbb N}$ be a sequence in $A$. Then for *each* $i \in \mathbb N$, there exists a subsequence $(x_{n(m)})_{m \in \mathbb N}$ such that $x_{n(m_i)}$ converges to $a_i$ as $m_i \to \infty$. 
+
+$$
+\begin{matrix}
+i = 1 & i = 2 & i = 3 & \cdots \\
+x_{n(1)_1} & x_{n(1)_2} & x_{n(1)_3} & \cdots \\
+x_{n(2)_1} & x_{n(2)_2} & x_{n(2)_3} & \cdots \\
+x_{n(3)_1} & x_{n(3)_2} & x_{n(3)_3} & \cdots \\
+\vdots & \vdots & \vdots \\
+a_1 & a_2 & a_3 & \cdots
+\end{matrix}
+$$
+Now let $n \in \mathbb N$. Since $a_i \to a$, there exists some $a_I$ such that $d(a_I, a) < 1/(2n)$. #wip
 
 ---
 # Notes

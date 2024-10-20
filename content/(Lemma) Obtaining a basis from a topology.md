@@ -5,11 +5,11 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
-  - MATH-GU4051
+  - theorem
 status: 
 publish: "true"
 date: 2024-09-14 11:31
-lastmod: 2024-09-14T12:22:24-04:00
+lastmod: 2024-10-13T13:49:33-04:00
 ---
 >[!abstract] Lemma (Munkres 13.2): Obtaining a basis for a given topology
 >Let $(X, \mathcal T)$ be a [[Topological spaces and open sets|topological space]] and let $\mathcal C \subseteq \mathcal T$ be a collection of open sets of $X$ such that for each open set $U \subseteq X$ and each $x \in U$, there exists $C \in \mathcal C$ such that $x \in C \subseteq U$. Then (1) $\mathcal C$ is a [[Topological bases and subbases|basis]] and (2) $\mathcal C$ generates $\mathcal T$.

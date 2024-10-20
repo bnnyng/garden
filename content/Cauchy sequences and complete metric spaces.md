@@ -2,14 +2,15 @@
 aliases:
   - Cauchy
   - Cauchy sequence
+  - complete
 tags:
   - permanent-note
   - topic-logic-mathematics
   - MATH-GU4061
-status: 🟡
+status: 🔴
 publish: 
 date: 2024-10-01 13:44
-lastmod: 2024-10-01T14:14:02-04:00
+lastmod: 2024-10-03T13:27:55-04:00
 ---
 # Overview
 
@@ -22,7 +23,10 @@ lastmod: 2024-10-01T14:14:02-04:00
 
 ^e1c6fb
 
-Cauchy sequences are closely related to [[Sequences|convergent sequences]]; however, a Cauchy sequence has terms that are getting closer and closer to each other, while a convergent sequence has terms that are approaching some fixed limit value.
+Cauchy sequences are closely related to [[Sequences|convergent sequences]]; however, a Cauchy sequence has terms that are getting closer and closer to each other, while a convergent sequence has terms that are approaching some fixed limit value. In other words, the key difference is that the [[Limits and accumulation points|limit]] is explicitly involved in the definition of convergence, but not in the definition of a Cauchy sequence.
+
+>[!example] Definition: Complete metric space
+>We say a [[Metrics, metric spaces, and the metric topology|metric space]] $(X, d)$ is **complete** if every Cauchy sequence in $X$ [[Sequences|converges]].
 
 ---
 # Boundedness and convergence
@@ -34,9 +38,13 @@ Cauchy sequences are closely related to [[Sequences|convergent sequences]]; howe
 #concept-question What about in a general [[Topological spaces and open sets|topological space]]?
 
 >[!abstract] Theorem:
->Let $(X, d)$ be a [[Compact sets|compact]] [[Metrics, metric spaces, and the metric topology|metric space]], and let $(x_n)_{n \in \mathbb N}$ be a Cauchy sequence in $X$. Then $(x_n)_{n \in \mathbb N}$ converges.
+>Let $(X, d)$ be a [[Compactness|compact]] [[Metrics, metric spaces, and the metric topology|metric space]]. Then a sequence $(x_n)_{n \in \mathbb N}$ in $X$ is Cauchy if and only if it [[Sequences|converges]].
 
 ^e8fe08
+
+#wip Every metric space?
+
+
 
 ---
 # Review
@@ -49,7 +57,7 @@ Cauchy sequences are closely related to [[Sequences|convergent sequences]]; howe
 ---
 # Proof appendix
 
-![[Cauchy sequences#^66bce9]]
+![[Cauchy sequences and complete metric spaces#^66bce9]]
 
 *Proof*.
 
@@ -59,7 +67,7 @@ R = \text{max}\{ 1, \ d(x_N, x_n) : n < N\}.
 $$
 Then for all $n \in \mathbb N$, we have $d(x_N, x_n) \leq R$, so $(x_n)_{n \in \mathbb N}$ is bounded.
 
-![[Cauchy sequences#^e8fe08]]
+![[Cauchy sequences and complete metric spaces#^e8fe08]]
 
 *Proof.*
 

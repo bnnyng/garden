@@ -12,7 +12,7 @@ tags:
   - MATH-GU4051
 publish: "true"
 date: 2024-04-22
-lastmod: 2024-09-18T14:21:04-04:00
+lastmod: 2024-10-03T13:42:46-04:00
 status: 🔴
 ---
 
@@ -52,9 +52,17 @@ We have the following facts about limits:
 >[!example] Definition: Accumulation point
 >Given any set $E \subset X$, a point $x \in X$ is an **accumulation point** if for all $\epsilon > 0$, there exists $y \in E$ such that $y \neq x$ and the distance metric has $d(x,y) < \epsilon$. That is, for all $\epsilon > 0$,
 >$$
->E \cap [B(x, \epsilon) \backslash \{x\}] \neq \emptyset.
+>E \cap [B(x, \epsilon) \backslash \{x\}] \neq \varnothing.
 >$$
 
+
+>[!abstract] Proposition: Sequence characterization of limit points
+>Given a [[Metrics, metric spaces, and the metric topology|metric space]] $(X, d)$ and a subset $A \subseteq X$, if $x \in X$ is a limit point of $A$, then there exists a sequence $(x_n)_{n \in \mathbb N}$ in $A$ which [[Sequences|converges to]] $x$.
+
+^32e7de
+
+
+![[Closed sets, closures, and dense subsets#^3a968a]]
 
 ---
 

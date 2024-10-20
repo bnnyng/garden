@@ -1,16 +1,11 @@
 ---
-aliases:
-  - expected value
-  - mean value
-  - variance
-  - standard deviation
+aliases: []
 tags:
-  - permanent-note
-  - topic-logic-mathematics
+  - fleeting-note
   - STAT-UN1201
 publish: 
 date: 2024-09-13 10:25
-lastmod: 2024-09-13T10:39:37-04:00
+lastmod: 2024-10-14T10:54:19-04:00
 ---
 # Expected values of discrete random variables
 

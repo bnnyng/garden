@@ -14,7 +14,7 @@ tags:
   - MATH-GU4061
 publish: "true"
 date: 2024-04-10 17:23
-lastmod: 2024-10-01T14:10:30-04:00
+lastmod: 2024-10-03T13:47:31-04:00
 status: 🟠
 ---
 A **closed set** is a set that contains all of its [[Limits and accumulation points|accumulation points]]. Equivalently, a closed set is the complement of an [[Open sets|open set]].
@@ -47,6 +47,12 @@ The **closure** of any set $E$ is the *smallest closed set* that contains $E$—
 >Let $A \subseteq X$ be [[Bounded sets and functions|bounded]]. Then $\text{diam}(A) = \text{diam} (\overline A)$, where $\overline A$ is the [[Closed sets, closures, and dense subsets|closure]] of $A$.
 
 ^161a01
+
+
+>[!abstract] Proposition: Sequence characterization of closed sets
+>Let $(X, d)$ be a [[Metrics, metric spaces, and the metric topology|metric space]] and $A \subseteq X$. Then $A$ is closed if and only if every [[Sequences|convergent sequence]] in $A$ converges to some $a \in A$.
+
+^3a968a
 
 
 ---
@@ -130,7 +136,16 @@ Further, by definition of $\overline A$, there exist $x’, y’ \in A$ such tha
 $$
 \text{diam}(A) \geq d(x', y') \geq d(x, y) - d(x', x) - d(y', y) \geq \text{diam}(\overline A) - 3\epsilon.
 $$
-Since this holds for any $\epsilon > 04, we must have $\text{diam}(A) \geq \text{diam}(\overline A)$ as well.
+Since this holds for any $\epsilon > 0$, we must have $\text{diam}(A) \geq \text{diam}(\overline A)$ as well.
+
+![[Closed sets, closures, and dense subsets#^3a968a]]
+
+*Sketch of proof.*
+
+- ($\implies$) Use definition of a sequence converging to some point $x \in X$, then show that $x$ is a limit point of $A$ using the [[Limits and accumulation points|sequence characterization of limit points]]. Since $A$ is closed, the limit point $x$ is also in $A$.
+- 
+
+
 
 ---
 # Notes

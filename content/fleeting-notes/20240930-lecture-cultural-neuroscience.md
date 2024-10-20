@@ -1,10 +1,11 @@
 ---
-aliases: 
+aliases:
+  - "Lecture: Cultural Neuroscience"
 tags:
   - fleeting-note
   - PSYC-UN2435
 date: 2024-09-30 15:32
-lastmod: 2024-09-30T15:56:33-04:00
+lastmod: 2024-10-02T15:34:17-04:00
 ---
 # Papers
 

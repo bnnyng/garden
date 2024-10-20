@@ -5,9 +5,9 @@ aliases:
 tags:
   - permanent-note
   - topic-computer-science-information
-publish: "true"
+publish: 
 date: 2023-12-29 18:17
-lastmod: 2024-08-16T13:20:24-07:00
+lastmod: 2024-10-20T11:10:31-04:00
 ---
 In the “standard” view of RL, the reward comes from an external “critic” in the environment that evaluates the agent’s behavior. This is different from biological cognition, where an animal determines its reward from both its external and internal state: “The critic is in an animal’s head” ([[@2004chentanez|Chentanez et al., 2004]]).
 

@@ -10,7 +10,7 @@ year: 1984
 permalink: 
 publish: 
 date: 2024-08-27
-lastmod: 2024-09-10T21:35:29-04:00
+lastmod: 2024-10-17T12:04:37-04:00
 ---
 > Enroth-Cugell, C., & Robson, J. G. (1984). Functional characteristics and diversity of cat retinal ganglion cells. Basic characteristics and quantitative description. _Investigative Ophthalmology & Visual Science_, _25_(3), 250–267.
 

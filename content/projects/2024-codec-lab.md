@@ -5,13 +5,54 @@ tags:
   - workspace
 publish: 
 date: 2024-08-29 17:56
-lastmod: 2024-09-13T10:09:00-04:00
+lastmod: 2024-10-16T16:17:33-04:00
 ---
 - **Function learning** = “how people narrow down the theoretically infinite space of function hypotheses to more interpretable representations”
 - [Repository: function-learning-teaching](https://github.com/maya-malaviya/function-learning-teaching)
 
+
+---
+# Resources
+
+- Deisenroth et al. (2020), [“A Practical Guide to Gaussian Processes”](https://infallible-thompson-49de36.netlify.app/)
+
+---
+
+# Meeting notes
+
+[[2024-10-15]]
+
+- Talking points for meeting with Maya
+	- ARC-AGI challenge
+		- Issues with current approach match issues with computationalism/associationism—how?
+			- Charges against the scaling: not *intelligent*, getting at what makes something intelligence in a functional way…? Something about the information-processing mechanism is different, assumes computationalism
+		- Seems like it will just lead to a solution that is good at doing the challenge
+		- AlphaProof as an example—mathematics as a *human practice* has a natural domain specific language, which is the formal system of mathematics
+			- AlphaProof details, program synthesis?
+			- Back to my interest of interpolating between formal logic and informal “sketching”
+			- What is the analogy for the visual domain? Sensory filtering.
+	- Takeaways for the rational analysis, problems?
+	- Takeaways from the hyperbole paper? What are the caveats?—when I am presented a model, I just accept that it is good and true. What are the alternatives?
+- [[@2020lieder]]
+	- Alternatives
+- Papers suggested: [[@2024legris]], [[@2023sucholutsky]]
+
+[[2024-10-13]]
+- Thoughts on [[@2020lieder]]
+	- Why are people good at things like math if resource-rationality predicts that we should have the highest trade-off against accuracy here? Maybe we’re the only ones to ever do it, so we can’t compare what is “inaccuracy” (also, math is made up)
+	- How to define a constraint on cognition – non-metabolic?
+
+[[2024-10-04]]
+- Hyperbole can be represented in model by allowing people to select points anywhere on the plane, not just on the function line itself
+- Next steps:
+	- [ ] Paper reading: [[@2015griffiths]] [[@2024sumers]], [[@2020lieder]]
+
 ---
 # Log
+
+
+
+
 
 2024-09-13
 - Cloned repository, getting error when trying to run `firebase serve` 

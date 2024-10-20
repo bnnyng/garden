@@ -26,16 +26,37 @@ SORT lastmod ASC
 
 ---
 
+# Topics
+
+## Random variables and distributions
+
+#### [[Discrete random variables and probability mass functions]]
+
+![[Discrete random variables and probability mass functions#^bce0e8]]
+
+![[Discrete random variables and probability mass functions#^de88c7]]
+
+
+#### [[Bernoulli and binomial distributions]]
+
+![[Bernoulli and binomial distributions#^e0f572]]
+
+#### [[Independent and conditional random variables]]
+
+## Expectation
+
+#### [[Expected value]]
+
+![[Expected value#^3fd087]]
+
+![[Expected value#^1fe688]]
+
+#### [[Variance and standard deviation]]
+
+---
 # Notes
 
-##### [[Conditional probability and Bayes' theorem]]
-
-- We can incorporate “extra conditioning” into Bayes’ theorem using the definition of conditional probability again. Let $P (B \cap E) > 0$. Then
-$$
-\begin{align}
-P(A | B \cap E) 
-&= \frac{P(A \cap B \cap E)}{P(B \cap E)} = \frac{P(B | A \cap E)P(A \cap E)}{P(B | E) P(B)} \\
-&= \frac{P(B | A \cap E) P(A | E) P(E)}{P(B | E) P(E)} = \frac{P(B| A \cap E)P(A | E)}{P(B|E)}
-\end{align}
-$$
-
+- IID = independent and identically distributed
+	- I = ?
+	- ID = same distribution
+- 

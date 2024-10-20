@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Lecture: Emotion and motivation"
+  - "Lecture: Emotion and Motivation"
 title: Emotion and motivation
 unit: "1"
 tags:
@@ -9,7 +9,7 @@ tags:
 status: 
 publish: 
 date: 2024-09-23 14:48
-lastmod: 2024-09-30T15:18:47-04:00
+lastmod: 2024-10-06T19:44:58-04:00
 ---
 # Overview
 
@@ -18,20 +18,31 @@ lastmod: 2024-09-30T15:18:47-04:00
 - The amygdala is particularly important for *learning* responses, particularly fear responses.
 
 ---
+# Main concepts
+
+- Basic definition of emotion:
+	- Components of emotion
+	- 6 basic emotions
+	- Circumplex model, 3D version
+	- Barrett’s conceptual act model
+- Brain regions for emotion:
+	- Amygdala and fear, a domain-general view?
+	- Posterior cingulate cortex (PCC)
+	- Fear conditioning results from mice studies
+	- Insula and disgust
+- Brain regions for motivation:
+	- Dopamine reward system in striatum
+	- Ventral striatum
+	- Reward prediction error
+	- Oribtofrontal cortex
+- Social reward:
+
+---
 
 # Papers
 
-## Emotion
 
-| Authors                   | Title                                                                                                                                                               | Description | Key takeaways |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------- |
-| Olsen et al. (2005)       | [The role of social groups in the persistence of learned fear](https://pubmed.ncbi.nlm.nih.gov/16051800/)                                                           |             |               |
-| Schiller et al. (2009)    | [A neural mechanism of first impressions](https://pubmed.ncbi.nlm.nih.gov/19270690/)                                                                                |             |               |
-| Cunningham et al. (2008)  | [Affective Flexibility: Evaluative Processing Goals Shape Amygdala Activity](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1064&context=poliscifacpub) |             |               |
-| Freeman et al. (2014)     | [Amygdala responsivity to high-level social information from unseen faces](https://pubmed.ncbi.nlm.nih.gov/25100591/)                                               |             |               |
-| Eisenberger et al. (2003) | [Does rejection hurt? An FMRI study of social exclusion](https://pubmed.ncbi.nlm.nih.gov/14551436/)                                                                 |             |               |
-|                           |                                                                                                                                                                     |             |               |
-
+![[PSYC-UN2435#^063c29]]
 
 ---
 # Emotion

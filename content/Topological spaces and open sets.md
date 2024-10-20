@@ -7,7 +7,6 @@ aliases:
   - coarser
   - discrete topology
   - indiscrete topology
-  - finite complement topology
   - standard topology
 tags:
   - permanent-note
@@ -15,7 +14,7 @@ tags:
   - MATH-GU4051
 publish: "true"
 date: 2024-09-04 20:48
-lastmod: 2024-09-26T14:34:47-04:00
+lastmod: 2024-10-13T13:07:18-04:00
 status: 🟠
 ---
 >[!question]
@@ -82,14 +81,10 @@ The following collections of subsets are not topologies (draw them out!):
 
 #### Discrete and indiscrete topologies
 
->[!example] Definition: Discrete, indiscrete topology
->Given any set $X$, the collection of all subsets of $X$ (i.e., the [[Axioms of set theory|power set]] $\mathcal P (X)$) is a topology on $X$ called the **discrete topology**. The collection $\{\emptyset, X\}$ is also a topology called the **indiscrete** or **trivial** topology.
-
-Note that a topological space is discrete, meaning every set is an open set $\iff$ every singleton (sets containing a single element) is also open.
+![[Discrete topology#^aa370a]]
 #### Finite complement topology
 
->[!example] Definition: Finite complement topology
->The **finite complement topology** $T_f$ of a set $X$ is the collection of all subsets $U \subseteq X$ such that the complement $X \backslash U$ is either finite or all of $X$. 
+![[Finite complement topology#^e721c8]]
 
 #### Subspace (induced) topology
 

@@ -7,6 +7,7 @@ aliases:
   - metrizable
   - standard bounded metric
   - uniform metric
+  - discrete metric
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -14,8 +15,8 @@ tags:
   - MATH-GU4051
 publish: "true"
 date: 2024-04-10 17:32
-lastmod: 2024-09-29T15:02:38-04:00
-status: ⚫
+lastmod: 2024-10-13T13:10:19-04:00
+status: 🔴🔨
 ---
 # Overview
 
@@ -30,7 +31,6 @@ status: ⚫
 ^2a64da
 
 Some properties of a metric space, such as [[Bounded sets and functions|boundedness]], are not entirely topological, but depend on a choice of metric.
-
 
 Related: [[Inner product spaces]]
 
@@ -75,32 +75,24 @@ The notation $B_d$ emphasizes that the set of open balls is inducing the metric 
 >[!abstract] Lemma: Every metrizable space is Hausdorff
 >If $X$ is a metrizable space and has a topology induced by the metric $d$, then $X$ is [[Hausdorff spaces|Hausdorff]].
 
-- Lemma that follows from discussion about bases
 
 >[!abstract] Lemma: Using bases to determine which *metric topology* is finer
 >Let $d, d’$ be metrics on $X$ with induced topologies $\mathcal T, \mathcal T’$ respectively. Then $T’$ is [[Topological spaces and open sets|finer]] than $\mathcal T$ (i.e., $\mathcal T \subseteq T’$) if and only if for all $x \in X$ and all $\epsilon > 0$, there exists $\delta > 0$ such that $B_{d’} (x, \delta) \subseteq B_d(x , \epsilon)$.
+
+The typical $\epsilon-\delta$ and convergent sequence definitions of [[Continuous functions#In general metrizable spaces|continuity]] also hold for general metrizable spaces.
 
 ----
 # Examples
 
 #### Metric generating the discrete topology
 
-For any set $X$, the metric
-$$
-d(x,y) = \left\{
-\begin{align}
-1 \quad  x \neq y \\
-0 \quad x = y
-\end{align}
-\right.
-$$
-generates the [[Topological spaces and open sets|discrete topology]]: recall that to show a topology is the discrete topology, it suffices to show *every singleton is open*, and we have $\{ x\} = B_d(x, 1/2)$ for all $x \in X$.
+![[Discrete topology#^6abe9b]]
 
 #### Euclidean metric
 
 The **Euclidean metric** on $\mathbb R^n$ is the norm $|x - y|$ defined by
 $$
-d(x, y) = \sqrt{(x_1-y_1)^2 + \cdots (x_n-y_n)^2}.
+d(x, y) = \sqrt{(x_1-y_1)^2 + \cdots + (x_n-y_n)^2}.
 $$
 
 #### “Square metric” on $\mathbb R^n$
@@ -131,6 +123,8 @@ $$
 >2. Every subset $A \subseteq X$ is [[Bounded sets and functions|bounded]] with respect to $\overline d$.
 
 Intuitively, we can show (1) by using balls of radius $<1$ to generate the topology induced by $d$. Statement (2) gives an example of how boundedness is a property of the metric, and not a general topological property; the result is immediate by definition of $\overline d$.
+
+#wip Upshot: boundedness is a property of….?
 
 #### Uniform metric on the general product
 

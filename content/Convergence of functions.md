@@ -12,7 +12,7 @@ tags:
 status: 🔴
 publish: "true"
 date: 2024-04-24 15:12
-lastmod: 2024-09-27T22:40:25-04:00
+lastmod: 2024-10-12T16:54:13-04:00
 ---
 # For measurable functions
 
@@ -29,7 +29,7 @@ n > N \implies |f_n(x) - f(x)| < \epsilon.
 >$$
 > m(\{x \in E \ | \ f_n(x) \not \to f(x) \}) = 0
 >$$
->- $f_n \to f$ **uniformly** if for all $\epsilon > 0$, there exists $N \in \mathbb N$ such that for all $x \ in E$,
+>- $f_n \to f$ **uniformly** if for all $\epsilon > 0$, there exists $N \in \mathbb N$ such that for all $x \in E$,
 >$$
 >n > N \implies |f_n(x) - f(x) | < \epsilon.
 >$$
@@ -47,3 +47,7 @@ Uniformity of convergence for a sequence on functions depends on both the [[Topo
 
 ^aee289
 
+>[!abstract] [[MATH-GU4051|Topology]] HW 3.5: Relationship between uniform convergence and the uniform metric
+>Let $X$ be a set and let $f_n :X \to \mathbb R$ be a sequence of functions. Let $\overline{\rho}$ be the [[Metrics, metric spaces, and the metric topology|uniform metric]] on the space $\mathbb R^X$ of all functions $X\to \mathbb R$. If $f_n : X\to \mathbb R$ is a sequence of functions, show that $(f_n)$ [[Convergence of functions|converges uniformly]] to the function $f: X\to \mathbb R$ if and only if the sequence $(f_n)$ converges to $f$ as elements of the metric space $(\mathbb R^X, \overline{\rho})$. 
+
+^b137c9

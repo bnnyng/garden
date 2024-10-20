@@ -11,9 +11,13 @@ title: Class | Introduction to Modern Analysis I
 >[!example] Course description
 >Real numbers, metric spaces, elements of general topology, sequences and series, continuity, differentiation, integration, uniform convergence, Ascoli-Arzela theorem, Stone-Weierstrass theorem.
 
-| Section        | Definitions                                                                    | Key results                 |
-| -------------- | ------------------------------------------------------------------------------ | --------------------------- |
-| Basic topology | - Countable, uncountable<br>- Metric, metric space<br>- Hausdorff property<br> | - [[(Theorem) Heine-Borel]] |
+| Section              | Definitions                                                                                                                                                                                                                       | Key results                                                                                           |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Basic topology       | - Countable, uncountable<br>- Supremum, infimum<br>- Metric, metric space<br>- Compact set<br>- Hausdorff property<br>- Connected set                                                                                             | - [[(Theorem) Between any two real numbers is a rational number]] <br>- [[(Theorem) Heine-Borel]]<br> |
+| Sequences and series | - Convergent and bounded sequences in metric spaces<br>- Cauchy sequence<br>- Limit point compactness, sequential compactness<br>- Sequence escaping to infinity<br>- Limit superior and inferior<br>- $N$-th partial sum, series | - [[(Theorem) Bolzano-Weierstrass]]                                                                   |
+
+>[!question]
+>- Compactness, limit point compactness, etc. are all defined the same for subsets of metric spaces?
 
 ---
 # Study status
@@ -46,17 +50,17 @@ SORT lastmod ASC
 ![[Metrics, metric spaces, and the metric topology#^b897c8]]
 
 
-#### [[Compact sets]]
+#### [[Compactness]]
 
-![[Compact sets#^b75af9]]
+![[Compactness#^b75af9]]
 
-![[Compact sets#^69b1bd]]
+![[Compactness#^69b1bd]]
 
 ![[Bounded sets and functions#^8bd60c]]
 
-![[Compact sets#^2c2d30]]
+![[Compactness#^2c2d30]]
 
-![[Compact sets#^7b21f9]]
+![[Compactness#^7b21f9]]
 
 ![[(Theorem) Heine-Borel#^f63527]]
 
@@ -66,16 +70,24 @@ SORT lastmod ASC
 #wip Why?
 
 >[!abstract] Theorem: Compactness of intervals in $\mathbb R$
->Any [[Closed sets, closures, and dense subsets|closed]] interval $[a, b] \subseteq \mathbb R$ is [[Compact sets|compact]], meaning there exists a finite subcover of $[a, b]$.
+>Any [[Closed sets, closures, and dense subsets|closed]] interval $[a, b] \subseteq \mathbb R$ is [[Compactness|compact]], meaning there exists a finite subcover of $[a, b]$.
 
 Theorem: Boxes in R^n are compact
 
 >[!abstract] Theorem: Cantor intersection
->Let $A_i \subseteq \mathbb R^n$ be a family of [[Compact sets|compact sets]] such that the intersection of any finite collection of $A_i$ is nonempty. Then their arbitrary intersection is nonempty, i.e.,  $\bigcap_{i=1}^\infty A_i \neq \varnothing$.
+>Let $A_i \subseteq \mathbb R^n$ be a family of [[Compactness|compact sets]] such that the intersection of any finite collection of $A_i$ is nonempty. Then their arbitrary intersection is nonempty, i.e.,  $\bigcap_{i=1}^\infty A_i \neq \varnothing$.
 
-#### [[Connected sets]]
+#### [[Connectedness]]
 
-![[Connected sets#^2c2cea]]
+![[Connectedness#^2c2cea]]
+
+#### [[Bounded sets and functions]]
+
+![[Bounded sets and functions#^437db8]]
+
+![[Closed sets, closures, and dense subsets#^161a01]]
+
+## Sequences and series
 
 #### [[Sequences]]
 
@@ -85,17 +97,65 @@ Theorem: Boxes in R^n are compact
 
 ![[Sequences#^067414]]
 
-![[Cauchy sequences#^e1c6fb]]
+![[Bounded sets and functions#^53990e]]
+
+![[Bounded sets and functions#^496c53]]
 
 ![[Sequences#^ac6d87]]
 
-#### [[Bounded subsets and diameters]]
+![[Sequences#^c93f86]]
 
-![[Bounded sets and functions#^437db8]]
+![[Limits and accumulation points#^32e7de]]
 
-![[Closed sets, closures, and dense subsets#^161a01]]
+![[Closed sets, closures, and dense subsets#^3a968a]]
 
 
+#### [[Cauchy sequences and complete metric spaces]]
+
+![[Cauchy sequences and complete metric spaces#^e1c6fb]]
+
+
+![[Cauchy sequences and complete metric spaces#^e8fe08]]
+
+#### [[Compactness|Limit point and sequential compactness]]
+
+![[Compactness#^866ab2]]
+
+![[Compactness#^6b379f]]
+
+#### [[Series]]
+
+![[Series#^d80ac1]]
+
+![[Series#^b11689]]
+
+![[Series#^df4dba]]
+
+![[Series#^b60f35]]
+
+![[Series#^1e6adc]]
+
+![[Series#^ad405d]]
+
+![[Series#^8b4150]]
+
+![[Series#^35baae]]
+
+#### [[Continuous functions]]
+
+![[Continuous functions#^700d8d]]
+
+![[Homeomorphisms and topological embeddings#^c54cde]]
+
+![[(Theorem) Extreme value#^fea58b]]
+
+
+
+![[Compactness#^d5a100]]
+
+#wip Analagous to lemma from general metrizable spaces.
+
+![[Continuous functions#^96dcf9]]
 
 ---
 # Notes
@@ -103,5 +163,9 @@ Theorem: Boxes in R^n are compact
 Cards to make:
 - [ ] Statement of the [[(Theorem) Heine-Borel|Heine-Borel]]
 - [ ] Statement of the Hausdorff property
+- [ ] HW 4.2: separable = countable dense subset?
 
 - Cantor’s intersection theorem?
+
+Questions:
+- Does $e^2$ work for the $\epsilon-\delta$ proof?

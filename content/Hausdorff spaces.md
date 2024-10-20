@@ -10,7 +10,11 @@ tags:
 status: 🔴
 publish: "true"
 date: 2024-09-14 14:29
-lastmod: 2024-09-19T09:58:02-04:00
+lastmod: 2024-10-17T18:49:14-04:00
+---
+
+“Non-Hausdorff spaces don’t exist in nature”
+
 ---
 # Overview
 

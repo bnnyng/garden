@@ -10,12 +10,14 @@ tags:
   - MATH-GU4061
 date: 2023-01-18
 publish: "true"
-lastmod: 2024-09-21T16:58:52-04:00
+lastmod: 2024-10-19T14:39:14-04:00
 status: 🟡
 ---
 The real numbers $\mathbb R$ have three defining properties: they are a [[Field axioms|field]] with defined operations of addition, scalar multiplication, and non-zero division; they are [[Order relations on sets and fields|ordered]]; and they have no "missing points." Informally, these properties make the real numbers visualizable as a line. 
 
 Formally, $\mathbb R$  is the unique [[Completeness|complete ordered field]]. As an upshot of the uniqueness of $\mathbb R$, every real number has a unique [[Decimal representation of reals|decimal representation]].
+
+Related: [[Complex numbers, conjugates, and absolute value]]
 
 ---
 # Formal definition of the reals

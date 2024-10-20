@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-06-18 15:06
-lastmod: 2024-09-13T10:44:13-04:00
+lastmod: 2024-10-06T19:43:50-04:00
 ---
 - Multicellular life as a “charismatic center”
 - Semantic drift
@@ -68,3 +68,16 @@ Right now, I am mostly interested in [math](https://bnnyng.github.io/garden/tags
 ---
 Stats stuff
 - Central limit theorem
+
+---
+
+---
+# Topics
+
+| Date       | Topic                               | Readings                                                      | Lecture notes                                                                                   |
+| ---------- | ----------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 2024-09-09 | Introduction to social neuroscience | [[@2017ward]] Ch. 1                                           | [[20241002-lecture-intro-to-social-neuroscience\|Lecture: Introduction to Social Neuroscience]] |
+| 2024-09-11 | Methods of social neuroscience      | [[@2017ward]] Ch. 2<br>[[@2003cacioppo]]<br>[[@2008mitchell]] | [[20240916-lecture-methods-of-social-neuroscience\|Lecture: Methods of Social Neuroscience]]    |
+| 2024-09-23 | Emotion and motivation              | [[@2017ward]] Ch. 4<br>[[@2004whalen]]                        | [[20240923-lecture-emotion-and-motivation\|Lecture: Emotion and Motivation]]                    |
+| 2024-09-30 | Understanding others                |                                                               | [[20240930-lecture-understanding-others\|Lecture: Understanding Others]]                        |
+| 2024-10-09 | Cultural neuroscience               |                                                               | [[20240930-lecture-cultural-neuroscience\|Lecture: Cultural Neuroscience]]                      |

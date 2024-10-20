@@ -13,7 +13,7 @@ tags:
   - MATH-GU4061
 publish: 
 date: 2024-04-10 17:48
-lastmod: 2024-09-23T06:38:21-04:00
+lastmod: 2024-10-19T14:53:15-04:00
 status: 🟠
 ---
 # Overview
@@ -27,17 +27,41 @@ status: 🟠
 >$$
 >with addition and multiplication maps $+, \cdot : \mathbb C \times \mathbb C \to \mathbb C$ defined by
 >$$
->(a,b) + (c,d) := (a + c, b + d) \quad \quad (a, b) \times (c, d) := (ac-bd, ad+bc).
+>(a,b) + (c,d) := (a + c, b + d) \quad \quad (a, b) \times (c, d) := (ac-bd, ad+bc)
 >$$
->The additive and multiplicative identities on $\mathbb C$ are given by $(0, 0)$ and $(1, 0)$, respectively.
+>$$
+>(a+bi) + (c+di) := (a+c) + (b+d)i \quad \quad (a + bi) \times (c + di) := (ac-bd) + (ad+bc)i.
+>$$
+>The additive and multiplicative identities on $\mathbb C$ are given by $(0, 0)$ and $(1, 0)$, respectively. Further, given any $(a, b) \in \mathbb C$, the additive and multiplicative inverses are given by 
+>$$
+>-(a,b) := (-a, -b) \quad \quad (a,b)^{-1} = \left ( \frac{a}{a^2 + b^2}, \frac{-b}{a^2 + b^2} \right ).
+>$$
 
 ^d9f858
 
----
-# Complex conjugates
+Related: [[The real numbers]]
 
->[!example] Definition: Complex conjugate
->A complex number $z = x + iy$ has the **complex conjugate** $\overline{z} = x - iy$, where the imaginary part is negated. 
+---
+# Complex conjugation and absolute value
+
+>[!example] Definition: Complex conjugation and absolute value on $\mathbb C$
+>Given a complex number $z = (a, b) \in \mathbb C$, we define **complex conjugation** by 
+>$$
+>\overline z = \overline{(a, b)} := (a, -b),
+>$$
+>or negating the *imaginary part* of $z$. The **absolute value** of a complex number is defined by
+>$$
+>|z| := \sqrt{z \cdot \overline z},
+>$$
+>and has the following properties:
+>- (i) **Positive-definiteness.** For all $z \in \mathbb C$, we have $|z| \geq 0$ and $|z|=0 \iff z = 0$. 
+>- (ii) **Multiplicativity.** For all $z, w \in \mathbb C$, we have $|z \cdot w| = |z| \cdot |w|$.
+>- (iii) **Triangle inequality.** For all $z, w \in \mathbb C$, we have $|z + w| \leq |z| + |w|$, with $|z + w| = |z| + |w|$ if and only if one of $z, w=0$ or $z/w$ is a positive real number.
+>- (iv) **Reverse triangle inequality.** For all $z, w \in \mathbb C$, we have $||z|-|w|| \leq |z-w|$.
+
+
+---
+# Operations with complex numbers
 
 The complex conjugate shares the following properties with the complex numbers in general:
 - $\overline{z+w} = \overline{z} + \overline{w}$;
@@ -46,12 +70,12 @@ The complex conjugate shares the following properties with the complex numbers i
 - $z \overline{z} = (x + iy)(x-iy) = x^2 + y^2 + i(yx - xy) = |z|^2$, a non-negative real number;
 - $z \overline{z} = 0 \iff z = 0$.
 
----
-# Absolute value
 
->[!example] Definition: Absolute value
->Given a complex number $z$, its **absolute value** $|z|$ is the non-negative square root $\sqrt{z \cdot \overline z}$. 
-
+Given any complex numbers $z, w \in \mathbb C$, division is equivalent to
+$$
+\frac{z}{w} = \frac{z}w\cdot \frac{\overline w}{ \overline w} = \frac{z \overline w}{|w|^2}
+$$
+ 
 ---
 # Review
 

@@ -22,15 +22,22 @@ title: Class | The Neural Code
 
 # Readings
 
-| Date       | Topic                              | Cite Key                                                     | Short Essay Response                                                                                                 |
-| ---------- | ---------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
-| 2024-09-11 | Tuning curves and receptive fields | [[@1984enroth-cugell]]<br>[[@1982georgopoulos]]              | [[20240910-reflection-essay-tuning-curves-receptive-fields\|Reflection Essay: Tuning Curves and Receptive Fields]]   |
-| 2024-09-18 | Sparse codes and representations   | [[@2000decharms]]<br>[[@1996yu]]<br>[[@2005quiroga]]         | Not completed                                                                                                        |
-| 2024-09-25 | Rate codes and temporal codes      | [[@1995mainen]]<br>[[@1996shadlen]]                          | [[20240922-reflection-essay-rate-temporal-codes\|Reflection Essay: Rate Codes and Temporal Codes]]                   |
-| 2024-10-02 | Thinking is too damn expensive     | [[@2008okawa]]<br>[[@2003lennie]]<br>[[@2022quintela-lopez]] | [[20241001-reflection-essay-efficient-coding-metabolic-cost\|Reflection Essay: Efficient Coding and Metabolic Cost]] |
-| 2024-10-09 | Mechanisms of feature selectivity  |                                                              |                                                                                                                      |
-| 2024-10-16 | Information theory in neuroscience |                                                              |                                                                                                                      |
+| Date       | Topic                              | Cite Key                                                                    | Short Essay Response                                                                                                 |
+| ---------- | ---------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-11 | Tuning curves and receptive fields | [[@1984enroth-cugell]]<br>[[@1982georgopoulos]]                             | [[20240910-reflection-essay-tuning-curves-receptive-fields\|Reflection Essay: Tuning Curves and Receptive Fields]]   |
+| 2024-09-18 | Sparse codes and representations   | [[@2000decharms]]<br>[[@1996yu]]<br>[[@2005quiroga]]                        | Not completed                                                                                                        |
+| 2024-09-25 | Rate codes and temporal codes      | [[@1995mainen]]<br>[[@1996shadlen]]                                         | [[20240922-reflection-essay-rate-temporal-codes\|Reflection Essay: Rate Codes and Temporal Codes]]                   |
+| 2024-10-02 | Thinking is too damn expensive     | [[@2008okawa]]<br>[[@2003lennie]]<br>[[@2022quintela-lopez]]                | [[20241001-reflection-essay-efficient-coding-metabolic-cost\|Reflection Essay: Efficient Coding and Metabolic Cost]] |
+| 2024-10-09 | Mechanisms of feature selectivity  | [[@1959lettvin]]<br>[[@2016warrant]]<br>[[@2021lindsay]]                    | [[20241008-reflection-essay-mechanisms-of-feature-selectivity\|Reflection Essay: Mechanisms of Feature Selectivity]] |
+| 2024-10-16 | Information theory in neuroscience | [[@2021lindsay]]<br>[[@2000reinagel]]<br>[[@2006koch]]<br>[[@1981laughlin]] | [[20241015-reflection-essay-information-theory\|Reflection Essay: Information Theory in the Brain]]                  |
+| 2024-10-23 | Representational geometry          | 2016fusi<br>2020bernardi<br>2024courellis<br>2019hirokawa                   |                                                                                                                      |
 
 ---
 # Notes
+
+
 https://www.pnas.org/doi/full/10.1073/pnas.1921882118
+
+- Potential “additional” topics:
+	- Self-organization and scaling behavior, criticality
+	- Free energy principle

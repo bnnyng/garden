@@ -13,7 +13,7 @@ tags:
 status: 🔴🔨
 publish: "true"
 date: 2024-09-12 07:59
-lastmod: 2024-09-27T21:26:38-04:00
+lastmod: 2024-10-12T15:29:26-04:00
 ---
 >[!question]
 >- Permuting the indices?
@@ -141,6 +141,9 @@ for the box topology. $B$ is clearly open in $\mathbb R^\omega$, but $f^{-1}(B)$
 - Check that the basis generating the **box topology** is indeed a basis.
 - What is the difference between the bases for the box and product topologies? Specifically, for each basis element $\prod_{\alpha \in J} U_\alpha$, what is $U_\alpha$ representing? (See Munkres Theorem 19.1). ⭐
 - Show that if $J$ is infinite, then the box, uniform, and product topologies are distinct (i.e., strict inclusions). ⭐
+- Suppose $X_i = \{ 0, 1\}$ has the discrete topology for $i \in \mathbb Z_{>0}$. Convince yourself that $\prod_{i=1}^\infty X_i$ is discrete in the box topology, but not in the product topology (in fact, in the product topology, this is isomorphic to the Cantor set). ⭐
+- Give an example of when Theorem 19.6 fails for the box topology.
+
 
 ---
 # Notes

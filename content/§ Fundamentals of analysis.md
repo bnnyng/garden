@@ -41,7 +41,7 @@ publish:
 ## Continuity
 
 - [[Pointwise continuity]]
-- [[Uniformly continuous function]]
+- [[Continuous functions]]
 - [[Continuous functions]]
 
 **Theorems:**
@@ -59,7 +59,7 @@ publish:
 
 ## Compactness, connectedness, and convergence
 
-- [[Compact sets]]
+- [[Compactness]]
 
 **Theorems:**
 - [[(Theorem) The openness of a set depends on the space in which the set resides]]
