@@ -38,14 +38,14 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     // Component.Explorer(),
-    Component.Graph(),
-    Component.Backlinks(),
+    // Component.Graph(),
+    // Component.Backlinks(),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
-    // Component.Graph(),
+    Component.Graph(),
     // Component.DesktopOnly(Component.TableOfContents()),
-    // Component.Backlinks(),
+    Component.Backlinks(),
   ],
 }
 
@@ -64,7 +64,12 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    // Component.Explorer(),
+    
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
-  right: [],
+  right: [
+    Component.Graph(),
+    Component.Backlinks(),
+  ]
 }
