@@ -1,0 +1,46 @@
+---
+aliases:
+  - interactionist substance dualism
+  - behaviorism
+  - functionalism
+  - reductionism
+  - physicalism
+  - reductionist
+  - anti-reductionist
+  - physicalist
+  - anti-physicalist
+  - mind/brain identity theory
+tags:
+  - permanent-note
+  - topic-cognitive-science
+  - PHIL-UN2655
+publish: 
+date: 2024-10-08 11:52
+lastmod: 2025-03-07T21:57:43-05:00
+---
+# Overview
+
+**Reductionism** is the view that mental phenomena are irrelevant in scientific (psychological) theories since mental descriptions can be replaced by descriptions of behavioral or psychological processes. 
+
+**Physicalism** is the view that mental phenomena are ultimately physical entities, which are describable by physics. 
+
+|                                                | Basic definition                                                                                                                                                                                             | Oppositions                                                                                                                           | Reductionist | Physicalist |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------- |
+| Interactionist substance dualism               | Mind and body are separate substances                                                                                                                                                                        | Unclear how the immaterial mind interacts with material body/world                                                                    | ✖            | ✖           |
+| Behaviorism                                    | Mental states can be reduced to behaviors, or behavioral dispositions                                                                                                                                        |                                                                                                                                       | ✔            | ✔           |
+| Token physicalism (mind/brain identity theory) | Every **token** mental state is identical to a token brain state; that is, every token state is identical to some brain state, but the same type of token does not necessarily map onto the same brain state | Weaker than type physicalism; “anarchy”                                                                                               | ✔            | ✔           |
+| Type physicalism (mind/brain identity theory)  | Every **type** of mental state is identical to a type of brain state (e.g., every instance of pain is equivalent to C-fibers firing)                                                                         | Can’t really talk about beliefs more generally; plausible that things can have the same mental state while being physically different | ✔            | ✔           |
+| Functionalism                                  | Every mental state is constituted by its **causal** relation to other mental states                                                                                                                          | [[Classical theories of mind]]                                                                                                        | ✖            | ✔           |
+
+**Related notes:** [[Computationalist and connectionist approaches to cognition]]
+
+
+---
+# References
+
+- [[@2011kim]], “[[@2011kim|Mind as a Computing Machine]]”
+
+---
+# Notes
+
+- Functionalism implies multiple realizability.

@@ -1,0 +1,189 @@
+---
+aliases:
+  - metric
+  - metric space
+  - distance
+  - metric topology
+  - metrizable
+  - standard bounded metric
+  - uniform metric
+  - discrete metric
+  - supremum norm
+tags:
+  - permanent-note
+  - topic-logic-mathematics
+  - MATH-GU4061
+  - MATH-GU4051
+publish: "true"
+date: 2024-04-10 17:32
+lastmod: 2024-12-12T22:35:23-05:00
+status: 🟠🔨
+---
+# Overview
+
+>[!example] Definition: Metric, metric space 
+>A **metric** on a set $X$ is a function $d: X \times X \to \mathbb R$ that satisfies the following conditions for all $x, y, z \in X$:
+>- (M1) **Non-negativity and identity.** $d(x, y) \geq 0$, with $d(x,y) = 0$ if and only if $x = y$;
+>- (M2) **Symmetry.** $d(x,y) = d(y,x)$;
+>- (M3) **Triangle inequality**. We have $d(x,y) \leq d(x,z) + d(z,y)$.
+>
+>The value $d(x,y)$ is often called the **distance** between $x$ and $y$ *in* the metric $d$. A **metric space** is a pair $(X, d)$ where $X$ is any set and $d$ is a metric on $X$.
+
+^2a64da
+
+Some properties of a metric space, such as [[Bounded sets and functions|boundedness]], are not entirely topological, but depend on a choice of metric.
+
+Related: [[Inner product spaces]]
+
+---
+# Distances
+
+
+>[!example] Definition: Distance between a set and a point in a metric space
+>Let $(X, d)$ be a [[Metrics, metric spaces, and the metric topology|metric space]]. If $A \subseteq X$ is nonempty and $x \in X$, the distance from $x$ to $A$ is 
+>$$
+>d(x, A) = \inf\{d(x,a) \ | \ a \in A \}.
+>$$
+>Further, the map from $X \to \mathbb R$ defined by $x \mapsto d(x, A)$ for all $x \in X$ is [[Continuous functions|continuous]].
+
+^4b9009
+
+
+---
+# Elements and subsets of metric spaces
+
+>[!example] Definition (Rudin 2.18): Elements and subsets of metric spaces
+>Let $(X, d)$ be a metric space.
+>- A **neighborhood** of a point $p \in X$ is the set 
+>$$
+>B_\epsilon(p) = \{ q \in X \ | \ d(p, q) < r\}
+>$$
+>for some **radius** $r > 0$.
+>- A point $p$ is a **[[Limits and accumulation points|limit point]]** of the set $E \subseteq X$ if every neighborhood of $p$ contains a point $q \in E$ where $q \neq p$; that is, every neighborhood of $p$ intersects $E$ at some point other than itself.
+>- A point $p$ is an **interior point** of $E$ if there exists a neighborhood $U$ of $p$ such that $U \subseteq E$.
+>- $E$ is **closed** if every limit point of $E$ is a point of $E$, and **open** if every point of $E$ is an interior point of $E$.
+>- $E$ is **[[Closed sets and closures|dense in]]** $X$ if every point of $X$ is either a limit point of $E$, in $E$, or both.
+
+^b897c8
+
+
+---
+# The metric topology
+
+Metrics generate [[Topological bases and subbases|topological bases]], which then generate a [[Topological spaces and open sets|topology]].
+
+>[!example] Definition: Metric topology, metrizable space
+>If $(X, d)$ is a metric space (i.e., $d$ is a metric on the set $X$), for each $x \in X$, we define the $\epsilon$-ball about $x$ as the set
+>$$
+>B_d(x, \epsilon) = \{ y \in X \ | \ d(x, y) < \epsilon. \}
+>$$
+>Then the set of all open balls
+>$$
+>\{ B_d(x, \epsilon) \ | \ x \in X, \ \epsilon > 0 \}
+>$$
+>is a [[Topological bases and subbases|basis]] for the **metric topology induced by $d$**. A general [[Topological spaces and open sets|topological space]] $(X, \mathcal T)$ is **metrizable** if there exists some metric on $X$ which induces $\mathcal T$.
+
+^afb4a1
+
+The notation $B_d$ emphasizes that the set of open balls is inducing the metric topology with respect to the *specific* metric $d$. 
+
+>[!abstract] Lemma: Every metrizable space is Hausdorff
+>If $X$ is a metrizable space and has a topology induced by the metric $d$, then $X$ is [[Hausdorff spaces|Hausdorff]].
+
+
+>[!abstract] Lemma: Using bases to determine which *metric topology* is finer
+>Let $d, d’$ be metrics on $X$ with induced topologies $\mathcal T, \mathcal T’$ respectively. Then $T’$ is [[Topological spaces and open sets|finer]] than $\mathcal T$ (i.e., $\mathcal T \subseteq T’$) if and only if for all $x \in X$ and all $\epsilon > 0$, there exists $\delta > 0$ such that $B_{d’} (x, \delta) \subseteq B_d(x , \epsilon)$.
+
+The typical $\epsilon-\delta$ and convergent sequence definitions of [[Continuous functions#In general metrizable spaces|continuity]] also hold for general metrizable spaces.
+
+----
+# Examples
+
+#### Metric generating the discrete topology
+
+![[Discrete topology#^6abe9b]]
+
+#### Euclidean metric
+
+The **Euclidean metric** on $\mathbb R^n$ is the norm $|x - y|$ defined by
+$$
+d(x, y) = \sqrt{(x_1-y_1)^2 + \cdots + (x_n-y_n)^2}.
+$$
+
+#### “Square metric” on $\mathbb R^n$
+
+The “square metric” on $\mathbb R^n$ is defined by
+$$
+\rho (x, y) = \text{max}\{ |x_1-y_1|, ..., |x_n - y_n| \}.
+$$
+
+>[!abstract] Theorem: The Euclidean and the square metrics induce the same topology
+>The Euclidean and the square metrics induce the same topology on $\mathbb R^n$ (and both are equal to the [[Product spaces|product topology]]).
+
+^dec64c
+
+#### Standard bounded metric
+
+>[!example] Definition: Standard bounded metric
+>Given any metric space $(X, d)$, the **standard bounded metric corresponding to $d$** is defined as
+>$$
+>\overline d (x, y) = \text{min}\{ d(x,y), 1\}.
+>$$
+
+^079f83
+
+>[!abstract] Theorem: The standard bounded metric induces the same topology as the original
+>For any metric space $(X, d)$:
+>1. The standard bounded metric $\overline d$ induces the same topology as $d$;
+>2. Every subset $A \subseteq X$ is [[Bounded sets and functions|bounded]] with respect to $\overline d$.
+
+Intuitively, we can show (1) by using balls of radius $<1$ to generate the topology induced by $d$. Statement (2) gives an example of how boundedness is a property of the metric, and not a general topological property; the result is immediate by definition of $\overline d$.
+
+#wip Upshot: boundedness is a property of….?
+
+#### Uniform metric on the general product
+
+>[!example] Definition: Uniform metric, uniform topology
+>Consider the [[Product spaces|product]] $\prod_J \mathbb R$, where $J$ is any indexing set. As a set, $\prod_J \mathbb R$ is the set of all functions $J \to \mathbb R$, so we may also denote it $\mathbb R^J$. The **uniform metric on $\mathbb R^J$** is defined by
+>$$
+>\overline \rho (x, y) = \text{sup} \{ \ \overline d (x_\alpha, y_\alpha) \ | \ \alpha \in J \ \},
+>$$
+>where $\overline d (x, y) = \text{min}\{ d(x, y), 1\}$ is the **standard bounded metric** on $\mathbb R$ and $d(x, y) = |x - y|$ is the **standard metric**. It induces the **uniform topology on $\mathbb R^J$**.
+
+^b6198c
+
+- use $\overline d$ rather than $d$ to avoid infinity (e.g., what happens if $J = \mathbb Z_{>0}$)
+
+#### Space of continuous functions on a compact metric space
+
+If $(X, d)$ is a [[Compactness|compact]] [[Metrics, metric spaces, and the metric topology|metric space]], then the space of [[Continuous functions|continuous]] real-valued functions $\mathcal C(X, \mathbb R)$ is a metric space via the **supremum [[Norms|norm]]** defined by
+$$
+d^\infty(f, g) = \sup_{x \in X}|f(x) - g(x)|
+$$
+for $f, g \in \mathcal C(X , \mathbb R)$. This metric is relevant for definitions of [[Convergent sequences of functions|uniform convergence]] of sequences of functions, particularly the statement of [[(Theorem) Arzela-Ascoli]].
+
+
+---
+# Review
+
+[[MATH-GU4051|Topology]]
+
+- Show that the basis for the metric topology is indeed a basis. ⭐
+- Check the example metrics are indeed metrics, particularly $\overline d$. ⭐
+- Show that every **metrizable space** is [[Hausdorff spaces|Hausdorff]]. (Hint: select radius $\epsilon > 0$ to create disjoint open balls in $X$.)
+- Prove that the Euclidean and the square metrics induce the same topology on $\mathbb R^n$. (Hint: apply the lemma about using bases to determine which *metric topology* is finer.) ⭐
+- Prove that the standard bounded metric induces the same topology as the original metric. ⭐
+- Show that the **uniform metric on the general product** $\overline \rho$ is a metric. ⭐
+
+---
+# Proof appendix
+
+![[Metrics, metric spaces, and the metric topology#^dec64c]]
+
+*Sketch from [[MATH-GU4051|Topology]].*
+1. **Verify the following inequality: $\rho(x,y) \leq d(x, y) \leq \sqrt{n} \cdot \rho(x,y)$.**
+2. $\rho(x,y) \leq d(x,y) \implies$ $y \in B_d(x, \epsilon) \subseteq B_\rho(x, \epsilon)$ for all $x \in X$, and the inequality is bounded above by $\epsilon > 0$.  #concept-question for what epsilon?
+
+![[Metrics, metric spaces, and the metric topology#^4b9009]]
+
+#wip

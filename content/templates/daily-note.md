@@ -1,0 +1,112 @@
+---
+tags:
+  - daily-note
+---
+
+![[2025#Principles to live by]]
+
+# To do
+
+> What are the top three *most important* things I need to do today?
+
+- [ ] 
+
+----
+# Menu
+
+> What other things can I do today that are less important?
+## Today
+
+- [ ]
+
+## Future file
+
+[[2025-03-27]]
+
+- [[MATH-GU4053|Algebraic Topology]]: Catch up on lecture notes for relative homology, [[(Theorem) A short exact sequence of chain complexes induces a long exact sequence of homology groups]]
+
+[[2025-03-26]]
+
+- [ ] [[MATH-GU4042|Modern Algebra II]]: Take notes and make flashcards for multiple roots and formal derivatives
+
+[[2025-03-25]]
+
+- [[MATH-GU4053|Algebraic Topology]]: Complete lecture notes on homology
+	- [ ] [[Singular chains and singular homology]]: Example of homology groups for a one-point space and the discrete space
+	- [ ] [[Singular chains and singular homology]]: Proof that the zeroth homology group for a path-connected space is infinite cyclic
+	- [ ] Review Hatcher’s proof of [[(Theorem) The abelianization of the fundamental group of a path-connected space is isomorphic its first singular homology group]]
+	- [ ] Lemma as a preliminary for [[(Theorem) A short exact sequence of chain complexes induces a long exact sequence of homology groups]]
+- [ ] [[MATH-GU4053|Algebraic Topology]]: Save corrected version of latest homework
+- [ ] [[MATH-GU4053|Algebraic Topology]]: Complete notes for the following theorem statements and applications
+	- [ ] [[(Theorem) (Relative) homology is homotopy invariant]] (and exposition)
+	- [ ] [[(Theorem) The relative homology of a subset is isomorphic to the subset with excision when the closure of the excision is in the interior of the subset]]
+	- [ ] [[(Theorem) The homology of the n-disk relative to its boundary is n for the pth group and 0 otherwise]]
+- [ ] [[MATH-GU4200|Mathematics and the Humanities]]: Readings
+	- [ ] [[@1997mazurConjecture]]
+	- [ ] [[@2024asok]]
+
+[[2025-03-24]]
+
+- [[MATH-GU4042|Modern Algebra II]]: Take note of results from homework about extensions of the rationals
+
+[[2025-03-23]] – Spring break leftovers
+
+- Academics
+	- [ ] [[MATH-GU4042|Modern Algebra II]]: Catch up with lecture notes, preview upcoming problem set
+	- [ ] [[PHIL-UN3551|Philosophy of Science]]: Catch up with lecture notes to send to ODS
+	- [ ] [[MATH-GU4053|Algebraic Topology]]: Catch up with lecture notes from 3/13, homology groups in general
+	- [ ] [[MATH-GU4200|Mathematics and the Humanities]]: Brainstorm and outline midterm paper
+- Research project
+	- [ ] [[2025-artificial-life|Project ALife]]: Implement MARL with emergent social learning paper
+	- [ ] [[2025-artificial-life|Project ALife]]: Get familiar with JAX
+	- [ ] Read [[@2021anthropic]] to thoroughly understand transformers
+- Personal
+	- [ ] Apply for financial aid
+
+[[2025-03-11]]
+
+- [ ] [[PHIL-UN3655|Topics in Cognitive Science and Philosophy]]: Read [[@1995mcclelland]] on memory
+- [ ] [[MATH-GU4200|Mathematics and the Humanities]]: Review notes for possible questions, email Justin
+- [ ] [[MATH-GU4200|Mathematics and the Humanities]]: Catch up with readings on “contingency”
+
+[[2025-03-06]]
+
+- [ ] [[MATH-GU4053|Algebraic Topology]]: Complete proofs in [[(Theorem) Path and homotopy lifting]]
+
+[[2025-03-04]]
+
+- [ ] [[2025-codec-lab|CoDec Lab]]: Skim curriculum learning document
+
+[[2025-02-27]]
+
+- [ ] [[PHIL-UN3655|Topics in Cognitive Science and Philosophy]]: Look into computational power of RNNS, transformers vs. MLPs
+
+[[2025-02-13]]
+
+- [ ] [[PHIL-UN3655|Topics in Cognitive Science and Philosophy]]: Topics to look into
+	- [ ] Akhlaghpour’s model
+	- [ ] The genome as a generative model
+
+[[2025-02-12]]
+
+- [ ] [[MATH-GU4200|Mathematics and the Humanities]]: Email Justin with follow-up questions on previous seminar
+	- “You’ll know it when you see it” style of primitivism, as seen previous w.r.t. [[Probabilistic explanations and laws in science, after Hempel]]—how do philosophers reconcile this? “The buck stops” here, so to speak? Only further explanations are in (pre-scientific, folk) psychology, e.g., [[Concept nativism, after Fodor]]?
+	- Clarifying the concept of a Standard Model, which appeared somewhat displeasing to Johann
+	- Formal system for proof is necessarily serial if it is to be infinite, as parallel neural nets are (classically) equivalent to finite ==state== machines?
+
+---
+
+# Notes
+
+```
+<input type="checkbox">
+```
+
+```
+$\ \text{}$
+```
+
+```
+<br><br>Source: 
+```
+

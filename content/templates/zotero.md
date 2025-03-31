@@ -1,0 +1,36 @@
+---
+citekey: {{citekey}}
+aliases:
+  - {{shortTitle}}
+tags:
+  - literature-note
+title: "{{itemType}} | {{title}}"
+year: {{date | format("YYYY")}}
+permalink: {{url}}
+publish:
+date: {{dateAdded | format("YYYY-MM-DD")}}
+---
+> {{bibliography}}
+
+---
+
+# Summary
+
+> [!Abstract]
+> {%- if abstractNote %}
+> {{abstractNote}}
+> {%- endif -%}.
+
+
+---
+
+# Atomic notes
+
+---
+
+# Key terms
+
+---
+
+# Reading notes
+

@@ -1,0 +1,940 @@
+---
+lastmod: 2024-12-04T14:48:41-05:00
+tags:
+  - workspace
+aliases:
+  - SFI UCR
+  - undergraduate complexity research
+  - Santa Fe Institute
+  - Polymetamath
+publish: 
+date: 2024-06-05 11:35
+---
+
+DOOR CODE: 5891\*
+# Content
+
+**Overview**
+- [[Polymath projects]]
+- [[ucr-final-abstract]]
+
+**Literature and related theory**
+- [[A cognitive taxonomy for mathematical collaboration]]
+- [[Dialogical reasoning]]
+- [[Cognitive mechanisms of scientific discovery]]
+- [[Collaborative problem-solving]]
+
+**Methods**
+- [[Methods for PolyMetaMath]]
+- [[Topic modeling with MALLET]]
+- [[Shannon information (entropy)]]
+- [[Coarse-graining]]
+
+**Fleeting notes and workspaces**
+- [[20240802-semantic-topic-hierarchy-specs]]
+- [[20240803-cognitive-topic-hierarchy-specs]]
+- [[20240820-gpt-topic-hierarchy-specs]]
+- [[20240905-polymetamath-independent-study-petition]]
+
+---
+
+# Fall 2024 log
+
+## December
+
+[[2024-12-04]]
+
+- Experiments for 100 comments
+	- [ ] Different batch sizes
+	- [ ] LaTeX vs. no LaTeX
+	- [ ] Cycle through different APIs
+	- [ ] Filter responses for numbers greater than 1?
+	- [ ] Get GPT to return a JSON object
+## November
+
+[[2024-11-11]]
+
+- Meeting with Simon and Marina
+	- Maybe just make multiple calls on the core?
+	- Drop “assumptions” and “empirical”
+	- Check: higher proportion of interpersonal in replies?
+
+2024-11-08
+
+- Also compute correlations with person and GPT
+- Learn PCA
+- What is a good baseline correlation?
+	- Compare to human correlations
+- Figure out how to parallelize (Python packages)
+	- Parallel example from OpenAI: https://github.com/openai/openai-cookbook/blob/feef1bf3982e15ad180e17732525ddbadaf2b670/examples/api_request_parallel_processor.py
+	- Simpler versio? https://medium.com/@nitin_l/parallel-chatgpt-requests-from-python-6ab48cc2a610
+- Next steps
+	- [ ] Compute correlations between humans and GPT
+	- [ ] Read through PCA tutorial: https://www.stat.cmu.edu/~cshalizi/uADA/16/lectures/17.pdf
+
+[[2024-11-04]]
+- About 1 second per comment when doing batches of 10
+- Meeting with Simon and Marina
+	- Generating examples
+		- Look for cases where clearly both 0 or 1, or majority vote
+		- Get one example and one non-example – “average human rating is ….”
+		- Run on the remaining 17 comments to look at correlations again
+		- Try experiment with first 7 categories 
+	- Idea is to update human-GPT correlations (currently lower than human-human correlations) to match human-human
+
+[[2024-11-01]]
+- Handrating observations
+	- Examples vs. cases – examples as explanation or edification, or formal demonstration
+
+## October
+[[2024-10-25]]
+
+```
+    user_prompt = f"""
+
+    Evaluate the following comments based on the presence of reasoning that aligns with logical deduction and canonical mathematical proof language. First, provide a brief justification for each comment, explaining why it does or does not meet the criteria for logical deduction or formal proof language.
+
+    After providing the justification, assign a rating between 0 and 1, where:
+
+    1: The comment fully embodies logical deduction or canonical mathematical proof language.
+
+    0.5: Uncertainty about whether reasoning aligns with formal logic or proof.
+
+    0: The comment contains no logical deduction or formal proof elements.
+
+  
+
+    You may also use continuous values (e.g., 0.5, 0.7) to reflect partial alignment.
+
+  
+
+    For guidance:
+
+    1: Clear use of structured mathematical proof or logical deduction.
+
+    0.5: Partial use of deductive reasoning or mathematical structure but not fully developed.
+
+    0: No evidence of any reasoning is based on logic or proof language.
+
+    After justifying each comment, provide the rating for each one. Finally, output only a comma-separated list of ratings as the final result.
+
+    Be sure to output only the list of ratings at the end.
+```
+
+- Deductive trials
+	- `['0', '1', '0', '0.3', '0']`
+	- `['0', '0', '0', '1', '0']`
+- Meeting with Simon and Marina
+	- Try a subset of categories for 2+ runs
+		- Deductive (easy), examples, 
+	- Speed up with 100
+		- Try for batches of 5+, scan for “rating”
+		- Parallelize (last resort)
+
+[[2024-10-21]]
+
+- Possible additional categories?
+	- Directing attention (relevance?): “The key observation is that…”
+	- Degrees of belief, talking about intuition, explicitly talking about understanding or not
+		- “I must be missing something…”
+		- “Gut feeling” (modal)
+		- Explanation, asking for explanations, questions
+	- Understanding or lack thereof?: “Certainly it will be very interesting for me to understand…”
+	- Preferences: ideally
+- Possible categories to remove:
+	- Hidden assumptions?
+- Maybe want better category descriptions, using a lot of intuition to rate them
+- Meeting with Simon and Marina
+	- Prompt engineering – ask ChatGPT directly to give a better prompt
+	- How do we get the best results?
+		- Interrater reliability – multiple runs = correlated with itself (try by running it twice, 0.8 or higher—similar to human judgement!)
+		- Align with human judgement
+	- Might overfit on examples
+	- **Ask for justification before giving rating**
+- To do
+	- [ ] Make the two CSVs and look for correlations
+
+```
+`Evaluate the following comments based on the presence of reasoning that aligns with logical deduction and canonical mathematical proof language. First, provide a brief justification for each comment, explaining why it does or does not meet the criteria for logical deduction or formal proof language.``After providing the justification, assign a rating between 0 and 1, where:``1: The comment fully embodies logical deduction or canonical mathematical proof language.`  
+`0.5: Uncertainty about whether reasoning aligns with formal logic or proof.`  
+`0: The comment contains no logical deduction or formal proof elements.``You may also use continuous values (e.g., 0.5, 0.7) to reflect partial alignment.`  
+`For guidance:``1: Clear use of structured mathematical proof or logical deduction.`  
+`0.5: Partial use of deductive reasoning or mathematical structure but not fully developed.`  
+`0: No evidence of any reasoning is based on logic or proof language.``After justifying each comment, provide the rating for each one. Finally, output only a comma-separated list of ratings as the final result.``Be sure to output only the list of ratings at the end.`
+```
+
+
+[[2024-10-18]]
+
+- Meeting with Marina
+	- Prompting ChatGPT with examples – choose random selection, rate each of them and compare interrater reliability
+	- Also emotional valence
+	- Gather more information? Instead of 0 or 1, ask it to put degree of confidence
+
+```
+"Please rate the emotional charge of the following comment on a scale from -10 to 10, where -10 represents extremely negative emotions, 0 represents a neutral tone, and 10 represents extremely positive emotions."
+```
+
+[[2024-10-12]]
+
+- Getting relative LL of cognitive words across projects
+	- Look at all comments—issue is that some comments were completely filtered out. What to do about empty comments?
+		- Case for considering only non-empty comments, since everything else can be background “noise”
+	- How to clean up “overall” content? e.g., include HTTP links? – simple for now, don’t clean the rest of the content
+	- How to count the cognitive n_grams – remove, then sum for the count of “total” words?—actually, total shouldn’t matter because we’re looking for just a probability distribution, i.e., proportion
+
+
+
+## September
+
+2024-09-06
+
+- To discuss during meeting
+	- First attempt yielded 1786 unique terms, currently trying to preserve them as n-grams
+		- Possibly limit n?
+	- Independent study
+
+2024-09-16
+
+- 1000 word minimum: 1, 5, 8, 15, 16
+- Further cleaning steps
+	- Remove all single characters (strings less than three characters?)
+
+```
+Project P1: 1760 documents
+Project P2: 88 documents
+Project M1: 346 documents
+Project P4: 486 documents
+Project P3: 810 documents
+Project P5: 3621 documents
+Project M2: 122 documents
+Project P6: 63 documents
+Project M3: 148 documents
+Project P7: 605 documents
+Project M4: 86 documents
+Project P8: 8113 documents
+Project P9: 287 documents
+Project P10: 601 documents
+Project P11: 845 documents
+Project P12: 276 documents
+Project P13: 569 documents
+Project P14: 450 documents
+Project P15: 1581 documents
+Project P16: 2719 documents
+```
+
+```
+Number of unique words in combined list for project P1: 5263
+Number of unique words in combined list for project P2: 456
+Number of unique words in combined list for project M1: 1091
+Number of unique words in combined list for project P4: 2337
+Number of unique words in combined list for project P3: 2283
+Number of unique words in combined list for project P5: 7998
+Number of unique words in combined list for project M2: 213
+Number of unique words in combined list for project P6: 262
+Number of unique words in combined list for project M3: 444
+Number of unique words in combined list for project P7: 2495
+Number of unique words in combined list for project M4: 199
+Number of unique words in combined list for project P8: 9788
+Number of unique words in combined list for project P9: 1002
+Number of unique words in combined list for project P10: 1634
+Number of unique words in combined list for project P11: 3124
+Number of unique words in combined list for project P12: 1073
+Number of unique words in combined list for project P13: 1717
+Number of unique words in combined list for project P14: 1170
+Number of unique words in combined list for project P15: 4766
+Number of unique words in combined list for project P16: 7132
+```
+
+```
+Length of combined list without minis: 37082
+Length of combined list of all projects: 37809
+```
+
+- Word list filtering – what ended up saved as a text file
+	- Removed “remove list” words and single characters
+	- Removed terms that had fewer than 3 characters and greater than 99 characters
+
+2024-09-20
+- Word list filtering using regex
+- Next steps
+	- [ ] Perform new analysis on P1 Gowers’ posts only
+
+
+[[2024-09-30]]
+
+- Additional filtering steps for final word list
+	- Remove all cognitive words
+	- Must appear at least 5 times in the comments
+	- Not in the top 100 ngrams
+- Next steps after meeting with Simon
+	- [ ] Remake word lists to remove all “cognitive” words
+	- [ ] Make scatterplot of author entropy (make distribution over authors by counting the number of posts per author for the given phase) vs. JSD for each phase
+	- [ ] Use R to perform regression with random effects on author entro
+
+
+
+## August
+
+2024-08-14
+
+- Meeting with Simon and Marina
+	- Target Cogsci 2024 conference with diversity research, and possible paper
+	- Work on “cognitive moves” in the long term
+
+2024-08-20
+
+- Using the ChatGPT API to extract mathematical terms from comments – 387 unique words
+	- Processed word list by splitting multi-word terms into bi-grams for word pairs, making 441 words total
+	- Re-ran analyses with the GPT word list, found fairly different curves from hand-picked lists
+- Meeting with Simon and Marina
+	- Do we want to keep “internal” language, or only words that correspond with proper math subfields? I personally think yes, at least with our current method
+	- What could we do with 20 math grad students?
+	- Instead of building hierarchy based on word frequency/co-occurrence, get people (i.e., grad students) to rate the most similar pair in a triplet of topics
+		- Can also use GPT, some notion of inter-rater reliability?
+		- Can also do this with individual words and weight words as they appear in topics?
+	- If things do not work well, potentially look at ways to get probability decompositions other than topic modeling
+- Literature recommendations from Marina
+	- Robert Hawkins on norms: https://pcl.sitehost.iu.edu/papers/normEmergence.pdf
+	- Psychology of Invention in the Mathematical Field: https://worrydream.com/refs/Hadamard_1945_-_The_psychology_of_invention_in_the_mathematical_field.pdf
+- Next steps
+	- [x] Check the distribution of comment lengths for cleaned comments
+	- [x] Check stochasticity of MALLET using both handpicked and GPT word lists
+	- [x] Re-prompt GPT and run multiple times
+	- [ ] Send OpenAI receipts to Simon
+	- [x] Clean up word lists – delete author names, isolated words like “proof” or “theorem”
+	- [ ] Figure out how to get more flexible n-grams
+	- [x] Read Hawkins paper from Marina
+
+2024-08-22
+
+- Cleaned GPT word list – removed words based on inspection, as well as “cognitive” terms made previously (can’t be perfect!)
+- Note error with making bi-grams in previous code – did not capture bi-grams with spaces only, required at least one word between the two words
+	- Potential issue with hand-picked list
+- Next steps
+	- [x] Try a combined GPT “franken-list”
+	- [x] (Optional) Try hand-picked list again?
+
+2024-08-23
+
+- Meeting with Simon
+	- Current work explores how the topic model is working—possible TMs are not the right approach, or we want a more “principled” word list
+
+> (It may also be the case that “topics” are not the right way to think about things — like, people love topic models, but there’s no reason to believe that these are truly how we should track ideas… heresy for many, I’m sure, but also worth thinking about. What if communication is too squishy for us? I don’t think that’s the case here, but I think useful to be aware of…)
+
+
+- Next steps
+	- [x] Run model with different numbers of topics (10 and 20); for each word list, run the topic model a few times and pick version with lowest loss
+	- [x] Write a script that outputs average loss automatically from command line outputs
+
+2024-08-27
+
+- Meeting with Marina and Simon
+	- Why is there variability?
+		- If lack of coverage, then merged word list should help
+	- What should we use as a single “process”?
+		- Marina: Include GPT word generation, run 1000 times to get error bars
+	- Current goal is to make process less bullshit, future goal would be investigating quantitative questions with dependent variables (e.g., successful vs. unsuccessful); “the father, the son, and the holy spirit”
+- Next steps
+	- [ ] Try to get lower variability at GPT step by using smaller comment batches
+	- [ ] Remake word lists with correct bi-gram counting—look for bi-grams first, then remove them from the “content”
+	- [ ] Redo analyses with combined word list
+	- [ ] Change x-axis scale to be the average time of a comment group
+	- [ ] Run for large numbers of trials (e.g., 1000 trials) and use this mean/standard error for plots
+
+
+---
+
+# Santa Fe Institute REU
+## Week 1
+
+#### Jun 5 to Jun 7 – One-on-one mentor meetings
+
+[[2024-06-05]]
+
+- Goal is to decide on a project that establishes a link between Andrew, Marina, hopefully including mentorship from Melanie Mitchell
+- Current ideas: using Marina’s computational methods for mathematics, or investigating local maximums
+- Next steps: reading a lot of papers! Focus on those by SFI authors – Marina, Wolpert, and Simon DeDeo
+
+[[2024-06-06]]
+
+- Agent-based modeling of math epistemology
+- Determining features of proofs that lead to belief or understanding
+- Next steps: finish reading DeDeo and Wolpert papers, try to establish connection with DeDeo?
+
+[[2024-06-07]]
+
+- Recommendations from Chris Kempes
+	- Read DeDeo, Wolpert & Kinney papers
+	- Reach out to James, tracing spread of physical ideas
+- Next steps: 
+	- Run ideas by mentors for advice (Kempes and Marina, mainly)
+	- Look for ways to contact DeDeo or anyone familiar with work
+	- Schedule meeting with James
+
+[[2024-06-08]]
+
+- Emailed Kempes, Marina, and James about both potential projects
+- Began closer reading of [[2-SOMEDAY/2023-wolpert-kinney-stochastic-model-of-math-and-science]]
+- Next steps: continue closer reading of [[2-SOMEDAY/2023-wolpert-kinney-stochastic-model-of-math-and-science|Wolpert & Kinney (2023)]], possibly [[2023-viteri-dedeo-epistemic-phase-transitions|Viteri & DeDeo (2023)]] such that I can have a discussion about it
+
+[[2024-06-08]]
+
+- Emailed Kempes, Marina, and James about both potential projects
+- Began closer reading of [[2-SOMEDAY/2023-wolpert-kinney-stochastic-model-of-math-and-science]]
+- Next steps: continue closer reading of [[2-SOMEDAY/2023-wolpert-kinney-stochastic-model-of-math-and-science|Wolpert & Kinney (2023)]], possibly [[2023-viteri-dedeo-epistemic-phase-transitions|Viteri & DeDeo (2023)]] such that I can have a discussion about it
+
+[[2024-06-09]]
+- Preparatory materials for meeting with James & Andrew
+	- Paper describing [pace of innovation using patterns in cities](<- [ ] [Paper describing pace of innovation measured by patterns in cities](https://www.sciencedirect.com/science/article/abs/pii/S0048733306001661?casa_token=gd1fiv_V3BIAAAAA:UsxFzTUpkBMiw5ie3S0-EbVZWqcM8beVIlvuf488qzIgfDwshBz7rMDlC-oh2FbHAjruikTk)
+	- [Science innovation plots](https://docs.google.com/presentation/d/1IbLvROW-tNpxe-McTcWlHdJFC5OJEdx2rRxBeIIUL0s/edit#slide=id.g2e455f8113e_0_0)
+	- Binary choice models – [discrete choice with social interactions (2022)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267083), [binary choice (2022)](https://iopscience.iop.org/article/10.1088/2632-072X/ac8c78/pdf)
+	- Formal models of social disagreement in science (Seselja, 2022)
+
+ 
+
+## Week 2
+
+#### Jun 10 to Jun 11 – Write project abstract
+
+[[2024-06-10]]
+
+- Meeting with James
+	- Possible to collect the relevant data?
+		- Proof ideas: Pythagorean theorem, Hopf’s Umlaufsatz
+		- Scraping answers and discussions on Math Stack Exchange for social consensus on proofs
+		- “Biographical” or qualitative descriptions of the proving process (modeling piecewise?)
+- Next steps
+	- Prepare for tomorrow’s meeting with Chris Kempes
+	- Prepare for potential meeting with DeDeo
+
+[[2024-06-11]]
+
+- Met with Simon DeDeo, decided on project, submitted initial project summary
+- Next steps
+	- Encode claims in Polymath paper
+	- Continue literature review, particularly sources recommended by DeDeo
+		- Michael Nielsen, *Reinventing Discovery*
+		- Sid Redner’s power-law exponent
+		- DeDeo AMS paper
+		- Catherine Novales Duluth, *Dialogical Roots of Deduction*, general thoughts
+
+#### Jun 11 to Jun 14 – Research days
+
+[[2024-06-12]]
+
+- Polymath paper – exposition gives guidance on *how to think*, very little is actually captured in the statements of theorems themselves
+	- Sections 4, 5, and 9 are given as “sketches” instead of formal arguments – reader is meant to come away with confidence anyway
+	- Would be interesting to look at comments for why particular approaches to *conceptualization* were used
+- Next steps
+	- Watch *Intro Complexity* network videos
+	- Continue literature review on philosophy of math, group reasoning; finish papers recommended by DeDeo
+	- Look into MG’s work on collective decision-making
+	- Look at degree distribution, compute power-law exponent
+	- Ask Alex for network help
+
+[[2024-06-13]]
+
+- Watched *Intro Complexity* section on networks – [[20240613-lecture-networks]]
+- Performed basic analysis on graph of explicitly cited claims, with all relations
+	- Found $\alpha = 2.134, \ \sigma=0.242$; 27 nodes and 28 links 
+- Next steps
+	- Understand relevance of Redner “generative assembly model” paper – the communal reasoning composition as a network that grows slowly over time? Where to draw the distinction between a well-formed proof “piece” that is added to the overall argument?
+	- Talk to Mirta Galesic about collective problem-solving – how do these sorts of things scale? Categorically different situation when goal is this cohesive?
+	- Look into sources of comments for Polymath projects – [polymath1](https://gowers.wordpress.com/category/polymath1/)
+
+[[2024-06-14]]
+
+- Project meeting day
+	- Continue literature review
+	- Look at blog posts, start thinking of a taxonomy of social interactions (c.f. the taxonomy of scientific social interactions from Marina’s work?)
+- Next steps
+	- Finish book on dialogical proving
+	- Start looking at blog posts and comments
+
+ 
+## Week 3
+
+[[2024-06-17]]
+
+- More literature review
+	- [What makes Individual I's a Collective We; Coordination mechanisms & costs](https://arxiv.org/abs/2306.02113#:~:text=What%20makes%20Individual%20I's%20a%20Collective%20We%3B%20Coordination%20mechanisms%20%26%20costs,-Jisung%20Yoon%2C%20Chris&text=Collectives%20must%20coordinate%20and%20regulate,the%20sum%20of%20individual%20abilities.)
+	- [The Polymath Project: Lessons from a Successful Online Collaboration in Mathematics](https://www.cs.cmu.edu/~jcransh/papers/cranshaw_kittur.pdf)
+	- [Internet Collaboration on Extremely Difficult Problems: Research versus Olympiad Questions on the Polymath Site](https://www.cs.cornell.edu/home/kleinber/www16-polymath.pdf)
+	- [Toward a Comparative Cognitive History: Archimedes and D. H. J. Polymath](https://arxiv.org/abs/1204.3534)
+
+[[2024-06-18]]
+
+- Tutorial takeaways – flash talks
+	- Include project plans for feedback
+	- Humor is good, as well as intentionally re-engaging the audience at topical transitions
+	- Keep a forward momentum, try not to flip back to previous slides
+	- Tell an overarching story
+	- To practice or not to practice?
+- Meeting with Simon & Marina
+	- Ideas
+		- Hidden Markov model of reply threads – comment emits one argument pattern, replies emit another; possibility that there are 6 argument patterns but 3 hidden states, etc; more general look at how argumentation happens
+		- Identifying how confidence is established, e.g. presence of enthymematic gaps
+	- Next steps
+		- Scrape posts for comment data
+		- Implement Na clustering technique
+		- Continue literature review to identify significant suggested reasoning processes (e.g., Type 1 vs. Type 2 methods of establishing confidence, [[Deductive dialogues are Prover-Skeptic games, after Dutilh Novaes|Prover-Skeptic]] framework) and “argument” types (e.g., counterexamples, probabilistic reasoning)
+
+[[2024-06-19]]
+
+- Tutorial takeaways – organization and project management
+	- Storage
+		- PCloud for secure cloud storage
+	- Preparing code for publication
+		- File structure: under a “repos” folder, keep repositories per project
+		- README file can be done any time during process
+		- Example: subfolders for figure-producing scripts, MatLab functions, figures that are automatically generated by scripts, “schematic” or non-automatic figures
+		- Figshare – figures and data repository, useful for large datasets
+		- Archive to DOI
+- Scraped data from all threads related to Polymath1
+	- Data for each comment contains: author, date and time string, comment content; date and time stored in correct type
+- Suggestions for potential analysis
+	- ? – vectorize and examine vector space movement (?)
+	- Sara Walker – compare number of comments that are “memory” to what is truly novel
+		- What counts as novel, if mathematics is deductively built?
+- Next steps
+	- Start parsing out reply chain – account for comment replies in dataset
+	- Get suggestions for how to interpret comment content
+	- Share code with Simon and Marina over GitHub
+
+[[2024-06-20]]
+
+- Added more information for each comment
+	- Custom ID, e.g., `G300-1000` for Gowers comment 1000 on post 300
+	- References to parent comment if in blog “reply” structure (`in-reply-to`, `in-reply-to-href`)
+	- Links to comment itself, and author if available
+
+[[2024-06-21]]
+
+- Contemplating assembly theory perspective and math – mostly reading day (didn’t feel very productive, however)
+- Meeting with Marina & Simon – see daily note
+	- Topical modeling how-to
+- Next steps
+	- Make a text file for all relevant blog links
+	- Finish collecting *clean* data for as many projects as possible
+
+ 
+## Week 4 - Flash talks
+
+
+[[2024-06-24]]
+
+- Saving URLs
+	- For consistency, only saved “research” threads that were officially tagged under the project name for each blog
+	- Omitted comments to published papers for now, since the interaction is not fully captured in the comments (but can add)?
+- Tentatively scraped all comments, reasons for inconsistency with Kloumann paper?
+- Next steps
+	- Add project id column
+	- Include up/down vote data
+
+[[2024-06-25]]
+
+- Meeting with Simon and Marina
+	- Clean comments for topic modeling – remove LaTeX for now, change to all lowercase, possibly standardize tenses?
+	- Get word counts and remove top words
+	- Start “quick and dirty” topic modeling
+- Slack discussion – potential plots 
+	- “The distribution of the length of comments in words; this might tell us a little bit about the “norms” of the system. My guess is that it will look rather Poissonian (with a characteristic length that indicates a target), rather than exponential (implying a constant “probability of stopping”) or power law (indicating more complex processes beloved of the Santa Fe Institute).”
+	- “A scatter plot of “number of non-Latex words” versus “number of Latex equations”, that might separate out “business posts” from more discursive ones”
+- Debugging for web scraping
+	- Fixed replies for Polymath blog
+	- Changed LaTeX to print alt text, bracketed by $s
+- Starting topic modeling
+	- Downloaded necessary packages – will probably have to work from command line
+	- Consolidated and cleaned all comment *content* – did not remove single characters or numbers
+- Next steps
+	- Decide which of the most common words to remove from content – check if I should use a single “document”
+	- Run quick start topic model using the command line
+
+[[2024-06-27]]
+
+- Notes from giving flash talk
+	- Tamyra Walker – look into ethnomathematics, consider how “mathematical reasoning” might be qualified
+	- Cris Moore – tracking math concepts; extend to comparisons to final proof
+- Topic modeling
+	- Tried with 10 and 20 topics
+- Next steps
+	- Talk to Tamyra (`tamyrawalker@gmail.com`) about quantitative social science, topic modeling, ethnomathematics
+	- Get access to “fast machines” via ssh
+		- `bnnyng@ganesha.lan.cmu.edu`, `12-Pr48`
+		- [http://www.linuxproblem.org/art_9.html](http://www.linuxproblem.org/art_9.html)
+		- https://computing.cs.cmu.edu/security/security-ssh
+
+[[2024-06-28]]
+
+- Meeting with Simon & Marina
+	- Current stage is “playing around”; aim to get “cognitive move” word list
+	- Interviewing real people about how they conduct math, take inspiration from [[2024-dedeo-alephzero-and-mathematical-experience]]
+- Topic modeling
+	- Redid model with a large number of topics (100)
+	- Filtered comments for words not shared across projects; in particular, words not used at least three times in all *main* Polymaths
+- Next steps
+	- Try a smaller number of topics (5-10)
+	- Get top comment examples for each topic
+
+ 
+## Week 5
+
+[[2024-07-01]]
+
+- Retrieved top comments for 10 topics with shared words only
+	- Possibly too constrained? Instead, try words that appear in 50 percent of Polymaths, standardizing words
+- Made general plots for data
+	- Distributions of comment lengths (number of words)
+	- Number of words vs. number of TeX equations
+- Next steps
+	- Examine example comments and get a sense of topic classifications
+
+
+[[2024-07-02]]
+- Meeting with Simon and Marina
+	- Make final word filtered list, then train topic model again
+	- Adjust hyperparameters during training
+	- Aim for smaller number of categories to be more interpretable—look for log-likelihood asymptote
+- Reading recommendations from Simon
+	- “The Birth of a Theorem”
+	- Rota, “Indiscrete Thoughts”
+	- Ruben Hirsch
+- Finalizing word list
+	- Inspecting top 15 comments from each previously assigned topic, adding words to keep based on original text and *removing* words based on filtered content; general heuristic is to remove words highly associated with categories that seem to be about one math topic
+- Next steps
+	- Finalize word list
+	- Retrain topics, adjusting hyperparameters and looking at log-likelihood asymptote for optimal numbers
+	- Create Overleaf document and appendix with examples for each topic
+	- Try working with bi-grams
+
+[[2024-07-03]]
+- Finalizing word list – see daily note for heuristics
+	- Added bi-grams
+- Try MALLET modeling with 5 and 10 topics
+- Next steps
+	- Put results in an Overleaf document
+
+[[2024-07-05]]
+
+- Running anchored CorEx models – see daily note
+- Meeting with Simon and Marina
+	- Further word filtering
+	- Use domain knowledge to come up with “anchor words”
+	- Verify by running unsupervised model on the documents with top 100 words from each topic, etc.
+- Next steps
+	- Come up with list of questions to ask mathematicians
+	- Data preprocessing for CorEx – use higher minimum bi-gram ratio
+
+ 
+## Week 6
+
+[[2024-07-08]]
+- Trying contextual/combined models
+- Next steps
+	- Solidify topics and decide on metrics for evaluation
+	- Clarify next directions for research
+
+[[2024-07-09]]
+
+- Meeting with Simon and Marina
+	- Finalize word “inclusion” list and run unsupervised model
+	- Can perform analyses using both supervised and unsupervised results
+- Next steps
+	- Run LDA with “inclusion” word lists and select best model (based on interpretability and loss?)
+
+[[2024-07-10]]
+
+- Refined final word inclusion list
+- Attempting different unsupervised models, made pipeline to view top comments and basic distribution plots; final topic model still undecided
+- New idea: exploration/exploitation by determining distance between semantic topics
+- Next steps
+	- Build pipeline for analyzing exploration/exploitation within a single project
+	- Decide on final cognitive topic model
+
+[[2024-07-11]]
+
+- Initial cleaning for semantic words dataset, wrote function for measuring KL divergence between adjacent distributions
+- Went through readings on neural topic models and embeddings
+- Next steps
+	- Implement embedded neural topic model
+	- Label topics for example models on Slack
+
+[[2024-07-12]]
+
+- Made neural topic model with word embeddings
+- Decided on 10 topics with Simon and Marina
+- Next steps
+	- Make a quiz for classifying comments into topics
+	- Get more examples for topics 5 and 8
+
+2024-07-13
+- Got most distinct comments for MALLET topics
+- Scraped main blog posts to make larger corpus for “semantic” topics
+
+ 
+## Week 7
+
+[[2024-07-15]]
+
+- Cleaning data to use in embedded topic model
+- Implemented and tested HyperETM – see daily note for code
+- Next steps
+	- Look into paper from Simon on potential analysis methods
+	- Complete topics “quiz”
+
+[[2024-07-16]]
+
+- Top2Vec fit for semantic (math) topics, tried hidden Markov model (see daily note for code)
+- Meeting with Simon and Marina
+	- Group comments and take “diversity” of semantic topics, as well as diversity of commentary (see daily note for message from Simon)
+	- Jensen’s Shannon distance – “how different are the mixtures?”
+	- Entropy of averaged distribution over comment group – “how spread out over all topics is this group?”; potentially misses the diversity aspect, e.g., the pairs \[1.0, 0.0] and \[0.5, 0.5] will have the same entropy, yet intuitively have different diversities
+- Next steps
+	- Compute diversity measures for trained Top2Vec model
+
+[[2024-07-17]]
+
+- Finished collecting Wikipedia corpus
+- Training Top2Vec and embedded models on new corpus – failed to save
+- Added cosine similarity (averaged over a group) as a new measure of diversity
+- Next steps
+	- Fix computation of JSD
+	- Embedded model using *document vectors*, rather than vocab vectors
+
+2024-07-21
+- Retrained both embedding and Top2Vec
+- New adjustments to Top2Vec corpus
+	- Remove blank comments and posts
+	- Remove meta posts and comments
+
+ 
+## Week 8
+
+[[2024-07-22]]
+
+- Tutorial – Effective strategies for reading (Daniel)
+	- Determine why you’re reading a paper, figure out most relevant sections
+	- Parse which parts are argumentative/rhetorical and which are “reporting”
+- Computed diversity measures for Top2Vec topics on extended corpus
+	- Using cosine similarity for creating distributions – add minimum (negative) value, then renormalize to sum to 1
+- Next steps
+	- Examine critical points
+	- Look at diversity of commentary
+	- Read more literature on diversity
+	- Figure out optimal number of topics
+
+[[2024-07-23]]
+
+- Meeting with Simon
+	- See French Revolution paper for MALLET preprocessing methods
+	- Turning “knobs” – group size, grouping by time, number of topics, using all project comments simultaneously, word minimums
+		- Divide each project into 10 eras, then take the average JSD in subgroups of varying sizes (e.g., pairs, groups of 5, groups of 10); interesting to see if there are any “characteristic” group sizes
+		- Get standard error of each group as well
+		- Optimal word minimum can be determined by plotting entropy against comment length
+- Computed diversity for Polymath1 using P1 data only *and* all project data
+	- Modeling with MALLET – 10, 20, and 100 topics for basics. Tried 20 and 50 topics as well for all project corpus
+	- Divide each project into 10 groups, then play with subgroup sizes. The JSD is computed for each subgroup, and the diversity for each of the 10 main groups is computed as the average JSD of all its subgroups
+	- Subgroups can be made with discrete or sliding windows
+- Next steps
+	- Estimate error bars for sliding subgroups (“standard error is not quite valid”)
+	- Plot fraction of comments in each bin that are replies
+
+[[2024-07-24]]
+
+- “Knobs” to decide: cut-off comment length, changes in diversity curve as a function of subgroup size, dataset to use
+- Results from plotting log(comment length) vs. entropy, total # of topics vs. correlation
+	- Estimating topic compositions is difficult for large numbers of topics and short comments (low comment lengths)
+	- For Polymath1, diversity is low in the first 20 percent of comments, then jumps up and remains relatively stable in the rest of the data; this is invariant to choice of subgroup size, number of topics, or building the topics with all project/P1-only data
+- Generated diversity plots (Jensen-Shannon Divergence) for all projects
+	- Diversity changes over time, but no overall patterns
+	- Compared with topics based on cognitive “inclusion” data
+- Computed **surprise** and **resonance**
+- Next steps
+	- Examine model outputs – top comments, distinct comments, “junk” topics
+	- ~~Try to find patterns using other measures – surprise and novelty/transience (see French Revolution paper)~~
+	- Play with clustering cognitive topics
+	- Plot fraction of comments that are replies
+	- ~~Measure novelty and transience for top Polymath contributors~~
+
+[[2024-07-25]]
+
+- Testing different topic models
+	- Tried topics based on project-specific data only, no meaningful results
+- Revisiting literature, starting “big picture” thinking again
+- Next steps
+	- For top contributors, compare KL between self and other comments
+	- (Potential) Look for heuristics based on Gowers’ paper on mathematical belief
+
+[[2024-07-26]]
+
+- Organizing ideas about “cognitive moves”: [[A cognitive taxonomy for mathematical collaboration]]
+- Meeting with Simon
+- Next steps
+	- Add error bars for novelty scatterplots
+	- Work on refining cognitive topics, augmenting word lists
+	- Re-run analyses on singular project
+
+## Week 9
+
+2024-07-29
+- Tried modeling with anchored CorEx – led to high correlations between comment length and entropy
+
+[[2024-07-30]]
+
+- Meeting with Simon and Marina
+	- Potentially use LLMs to describe topics after getting top words
+	- Develop a distance matrix for the dendrogram – JSD is a natural measure
+	- Use circular histogram to look at the topic range of each group
+- Created semantic “inclusion” word list for Polymath1
+- Implemented hierarchical clustering and dendrogram plots
+- Next steps
+	- ~~Measure diversity with hierarchical clustering~~
+
+[[2024-07-31]]
+
+- Finished semantic word list for Gowers’ posts in Polymath1
+- Experimented with different hierarchy quantities
+- Ran same analysis on current cognitive word list
+- Next steps
+	- ~~Compute difference between fine and coarse-grained diversities – 20 and 6~~
+	- Create “unwrapped”/linear dendrograms
+	- Coarse-grain cognitive topics from 30 original topics
+	- ~~Compute hierarchy with word-topic matrix~~
+
+[[2024-08-01]]
+- Made public repository for Polymath data
+- Recomputed hierarchies using word-topic distributions, ran same analyses: divergence for various levels of coarse-graining *and* differences between levels
+- Spent far too long messing with dendrogram plot
+- Next steps
+	- Outline main narrative of talk
+	- Draft talk slides
+	- Look into plotting software – Tabeleau, D3.js
+
+[[2024-08-02]]
+
+- Meeting with Simon and Marina
+	- Plan for the talk
+		- Give general background for theories that the results most directly relate to (e.g., diversity in scientific discovery, dialogical reasoning); recall that the interest of the project is applying this investigation to mathematical collaboration!
+		- Begin with fine-grained analysis (i.e., example comments, labels/keys for topics)
+		- “Zoom out” to plot cognitive moves across all projects
+	- Follow-up steps taken
+		- Looked into outlier (low diversity) comment group – made methods to get comments from group
+		- Checked radar plot computations
+- Prepared briefly for final talk ([[20240802-a-potential-talk-narrative]])
+- Evaluated diagnostics file for original 30-topic model 
+- Used hierarchical reduction to get topics from 5 to 29 ([[20240802-semantic-topic-hierarchy-specs]])
+	- Implemented “topic diversity” measure from [Dieng et al. (2019)](https://arxiv.org/abs/1907.04907)
+	- Generated preliminary labels for 8-topic reduction
+- Next steps
+	- ~~Figure out correct computation for radar plots~~
+	- ~~Look into outlier comment group with particularly low diversity (2/3/4)~~
+	- Find way to incorporate “highlight” comments into visualizations
+	- Complete a satisfying “cognitive moves” list and make radar plots for all projects
+	- Look into references from Marina
+	- Decide which topic reductions to use, get labels
+
+
+[[2024-08-04]]
+- Put together most talk slides
+- Next steps
+	- Complete background information portion of talk
+
+## Week 10 – Final talks
+
+2024-08-07
+
+- Final talk preparation
+	- [x] Run through slides in reverse
+- Final talk slides
+	- [x] Fix acknowledgement slide
+	- [x] Download and refine final version
+- Next steps
+	- Read [“Topics in Semantic Representation”](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.2.211) for theory of inferring information from text
+
+[[2024-08-08]]
+
+- Drafting project abstract
+- Future directions from Simon (via Slack)
+
+ ---
+# References
+
+- Topic modeling
+	- [Complexity Explorer course from Simon](https://www.complexityexplorer.org/courses/162-foundations-applications-of-humanities-analytics-spring-2023/segments/15615?summary)
+
+- Topic modeling with CorEx
+	- [Notebook with example](https://gist.github.com/patrickvankessel/0d5bd690910edece831dbdf32fb2fb2d)
+	- [Main example with sparse matrix](https://github.com/gregversteeg/corex_topic/blob/master/corextopic/example/corex_topic_example.ipynb)
+
+---
+
+# Further notes
+
+- Literature recommendations
+	- Books: Objectivity, Inventing Temperature
+- Potential avenues of investigation
+	- Does interaction change as people get more familiar with online etiquette?
+	- Do people engage in Lakatos-style [[Dialogical reasoning]]?
+	- Find “hidden states” of local dialogue patterns
+	- Exploration-exploitation trade-offs – use semantics, possible to extract based on cognitive moves as well?
+	- Effects of individual-level strategies vs. system-imposed roles (e.g., Polymath hosts)
+	- Relationship between data and highlighted comments – use wiki changes as a starting point?
+- Next steps
+	- Find a better notion of “success” or appropriate DV
+
+```
+0. Brainstorming approaches & gaining motivation from elsewhere (e.g. external textbooks, etc)
+1. Exploratory deductive: reflecting on the already proposed ideas & restating the problem/solutions & deducing the conclusions (interpersonal)
+2. Computed the result
+3. Deducing by contradiction
+4. Open questions & possibilities
+5. ?
+6. Inductive, intuitions
+7. Considering someone else's point, (inductive) reasoning through possibilities (interpersonal)
+8. ? Examples, uncertainty, planning (interpersonal)
+9. Correcting errors (interpersonal)
+```
+
+#### Topic models
+
+**Top2Vec v1 - 243 topics**
+- Data: comments and posts (each paragraph as a single document) only, removed words that were shared across more than 40 percent of documents for corpus, vocabulary also removed words that were shared across less than 5 percent
+
+**Top2Vec v2**
+- Data: comments, posts, and wiki pages (each subsection as a single document). Same word removal for comments and posts; removed words for wiki that were English stop words, shared across more than 10 percent of documents or appearing in less than 3 documents
+- Removed all comments with the following words: `'metacomment', 'meta', 'post', 'discussion'`
+
+**Word2Vec + pre-trained embeddings**
+- Data: same as Top2Vec v2
+- Word2Vec parameters:
+```
+bigram_transformer = Phrases(documents)
+bigram_phraser = Phraser(bigram_transformer)
+documents_bigrams = [bigram_phraser[sentence] for sentence in documents if len(sentence) > 0]
+model_embedding = Word2Vec(
+    sentences=documents_bigrams,
+    vector_size=300,
+    window=10,
+    min_count=10,
+    workers=4,
+    sg=1,
+    epochs=10
+)
+```
+
+#### MALLET training pipeline
+
+```
+bnnyng@ganesha.lan.cmu.edu
+12-Pr48
+```
+
+Importing data to be used by Mallet
+```
+bin\mallet import-file --input data\data-mallet-semantic-P1.tsv --output semantic-P1.mallet --keep-sequence 
+```
+
+```
+bin\mallet train-topics --input semantic-extended.mallet --num-topics 100 --output-state semanticOutput100.gz --optimize-interval 10 --optimize-burn-in 20 --output-doc-topics semanticTopics100.txt --output-topic-keys semanticKeys100.txt 
+```

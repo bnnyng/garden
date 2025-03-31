@@ -1,0 +1,11 @@
+---
+aliases: 
+tags:
+  - permanent-note
+---
+>A garden is a collection of evolving ideas that aren't strictly organised by their publication date. They're inherently exploratory – notes are linked through contextual associations. They aren't refined or complete - notes are published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal websites we're used to seeing.
+
+---
+# References
+
+- Maggie Appleton – [A Brief History and Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
