@@ -9,9 +9,9 @@ tags:
   - topic-logic-mathematics
   - MATH-GU4051
 status: 
-publish: 
+publish: "true"
 date: 2024-12-08 12:57
-lastmod: 2025-03-25T09:51:03-04:00
+lastmod: 2025-04-01T10:08:29-04:00
 ---
 >[!example] Definition: Abelian group
 >A [[Algebraic groups|group]] $G$ is **abelian** if the group operation commutes, meaning $ab = ba$ for all $a, b \in G$.

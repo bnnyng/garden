@@ -6,7 +6,7 @@ tags:
   - moc
 publish: "true"
 date: 2022-10-20
-lastmod: 2025-03-02T14:27:41-05:00
+lastmod: 2025-04-01T09:45:04-04:00
 title: §  Linear Algebra
 ---
 # Topics
@@ -18,10 +18,6 @@ title: §  Linear Algebra
 - [[Linear independence]]
 - [[Vector bases and dimension]]
 
-**Theorems:**
-- [[(Theorem) The size of a linearly independent set is less than or equal to the size of its spanning set]]
-- [[(Theorem) A subspace of a finite-dimensional vector space has dimension less than or equal to the latter's]]
-
 ## Foundations of linear maps
 
 - [[Linear maps]]
@@ -31,7 +27,6 @@ title: §  Linear Algebra
 - [[Composition and matrix multiplication]]
 
 **Theorems:**
-- [[(Theorem) Linear maps are determined by their values on a basis]]
 - [[(Theorem) Rank-nullity]]
 - [[(Theorem) Invertible matrix]]
 

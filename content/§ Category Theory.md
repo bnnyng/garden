@@ -4,9 +4,10 @@ tags:
   - permanent-note
   - topic-logic-mathematics
   - moc
-publish: 
+publish: "true"
 date: 2025-02-05T14:21:40-05:00
-lastmod: 2025-02-18T12:18:46-05:00
+lastmod: 2025-04-01T09:44:48-04:00
+title: §  Category Theory
 ---
 Basic definitions
 - [[Categories and morphisms]]

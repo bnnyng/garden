@@ -8,7 +8,7 @@ tags:
 status: 🔴 🔨 ❓
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-31T21:05:09-04:00
+lastmod: 2025-04-01T10:15:45-04:00
 ---
 # Overview and basic definition
 
@@ -29,6 +29,8 @@ Variants include any square-free integers and extension fields of rationals
 >(\mathbb Z[i])^* = \{ \pm 1, \pm i \} = \langle i \rangle,
 >$$
 >a [[Cyclic groups|cyclic]] group of order 4.
+
+
 
 ---
 # Properties
@@ -67,10 +69,10 @@ $$ \mathbb Q(\sqrt 2) = \{ a + b \sqrt 2 \ : \ a, b \in \mathbb Q \}. $$
 ---
 # Irreducible elements in $\mathbb Z[i]$
 
-#### Properties of the norm on $\mathbb Z[i]$
 
 
-#### Proof for irreducible elements
+
+
 
 ---
 # Code snippets

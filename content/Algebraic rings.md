@@ -14,9 +14,9 @@ tags:
   - topic-logic-mathematics
   - MATH-GU4042
 status: 🟠 🔨
-publish: 
+publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-04T09:56:47-05:00
+lastmod: 2025-04-01T10:08:25-04:00
 ---
 # Overview and basic definitions
 

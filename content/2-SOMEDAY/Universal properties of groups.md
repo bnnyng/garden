@@ -1,12 +1,12 @@
 ---
-aliases: []
+aliases: 
 tags:
   - permanent-note
   - topic-logic-mathematics
 status: 
-publish: 
+publish: "true"
 date: 2024-12-08 14:00
-lastmod: 2025-01-30T12:49:57-05:00
+lastmod: 2025-04-01T09:43:54-04:00
 ---
 See also: [[Universal properties of topologies]]
 

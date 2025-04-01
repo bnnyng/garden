@@ -10,7 +10,7 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-31T18:55:10-04:00
+lastmod: 2025-04-01T10:12:45-04:00
 ---
 # 
 
@@ -34,10 +34,6 @@ Let $I \subseteq R$ be an ideal. The set $$ \{ N(a) \ : \ a \in I \} $$ has a mi
 
 - Why the step that $r = b-aq \in I$, 
 - Why does norm have a minimum?
-
----
-
-
 
 ---
 # Examples

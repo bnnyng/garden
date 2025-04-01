@@ -4,9 +4,10 @@ tags:
   - permanent-note
   - topic-logic-mathematics
   - moc
-lastmod: 2024-11-09T12:09:48-05:00
+lastmod: 2025-04-01T09:45:48-04:00
 date: 2023-09-01
-publish: 
+publish: "true"
+title: §  Real Analysis
 ---
 # Topics
 

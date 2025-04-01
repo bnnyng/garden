@@ -3,7 +3,7 @@ aliases:
   - "#MATH-UN1207"
   - Honors Mathematics A
 title: Class | Honors Mathematics A
-publish: "true"
+publish: 
 tags:
   - topic-logic-mathematics
 ---

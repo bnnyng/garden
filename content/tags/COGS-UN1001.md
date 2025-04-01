@@ -3,7 +3,7 @@ aliases:
   - "#COGS-UN1001"
   - Introduction to Cognitive Science
 lastmod: 2024-04-02T15:38:48-07:00
-publish: "true"
+publish: 
 title: Class | Introduction to Cognitive Science
 ---
 # Overview

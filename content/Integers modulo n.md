@@ -10,9 +10,9 @@ tags:
   - MATH-GU4041
   - MATH-GU4042
 status: 
-publish: 
+publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-30T21:16:16-04:00
+lastmod: 2025-04-01T10:08:18-04:00
 ---
 # In group theory
 
@@ -30,9 +30,8 @@ lastmod: 2025-03-30T21:16:16-04:00
 - [[Prime and maximal ideals]]: Analogy between the quotient ring $F[x]/(f)$ and $\mathbb Z/n\mathbb Z$.
 
 
-
 ---
-# Notes
+# Code snippets
 
 ```
 \mathbb Z / n \mathbb Z
