@@ -16,7 +16,7 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-31T00:24:52-04:00
+lastmod: 2025-03-31T16:57:12-04:00
 ---
 # Overview 
 
@@ -28,6 +28,7 @@ Every ideal inpolynomial ring $F[x]$ is principal, important for [[Factorization
 
 **Related notes:** 
 - [[Prime and maximal ideals]]
+
 
 
 ---

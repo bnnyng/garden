@@ -11,7 +11,7 @@ tags:
 status: 🟠
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-30T16:11:34-04:00
+lastmod: 2025-03-31T17:08:52-04:00
 ---
 # Overview
 
@@ -25,7 +25,7 @@ lastmod: 2025-03-30T16:11:34-04:00
 ---
 # Key properties
 
-- [[Ideals and quotients in polynomial rings]]: If $F$ is a field, then every ideal in $F[x]$ is **principal**.
+- [[Ideals and quotients in polynomial rings]]: If $F$ is a field, then every ideal in $F[x]$ is **principal** (i.e., $F[x]$ is a [[Principal ideal domains|principal ideal domain]]).
 
 ---
 # Basic definition

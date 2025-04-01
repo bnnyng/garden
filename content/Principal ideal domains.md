@@ -9,7 +9,7 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-30T14:45:05-04:00
+lastmod: 2025-03-31T17:58:34-04:00
 ---
 # Overview and basic definition
 
@@ -20,7 +20,14 @@ lastmod: 2025-03-30T14:45:05-04:00
 
 - [[(Theorem) A principal ideal domain is a unique factorization domain]]
 
+**Related notes:**
+- [[Unique factorization domains]]
+- [[Euclidean domains]]
+
 ---
+
+# Factorization in PIDs
+
 
 
 ![[Pasted image 20250330144338.png]]
@@ -30,3 +37,9 @@ lastmod: 2025-03-30T14:45:05-04:00
 
 
 >[!abstract] Theorem: A PID is a UFD.
+
+---
+# Examples
+
+- $\mathbb Z$
+- The [[Polynomial rings|polynomial ring]] $F[x]$ where $F$ is a field.

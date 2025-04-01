@@ -11,7 +11,7 @@ lastmod: 2025-02-11T10:34:53-05:00
 >[!quote] D’Arcy Thompson, *On Growth and Form*
 >Everything is what it is because it got that way.
 
->[[@2022levin]]
+>[[@2022levinTechnological]]
 >Nothing in biology makes sense except in the light of [[Complexity is the study of teleonomic matter, after Krakauer|teleonomy]].
 
 ---

@@ -11,9 +11,9 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
-publish: 
+publish: "true"
 date: 2025-02-17T18:19:57-05:00
-lastmod: 2025-03-03T03:21:23-05:00
+lastmod: 2025-03-31T17:02:06-04:00
 ---
 # Overview
 

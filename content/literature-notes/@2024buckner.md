@@ -9,7 +9,7 @@ year: 2024
 permalink: 
 publish: 
 date: 2025-01-21
-lastmod: 2025-03-24T19:13:06-04:00
+lastmod: 2025-03-31T20:00:59-04:00
 ---
 > Buckner, C. J. (2024). _From deep learning to rational machines: What the history of philosophy can teach us about the future of artifical intelligence_. Oxford University press.
 
@@ -30,6 +30,7 @@ lastmod: 2025-03-24T19:13:06-04:00
 - [[The human mind as a tabula rasa, after Aristotle]]
 - [[The nativism-empiricism continuum, after Buckner]]
 - [[Domain-general modular architecture is the best hope for modeling rational cognition in AI, after Buckner]]
+- [[Taxonomy of forms of attention, after James]]
 
 ---
 
@@ -70,5 +71,5 @@ lastmod: 2025-03-24T19:13:06-04:00
 >5. **Social Decision-Making:** Represent other agents as having distinct perspectives on the world; imagine oneself in their shoes; learn new representations and strategies from other agents; articulate the principles behind one’s own policies, share them with others, and adhere to them more consistently in the future; and be sensitive to social norms governing practical cooperation with other agents.
 
 
-## Imagination
+
 

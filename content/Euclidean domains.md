@@ -1,6 +1,8 @@
 ---
 aliases:
   - Euclidean domain
+  - Euclidean norm
+  - strong Euclidean norm
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -8,7 +10,7 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-30T14:35:49-04:00
+lastmod: 2025-03-31T18:55:10-04:00
 ---
 # 
 

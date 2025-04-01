@@ -8,7 +8,7 @@ tags:
 status: 🔴 🔨 ❓
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-24T15:37:44-04:00
+lastmod: 2025-03-31T21:05:09-04:00
 ---
 # Overview and basic definition
 
@@ -46,7 +46,7 @@ $$
 - We have $\mathbb Z \leq \mathbb Z [i] \leq \mathbb Q(i) \leq \mathbb C$.
 - **Multiplicative inverses:** If at least one of a or b is not $0$, we can find a multiplicative inverse for $a + bi$ by **rationalizing the denominator**: 
 $$ 
-\frac{1}{a + bi} = \frac{1}{a + bi} \cdot \frac{a-bi}{a - bi} = \frac{a-bi}{a^2 + b^2} = \frac{a}{a^2 + bi^2} + \frac{b}{a^2 + bi^2}i.
+\frac{1}{a + bi} = \frac{1}{a + bi} \cdot \frac{a-bi}{a - bi} = \frac{a-bi}{a^2 + b^2} = \frac{a}{a^2 + b^2} - \frac{b}{a^2 + b^2}i.
 $$
 
 #### $\sqrt 2$ as the imaginary part

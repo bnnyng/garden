@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Bonnie's Notes",
+    pageTitle: "BONNIE'S NOTES",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -31,20 +31,20 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "VT323", // "Schibsted Grotesk", Handjet
+        body: "IBM Plex Sans", // "Source Sans Pro",
+        code: "IBM Plex Mono", // inline and block quotes
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#faf8f8", // page bg
+          lightgray: "#e5e5e5", // borders
+          gray: "#b8b8b8", // graph links, heavier borders
+          darkgray: "#db3b3b", // "#4e4e4e", // body text
+          dark: "#db3b3b", // "#2b2b2b", // header text and icons
+          secondary: "#b51010", // "#284b63", // link color, current graph node
+          tertiary: "#84a59d", // hover states and visited graph noes
+          highlight: "rgba(143, 159, 169, 0.15)", // internal link background
           textHighlight: "#fff23688",
         },
         darkMode: {

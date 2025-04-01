@@ -198,8 +198,20 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return computedStyleMap["--secondary"]
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-      return computedStyleMap["--tertiary"]
+    } else if (d.tags.includes("topic-logic-mathematics")) {
+      return "#b95050" // red
+    } else if (d.tags.includes("topic-cognitive-science")) {
+      return "#3EA1CC" // blue
+    } else if (d.tags.includes("topic-information-computation-statistics")) {
+      return "#e6a22d" // yellow
+    } else if (d.tags.includes("topic-humanities")) {
+      return "#9971d6" // purple
+    } else if (d.tags.includes("topic-physics-complexity")) {
+      return "#2268c3" // blue
+    } else if (d.tags.includes("literature-note")) {
+      return "#424242" // blue
+    // } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
+    //   return computedStyleMap["--tertiary"]
     } else {
       return computedStyleMap["--gray"]
     }

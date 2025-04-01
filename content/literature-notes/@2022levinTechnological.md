@@ -1,6 +1,6 @@
 ---
-citekey: 2022levin
-aliases: []
+citekey: 2022levinTechnological
+aliases: 
 tags:
   - literature-note
 title: "Paper | Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds"
@@ -8,7 +8,7 @@ year: 2022
 permalink: https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2022.768201/full
 publish: 
 date: 2025-02-09
-lastmod: 2025-02-12T16:31:57-05:00
+lastmod: 2025-03-31T17:03:35-04:00
 ---
 > Levin, M. (2022). Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds. _Frontiers in Systems Neuroscience_, _16_. [https://doi.org/10.3389/fnsys.2022.768201](https://doi.org/10.3389/fnsys.2022.768201)
 
@@ -40,7 +40,7 @@ lastmod: 2025-02-12T16:31:57-05:00
 
 # Key terms
 
->[!example] Key terms in [[@2022levin]]
+>[!example] Key terms in [[@2022levinTechnological]]
 >- **Cognition:** “the *functional computations* that take place between perception and action, which allow the agent to span a wider range of time (via memory and predictive capacity, however much it may have) than its immediate *now*, which enable it to generalize and infer patterns from instances of stimuli—precursors to more advanced forms of recombining concepts, language, and logic.”
 >- **Persuadability:** “the type of conceptual and practical tools that are optimal to rationally modify a given system’s behavior.”
 >- **Plasticity:** the ability to reach a goal from different starting points.

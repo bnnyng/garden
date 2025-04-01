@@ -56,7 +56,7 @@ date: 2025-02-12T16:40:50-05:00
 - [ ] 📚 [[@2024sumers]], “Reconciling Truthfulness and Relevance as Epistemic and Decision-Theoretic Utility”
 - [ ] 📚 [[@2024zhaoRational]], “A rational model of innovation by recombination”
 - [ ] 📚 [[@1943rosenblueth]], “Behavior, Purpose, and Teleology”
-- [ ] 📚 [[@2022levin]], “Technological approach to mind everywhere”
+- [ ] 📚 [[@2022levinTechnological]], “Technological approach to mind everywhere”
 - [ ] 📚 [[@1912russell]], “On the Notion of Cause”
 
 
@@ -89,16 +89,16 @@ date: 2025-02-12T16:40:50-05:00
 	Source: [[@2020degen]], [[@2024sumers]]
 - [ ] [[Technological approach to mind everywhere, after Levin]]
 	
-	Source: [[@2022levin]]
+	Source: [[@2022levinTechnological]]
 - [ ] [[Persuadability as a continuum of agency, after Levin]]
 	
-	Source: [[@2022levin]]
+	Source: [[@2022levinTechnological]]
 - [ ] [[Anatomical homeostasis is a kind of collective intelligence, after Levin]]
 	
-	Source: [[@2022levin]]
+	Source: [[@2022levinTechnological]]
 - [ ] [[Developmental bioelectrics is the precursor of nervous systems, after Levin]]
 	
-	Source: [[@2022levin]]
+	Source: [[@2022levinTechnological]]
 - [ ] [[Taxonomy of behavior, after Rosenblueth]]
 	
 	Source: [[@1943rosenblueth]]

@@ -4,15 +4,15 @@ aliases:
 tags:
   - permanent-note
   - topic-physics-complexity
-publish: 
+publish: "true"
 date: 2025-02-09T16:39:53-05:00
-lastmod: 2025-02-11T10:39:16-05:00
+lastmod: 2025-03-31T17:03:24-04:00
 ---
 # Overview and core tenets
 
-[[@2022levin]] proposes the **Technological Approach to Mind Everywhere (TAME)** framework, which is an engineering-based (i.e., “understand, modify, build”) approach to empirically studying diverse intelligences.
+[[@2022levinTechnological]] proposes the **Technological Approach to Mind Everywhere (TAME)** framework, which is an engineering-based (i.e., “understand, modify, build”) approach to empirically studying diverse intelligences.
 
->[!example] Core tenets of TAME, after [[@2022levin]]
+>[!example] Core tenets of TAME, after [[@2022levinTechnological]]
 >- **Continuum of cognitive capacities:** There is no binary between “true” cognition and lack thereof for either biological or artificial entities, but a sort of [[Cognitive gradualism]] in which progressively more complex abilities are generated from basal and proto-cognitive ones.
 >- **Applicability to diverse intelligences:** Cognition has a wide range of material implementations and is not limited to systems that gained agency through evolution.
 >- **Continuum of [[Persuadability as a continuum of agency, after Levin|persuadability]]:** A system’s level of agency must be determined **empirically**, based on which kind of model “affords the most efficient way of prediction and control.”
@@ -24,7 +24,7 @@ lastmod: 2025-02-11T10:39:16-05:00
 ---
 # What is a Self?
 
-[[@2022levin]] defines a single agent of interest, a **Self**, by the following unifying invariant:
+[[@2022levinTechnological]] defines a single agent of interest, a **Self**, by the following unifying invariant:
 
 > \[A system that is capable of expending] energy in ways that effectively reach specific states despite uncertainty, limitations of capability, and meddling from outside forces.
 

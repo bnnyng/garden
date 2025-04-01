@@ -7,9 +7,9 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
-publish: 
+publish: "true"
 date: 2025-02-11T16:27:05-05:00
-lastmod: 2025-03-07T21:49:26-05:00
+lastmod: 2025-03-31T17:02:02-04:00
 ---
 - **The Church-Turing theorem:** No algorithm can be constructed to check, in a finite number of steps, whether a given formula in first-order logic is or is not provable in that system.
 - **[[Godel's first incompleteness theorem]] ([[@1931godelFormally|1931]]):** Anything worth calling a [[Effectively calculable, recursive, and computable are equivalent descriptions of functions|formal system]]—so-called **recursively axiomatizable**—will have sentences in the language of the system that are not provable.

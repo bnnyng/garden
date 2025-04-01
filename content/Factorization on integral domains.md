@@ -4,6 +4,7 @@ aliases:
   - divides
   - irreducible
   - greatest common divisor
+  - relatively prime
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -11,7 +12,7 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-30T23:48:00-04:00
+lastmod: 2025-03-31T17:58:54-04:00
 ---
 # Overview 
 
@@ -22,6 +23,7 @@ lastmod: 2025-03-30T23:48:00-04:00
 **Related notes:** 
 - [[Factorization on polynomial rings]]
 - [[Unique factorization domains]]
+- [[Principal ideal domains]]
 
 ---
 # General definitions
@@ -51,10 +53,19 @@ lastmod: 2025-03-30T23:48:00-04:00
 - ($\implies$) If $r =0$, then $r | s \iff s=0$ and so $r=1 \cdot s = 1s$, where $1$ is a unit. If neither $r, s$ is zero and they divide each other, then by definition $s = rt$ and $r = su = rut$ for some $t, u \in R$. Since $r \neq 0$ and $R$ is an integral domain, we may apply the cancellation law to obtain $1 = ut$. Then $r = su$, where $u$ is a unit.
 - ($\impliedby$) If $r = us$ for some unit $u$, then $s = u^{-1}r$ and so $r,s$ are multiples of each other. $\ \square$
 
-
-
 #### Irreducibility
 
 >[!example] Definition: Irreducible element
 >Let $r \in R$ be neither $0$ nor a unit. We say $r$ is **irreducible** if whenever $r = st$ for some $t, s \in R$, then one of $s, t$ is a unit and the other is an associate of $r$.
+
+#### Greatest common divisor
+
+>[!example] Definition: Greatest common divisor
+>Let $R$ be an integral domain and let $r, s \in R$, not both zero. A **greatest common divisor** $\gcd$ of $r$ and $s$ is an element $d \in R$ such that $d | r$, $d|s$, and, whenever an element $e \in R$ divides both $r, s$, then $e | d$.
+
+#### Relatively prime
+
+>[!example] Definition: Relatively prime
+>Let $R$ be an integral domain and let $r, s \in R$, not both zero. We say $r$ and $s$ are **relatively prime** if $\gcd(r, s) = 1$; equivalently, if $d \in R$ divides both $r, s$, then $d$ is a unit (divides $1$).
+
 

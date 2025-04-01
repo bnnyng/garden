@@ -19,7 +19,7 @@ lastmod: 2025-03-21T14:15:42-04:00
 ---
 # Reading notes
 
-[[@2022levin]]
+[[@2022levinTechnological]]
 
 - Parallel between continuity of Self across “drastic biological remodeling” and reflective (self) programming mentioned as a major transition in cognitive evolution in [[@2023barron]].
 	- As of 2022: “This has not been addressed in biology, and likewise not yet in computer science, where machine learning approaches use static neural networks (there is not a formalism for altering artificial neural networks’ architecture on the fly).”

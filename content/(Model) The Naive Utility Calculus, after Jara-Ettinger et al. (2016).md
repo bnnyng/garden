@@ -6,7 +6,7 @@ tags:
   - topic-cognitive-science
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-01-22T13:18:18-05:00
+lastmod: 2025-03-31T13:48:07-04:00
 ---
 [[@2016jara-ettinger]] propose the **Naive Utility Calculus**, according to which humans, starting from early infancy, assume that the actions of others are [[Rationality in cognitive science|rational]] and maximize expected utilities (i.e., rewards relative to costs). This is a computational model for **commonsense psychology**, or the general cognitive theory—that is, a *generative model*—that humans use to make social inferences.
 

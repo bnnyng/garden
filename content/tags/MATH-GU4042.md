@@ -44,6 +44,11 @@ SORT lastmod ASC
 
 # Log
 
+[[2025-03-31]]
+
+- [ ] [[Factorization on integral domains]]
+	- [ ] When does gcd fail to exist if something is not an integral domain (counterexample)?
+- [ ] Understand how to “rationalize the denominator”
 
 [[2025-03-30]]
 
