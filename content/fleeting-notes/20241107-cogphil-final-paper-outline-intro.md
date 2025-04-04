@@ -93,11 +93,11 @@ Central question: Reasons for LLMs failing pragmatics and reasons for failing cu
 1. Introduction
 2. Social basis of capacity to reason
 	1. Thus, makes sense that all our reasoning is symbolic; we need to be able to provide explanations
-	2. From [[@2020dutilhnovaes]]: People are able to reason deductively when working together 
+	2. From [[@2020dutilhnovaesDialogical]]: People are able to reason deductively when working together 
 	3. Evidence: people think better when giving explanations, as do LLMs that distill language
 3. Distinction from language-for-thought hypothesis?
 	1. See the six properties from [[@2023quilty-dunn]]
-	2. Compare to [[@2020dutilhnovaes]]; why should we think in logical primitives?
+	2. Compare to [[@2020dutilhnovaesDialogical]]; why should we think in logical primitives?
 4. Cognitive development—rational compositionality
 	1. My extension: active learner based on interactions with other people
 	2. Play in development, goal generation can be modeled with a compositional DSL!

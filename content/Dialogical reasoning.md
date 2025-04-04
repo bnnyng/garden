@@ -13,7 +13,7 @@ lastmod: 2025-02-26T16:44:56-05:00
 ---
 # Literature notes
 
-#### [[@2020dutilhnovaes]]
+#### [[@2020dutilhnovaesDialogical]]
 
 - **Dialogical interactions between mathematicians often begin as a request for help:** “True enough, these dialogues do not always correspond neatly to Prover–Skeptic dialogues, in particular in that *they often start with a question or a request for help* … Nevertheless, once a candidate proof or argument is put forward, those involved in the interaction will presumably behave as Skeptics, looking for possible flaws or steps in the proof which remain obscure.”
 

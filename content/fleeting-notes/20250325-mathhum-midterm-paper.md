@@ -4,9 +4,18 @@ aliases:
 tags:
   - fleeting-note
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-28T16:12:56-04:00
+lastmod: 2025-04-01T17:48:56-04:00
 ---
 # Log
+
+[[2025-04-01]]
+
+**Relation between structuralism and formalism/logicism**
+
+- Structures are “floating above”, like natural laws?
+	- A causal graph vs. an explanatory graph
+- Proof by contradiction is a sort of counterfactual (see [[Albert-PhilSci-WK6-20250224]]): everything is the same except for this one theorem, the closest possible world. Why do we use it, psychological?
+- Johann: Felt it was right because it did what he wanted to do—alterations.
 
 [[2025-03-27]]
 

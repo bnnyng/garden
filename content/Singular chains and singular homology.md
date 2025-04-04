@@ -6,6 +6,7 @@ aliases:
   - -cycle
   - face
   - simplicial
+  - cycle
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -13,7 +14,7 @@ tags:
 status: 🔴 🔨 ❓
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-27T17:42:13-04:00
+lastmod: 2025-04-03T12:55:16-04:00
 ---
 >[!question]
 >- Definition of standard $p$-simplex?
@@ -32,8 +33,9 @@ lastmod: 2025-03-27T17:42:13-04:00
 >- $C_p(X)$**:** the free abelian group $\mathbb Z\textup{Sin}_p(X)$ (i.e., all formal linear combinations of $p$-simplices in $X$ with coefficients in $\mathbb Z$).
 >- **Boundary operator $\partial_p$:** the [[Group homomorphisms and isomorphisms|group homomorphism]] $C_p(X) \to C_{p-1}(X)$ given by adding together oriented (i.e., scaled by some power of $-1$) **faces of $p$-simplices**.
 >- $p$**-cycle:** an element in the kernel of the boundary operator $\partial$, which is denoted $\ker \partial = Z_p(X) \subset C_p(X)$.
->- **Boundary:** an element in the image of $\partial$, which is denoted $\textup{Im}  \partial = B_{p-1}\subset C_{p-1}$.
+>- **Boundary:** an element in the image of $\partial$, which is denoted $\textup{Im}  \partial = B_{p-1}(X) \subset C_{p-1}(X)$.
 
+Two chains $\sigma, \sigma’ \in C_p(X)$ are **homologous** if their difference is a boundary in $B_p(X)$, meaning there exists some formal linear combination $\alpha \in C_{p+1}(X)$ for which  
 
 **Relevant theorems:**
 - [[(Theorem) The abelianization of the fundamental group of a path-connected space is isomorphic its first singular homology group]]

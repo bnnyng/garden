@@ -17,7 +17,7 @@ As discussed during [[@2022millhouse|Millhouse et al. (2022)]], learning and opt
 
 For example, infant learning happens at both developmental and short timescales: infants grow their brains and bodies over longer periods while performing “intermediate-term patterns of exploration,” which include feedback that assists further learning (see: [[Interventionist theory of causation]]). Most neural networks lack this property of human development.
 
-Similarly, while analyzing the cultural practice of [[Deductive dialogues are Prover-Skeptic games, after Dutilh Novaes|dialogical deduction]], [[@2020dutilhnovaes|Dutilh Novaes (2020)]] describes how human cultural practices develop at three different timescales: phylogenetic, historical, and ontogenetic. She notes that “an encompassing account of a particular aspect of human cognition and the extent to which it is shaped by cultural processes must arguably tackle all three timescales.”
+Similarly, while analyzing the cultural practice of [[Deductive dialogues are Prover-Skeptic games, after Dutilh Novaes|dialogical deduction]], [[@2020dutilhnovaesDialogical|Dutilh Novaes (2020)]] describes how human cultural practices develop at three different timescales: phylogenetic, historical, and ontogenetic. She notes that “an encompassing account of a particular aspect of human cognition and the extent to which it is shaped by cultural processes must arguably tackle all three timescales.”
 
 #wip definitions
 

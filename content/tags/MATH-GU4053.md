@@ -50,6 +50,10 @@ SORT lastmod ASC
 ---
 # Log
 
+**Exercises:**
+
+- [ ] Check that homology of chain complexes defines a functor $\mathsf {Ch} \to \mathsf {Ab}$.
+
 [[2025-03-07]] – Homework review
 
 - Problems to review

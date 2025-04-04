@@ -12,14 +12,14 @@ tags:
   - MATH-UN1207
 publish: "true"
 date: 2022-10-20
-lastmod: 2025-03-02T15:17:56-05:00
+lastmod: 2025-04-02T01:15:38-04:00
 ---
 # Overview and basic definitions
 
 >[!example] Definition: Vector space
 >Given a [[Algebraic fields|field]] $F$ (the **scalars**), a $F$**-vector space**, or simply **vector space**, is a triple $(V, +, \cdot)$ where $(V, +)$ is an [[Abelian groups|abelian]] group (the **vectors**) and $\cdot : F \times V \to V$ is a map $(t, v ) \mapsto t \cdot v$ (**scalar multiplication**) such that for all $s, t \in F$ and $v,w \in V$, we have the following:
 >- (i) **Associativity of multiplication:** $s(tv) = (st)v$;
->- (ii) **Distributivity of multiplication over scalar addition:** $(s + tv) = sv + tv$;
+>- (ii) **Distributivity of multiplication over scalar addition:** $(s + t)v = sv + tv$;
 >- (iii) **Distributivity of multiplication over vector addition:** $s(v + w) = sv + sw$;
 >- (iv) **Identity:** $1 \cdot v = v$ for the [[Algebraic rings|unit]] $1 \in F$.
 

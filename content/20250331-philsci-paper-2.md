@@ -3,7 +3,7 @@ aliases:
 tags:
   - fleeting-note
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-01T00:07:06-04:00
+lastmod: 2025-04-02T10:01:33-04:00
 ---
 # Prompts
 
@@ -31,3 +31,22 @@ problems of induction – and explain how he proposes to solve them.
 This makes almost no contact with the material we discussed in class.  The most glaring omission is Lewis.  What was needed here was a CLEAR statement of the question, and an account of how it comes up, and an account of the proposals that were discussed in class - and THEN, at the end, you can begin to inject yourself.  But there is no such clear set-up here.
 ```
 
+1. Introduction
+	1. 
+2. Background / exposition – how it comes up
+	1. Goodman’s new riddle of induction
+3. Statement of proposals / review of previous literature
+	1. Goodman’s proposal is grounded in irrealism
+
+---
+# Outline
+
+#### Introduction
+
+```
+Explain Goodman’s attitude towards the descriptive and the justificatory
+problems of induction – and explain how he proposes to solve them.
+```
+
+- Explain Hume’s problem of induction: logic or process of the argument based upon
+	- Uniformity of nature: but there are no 

@@ -5,9 +5,9 @@ tags:
   - permanent-note
   - topic-logic-mathematics
   - topic-logic-mathematics
-publish: 
+publish: "true"
 date: 2024-03-31 14:44
-lastmod: 2024-11-19T19:42:46-05:00
+lastmod: 2025-04-01T11:46:01-04:00
 status: 
 ---
 # For continuous functions
@@ -42,3 +42,8 @@ $$
 so the minimum cannot be attained on either $a, b$. Then $x \in (a,b)$ with $f’(x) = c$, as desired. $\ \square$
 
 #wip Why minimum?
+
+---
+# Notes
+
+- Special case of no-retract theorem from algebraic topology.

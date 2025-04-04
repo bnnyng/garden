@@ -43,3 +43,4 @@ date: 2025-01-20T17:49:33-05:00
 - Primitivism of “finite” and the Standard Model
 - Essential nature of mathematics vs. how we think of machines doing mathematics
 	- Is there a fact of the matter about what is the interesting math? “Mathematical depth is carving nature at its joints.”
+- Is philosophy of mathematical practice in conflict with philosophy of mathematics? (see: thematic disagreement between structuralists and people like Frege and Russell)

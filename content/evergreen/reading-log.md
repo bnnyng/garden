@@ -1,6 +1,6 @@
 ---
 kanban-plugin: board
-lastmod: 2025-03-28T15:43:21-04:00
+lastmod: 2025-04-01T21:51:38-04:00
 date: 2025-02-12T16:40:50-05:00
 ---
 
@@ -112,6 +112,7 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Someday
 
+- [ ] [[Derivé]]
 - [ ] [[Cognitive gadgets, after Heyes]]
 	
 	Source: [[@2019heyesPrecis]]

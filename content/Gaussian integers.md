@@ -6,9 +6,9 @@ tags:
   - topic-logic-mathematics
   - MATH-GU4042
 status: 🔴 🔨 ❓
-publish: 
+publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-01T10:15:45-04:00
+lastmod: 2025-04-01T10:19:10-04:00
 ---
 # Overview and basic definition
 
@@ -31,11 +31,16 @@ Variants include any square-free integers and extension fields of rationals
 >a [[Cyclic groups|cyclic]] group of order 4.
 
 
-
 ---
 # Properties
 
+- [[Algebraic rings]]: The Gaussian integers are *not* a field, and the **group of units** (i.e., set of element with inverses) is 
+$$
+(\mathbb Z[i])^* = \{ \pm 1, \pm i \} = \langle i \rangle,
+$$
+a cyclic group of order 4.
 - [[Euclidean domains]]: The Gaussian integers are a **Euclidean domain** (see section below), hence a [[Unique factorization domains|principal ideal domain]] and a [[Unique factorization domains|unique factorization domain]].
+- [[(Theorem) Irreducible elements in the Gaussian integers]]
 
 ---
 # Variants of the ring $\mathbb Z[i]$
@@ -65,12 +70,6 @@ We can also define the set using rational coefficients:
 $$ \mathbb Q(\sqrt 2) = \{ a + b \sqrt 2 \ : \ a, b \in \mathbb Q \}. $$
 
 #### $\sqrt[3] 2$ as the imaginary part
-
----
-# Irreducible elements in $\mathbb Z[i]$
-
-
-
 
 
 
