@@ -81,7 +81,7 @@
 
 .callout {
     &[data-callout="remark"],
-    &[data-callout="example"] {
+    &[data-callout="exm"] {
         --color: var(--dark);
         --border: var(--darkgray);
         --bg: var(--light);
@@ -118,7 +118,7 @@
     &[data-callout="remark"] {
         --callout-prefix: "Remark.";
     }
-    &[data-callout="example"] {
+    &[data-callout="exm"] {
         --callout-prefix: "Example.";
     }
 }
