@@ -14,9 +14,16 @@ export const sharedPageComponents: SharedLayout = {
         title: "Recently Edited",
         limit: 5,
         showTags: false,
-        filter: ((file) => {
-          const publish = file.frontmatter?.publish;
-          return publish === true || publish === "true"; })
+        filter: (file: { frontmatter?: { publish?: unknown, tags?: unknown[] } }): boolean => {
+            // Explicit return type ensures boolean output
+            const publishFlag = file.frontmatter?.publish === true || 
+                              file.frontmatter?.publish === "true";
+            const tags = file.frontmatter?.tags ?? []; // Nullish coalescing as fallback
+            const hasPermanentTag = tags.some((tag: unknown) => 
+              String(tag).toLowerCase().trim() === "permanent-note"
+            );
+            return Boolean(publishFlag && hasPermanentTag); // Force boolean conversion
+          },
         }),  
       condition: (page) => page.fileData.slug == "index",
     })
