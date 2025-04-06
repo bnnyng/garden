@@ -7,7 +7,7 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-03T18:18:30-04:00
+lastmod: 2025-04-06T15:25:09-04:00
 ---
 # Overview
 
@@ -52,7 +52,7 @@ The set of **singular $p$-simplices** in $X$ is a functor $\mathup{Sin}_p : \mat
 
 The class of [[Singular chains and singular homology|singular chains]] $(C_*(X), \partial)$ form a functor $\mathsf{Top} \to \mathsf{Ch}$. To see this, let $f: X \to Y$ be any continuous map, and define $f_*: C_p(X) \to C_p(Y)$ be the homomorphism defined on generators as $f_*(\sigma) = f \circ \sigma$.
 
->[!abstract] Lemma: Functorial properties of the induced homomorphism on singular chains
+>[!lemma] Functorial properties of the induced homomorphism on singular chains
 >Let $f : X \to Y$ and $g: Y \to Z$ be continuous functions and define $f_*: C_*(X) \to C_*(Y)$ and $g_*: C_*(Y) \to C_*(Z)$ as above. Then $f_*, g_*$ are [[Homology of general chain complexes|chain maps]]. Moreover, the following hold:
 >- (i) **Composition:** $(g \circ f)_* = g_* \circ f_*$;
 >- (ii) **Identity:** $(\text{id}_X)_*: C_*(X) \to C_*(X)$ is the identity chain map.
@@ -61,7 +61,7 @@ Composition with the functor $H_p: \mathsf {Ch} \to \mathsf {Ab}$
 
 #### Homology of a chain complex
 
->[!abstract] Lemma: Homology is a functor from chain complexes to abelian groups
+>[!lemma] Homology is a functor from chain complexes to abelian groups
 >The association of the abelian group $H_p(C_*, \partial)$ to the chain complex $(C_*, \partial)$ and $H_p(f)$ to a chain map defines a [[Categorical functors|functor]] $H_p : \mathsf {Ch} \to \mathsf {Ab}$.
 
 ^0c28bf

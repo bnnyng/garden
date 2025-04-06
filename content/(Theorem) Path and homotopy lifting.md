@@ -4,9 +4,9 @@ tags:
   - permanent-note
   - topic-logic-mathematics
 status: 
-publish: 
+publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-07T12:44:00-05:00
+lastmod: 2025-04-06T17:54:45-04:00
 ---
 # Overview and statement of the theorems
 

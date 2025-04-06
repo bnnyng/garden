@@ -8,7 +8,7 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-03T12:11:45-04:00
+lastmod: 2025-04-06T18:19:20-04:00
 ---
 # Overview 
 
@@ -21,7 +21,7 @@ Extension of notes on [[Homology of general chain complexes]].
 ---
 # Basic definition
 
->[!example] Definition: Relative homology
+>[!definition] Relative homology
 >Let $(X, A)$ be a **pair of spaces** where $A \subseteq X$ as a (topological) [[Subspace (induced) topology|subspace]]. If $(Y, B)$ is another pair of spaces, a **map of pairs** is a continuous $f: X \to Y$ such that $f(A) \subseteq B$.
 >
 >To obtain a chain complex from a pair of spaces, let $C_p(X, A)$ be the [[Normal subgroups and quotient groups|quotient group]] $C_p(X) / C_p(A)$ consisting of formal linear combinations of $p$-simplices, and let $\partial : C_p(X, A) \to C_{p-1}(X, A)$ be defined by the commutative diagram

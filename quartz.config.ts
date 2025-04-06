@@ -31,7 +31,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "VT323", // "Schibsted Grotesk", Handjet
+        header: "DotGothic16", // "VT323", // "Schibsted Grotesk", Handjet
         body: "IBM Plex Sans", // "Source Sans Pro",
         code: "IBM Plex Mono", // inline and block quotes
       },
@@ -43,9 +43,9 @@ const config: QuartzConfig = {
           darkgray: "#db3b3b", // "#4e4e4e", // body text
           dark: "#db3b3b", // "#2b2b2b", // header text and icons
           secondary: "#b51010", // "#284b63", // link color, current graph node
-          tertiary: "#84a59d", // hover states and visited graph noes
+          tertiary: "#84a59d", // hover states and visited graph nodes
           highlight: "rgba(143, 159, 169, 0.15)", // internal link background
-          textHighlight: "#fff23688",
+          textHighlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
           light: "#161618",

@@ -1,6 +1,7 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+/* CALLOUTS */
+
 .callout {
     &[data-callout="theorem"], 
     &[data-callout="axiom"],
@@ -9,7 +10,7 @@
     &[data-callout="definition"] {
         --color: var(--dark);
         --border: var(--darkgray);
-        --bg: var(--light);
+        --bg: var(--theorem-bg);
         --callout-icon: url("");
 
         font-family: 'Times New Roman', Times, serif;
@@ -54,64 +55,73 @@
     &[data-callout="theorem"] {
         --callout-prefix: "Theorem";
         --body-style: italic;
+        --theorem-bg: var(--highlight);
     }
     &[data-callout="axiom"] {
         --callout-prefix: "Axiom";
         --body-style: italic;
+        --theorem-bg: var(--highlight);
     }
     &[data-callout="proposition"] {
         --callout-prefix: "Proposition";
         --body-style: italic;
+        --theorem-bg: var(--highlight);
     }
     &[data-callout="lemma"] {
         --callout-prefix: "Lemma";
         --body-style: italic;
+        --theorem-bg: var(--highlight);
     }
     &[data-callout="definition"] {
         --callout-prefix: "Definition";
         --body-style: normal;
+        --theorem-bg: var(--light);
+    }
+}
+
+.callout {
+    &[data-callout="remark"],
+    &[data-callout="example"] {
+        --color: var(--dark);
+        --border: var(--darkgray);
+        --bg: var(--light);
+        
+        font-family: 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: normal;
+        
+        .callout-title {
+            display: none;
+        }
+
+        .callout-content {
+            margin-top: 1rem;
+            > p {
+                margin: 0;
+                &:first-child {
+                    &::before {
+                        content: var(--callout-prefix);
+                        font-style: italic;
+                        font-weight: normal;
+                        margin-right: 1em;
+                    }
+                }
+                &:not(:first-child) {
+                    text-indent: 1.5rem;
+                    margin-top: 0;
+                }
+            }
+            margin-bottom: 1rem;
+        }
+    }
+
+    &[data-callout="remark"] {
+        --callout-prefix: "Remark.";
+    }
+    &[data-callout="example"] {
+        --callout-prefix: "Example.";
     }
 }
 
 
-// .callout-title {
-//     display: flex;
-//     align-items: flex-start;
-//     gap: 5px;
-//     padding: 1rem 0;
-//     color: var(--color);
-  
-//     --icon-size: 18px;
-  
-//     & .fold-callout-icon {
-//       transition: transform 0.15s ease;
-//       opacity: 0.8;
-//       cursor: pointer;
-//       --callout-icon: var(--callout-icon-fold);
-//     }
-  
-//     & > .callout-title-inner > p {
-//       color: var(--color);
-//       margin: 0;
-//     }
-  
-//     .callout-icon,
-//     & .fold-callout-icon {
-//       width: var(--icon-size);
-//       height: var(--icon-size);
-//       flex: 0 0 var(--icon-size);
-  
-//       // icon support
-//       background-size: var(--icon-size) var(--icon-size);
-//       background-position: center;
-//       background-color: var(--color);
-//       mask-image: var(--callout-icon);
-//       mask-size: var(--icon-size) var(--icon-size);
-//       mask-position: center;
-//       mask-repeat: no-repeat;
-//       padding: 0.2rem 0;
-//     }
-  
-//     .callout-title-inner {
-//       font-weight: $semiBoldWeight;
-//     }
+

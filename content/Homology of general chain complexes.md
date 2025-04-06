@@ -11,7 +11,7 @@ tags:
 status: 
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-06T15:22:46-04:00
+lastmod: 2025-04-06T15:24:48-04:00
 ---
 # Overview 
 
@@ -28,7 +28,7 @@ is **exact** at $C_p$ (i.e., $\ker(\partial_p) = \textup{Im}(\partial_{p+1})$) i
 
 **Related notes:**
 - [[Singular chains and singular homology]]
-- [[Relative singular chains and homology]]
+- [[Relative singular chains and relative homology]]
 - [[Reduced homology]]
 
 ---
@@ -43,6 +43,7 @@ is **exact** at $C_p$ (i.e., $\ker(\partial_p) = \textup{Im}(\partial_{p+1})$) i
 >is a sequence consisting of an [[Abelian groups|abelian]] group $C_p$ and a [[Group homomorphisms and isomorphisms|group homomorphism]] $\partial_p : C_p \to C_{p-1}$ such that $\partial_{p-1} \circ \partial_p = 0$ for all $p \in \mathbb Z$ .
 >
 >The data of all the abelian groups $C_p$ and homomorphisms $\partial$ is often abbreviated $(C_*, \partial)$.
+
 
 >[!definition] Chain map
 >Let $(B_*, \partial^B)$ and $(C_*, \partial^C)$ be chain complexes. A **chain map** $f_*: (B_*, \partial^B) \to (C_*, \partial^C)$ consists of homomorphisms $f_p : B_p \to C_p$ for all $p \in \mathbb Z$ which satisfy $$ \partial ^C \circ f_p = f_{p-1} \circ \partial ^B. $$ 

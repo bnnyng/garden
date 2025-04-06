@@ -7,9 +7,10 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-01T12:02:29-04:00
+lastmod: 2025-04-06T17:53:24-04:00
 ---
->[!example] Definition: 
-
->[!abstract] Theorem:
-
+> [!theorem] The 5-lemma
+> Suppose we have a commutative diagram of abelian groups and homomorphisms 
+> ![[Pasted image 20250406174915.png|250]]
+> 
+> 

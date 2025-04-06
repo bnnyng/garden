@@ -8,10 +8,18 @@ tags:
 status: 
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-06T15:13:23-04:00
+lastmod: 2025-04-06T17:48:33-04:00
 ---
 # Overview
 
+The **connecting homomorphism** $\delta: H_p(C_*, \partial) \to H_{p-1}(A_*, \partial)$ is a construction that associates a [[Exact sequences|short exact sequence]] of [[Homology of general chain complexes|chain complexes]] 
+$$
+0 \to (A_{*}, \partial) \to_{f} (B_{*}, \partial) \to_{g} (C_{*}, \partial) \to 0
+$$
+to a long exact sequence of homology groups
+$$
+\cdots \to_\delta H_p(A_*, \partial) \to_{f_*} H_p(B_*, \partial) \to_{g_*} H_p(C_*, \partial) \to_\delta H_{p-1}(A_*, \partial) \to_{f_*} \cdots.
+$$
 
 
 ---
@@ -23,6 +31,7 @@ lastmod: 2025-04-06T15:13:23-04:00
 >0 \to A_p \to_{f_p} B_p \to_{g_p} C_p \to 0
 >$$
 >is [[Exact sequences|exact]] for all $p$.
+
 
 >[!lemma] Existence of the connecting homomorphism
 >Given a short exact sequence of chain complexes, there is a well-defined homomorphism $\delta : H_p(C_*, \partial) \to H_{p-1}(A_*, \partial)$, called the **connecting homomorphism**, defined by
@@ -53,12 +62,15 @@ The proof involves the following key steps:
 >$$
 >is exact.
 
-*Proof from [[MATH-GU4053|Algebraic Topology]].* $\ \text{}$
-- **Exactness at $H_p(A_*, \partial)$:** By the definition of $\delta$, given some $[c] \in H_{p+1}(C_*, \partial)$, we have $$ (f_* \circ \delta)([c]) = f_*([a]) = [f(a)] = [\partial b] = 0, $$ so $f_* \circ \delta$ is precisely the zero map and $\textup{Im}(\delta ) \subseteq \ker(f_*)$. Conversely, 
-- **Exactness at $H_p(B_*, \partial)$:** Since $g \circ f = 0$ implies $g_* \circ f_* = 0$, we know that $\textup{Im}(f_*) \subseteq \ker (g_*)$. Conversely, let $[b] \in \ker(g_*)$ be a homology class with a representative **cycle** $b \in B_p$ that is homologous to $0$ (i.e., $\partial b = 0$). Then $g_*([b]) = [g(b)]$ is also homologous to $0$, so $g(b) \in C_{p}$ is a **boundary** of some $n+1$ chain, i.e., $g(b) = \partial c'$ for $c' \in C_{p+1}$. Surjectivity of $g$ implies that there exists $b’ \in B_{p+1}$ such that $c’ = g(b’)$. Then we have equalities $\partial c’ = \partial g(b’) = g(b)$, so $$ g(b - \partial b') = g(b) - g(\partial b') = g(b) - \partial g(b') = 0 \in \ker(g). $$ By exactness in the chain complexes, this implies $b - \partial b’ \in \textup{Im}(f)$ as well, so there exists some $a \in A_p$ such that $f(a) = b - \partial b’$. Finally, we show $a$ is a **cycle**, i.e., $a \in \ker (\partial_p : A_p \to A_{p-1})$. Taking the boundary of both sides, we have $$ \partial f(a) = \partial(b - \partial b') = \partial b + \partial^2 b = 0, $$ which means $f(\partial a) = 0$. Then injectivity of $f$ implies $\partial a = 0$, and so $a$ is indeed a cycle representing a class $[a] \in H_p(A_*, \partial)$. Thus, $$ f_*([a]) = [b - \partial b'] = [b] - [\partial b'] = [b], $$ and we conclude that $[b] \in \textup{Im}(f_*)$ and $\ker(g_*) \in \textup{Im}(f_*)$. 
-- 
+*Proof from [[MATH-GU4053|Algebraic Topology]].* $\ \text{}$We make use of the fact that if the composition of two maps is zero, then the image of the first is in the kernel of the second, since the kernel of the composition is the whole domain. 
+- **Exactness at $H_p(A_*, \partial)$:** By the definition of $\delta$, given some $[c] \in H_{p+1}(C_*, \partial)$, we have $$ (f_* \circ \delta)([c]) = f_*([a]) = [f(a)] = [\partial b] = 0, $$ so $f_* \circ \delta = 0$ is precisely the zero map and $\textup{Im}(\delta ) \subseteq \ker(f_*)$. Conversely, suppose $f_*(a) = [0] = [f(a)]$, which means that $f(a)$ is homologous to $0$ and therefore is a **boundary** in $B_p$, meaning there exists $b \in B_{p+1}$ such that $\partial b = f(a)$. Then $$\partial g(b) = g (\partial b) = g(i(a)) = 0,$$ so $g(b)$ is a **cycle** and we have $\delta([g(b)]) = [a] \in H_{p}(A_{*}, \partial)$. Thus, $\ker(f_*)\subseteq \mathrm{Im}(\delta)$ as well. 
+- **Exactness at $H_p(B_*, \partial)$:** Since $g \circ f = 0$ implies $g_* \circ f_* = 0$, we know that $\textup{Im}(f_*) \subseteq \ker (g_*)$. Conversely, let $[b] \in \ker(g_*)$ be a homology class with a representative **cycle** $b \in B_p$ that is homologous to $0$ (i.e., $\partial b = 0$). Then $g_*([b]) = [g(b)]$ is also homologous to $0$, so $g(b) \in C_{p}$ is a **boundary** of some $p+1$ chain, i.e., $g(b) = \partial c'$ for $c' \in C_{p+1}$. Surjectivity of $g$ implies that there exists $b’ \in B_{p+1}$ such that $c’ = g(b’)$. Then we have equalities $\partial c’ = \partial g(b’) = g(b)$, so $$ g(b - \partial b') = g(b) - g(\partial b') = g(b) - \partial g(b') = 0 \in \ker(g). $$ By exactness in the chain complexes, this implies $b - \partial b’ \in \textup{Im}(f)$ as well, so there exists some $a \in A_p$ such that $f(a) = b - \partial b’$. Finally, we show $a$ is a **cycle**, i.e., $a \in \ker (\partial_p : A_p \to A_{p-1})$. Taking the boundary of both sides, we have $$ \partial f(a) = \partial(b - \partial b') = \partial b + \partial^2 b = 0, $$ which means $f(\partial a) = 0$. Then injectivity of $f$ implies $\partial a = 0$, and so $a$ is indeed a cycle representing a class $[a] \in H_p(A_*, \partial)$. Thus, $$ f_*([a]) = [b - \partial b'] = [b] - [\partial b'] = [b], $$ and we conclude that $[b] \in \textup{Im}(f_*)$ and $\ker(g_*) \subseteq  \textup{Im}(f_*)$. 
+- **Exactness at $H_p(C_{*}, \partial)$:** Consider an element $g_*([b]) = [g(b)] \in \mathrm{Im}(g_{*}))$, where $[b] \in H_p(B_*, \partial)$ has a representative **lift** $b \in B_p$. Since $b$ is a cycle, we have $\partial b = 0 = f(0)$ by injectivity of $f$, so $$ \delta([g(b)]) = [0] = 0 $$ and $\delta \circ g_{*} = 0$, implying $\mathrm{Im}(g_{*}) \subseteq \ker (\partial)$. Conversely, note that if $\delta([c]) = [a]$ for an element of the kernel $[c] \in \ker(\delta)$, then there exists some $a’ \in A_p$ such that $\partial a’ = a$. Now since $$ \partial(b - f(a'))= \partial b - f(\partial a') = \partial b - f(a) = 0, $$ the element $b - f(a’)$ is a cycle in $H_p(B_*, \partial)$. Finally, we have $$j(b-f(a')) = g(b) - g(f(a')) = g(b) = c, $$ so we conclude that $[c] = g_{*}([b-f(a')]) \in \mathrm{Im}(g_*)$ and $\ker(\delta) \subseteq \mathrm{Im}(g_{*})$ as well. $\ \square$
 
-- Note that make use of the fact that compositon 0 means the image of the first is in the kernel of the second, since the kernel is the whole domain
+---
+# Notes
+
+- This is a functor.
 
 ---
 # Code snippets
