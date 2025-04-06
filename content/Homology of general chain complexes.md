@@ -9,9 +9,9 @@ tags:
   - topic-logic-mathematics
   - MATH-GU4053
 status: 
-publish: 
+publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-03T18:00:21-04:00
+lastmod: 2025-04-06T15:22:46-04:00
 ---
 # Overview 
 
@@ -35,7 +35,7 @@ is **exact** at $C_p$ (i.e., $\ker(\partial_p) = \textup{Im}(\partial_{p+1})$) i
 
 # Basic definitions
 
->[!example] Definition: Chain complex
+>[!definition] Chain complex
 >A **chain complex** 
 >$$ 
 >\cdots \to C_{p+1} \to C_p \to C_{p-1} \to \cdots 
@@ -44,14 +44,14 @@ is **exact** at $C_p$ (i.e., $\ker(\partial_p) = \textup{Im}(\partial_{p+1})$) i
 >
 >The data of all the abelian groups $C_p$ and homomorphisms $\partial$ is often abbreviated $(C_*, \partial)$.
 
->[!example] Definition: Chain map
+>[!definition] Chain map
 >Let $(B_*, \partial^B)$ and $(C_*, \partial^C)$ be chain complexes. A **chain map** $f_*: (B_*, \partial^B) \to (C_*, \partial^C)$ consists of homomorphisms $f_p : B_p \to C_p$ for all $p \in \mathbb Z$ which satisfy $$ \partial ^C \circ f_p = f_{p-1} \circ \partial ^B. $$ 
 >![[Pasted image 20250325104422.png|150]]
 
 ---
 # Homology groups
 
->[!example] Definition: Homology groups of a chain complex
+>[!definition] Homology groups of a chain complex
 >If $(C_*, \partial)$ is a chain complex, its **homology groups** $H_p(C_*, \partial)$ are defined as 
 >$$
 >H_p(C_*, \partial) = \frac{\ker ( \partial_p : C_p \to C_{p-1})}{\textup{Im} ( \partial_{p+1} : C_{p+1} \to C_p)}.
