@@ -23,8 +23,13 @@ export const sharedPageComponents: SharedLayout = {
               String(tag).toLowerCase().trim() === "permanent-note"
             );
             return Boolean(publishFlag && hasPermanentTag); // Force boolean conversion
-          },
-        }),  
+        },
+        sort: (a: any, b: any) => {
+            const getDate = (file: any) => 
+              file.frontmatter?.lastmod || file.dates?.created || "1970-01-01";
+            return new Date(getDate(b)).getTime() - new Date(getDate(a)).getTime();
+        },
+      }),  
       condition: (page) => page.fileData.slug == "index",
     })
   ],
