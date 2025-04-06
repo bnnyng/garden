@@ -6,9 +6,9 @@ tags:
   - permanent-note
   - topic-logic-mathematics
 status: 
-publish: 
+publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-06T15:10:45-04:00
+lastmod: 2025-04-06T15:13:23-04:00
 ---
 # Overview
 
