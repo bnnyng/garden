@@ -46,4 +46,4 @@ lastmod: 2024-10-29T15:36:44-04:00
 
 ![[Pasted image 20241029152542.png]]
 
-- Call is related to [[@1990anderson]] to study outcomes outside of simple, static contexts
+- Call is related to [[@1990andersonAdaptive]] to study outcomes outside of simple, static contexts

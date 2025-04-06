@@ -11,10 +11,15 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-03T12:50:22-04:00
+lastmod: 2025-04-03T18:00:21-04:00
 ---
 # Overview 
 
+A **chain complex** is a sequence of [[Group homomorphisms and isomorphisms|homomorphisms]] of [[Abelian groups|abelian groups]] which generalize [[Singular chains and singular homology|singular chains]]. The **homology groups** $H_p(C_*, \partial) = \ker (\partial_p)/ \text{Im}(\partial_{p+1})$ of a chain complex can be regarded as a measure of [[Exact sequences|non-exactness]]: the sequence
+$$
+\cdots \to C_{p+1} \to C_p \to C_{p-1} \to \cdots
+$$
+is **exact** at $C_p$ (i.e., $\ker(\partial_p) = \textup{Im}(\partial_{p+1})$) if and only if $H_p(C_*, \partial) = 0$.
 
 **Relevant theorems:**
 - [[(Theorem) A short exact sequence of chain complexes induces a long exact sequence of homology groups]]
@@ -35,7 +40,7 @@ lastmod: 2025-04-03T12:50:22-04:00
 >$$ 
 >\cdots \to C_{p+1} \to C_p \to C_{p-1} \to \cdots 
 >$$ 
->is a sequence consisting of an [[Abelian groups|abelian]] group $C_p$ and a [[Group homomorphisms and isomorphisms|group homomorphism]] $\partial_p : C_p \to C_{p-1}$ for all $p \in \mathbb Z$ such that $\partial_{p-1} \circ \partial_p = 0$.
+>is a sequence consisting of an [[Abelian groups|abelian]] group $C_p$ and a [[Group homomorphisms and isomorphisms|group homomorphism]] $\partial_p : C_p \to C_{p-1}$ such that $\partial_{p-1} \circ \partial_p = 0$ for all $p \in \mathbb Z$ .
 >
 >The data of all the abelian groups $C_p$ and homomorphisms $\partial$ is often abbreviated $(C_*, \partial)$.
 
@@ -49,7 +54,7 @@ lastmod: 2025-04-03T12:50:22-04:00
 >[!example] Definition: Homology groups of a chain complex
 >If $(C_*, \partial)$ is a chain complex, its **homology groups** $H_p(C_*, \partial)$ are defined as 
 >$$
->H_p(C_*, \partial) = \frac{\ker ( \partial_p : C_p \to C_{p-1}}{\textup{Im} ( \partial_{p+1} : C_{p+1} \to C_p)}.
+>H_p(C_*, \partial) = \frac{\ker ( \partial_p : C_p \to C_{p-1})}{\textup{Im} ( \partial_{p+1} : C_{p+1} \to C_p)}.
 >$$
 >Elements of $\ker \partial$ is called **cycles**, and elements of $\textup{Im} \partial$ are called **boundaries**.
 >If $f: (B_*, \partial) \to (C_*, \partial)$ is a chain map, we defined the **induced homomorphism** $H_p(f) : H_p(B_*, \partial) \to H_p(C_*, \partial)$ by 
@@ -58,11 +63,13 @@ lastmod: 2025-04-03T12:50:22-04:00
 >$$
 >for a cycle $c \in \ker (\partial : B_p \to B_{p-1})$. We often write $f_*$ for $H_p(f)$.
 
-#wip well-definedness of classes
+To see that $f_*$ is well-defined, we need to justify the following claims:
 
+- **The image of any element $f(c)$ is indeed in $\ker (\partial : C_p \to C_{p-1})$:** Since $f$ is a chain map, we know that for we have $$ \partial f(c) =  f(\partial c) = 0, $$ which is zero since $c \in \ker(\partial)$. 
+- **The class $[f(c)]$ does not depend on choice of representative for $[c]$:** Suppose $[c] = [d]$, meaning $c, d$ differ by a boundary. In particular, there exists some $x \in C_{p+1}(X)$ such that $d = c + \partial x$. The fact that $f$ consists of group homomorphism implies $$ f(d) = f(c) + f(\partial x) = f(c) + \partial (f(x)), $$ where the second equality again follows from chain map properties. Then $f(c), f(d)$ differ by the boundary $\partial (f(x))$, so $[f(c)] = [f(d)]$.
+- **The map $f_*$ is a homomorphism:** This follows because every $f_p : B_p \to C_p$ is a homomorphism, so they induce homomorphisms on the quotient.
 
->[!abstract] Lemma: Homology is a functor
->The association of the abelian group $H_p(C_*, \partial)$ to the chain complex $(C_*, \partial)$ and $H_p(f)$ to a chain map defines a [[Categorical functors|functor]] $H_p : \mathsf {Ch} \to \mathsf {Ab}$.
+![[Topological categories and functors#^0c28bf]]
 
 ---
 

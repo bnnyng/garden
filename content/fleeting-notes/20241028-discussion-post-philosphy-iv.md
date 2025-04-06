@@ -9,20 +9,20 @@ lastmod: 2024-11-07T12:28:41-05:00
 ---
 # Reading notes
 
-[[@1990anderson]]
+[[@1990andersonAdaptive]]
 - Seemed very difficult to model the environment
 - “Implementation is an approximation of the physical” – we abstract away from the intractable details
 
-[[@2020lieder]]
+[[@2020liederResource]]
 - Resource-rationality as ecological
 - Concept of satisficing makes “local minimum” not a problem; but what about two systems in the same environment? What if one thing we consider cognitive and another we do not have the same response?
 - CS analogy – failure modes
-- [[@2020lieder]] give a number of examples where resource-rational analysis-motivated theories better fit empirical observations compared to purely rational analyses. This passage made me laugh: “From the perspective of expected utility theory, there is no reason why people should have goals in the first place. An unboundedly optimal agent would simply maximize its expected utility by scoring all outcomes its actions might have according to its graded utility function. In contrast, people often think only about which subgoal to pursue next and how to achieve it. … This is suboptimal from the perspective of expected utility theory, even though it seems intuitively rational for people to be goal-directed.”
+- [[@2020liederResource]] give a number of examples where resource-rational analysis-motivated theories better fit empirical observations compared to purely rational analyses. This passage made me laugh: “From the perspective of expected utility theory, there is no reason why people should have goals in the first place. An unboundedly optimal agent would simply maximize its expected utility by scoring all outcomes its actions might have according to its graded utility function. In contrast, people often think only about which subgoal to pursue next and how to achieve it. … This is suboptimal from the perspective of expected utility theory, even though it seems intuitively rational for people to be goal-directed.”
 
 ---
 # Discussion post
 
-The framework of resource-rational analysis put forth in [[@2020lieder]] is very attractive to me. I think I can finally articulate why computationalism is so unsatisfying—it lacks any consideration of the ecology or causal history surrounding cognitive systems we may encounter in the real world. Although resource-rational analysis is used in a top-down manner—we identify something as a mind, then use these analytical steps to put constraints on what is “biologically feasible” at other levels—its basic contribution is to extend [[@1990anderson]]’s rational analysis to internal neural and cognitive architectures. (Full disclosure: I am working with a professor and a Ph.D. student who were a postdoc and lab manager for Griffiths, respectively.) 
+The framework of resource-rational analysis put forth in [[@2020liederResource]] is very attractive to me. I think I can finally articulate why computationalism is so unsatisfying—it lacks any consideration of the ecology or causal history surrounding cognitive systems we may encounter in the real world. Although resource-rational analysis is used in a top-down manner—we identify something as a mind, then use these analytical steps to put constraints on what is “biologically feasible” at other levels—its basic contribution is to extend [[@1990andersonAdaptive]]’s rational analysis to internal neural and cognitive architectures. (Full disclosure: I am working with a professor and a Ph.D. student who were a postdoc and lab manager for Griffiths, respectively.) 
 
 I think of resource-rational analysis as a meta-bottom-up approach: the first step is a functional (top-down) description of some aspect of cognition, but realistically, as rational analysis recognizes, such a goal is determined by the environment (system must respond to demands/physical needs; environment generates space of possible goals). The form of representations/inductive biases/domain-specific languages depends on both the content they map to and the function they serve, hence also ecologically determined. For example, the “social brain hypothesis” from neuroscience—the theory that human brain architecture developed to manage complex social situations—and [[@2017mercier]]’s more cognitive theory that human reasoning capacities are specialized to arrive at optimal solutions during collaborative problem-solving both follow from the assumption that social demands generated human cognitive exceptionalism. 
 
@@ -41,7 +41,7 @@ The mistake of computationalism is to assume that a general theory of cognition 
 	- Top-down: what things are being done?
 	- Is neuroplasticity hardware or software?
 - Distinction between hardware and software is confusing because it’s metaphysically different for different cognitive systems
-- [[@1990anderson]] sees rational analysis as making explicit the implicit assumptions of ideal function in [[@1982marr]]
+- [[@1990andersonAdaptive]] sees rational analysis as making explicit the implicit assumptions of ideal function in [[@1982marr]]
 - Danks (2013) – Abstraction has dimensionality
 	- People are into scales now – not one principled dimension to carve the world
 	- Theories constrain each other? 
@@ -65,7 +65,7 @@ The mistake of computationalism is to assume that a general theory of cognition 
 - [[(Resource-)rational analysis]] avoids method of hypothesis
 	- Environment + task + rationality assumption to derive cognitive model
 		- Environment is “completely observable”
-	- Bayesian models of cognition ([[Probabilistic reasoning]]) are descendants of [[@1990anderson]]’s rational analysis!
+	- Bayesian models of cognition ([[Probabilistic reasoning]]) are descendants of [[@1990andersonAdaptive]]’s rational analysis!
 - **Rationality** = relative to a goal and environment, what should one do?
 - Resource rationality
 	- Bayesian modeling in real world is computationally intractable

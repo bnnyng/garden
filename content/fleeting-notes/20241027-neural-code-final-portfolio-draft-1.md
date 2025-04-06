@@ -54,7 +54,7 @@ lastmod: 2024-12-03T10:57:28-05:00
 - In the pattern language of “movement or non-movement”. Our DSL can account for many more things, probably
 ## (Evidence?)
 
-- Argument: Dimensionality is resource-rational (both wrt. to internal and external environments), cognitive/abstractive capacity is a downstream effect [[@2020lieder]]
+- Argument: Dimensionality is resource-rational (both wrt. to internal and external environments), cognitive/abstractive capacity is a downstream effect [[@2020liederResource]]
 	- Degrees of freedom, e.g., brain lesion patients having relatively normal behavioral outcomes (see [[@2022kelty-stephen|Kelty-Stephen et al., 2022]])
 - General framework: natural structure of data → physical adaptation/sensory matching/perceptual pre-processing → lower-dimensional representations
 	- Sensory filters create the DSL by a physical process

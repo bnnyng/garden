@@ -30,7 +30,10 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
-        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+        // CUSTOM CODE
+        // segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+        segments.push(<Date date={fileData.dates.created!} locale={cfg.locale} />)
+        segments.push(<Date date={fileData.dates.modified!} locale={cfg.locale} />)
       }
 
       // Display reading time if enabled
@@ -42,11 +45,34 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<span>{displayedTime}</span>)
       }
 
+      // CUSTOM CODE
       return (
-        <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-          {segments}
-        </p>
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "row",
+            alignItems: "center",
+            marginTop: "0.25rem",
+          }}
+        >
+          <span className="content-meta">Planted: {segments[0]}</span>
+          <span className="content-meta" style={{ margin: "0 10px" }}>
+            |
+          </span>{" "}
+          {/* Adjust margin as needed */}
+          <span className="content-meta">Last tended: {segments[1]}</span>
+          <span className="content-meta" style={{ margin: "0 10px" }}>
+            |
+          </span>{" "}
+          {/* Adjust margin as needed */}
+          <span className="content-meta">{segments[2]}</span>
+        </div>
       )
+      // return (
+      //   <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
+      //     {segments}
+      //   </p>
+      // )
     } else {
       return null
     }
@@ -56,3 +82,5 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
   return ContentMetadata
 }) satisfies QuartzComponentConstructor
+
+//ContentMeta.tsx

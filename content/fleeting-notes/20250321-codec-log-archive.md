@@ -131,19 +131,19 @@ lastmod: 2025-03-21T10:41:39-04:00
 			- What is the analogy for the visual domain? Sensory filtering.
 	- Takeaways for the rational analysis, problems?
 	- Takeaways from the hyperbole paper? What are the caveats?—when I am presented a model, I just accept that it is good and true. What are the alternatives?
-- [[@2020lieder]]
+- [[@2020liederResource]]
 	- Alternatives
 - Papers suggested: [[@2024legris]], [[@2023sucholutsky]]
 
 [[2024-10-13]]
-- Thoughts on [[@2020lieder]]
+- Thoughts on [[@2020liederResource]]
 	- Why are people good at things like math if resource-rationality predicts that we should have the highest trade-off against accuracy here? Maybe we’re the only ones to ever do it, so we can’t compare what is “inaccuracy” (also, math is made up)
 	- How to define a constraint on cognition – non-metabolic?
 
 [[2024-10-04]]
 - Hyperbole can be represented in model by allowing people to select points anywhere on the plane, not just on the function line itself
 - Next steps:
-	- [ ] Paper reading: [[@2015griffiths]] [[@2024sumers]], [[@2020lieder]]
+	- [ ] Paper reading: [[@2015griffiths]] [[@2024sumers]], [[@2020liederResource]]
 
 ---
 # Log

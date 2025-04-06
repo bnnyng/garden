@@ -50,4 +50,4 @@ In this chapter, Maudlin proposes that there is only one basic sort of scientifi
 
 >Laws are the patterns that nature respects; to say what is physically possible is to say what the constraint of those patterns allows.
 
-- #concept-question *How is this different from a logical or epistemological primitive? Is [[@1990anderson]]’s rational analysis an example of an ontological primitive, or purely a methodological starting place?*
+- #concept-question *How is this different from a logical or epistemological primitive? Is [[@1990andersonAdaptive]]’s rational analysis an example of an ontological primitive, or purely a methodological starting place?*

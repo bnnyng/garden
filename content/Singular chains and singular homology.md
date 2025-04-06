@@ -12,16 +12,13 @@ tags:
   - topic-logic-mathematics
   - MATH-GU4053
 status: 🔴 🔨 ❓
-publish: 
+publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-03T12:55:16-04:00
----
->[!question]
->- Definition of standard $p$-simplex?
->- Orientation and the boundary operator?
-
+lastmod: 2025-04-03T17:56:25-04:00
 ---
 # Overview
+
+A **singular chain** $\sigma$ is a [[Abelian groups|formal linear combination]] of continuous maps from generalized triangles to an arbitrary space $X$. Two chains $\sigma, \sigma’ \in C_p(X)$ are **homologous** if their difference is a **boundary**, meaning there exists some formal linear combination $\alpha \in C_{p+1}(X)$ for which $\partial_{p+1} \alpha = \sigma - \sigma’$. Homology is an [[Relation|equivalence relation]], and the **$p$th singular homology group** is the group of $p$-cycles modulo the relation of being homologous.
 
 >[!example] Key terms and notation
 >- **Standard $p$-simplex $\Delta^p$:** the $p$-dimensional “triangle” whose vertices are the [[Vector bases and dimension|standard basis]] vectors of $\mathbb R^{p+1}$.
@@ -35,7 +32,12 @@ lastmod: 2025-04-03T12:55:16-04:00
 >- $p$**-cycle:** an element in the kernel of the boundary operator $\partial$, which is denoted $\ker \partial = Z_p(X) \subset C_p(X)$.
 >- **Boundary:** an element in the image of $\partial$, which is denoted $\textup{Im}  \partial = B_{p-1}(X) \subset C_{p-1}(X)$.
 
-Two chains $\sigma, \sigma’ \in C_p(X)$ are **homologous** if their difference is a boundary in $B_p(X)$, meaning there exists some formal linear combination $\alpha \in C_{p+1}(X)$ for which  
+**Singular homology** is the composition of [[Topological categories and functors|functors]] $\mathsf{Top} \to \mathsf {Ch} \to \mathsf{Ab}$ defined by the mappings 
+$$
+X \mapsto (C_*(X), \partial) \mapsto H_p(X) \quad \quad f \mapsto f_* \mapsto H_p(f),
+$$
+where $X$ is any space, $f : X \to Y$ is a continuous function, $f_*: C_p(X) \to C_p(Y)$ is the homomorphism defined on generators by $\sigma \mapsto f \circ \sigma$, and $H_p(f) : H_p(X) \to H_p(Y)$ is the homomorphism defined by $\left [ \sum c_\sigma \sigma \right ] \mapsto \left [ \sum c_\sigma (f \circ \sigma) \right ]$ for **cycles** $c = \sum c_\sigma \sigma$.
+
 
 **Relevant theorems:**
 - [[(Theorem) The abelianization of the fundamental group of a path-connected space is isomorphic its first singular homology group]]
@@ -112,7 +114,7 @@ To prove that $\partial^2$ maps $c \mapsto 0 \in C_{p-2}(X)$ for any chain $c \i
 
 
 >[!example] $p$th singular homology group, homologous
->The **$p$th singular homology group** of $X$ is the abelian group formed by the quotient of the $p$-cycles by boundaries in $X$:
+>The **$p$th singular homology group** of $X$ is the abelian group formed by the group of $p$-cycles modulo boundaries in $X$:
 >$$ H_p(X) = Z_p(X) / B_p(X) = \frac{\ker(\partial_p : C_p(X) \to C_{p-1}(X))}{\textup{Im}(\partial_{p+1} : C_{p+1}(X) \to C_p(X))}. $$
 >Alternatively, two cycles $c,c’ \in C_p(X)$ are **homologous** if their difference is a boundary, i.e., there exists $\alpha \in C_{p+1}(X)$ such that $$ \partial \alpha = c - c’ \in B_p(X). $$ Thus, $H_p(X)$ is the group of $p$-cycles modulo the relation of being homologous.
 
@@ -152,13 +154,13 @@ Our goal is to show that this map $\varepsilon$ is a [[Group homomorphisms and i
 - **Well-definedness:** 
 - **Surjectivity:**
 - **Injectivity:** The claim is that for any two $x, x’ \in X$ such that $[x], [x’] \in H_0(X)$, we have $[x] = [x’]$. Using the fact that $I \cong \Delta^1$, by [[(Path-)connectedness|path-connectedness]] of $X$ we can choose $\sigma : \Delta^1 \to X$ such that $\sigma(0, 1) = x$ and $\sigma (1, 0) = x’$, so $$ \partial \sigma = d_0\sigma - d_1 \sigma = x - x' \implies [x] = [x']. $$
+#### $H_0(X)$ for a general space is isomorphic to a free abelian group of path-components
 
-#### $H_1(X)$ for a path-connected space
 
-[[2025-02-25]]
+
 
 ---
-# Notes
+# Code snippets
 
 ```
 \partial_p : C_p(X) \to C_{p-1}(X)

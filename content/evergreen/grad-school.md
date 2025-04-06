@@ -4,7 +4,7 @@ tags:
   - workspace
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-28T18:12:07-04:00
+lastmod: 2025-04-04T12:39:30-04:00
 ---
 # Researchers
 
@@ -12,7 +12,7 @@ lastmod: 2025-03-28T18:12:07-04:00
 | --------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Gershman, Sam         | Harvard     | - [[@2022chen\|A hierarchical Bayesian model of adaptive teaching]] (2022)                                                                                                                                                                                                                                                                 |
 | Goodman, Noah         | Stanford    | - [[@2014shafto\|A rational account of pedagogical reasoning]] (2014)<br>- [[@2015griffiths\|Rational Use of Cognitive Resources]] (2015)<br>- [[@2016goodman\|Pragmatic Language Interpretation as Probabilistic Inference]] (2016)<br>- [[@2023wong\|Translating from Natural Language to the Probabilistic Language of Thought]] (2023) |
-| Griffiths, Tom        | Princeton   | - [[@2014shafto\|A rational account of pedagogical reasoning]] (2014)<br>- [[@2015griffiths\|Rational Use of Cognitive Resources]] (2015)<br>- [[@2020lieder\|Resource-Rational Analysis]] (2020)                                                                                                                                          |
+| Griffiths, Tom        | Princeton   | - [[@2014shafto\|A rational account of pedagogical reasoning]] (2014)<br>- [[@2015griffiths\|Rational Use of Cognitive Resources]] (2015)<br>- [[@2020liederResource\|Resource-Rational Analysis]] (2020)                                                                                                                                          |
 | Hawkins, Robert       | Stanford    | - [[@2022chen\|A hierarchical Bayesian model of adaptive teaching]] (2022)                                                                                                                                                                                                                                                                 |
 | Ho, Mark              | NYU         |                                                                                                                                                                                                                                                                                                                                            |
 | Jara-Ettinger, Julian | Yale        | - [[@2016jara-ettinger\|The Naïve Utility Calculus]] (2016)                                                                                                                                                                                                                                                                                |
@@ -33,7 +33,7 @@ lastmod: 2025-03-28T18:12:07-04:00
 
 **Other institutions**
 
-- Max Planck
+- Max Planck intelligent systems (Lieder of RRA is here)
 
 [[2024-01-17]]
 

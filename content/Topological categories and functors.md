@@ -7,8 +7,10 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-25T10:41:12-04:00
+lastmod: 2025-04-03T18:18:30-04:00
 ---
+# Overview
+
 The following [[Categories and morphisms|categories]] and [[Categorical functors|functors]] are of particular interest in [[§ Point-Set Topology]] and [[§ Algebraic Topology]].
 
 ----
@@ -34,7 +36,7 @@ The [[Fundamental groups|fundamental group]] $\pi_1 : \mathsf{Top}_* \to \mathsf
 
 #### Free abelian group
 
-In general, the [[Abelian groups|free abelian group]] is a functor from the category of sets $\mathsf{Set}$ to the category of abelian groups $\mathsf{Ab}$ defined by $X \mapsto \mathbb ZX$, where $\mathbb Z X$ is the set of **formal linear combinations** of elements of $X$.
+In general, the [[Abelian groups|free abelian group]] is a functor $\mathsf{Set} \to \mathsf {Ab}$ defined by $X \mapsto \mathbb ZX$, where $\mathbb Z X$ is the set of **formal linear combinations** of elements of $X$.
 
 The lemma that two [[Group homomorphisms and isomorphisms|group homomorphisms]] $\varphi, \psi : \mathbb ZX \to A$, where $A$ is abelian, are equal *iff* they are equal on every value of $x \in X$ is equivalent to the claim that the function $\mathsf{Ab}(\mathbb ZX, A) \to \mathsf {Set}(X, A)$ defined by sending a homomorphism to its restriction $\varphi \mapsto \varphi|_X$ is a **bijection** for all pairs of sets $X$ and abelian groups $A$.
 
@@ -42,14 +44,29 @@ As an upshot, homomorphisms *out of* free abelian groups can be defined by defin
 
 *Example.* 
 
-
 #### Singular $p$-simplices
 
 The set of **singular $p$-simplices** in $X$ is a functor $\mathup{Sin}_p : \mathsf{Top} \to \mathsf{Set}$.
 
-#### Singular chains, aka. singular homology
+#### Singular homology
+
+The class of [[Singular chains and singular homology|singular chains]] $(C_*(X), \partial)$ form a functor $\mathsf{Top} \to \mathsf{Ch}$. To see this, let $f: X \to Y$ be any continuous map, and define $f_*: C_p(X) \to C_p(Y)$ be the homomorphism defined on generators as $f_*(\sigma) = f \circ \sigma$.
+
+>[!abstract] Lemma: Functorial properties of the induced homomorphism on singular chains
+>Let $f : X \to Y$ and $g: Y \to Z$ be continuous functions and define $f_*: C_*(X) \to C_*(Y)$ and $g_*: C_*(Y) \to C_*(Z)$ as above. Then $f_*, g_*$ are [[Homology of general chain complexes|chain maps]]. Moreover, the following hold:
+>- (i) **Composition:** $(g \circ f)_* = g_* \circ f_*$;
+>- (ii) **Identity:** $(\text{id}_X)_*: C_*(X) \to C_*(X)$ is the identity chain map.
+
+Composition with the functor $H_p: \mathsf {Ch} \to \mathsf {Ab}$ 
 
 #### Homology of a chain complex
+
+>[!abstract] Lemma: Homology is a functor from chain complexes to abelian groups
+>The association of the abelian group $H_p(C_*, \partial)$ to the chain complex $(C_*, \partial)$ and $H_p(f)$ to a chain map defines a [[Categorical functors|functor]] $H_p : \mathsf {Ch} \to \mathsf {Ab}$.
+
+^0c28bf
+
+
 
 $H_p$ is a functor from chain complexes to abelian groups
 
@@ -66,7 +83,7 @@ $B = (B_p, \partial^B_p)_{p \in \mathbb Z}$
 $C = (C_p, \partial^C_p)_{p \in \mathbb Z}$
 
 ---
-# Notes
+# Code snippets
 
 ```
 \mathsf{hTop}
