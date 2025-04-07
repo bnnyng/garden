@@ -89,6 +89,7 @@ PageList.css = `
 }
 
 .section > .tags {
+  display: none;
   margin: 0;
 }
 `
