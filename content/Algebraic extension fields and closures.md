@@ -10,7 +10,7 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-21T14:36:55-04:00
+lastmod: 2025-04-07T22:38:50-04:00
 ---
 
 # Overview and basic definitions
@@ -65,6 +65,4 @@ lastmod: 2025-03-21T14:36:55-04:00
 # Examples
 
 - [[Field of algebraic numbers]]
-
-#### Field of algebraic numbers
 

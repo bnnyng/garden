@@ -9,24 +9,25 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-25T10:37:35-04:00
+lastmod: 2025-04-08T12:30:53-04:00
 ---
 # Overview and basic definition
 
->[!example] Definition: Exact sequence
+>[!definition] Exact sequence
 >An **exact sequence** $$ A \to_f B \to_g C $$ is a sequence of [[Abelian groups|abelian]] groups $A, B, C$ with [[Group homomorphisms and isomorphisms|group homomorphisms]] $f : A \to B$ and $g : B \to C$ if $\textup{Im}(f) = \ker(g)$. 
 >
 >If $A, B, C$ are part of a longer sequence, then we say the sequence is **exact at $B$** in the situation above, and that the entire sequence is **exact** if it is exact at all spots.
 
-Homologoy is a failure of exactness?
+[[Homology of general chain complexes|Homology groups]] can be considered a measure of *non*-exactness of general chain complexes.
 
->[!abstract] Theorem:
+**Relevant theorems:**
+- [[(Theorem) The 5-lemma]]
 
 ---
 # Short and long exact sequences
 
 
->[!example] Definition: Short exact sequence
+>[!definition] Short exact sequence
 >A **short exact sequence** is an exact sequence of the form $$ 0 \to A \to_f B \to_g 0. $$ That is, the short exact sequence consists of composable homomorphisms $f, g$ such that $f$ is injective, $g$ is surjective, and $\textup{Im}(f) = \ker(g)$.
 
 

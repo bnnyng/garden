@@ -27,7 +27,7 @@ lastmod: 2025-02-26T16:44:56-05:00
 - **Reasoning is an inference process that attends to reasons:** “Following Hume’s example, we will use the term ‘inference’ for the extraction of new information from information already available, whatever the process. We will reserve the term ‘reasoning’ for the particular process of pursuing this goal by *attending to reasons.*”
 	- “Psychologists, for instance, often use the word ‘reasoning’ to describe the remarkable inferences that animals and infants tend to be making.”
 
-#### [[1976-lakatos-proofs-and-refutations]]
+#### [[@lakatosProofsRefutationsLogic1976]]
 
 - Stages of mathematical discovery: primitive conjecture, proof, “global counterexamples,” identification of the “guilty lemma” that the counterexample *locally* refutes, and updating the conjecture to include new assumptions.
 

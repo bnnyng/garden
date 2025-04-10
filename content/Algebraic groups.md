@@ -11,11 +11,11 @@ tags:
 status: 🟠
 publish: "true"
 date: 2024-11-18 21:29
-lastmod: 2025-03-25T09:28:49-04:00
+lastmod: 2025-04-08T20:46:04-04:00
 ---
 # Overview and basic definition
 
->[!example] Definition: Group
+>[!definition] Group
 >A **group** is a set $G$ equipped with a map $\circ : G \times G \to G$, called **multiplication** or **product**, which satisfies the following:
 >- (i) **Associativity:** $(g \circ h) \circ k = g \circ (h \circ k)$ for all $g, h, k \in G$;
 >- (ii) **Identity:** there exists an identity element $e \in G$ such that $g \circ e = e \circ g$ for any $g \in G$;
@@ -36,12 +36,12 @@ Relevant theorems:
 ---
 # Subgroups and cosets
 
->[!example] Definition: Subgroup
+>[!definition] Subgroup
 >A **subgroup** of a group $G$ is any subset $H \leq G$ which satisfies the following:
 >- (i) **Closure under the group operation:** if $a, b \in H$, then $ab\in H$.
 >- (ii) **Inverses and identity:** for all $a \in H$, there exists an inverse $a^{-1} \in H$ such that $aa^{-1} = e$. 
 
->[!example] Definition: Left and right cosets, coset space
+>[!definition] Left and right cosets, coset space
 >Given a subgroup $H \leq G$, a left $H$**-coset** of $G$ is the set
 >$$
 >gH = \{ gh \ | \ h \in H \}

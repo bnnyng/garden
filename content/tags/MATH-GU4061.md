@@ -3,7 +3,7 @@ aliases:
   - "#MATH-GU4061"
   - Modern Analysis I
 title: Class | Introduction to Modern Analysis I
-publish: "true"
+publish:
 ---
 # Overview
 

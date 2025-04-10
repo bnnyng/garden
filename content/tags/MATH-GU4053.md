@@ -53,6 +53,19 @@ SORT lastmod ASC
 **Exercises:**
 
 - [ ] Check that homology of chain complexes defines a functor $\mathsf {Ch} \to \mathsf {Ab}$.
+- [ ] Check the proof of the [[(Theorem) The 5-lemma|5-lemma]].
+
+[[2025-04-09]]
+
+- [ ] HW 7.1 – What’s the point of defining such SES
+
+[[2025-04-07]]
+
+- [ ] [[(Theorem) A short exact sequence of chain complexes induces a long exact sequence of homology groups]]
+	- [ ] What is the difference between being a cycle and being homologous to zero (i.e., boundary of something in one dimension greater)? 
+- [ ] [[Relative singular chains and relative homology]]
+	- [ ] What does it mean for something to be a relative homology class?
+	- [ ] What exactly is does $\sigma(\Delta^p) \cap (X \backslash A \neq \varnothing$ mean (notes p. 60)?
 
 [[2025-03-07]] – Homework review
 

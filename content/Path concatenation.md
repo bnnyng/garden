@@ -6,7 +6,7 @@ tags:
   - topic-logic-mathematics
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-02T20:29:37-05:00
+lastmod: 2025-04-06T21:27:43-04:00
 ---
 # Overview and basic definition
 
@@ -25,8 +25,9 @@ lastmod: 2025-03-02T20:29:37-05:00
 >$$
 
 ^e49aaf
-
-Related: [[Homotopies]], [[Fundamental groups]]
+**Related notes:**
+- [[Homotopies]]
+- [[Fundamental groups]]
 
 ---
 # Concatenation and path-homotopies

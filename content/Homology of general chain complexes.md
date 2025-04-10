@@ -11,7 +11,7 @@ tags:
 status: 
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-06T15:24:48-04:00
+lastmod: 2025-04-09T14:19:36-04:00
 ---
 # Overview 
 
@@ -21,6 +21,8 @@ $$
 $$
 is **exact** at $C_p$ (i.e., $\ker(\partial_p) = \textup{Im}(\partial_{p+1})$) if and only if $H_p(C_*, \partial) = 0$.
 
+[[Computing homology groups|Computations of homology groups]] typically involve two key theorems, **homotopy equivalence** and excision.
+
 **Relevant theorems:**
 - [[(Theorem) A short exact sequence of chain complexes induces a long exact sequence of homology groups]]
 - [[(Theorem) (Relative) homology is homotopy invariant]]
@@ -29,7 +31,8 @@ is **exact** at $C_p$ (i.e., $\ker(\partial_p) = \textup{Im}(\partial_{p+1})$) i
 **Related notes:**
 - [[Singular chains and singular homology]]
 - [[Relative singular chains and relative homology]]
-- [[Reduced homology]]
+- [[Reduced singular chains and reduced homology]]
+- [[Chain homotopies]]
 
 ---
 
@@ -58,7 +61,7 @@ is **exact** at $C_p$ (i.e., $\ker(\partial_p) = \textup{Im}(\partial_{p+1})$) i
 >H_p(C_*, \partial) = \frac{\ker ( \partial_p : C_p \to C_{p-1})}{\textup{Im} ( \partial_{p+1} : C_{p+1} \to C_p)}.
 >$$
 >Elements of $\ker \partial$ is called **cycles**, and elements of $\textup{Im} \partial$ are called **boundaries**.
->If $f: (B_*, \partial) \to (C_*, \partial)$ is a chain map, we defined the **induced homomorphism** $H_p(f) : H_p(B_*, \partial) \to H_p(C_*, \partial)$ by 
+>If $f: (B_*, \partial) \to (C_*, \partial)$ is a chain map, we define the **induced homomorphism** $H_p(f) : H_p(B_*, \partial) \to H_p(C_*, \partial)$ by 
 >$$
 >[c] \mapsto [f_p(c)]
 >$$
@@ -73,7 +76,6 @@ To see that $f_*$ is well-defined, we need to justify the following claims:
 ![[Topological categories and functors#^0c28bf]]
 
 ---
-
 # Code snippets
 
 ```

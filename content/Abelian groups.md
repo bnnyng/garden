@@ -11,9 +11,11 @@ tags:
 status: 
 publish: "true"
 date: 2024-12-08 12:57
-lastmod: 2025-04-01T10:08:29-04:00
+lastmod: 2025-04-08T12:39:06-04:00
 ---
->[!example] Definition: Abelian group
+# Overview and basic definition
+
+>[!definition] Abelian group
 >A [[Algebraic groups|group]] $G$ is **abelian** if the group operation commutes, meaning $ab = ba$ for all $a, b \in G$.
 
 **Related notes:** 
@@ -24,10 +26,10 @@ lastmod: 2025-04-01T10:08:29-04:00
 # Free abelian group
 
 
->[!example] Definition: Free abelian group
+>[!definition] Free abelian group
 >The **free abelian group** with basis $X$ is the group of **formal linear combinations** of elements of $X$ with coefficients in $\mathbb Z$: $$ \mathbb ZX = \left \{ \sum_{x \in X} n_x \cdot x \ : \ n_x = 0 \in Z \text{ for all but finitely many } \sigma \right \}. $$
 
->[!abstract] Lemma: Homomorphisms and the free abelian group
+>[!lemma] Homomorphisms and the free abelian group
 >Let $X$ be any space and $A$ be an [[Abelian groups|abelian]] group.
 >- (i) Two [[Group homomorphisms and isomorphisms|group homomorphisms]] $\varphi, \psi : \mathbb ZX \to A$ out of the free abelian group agree *if and only if* $\varphi(x) = \psi(x)$ for all $x \in X$.
 >- (ii) For any function $f : X \to A$, there exists a homomorphism $\varphi : \mathbb Z X \to A$ with $\varphi(x) = f(x)$ for all $x \in X$.

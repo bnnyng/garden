@@ -2,8 +2,6 @@
 citekey: "[@1878peirce]"
 aliases:
   - How to Make Our Ideas Clear
-  - Peirce (1878)
-  - Peirce, 1878
 tags:
   - literature-note
 title: Essay | How to Make Our Ideas Clear
@@ -11,7 +9,7 @@ year: 1878
 permalink: 
 publish: 
 date: 2024-08-16
-lastmod: 2024-08-16T16:04:17-07:00
+lastmod: 2025-04-08T15:06:12-04:00
 ---
 > Peirce, C. S. (1878). How to Make Our Ideas Clear. _Popular Science Monthly_, _12_(Jan.), 286–302.
 

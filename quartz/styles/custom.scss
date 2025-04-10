@@ -7,6 +7,7 @@
     &[data-callout="axiom"],
     &[data-callout="proposition"], 
     &[data-callout="lemma"],
+    &[data-callout="corollary"],
     &[data-callout="definition"] {
         --color: var(--dark);
         --border: var(--darkgray);
@@ -69,6 +70,11 @@
     }
     &[data-callout="lemma"] {
         --callout-prefix: "Lemma";
+        --body-style: italic;
+        --theorem-bg: var(--highlight);
+    }
+    &[data-callout="corollary"] {
+        --callout-prefix: "Corollary";
         --body-style: italic;
         --theorem-bg: var(--highlight);
     }

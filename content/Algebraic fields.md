@@ -9,13 +9,13 @@ tags:
   - topic-logic-mathematics
   - MATH-GU4042
 status: 
-publish: 
+publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-01T10:08:45-04:00
+lastmod: 2025-04-07T22:47:08-04:00
 ---
 # Overview and basic definition
 
->[!example] Definition: Division ring
+>[!definition] Division ring
 >A ring with unity $R$, where every element has a multiplicative inverse, is a **division ring** or **skew field** if:
 >- **$R \neq \{ 0\}$ as a group under addition is nontrivial:** Equivalently, the additive and multiplicative identities $1 \neq 0$ are not equal;
 >- **Every nonzero element of $R$ has a multiplicative inverse:** Equivalently, the group of units is $R^* = R \backslash \{ 0\}$.

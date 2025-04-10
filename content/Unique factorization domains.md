@@ -9,14 +9,14 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-31T17:58:44-04:00
+lastmod: 2025-04-08T21:11:55-04:00
 ---
 # Overview and basic definition
 
->[!example] Definition: Unique factorization domain
+>[!definition] Unique factorization domain
 >An [[Cancellation laws and integral domains|integral domain]] $R$ is a **unique factorization domain (UFD)** if the following hold:
 >- (i) For every $r \in R$ that is not $0$ or a [[Algebraic rings|unit]], there exist [[Factorization on integral domains|irreducible]] elements $p_1, \ldots, p_n \in R$ such that $r = p_1 \cdots p_n$;
->- (ii) If $p_1, \ldots, p_n$ and $q_1, \ldots, q_m$ are irreducibles such that $p_1 \cdots p_n = q_1 \cdots q_m$, then $n = m$ and, possibly after a reordering, $p_i, q_i$ are [[Factorization on integral domains|associates]], meaning they differ by a mul[[Unique factorization domains]].
+>- (ii) If $p_1, \ldots, p_n$ and $q_1, \ldots, q_m$ are irreducibles such that $p_1 \cdots p_n = q_1 \cdots q_m$, then $n = m$ and, possibly after a reordering, $p_i, q_i$ are [[Factorization on integral domains|associates]], meaning they differ by a mul
 
 **Related notes:**
 - [[Principal ideal domains]]
@@ -27,7 +27,7 @@ lastmod: 2025-03-31T17:58:44-04:00
 # Factorization in UFDs
 
 
->[!abstract] Proposition: Existence of the GCD
+>[!proposition] Existence of the GCD
 >If $R$ is a UFD, then the [[Factorization on integral domains|greatest common divisor]] of two elements that are not both $0$ exists.
 
 *Sketch of proof from [[MATH-GU4042|Modern Algebra II]].* $\ \text{ }$ There are three cases to consider. If $r = 0$, then $\gcd(r, s)$ exists and is equal to $s$. If $r$ is a unit, then it has no irreducible factors and so $\gcd(r,s)$ exists and is the **empty product** $1$ (or any other unit). 
@@ -41,7 +41,7 @@ When neither $r, s$ is $0$ or a unit, we use the following general strategy: con
 	- irreducible iff a prime ideal
 
 
->[!abstract] Proposition: A generator of a prime ideal is irreducible
+>[!proposition] A generator of a prime ideal is irreducible
 >Let $R$ be an integral domain and let $r \in R$ be a nonzero element. If $(r)$ is a [[Prime and maximal ideals|prime ideal]] (i.e., $(r) \neq R$ and for all $s, t \in R$, if $st \in (r)$ then either one of $s, t \in (r)$), then $r$ is irreducible. The converse holds when $R$ is a [[Unique factorization domains|unique factorization domain]].
 
 *Proof from [[MATH-GU4042|Modern Algebra II]].*

@@ -28,28 +28,17 @@ tags:
 	- [ ] [[MATH-GU4200|Mathematics and the Humanities]]: Readings for upcoming week, catching up with readings on structuralism
 - Personal and life admin
 	- [ ] Mend sheets
-	- [ ] Finish financial aid application
 
-[[2025-03-27]]
-
-- [[MATH-GU4053|Algebraic Topology]]: Catch up on lecture notes for relative homology, [[(Theorem) A short exact sequence of chain complexes induces a long exact sequence of homology groups]]
-
-[[2025-03-26]]
-
-- [ ] [[MATH-GU4042|Modern Algebra II]]: Take notes and make flashcards for multiple roots and formal derivatives
 
 [[2025-03-25]]
 
 - [[MATH-GU4053|Algebraic Topology]]: Complete lecture notes on homology
-	- [ ] [[Singular chains and singular homology]]: Example of homology groups for a one-point space and the discrete space
-	- [ ] [[Singular chains and singular homology]]: Proof that the zeroth homology group for a path-connected space is infinite cyclic
 	- [ ] Review Hatcher’s proof of [[(Theorem) The abelianization of the fundamental group of a path-connected space is isomorphic its first singular homology group]]
 	- [ ] Lemma as a preliminary for [[(Theorem) A short exact sequence of chain complexes induces a long exact sequence of homology groups]]
-- [ ] [[MATH-GU4053|Algebraic Topology]]: Save corrected version of latest homework
 - [ ] [[MATH-GU4053|Algebraic Topology]]: Complete notes for the following theorem statements and applications
 	- [ ] [[(Theorem) (Relative) homology is homotopy invariant]] (and exposition)
 	- [ ] [[(Theorem) The relative homology of a subset is isomorphic to the subset with excision when the closure of the excision is in the interior of the subset]]
-	- [ ] [[(Theorem) The homology of the n-disk relative to its boundary is n for the pth group and 0 otherwise]]
+	- [ ] [[(Theorem) The homology of the n-disk relative to its boundary is infinite cyclic for the nth group and 0 otherwise]]
 - [ ] [[MATH-GU4200|Mathematics and the Humanities]]: Readings
 	- [ ] [[@1997mazurConjecture]]
 	- [ ] [[@2024asok]]

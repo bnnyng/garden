@@ -14,7 +14,7 @@ tags:
 status: 🟡
 publish: "true"
 date: 2024-11-12 18:23
-lastmod: 2025-03-07T10:22:21-05:00
+lastmod: 2025-04-06T21:28:48-04:00
 ---
 # Overview
 
@@ -22,7 +22,9 @@ Intuitively, two maps are **homotopic** if one can be continuously deformed into
 
 Path-homotopy classes are also elements of the [[Fundamental groups|fundamental groups]] of a space.
 
-See also: [[Path concatenation]], [[Homotopy equivalence]]
+**Related notes:**
+- [[Path concatenation]]
+- [[Homotopy equivalence]]
 
 ---
 # Ways to (dis-)prove homotopies
@@ -32,19 +34,20 @@ See also: [[Path concatenation]], [[Homotopy equivalence]]
 ---
 # (Path-)homotopies and (path-)homotopy classes
 
->[!example] Definition: Homotopic, homotopy
+>[!definition] Homotopic, homotopy
 >Let $I = [0,1]$, $X, Y$ be [[Topological spaces and open sets|topological spaces]], and $f, f’ : X \to Y$ be [[Continuous functions|continuous]]. We say $f$ is **homotopic** to $f’$ if there exists a continuous mapping $H : X \times I \to Y$ such that for all $x \in X$, $H(x, 0) = f(x)$ and $H(x, 1) = f’(x)$. We call $H$ a **homotopy** from $f$ to $f’$, and we write $f \simeq f’$.
 
 ^a20a20
 
 Alternatively, a homotopy can be viewed as a one-parameter family $t \mapsto H_t$. For every $t \in [0,1]$, define a continuous $H_t : X \to Y$ by $H_t(x) = H(x, t)$ such that $H_0 = f$, $H_1 = f’$, and the $H_t$s vary continuously with respect to $t$ (when you put them all together, $H$ is continuous).
 
->[!example] Definition: Path-homotopy
+>[!definition] Path-homotopy
 >Given $I = [0,1$, two paths $f, f’ : I \to X$, e.g., from $x_0 \in X$ to $x_1 \in X$, are **path-homotopic**, written $f \simeq_p f’$ if there exists a homotopy $H : I \times I \to X$ such that $H(0, t) = x_0$ and $H(1, t) = x_1$; that is, the endpoints are fixed for all $t \in I$.
 
 ^3e2e4b
 
->[!abstract] Lemma: Homotopies and path-homotopies are equivalence relations.
+>[!lemma]
+>Homotopies and path-homotopies are equivalence relations.
 
 ^7e4cfb
 
@@ -68,7 +71,7 @@ $H’’$ is well-defined (hint: how is it defined at $t = 1/2$?) and continuous
 ---
 # Homotopies relative to a subspace
 
->[!example] Definition: Homotopy relative to a subspace
+>[!definition] Homotopy relative to a subspace
 >Given a subspace $A \subseteq X$, a homotopy $F : X \times I \to Y$ is called a **homotopy relative to $A$** (or **homotopy rel $A$**) if values of $F$ on $A$ are independent of the time parameter, i.e., for all $a \in A$, we have $F(a, t) = F(a, 0)$ for all $t \in I$. Equivalently, the restriction $F_t | A$ is the same for all $t \in I$.
 >
 >We may also say that functions $f, g : X \to Y$ are **homotopic rel $A$** if there exists a homotopy $F$ between them with the above properties.
@@ -80,7 +83,7 @@ Note that a [[Deformation retractions|deformation retraction]] of $X$ onto $A \s
 
 #### Straight line homotopy in convex sets
 
->[!example] Definition: Convex set
+>[!definition] Convex set
 >A subset $A \subseteq \mathbb R^n$ is **convex** if for all $x, y \in A$, the line segment from $x$ to $y$ lies in $A$. Explicitly, the entire line $(1-t)x + ty$ is in $A$ for all $t \in [0, 1]$.
 
 If $A \subseteq \mathbb R$ is convex, then any two continuous functions $f, f’ : X \to A$ are homotopic via the **straight line homotopy**

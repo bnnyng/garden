@@ -10,13 +10,13 @@ tags:
 status: 🟠
 publish: 
 date: 2024-11-26 18:52
-lastmod: 2025-02-05T20:10:35-05:00
+lastmod: 2025-04-08T12:09:00-04:00
 ---
 # Overview and basic definition
 
 A **deformation retraction** of a space $X$ onto a subspace $A \subseteq X$ is is a [[Homotopies|homotopy]] from $X$ to a [[Retractions and fixed points|retraction]] mapping of $X$ onto $A$. Points in $A$ are fixed by such a homotopy.
 
->[!example] Definition: Deformation retract
+>[!definition] Deformation retract
 >Given $A \subseteq X$, we say $A$ is a **deformation retract** of $X$ if there exists a [[Homotopies|homotopy]] $H: X \times I \to X$ such that:
 >- (i) & (ii) For all $x \in X$, we have $H(x, 0) = x$ and $H(x, 1) \in A$;
 >- (iii) $H$ **fixes** $A$, meaning $H(a, t) = a$ for all $t \in I, a \in A$.
@@ -32,7 +32,7 @@ Related: [[Retractions and fixed points]], [[Homotopy equivalence]]
 ---
 # Deformation retracts and fundamental groups
 
->[!abstract] Theorem: Inclusion of a deformation retract induces an isomorphism of fundamental groups
+>[!theorem] Inclusion of a deformation retract induces an isomorphism of fundamental groups
 >If $X$ deformation retracts onto $A \subseteq X$, then $i_* : \pi_1(A, a_0) \to \pi_1(X, a_0)$ is an [[Group homomorphisms and isomorphisms|isomorphism]] for all $a_0 \in A$, where $i : A \to X$ is the [[Projection and inclusion maps|inclusion]] map.
 
 ^d77966
@@ -53,6 +53,19 @@ $$
 i_* (\pi_1(A, a_0)) = i_*([r \circ f]) = [i \circ r \circ f] = [f],
 $$
 where the final equality follows via $H’$. Thus, $i_*$ is surjective.
+
+---
+# Deformation retracts and homology
+
+>[!definition] Good pair
+>Let $A \subseteq X$ be a closed subspace. We say that $A$ is a **deformation retract of a neighborhood** in $X$, or simply that $(X, A)$ is a **good pair**, if there exists a set $U \subseteq X$ with $A \subseteq \textup{int}(U)$ and a [[Homotopies|homotopy]] $H : U \times I \to U$ relative to $A$ from the identity to a [[Retractions and fixed points|retraction]] map $r : U \to A \subseteq U$.
+
+>[!exm] 
+>This definition rules out pathological cases such as $X = \mathbb R$ and $A$ as the Cantor set, or $A = \{ 0 \} \cup \{ 1/n \ | \ n \in \mathbb Z_{>0}\}$. 
+
+
+- Definition rules out X = R and A = cantor set for example, or 0 union 1.n
+- Something that is a good pair is a cell attachment—take an annulus around the boundary
 
 
 ---

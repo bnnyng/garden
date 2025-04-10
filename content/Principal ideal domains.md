@@ -6,14 +6,14 @@ tags:
   - permanent-note
   - topic-logic-mathematics
   - MATH-GU4042
-status: 
+status: 🔨
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-31T17:58:34-04:00
+lastmod: 2025-04-08T21:51:17-04:00
 ---
 # Overview and basic definition
 
->[!example] Definition: Principal ideal domain
+>[!definition] Principal ideal domain
 >An [[Cancellation laws and integral domains|integral domain]] $R$ is a **principal ideal domain** if every ideal $I \subseteq R$ is a [[Ideals and quotient rings|principal ideal]], meaning there exists some $r \in R$ such that $I = (r)$.
 
 **Relevant theorems:**

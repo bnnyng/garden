@@ -8,11 +8,11 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-27T12:48:41-04:00
+lastmod: 2025-04-08T03:21:24-04:00
 ---
->[!example] Definition: 
+# Overview and statement
 
->[!abstract] Theorem: Excision
+>[!theorem] Excision
 >Let $X$ be any space with subspaces $Z \subseteq A \subseteq X$ such that the [[Closed sets and closures|closure]] of $Z$ (in $X$) is contained in the [[Open sets|interior]] of $A$. Then the map induced on [[Homology of general chain complexes|homology]] by the identity $$ i : (X \backslash Z, A \backslash Z) \to (X, A) $$ is an isomorphism.
 
 ---

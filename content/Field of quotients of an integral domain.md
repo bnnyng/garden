@@ -8,7 +8,7 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-30T13:06:06-04:00
+lastmod: 2025-04-08T20:40:06-04:00
 ---
 # Overview
 
@@ -21,7 +21,7 @@ The **field of quotients** is a way of *extending* an [[Cancellation laws and in
 ---
 # Fractions on fields
 
->[!example] Definition: Fraction on a field
+>[!lemma] Fraction on a field
 >If $F$ is a [[Algebraic fields|field]] and $r, s \in F$ with nonzero $s \neq 0$, then a **fraction** is an element of the form 
 >$$ r/s = rs^{-1}. $$
 >Laws for adding and multiplying fractions are induced by associativity and distributivity in $F$, for example: 
@@ -32,18 +32,18 @@ The **field of quotients** is a way of *extending* an [[Cancellation laws and in
 >\end{align}
 >$$
 
->[!abstract] Lemma: Identification of fractions is an equivalence relation
+>[!lemma] Identification of fractions is an equivalence relation
 >Two fractions are $r/s$ and $t/w$ are identified if $rw = st$. Explicitly, given the set $R \times (R \backslash \{ 0 \})$, the relation $\sim$ defined by $$ (r, s) \sim (t, w) \iff rw = st $$ is an [[Relation|equivalence relation]].
 
 ----
 # Fields of quotients
 
->[!example] Definition: Field of quotients
+>[!definition] Field of quotients
 >If $R$ is an [[Cancellation laws and integral domains|integral domain]], the **field of quotients** of $R$, denoted $Q(R)$ is the set of equivalence classes $(R \times (R \backslash \{ 0 \})) / \sim$ under the identification $$ (r, s) \sim (t, w) \iff rw = st. $$ We define addition and multiplication on $Q(R)$, respectively, by
 >$$ [(r, s)] + [(t, w)] = [(rw, sw)] + [(st, sw)] = [(rw + st, sw)] $$ 
 >$$ [(r, s)] \cdot [(t, w)] = [(rt, sw)]. $$
 
->[!abstract] Lemma: Verifying properties of the field of quotients
+>[!lemma] Verifying properties of the field of quotients
 >Let $\sim$ and $Q(R)$ be defined as above.
 >- (i) The addition and multiplication operations defined above are well-defined on equivalence classes.
 >- (ii) $Q(R)$ is indeed a [[Algebraic fields|field]].
@@ -52,7 +52,7 @@ The **field of quotients** is a way of *extending* an [[Cancellation laws and in
 ---
 # Homomorphisms to other fields
 
->[!abstract] Theorem: Induced homomorphism from the field of quotients
+>[!theorem] Induced homomorphism from the field of quotients
 >Let $R$ be an [[Cancellation laws and integral domains|integral domain]], $F$ be a [[Algebraic fields|field]], and $\varphi : R \to F$ be an [[Injectivity, surjectivity, and bijectivity|injective]] homomorphism. Then there exists a *unique* injective homomorphism $\tilde \varphi : Q(R) \to F$ such that $\varphi = \tilde \varphi \circ \rho$, i.e.,  $$ \tilde \varphi ([(r, 1)]) = \varphi (r) \quad \quad \tilde \varphi([a,b]) = \varphi(a)/\varphi(b). $$ 
 >The induced map $\tilde \varphi$ is surjective, hence an isomorphism, *if and only if* every element of $F$ is of the form $\varphi(r) /\varphi(s)$ for some $r, s \in R$ with $s \neq 0$.
 >

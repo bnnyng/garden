@@ -11,7 +11,7 @@ tags:
   - MATH-GU4200
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-03T10:13:08-04:00
+lastmod: 2025-04-09T12:44:51-04:00
 ---
 The standard axioms of set theory are the **Zermelo–Fraenkel axioms** together with the **Axiom of Choice**. They are expressed in a *first-order language* with one non-logical binary predicate $\in$, meaning “is a member of.” Quantifiers range over sets alone, including a so-called “empty set.”
 
