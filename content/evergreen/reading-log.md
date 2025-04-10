@@ -1,6 +1,6 @@
 ---
 kanban-plugin: board
-lastmod: 2025-04-01T21:51:38-04:00
+lastmod: 2025-04-10T01:38:28-04:00
 date: 2025-02-12T16:40:50-05:00
 ---
 
@@ -37,6 +37,7 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Shortlist
 
+- [ ] 📚 [[2025hafnerMastering]], “Mastering diverse control tasks using world models”
 - [ ] 📚 [[@2011aaronson]], “Why Philosophers Should Care About Computational Complexity”
 - [ ] 📚 [[@1980cartwright]], “The Reality of Causes in a World of Instrumental Laws”
 - [ ] 📚 [[@2022lecun]], “A Path Towards Autonomous Machine Intelligence”
@@ -112,6 +113,9 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Someday
 
+- [ ] [[Neoteny]]
+	
+	Source: [[PHIL-UN3655|Topics in Cognitive Science and Philosophy]]
 - [ ] [[Derivé]]
 - [ ] [[Cognitive gadgets, after Heyes]]
 	

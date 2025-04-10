@@ -6,7 +6,7 @@ tags:
   - MATH-GU4053
 status: 🔨
 publish: "true"
-lastmod: 2025-04-10T00:43:46-04:00
+lastmod: 2025-04-10T00:51:05-04:00
 date: 2025-04-08T12:15:39-04:00
 ---
 # Direct computations
@@ -140,20 +140,13 @@ for all $p \geq 0$.
 
 **Primary note:** [[(Theorem) The homology of the n-disk relative to its boundary is infinite cyclic for the nth group and 0 otherwise]]
 
-Write $\partial_+D^n$ and $\partial_-D^n$ for the upper and lower hemispheres of the boundary $\partial D^n \cong S^{n-1}$, respectively. The computation of $H_p(D^n, \partial D^n)$ depends on the following isomorphisms:
-
-- $D^n$ and $\partial_- D^n$ are both [[Contractible spaces|contractible]], hence [[Homotopy equivalence|homotopy equivalent]] (to the one-point space), so the sequence of inclusions $\partial_-D^n \to \partial D^n \to D^n$ implies the [[(Theorem) A short exact sequence of chain complexes induces a long exact sequence of homology groups|connecting homomorphism]] $$ \delta: H_{p}(D^n, \partial D^n) \to_\cong H_{p-1}(\partial D^n, \partial_-D^n) $$ is an isomorphism for all $p$ and all $n \geq 1$.
-- If $S$ is the “south pole”, [[(Theorem) The relative homology of a subset is isomorphic to the subset with excision when the closure of the excision is in the interior of the subset|excision]] implies the inclusion $(\partial D^n \backslash \{ S\}, \partial_- D^n \backslash \{ S\}) \to (\partial D^n, \partial_-D^n)$ induces an isomorphism $$ H_p(\partial D^n \backslash \{ S\}, \partial_- D^n \backslash \{ S\}) \to_\cong H_p(\partial D^n, \partial_-D^n). $$
-- There is a homeomorphism $\partial D^n\backslash \{ S\} \to \mathbb R^{n-1}$ given by [[Homeomorphisms and topological embeddings|stereographic projection]], which restricts to a homeomorphism $\partial_- D^n \backslash \{ S\} \to \mathbb R^{n-1}\backslash \textup{int}(D^{n-1})$. Thus this homeomorphism induces an isomorphism of groups $$ H_p(\partial D^n, \partial_-D^n) \to_\cong H_p(\mathbb R^{n-1}, \mathbb R^{n-1}\backslash \textup{int}(D^{n-1})).  $$
-- Finally, [[(Theorem) (Relative) homology is homotopy invariant|homotopy invariance]] implies that the [[Homotopy equivalence|homotopy equivalence]] $(D^{n-1}, \partial D^{n-1}) \to (\mathbb R^{n-1}, \mathbb R^{n-1}\backslash \textup{int}(D^{n-1}))$ induces an isomorphism $$ H_{p-1}(D^{n-1}, \partial D^{n-1}) \to_\cong H_{p-1}(\mathbb R^{n-1}, \mathbb R^{n-1}\backslash \textup{int}(D^{n-1})). $$
-
-Combining these gives an isomorphism
+Using the fact that
 
 $$
 H_p(D^n, \partial D^n) \cong H_{p-1}(D^{n-1}, \partial D^{n-1})
 $$
 
-for all $p$ and all $n \geq 1$. By induction, we obtain
+for all $p$ and all $n \geq 1$ (this is shown via a composition of isomorphisms; see theorem note), we use induction to obtain
 
 $$
 H_p(D^n, \partial D^n) \cong H_{p-n}(D^0, \partial D^0) = H_{p-n}(\{ * \}, \varnothing) = H_{p-n}(\{ *\})
@@ -165,13 +158,8 @@ $$
 #### Homology of a sphere
 
 $$
-H_p(S^n) \cong \begin{cases}\mathbb Z^2 & \text{if } p = n = 0 \\ \mathbb Z & \text{if }n > 0 \text{ and } n = p \\ \mathbb Z & \text{if } n > 0 \text{ and } p = 0 \\ 0 & \text{otherwise} \end{cases}.
+H_p(S^n) \cong \begin{cases}\mathbb Z^2 & \text{if } p = n = 0 \\ \mathbb Z & \text{if }n > 0 \text{ and } n = p \\ \mathbb Z & \text{if } n > 0 \text{ and } p = 0 \\ 0 & \text{otherwise} \end{cases}
 $$
 
 #### $H_p(X, A) \cong H_p(X \backslash A, A \backslash A)$ when $A \subseteq X$ is a deformation retract
 
----
-
- To do: 
-
- homology of the sphere

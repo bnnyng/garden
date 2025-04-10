@@ -5,7 +5,6 @@ aliases:
   - homologous
   - -cycle
   - face
-  - simplicial
   - cycle
   - boundary
 tags:
@@ -15,7 +14,7 @@ tags:
 status: 🔴 🔨 ❓
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-09T14:01:04-04:00
+lastmod: 2025-04-10T12:27:32-04:00
 ---
 # Overview
 
@@ -45,6 +44,7 @@ where $X$ is any space, $f : X \to Y$ is a continuous function, $f_*: C_p(X) \to
 
 **Related notes:**
 - [[Homology of general chain complexes]]
+- [[Simplicial chains and simplicial homology]]
 
 ---
 
@@ -70,7 +70,7 @@ Simplices are higher-dimensional analogues of triangles, and play a role in sing
 >$$ 
 >The image $\delta^i(\Delta^{p-1}) \subset \Delta^p$ is called the $i$th **face** of $\Delta^p$, and the **boundary** of $\Delta ^p$ is the union of all faces $$\partial \Delta^p = \bigcup_{i=0}^p \delta^i(\Delta^{p-1}) \subset \Delta^p. $$
 >
->For a general singular $p$-simplex $\sigma : \Delta^p \to X$ in a space $X$, the $i$th **face** of $\sigma$ is a $(p-1)$-simplex given by the *image* of the map $d_i : \textup{Sin}_p(X) \to \textup{Sin}_{p-1}(X)$ defined by $$ d_i (\sigma) = \sigma \circ \delta^i. $$ 
+>For a general singular $p$-simplex $\sigma : \Delta^p \to X$ in a space $X$, the $i$th **face** of $\sigma$ is a $(p-1)$-simplex given by the *image* of the map $d_i : \textup{Sin}_p(X) \to \textup{Sin}_{p-1}(X)$, the canonical linear homeomorphism that preserves the ordering of vertices defined by $$ d_i (\sigma) = \sigma \circ \delta^i. $$ 
 
 >[!exm]
 >$\Delta^1$ has two faces, which are endpoints of the interval; $\Delta^2$ has three faces, which are the three edges of a triangle; $\Delta^3$ has four faces, which are the triangles of in the boundary of a solid tetrahedron.

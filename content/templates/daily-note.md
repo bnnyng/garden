@@ -100,11 +100,3 @@ tags:
 <input type="checkbox">
 ```
 
-```
-$\ \text{}$
-```
-
-```
-<br><br>Source: 
-```
-

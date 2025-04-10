@@ -5,17 +5,17 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
-lastmod: 2025-02-02T14:22:57-05:00
+lastmod: 2025-04-10T12:44:11-04:00
 date: 2024-11-26T08:37:26-05:00
 ---
 # Basic definition
 
->[!abstract] Mathematical induction 
+>[!theorem] Mathematical induction
 >If $P(n)$ is a family of statements where $n \in \mathbb N$, and you can prove
 >1. **Base case:** $P(0)$ is true;
->2. **Inductive step:** For all natural numbers, the statement $[ P(n) \implies P(n+1)]$ is true
+>2. **Inductive step:** For all natural numbers, the statement $[ P(n) \implies P(n+1)]$ is true;
 >
->Then $P(n)$ is true for all natural numbers $n$:
+>then $P(n)$ is true for all natural numbers $n$:
 >$$
 >[P(0) \wedge [\forall_n [P(n) \implies P(n+1)]]] \implies \forall_n P(n).
 >$$
