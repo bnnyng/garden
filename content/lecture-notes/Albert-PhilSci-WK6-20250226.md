@@ -11,7 +11,7 @@ lastmod: 2025-03-01T22:37:14-05:00
 
 **Problems of induction**
 
-- [[@1983goodman]] Ch. 3 echoes the **Humean** observation that whatever reasoning we use to come to scientific conclusions, it is not **deductive**: “Such judgements are neither reports of experience nor logical consequences of it” (59).
+- [[@1983goodmanFact]] Ch. 3 echoes the **Humean** observation that whatever reasoning we use to come to scientific conclusions, it is not **deductive**: “Such judgements are neither reports of experience nor logical consequences of it” (59).
 - Goodman argues that there is no distinction between the **descriptive problem** of what induction *is*, and the **justificatory problem**: “What precisely would constitute the justification we seek?” He makes the following arguments:
 	- Induction doesn’t involve knowing the future from the past: “If the problem is to explain how we know that certain predictions will turn out to be correct, the sufficient answer is that we don’t know any such thing.”
 	- Induction does not predict future events: “We are asking for prevision rather than philosophical explanation.”

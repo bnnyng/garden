@@ -2,7 +2,6 @@
 aliases:
   - mathematical proofs
   - proof
-  - mathematical proof
   - Aristotelian proof
   - Platonic proof
   - leibnizian
@@ -10,13 +9,13 @@ tags:
   - permanent-note
   - topic-logic-mathematics
   - MATH-GU4200
-publish: 
+publish: "true"
 date: 2024-06-06 22:09
-lastmod: 2025-01-28T10:44:43-05:00
+lastmod: 2025-04-15T15:29:56-04:00
 ---
 # Overview and comparison
 
-**Aristotelian** (or **leibnizian**) proofs and **Platonic** (or **cartesian**) proofs are two disjoint notions. The former offers a reliable form of *justification* to philosophers and computer scientists, while the latter facilitates *understanding* for mathematicians.
+**Aristotelian** (or **Leibnizian**) proofs and **Platonic** (or **Cartesian**) proofs are two disjoint notions. The former offers a reliable form of *justification* to philosophers and computer scientists, while the latter facilitates *understanding* for mathematicians.
 
 | Aristotelian proof                                                                                                                                                                                                         | Platonic proof                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

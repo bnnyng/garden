@@ -26,8 +26,8 @@ lastmod: 2025-03-31T17:03:35-04:00
 
 # Atomic notes
 
-- [[Technological approach to mind everywhere, after Levin]]
-- [[Persuadability as a continuum of agency, after Levin]]
+- [[Technological approach to mind everywhere, after Levin (2022)]]
+- [[Persuadability as a continuum of agency, after Levin (2022)]]
 - [[Cognitive gradualism]]
 - [[Stress is the glue of agency, after Levin]]
 - [[Homeostatic circuits are the hydrogen atoms of goal-directed activity, after Rosenblueth]]

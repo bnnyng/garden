@@ -13,11 +13,11 @@ tags:
   - topic-logic-mathematics
 publish: "true"
 date: 2025-02-17T18:19:57-05:00
-lastmod: 2025-03-31T17:02:06-04:00
+lastmod: 2025-04-20T12:24:05-04:00
 ---
 # Overview
 
-According to Gödel, the essence of a **formal system** is that “reasoning is completely replaced by mechanical operations on formulas.” In a formal system, every sequence of symbols in the system’s alphabet has an (human) **effective procedure** for checking whether it is a term, formula, axiom, or proof. A statement is **decidable** if there is an effective procedure for determining its truth value in the system.
+According to Gödel, the essence of a **formal system** is that “reasoning is completely replaced by mechanical operations on formulas.” In a formal system, every sequence of symbols in the system’s alphabet has an (human) **effective procedure** for checking whether it is a term, formula, axiom, or proof. A statement is **decidable** if there is an effective procedure for determining its truth value in the system. 
 
 **Related notes:** [[Undecidability and incompleteness theorems]]
 

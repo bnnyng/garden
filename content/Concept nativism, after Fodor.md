@@ -16,6 +16,6 @@ This theory presumes that the concepts are the same for everyone, or at least [[
 From [[@1998cowie]]:
 >What makes a concept unlearnable (hence unlearned) is features intrinsic to the concept itself—its lack of internal semantic structure, its unanalysability. … Most concepts are like CAUSE and unlike BACHELOR: they firmly resist our efforts to provide them with non-circular definitions.
 
-💭 *In any way analogous to the [[Formalization of mathematics|20th-century crisis]] in metaphysics of math?*
+💭 *In any way analogous to the [[Formalization and the foundational crisis of mathematics mathematics|20th-century crisis]] in metaphysics of math?*
 
 Related: [[The language-of-thought-hypothesis]], [[Nativist and empiricist positions in cognitive science]], [[Brute-causal vs. rational-causal learning processes]]

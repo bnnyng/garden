@@ -31,6 +31,6 @@ lastmod: 2025-02-26T16:44:56-05:00
 
 - Stages of mathematical discovery: primitive conjecture, proof, “global counterexamples,” identification of the “guilty lemma” that the counterexample *locally* refutes, and updating the conjecture to include new assumptions.
 
-#### [[@1983goodman]]
+#### [[@1983goodmanFact]]
 
 - **Rules of deductive inference arose from circular, mutual adjustment with the inferences themselves:** “Rules and particular inferences alike are justified by being brought into agreement with each other. *A rule is amended if it yields an inference we are unwilling to accept; an inference is rejected if it violates a rule we are unwilling to amend*” (64).

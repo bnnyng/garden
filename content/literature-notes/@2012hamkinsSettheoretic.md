@@ -4,11 +4,12 @@ aliases:
   - 
 tags:
   - literature-note
-title: "journalArticle | The set-theoretic multiverse"
+title: journalArticle | The set-theoretic multiverse
 year: 2012
 permalink: http://arxiv.org/abs/1108.4223
-publish:
+publish: 
 date: 2025-03-12
+lastmod: 2025-04-12T15:47:12-04:00
 ---
 > Hamkins, J. D. (2012). The set-theoretic multiverse. _The Review of Symbolic Logic_, _5_(3), 416–449. [https://doi.org/10.1017/S1755020311000359](https://doi.org/10.1017/S1755020311000359)
 
@@ -25,6 +26,8 @@ date: 2025-03-12
 ---
 
 # Atomic notes
+
+- [[The set-theoretic multiverse, after Hamkins]]
 
 ---
 

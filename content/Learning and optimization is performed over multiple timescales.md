@@ -10,7 +10,7 @@ date: 2023-12-27
 lastmod: 2024-08-17T16:14:27-07:00
 publish: "true"
 ---
-As discussed during [[@2022millhouse|Millhouse et al. (2022)]], learning and optimization is performed over multiple timescales:
+As discussed during [[@2022millhouseEmbodied|Millhouse et al. (2022)]], learning and optimization is performed over multiple timescales:
 - **Evolutionary timescales** allow brains to be capable of learning from the environment in the first place.
 - **Developmental timescales** involve learning that occurs as the brain and body develop.
 - **Short timescales** involve acquiring specific knowledge and skills.

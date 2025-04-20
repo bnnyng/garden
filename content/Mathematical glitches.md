@@ -1,13 +1,11 @@
 ---
-aliases:
-  - mathematical glitch
-  - mathematical glitches
+aliases: []
 tags:
   - permanent-note
   - topic-physics-complexity
 publish: "true"
 date: 2024-06-12 16:33
-lastmod: 2024-08-16T20:19:38-07:00
+lastmod: 2025-04-15T15:30:19-04:00
 ---
 [[@2024dedeo|DeDeo (2024)]] explores the possibility of [[Glitches|glitches]] in [[automated proof systems]] to create mathematical objects with entirely unprecedented properties, proofs “whose **aboutness** has detached from the constraints of an idea” but are subjects of inquiry due to human interest in their structural features, etc:
 

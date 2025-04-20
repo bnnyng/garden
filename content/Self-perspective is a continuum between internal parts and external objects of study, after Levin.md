@@ -9,4 +9,4 @@ lastmod: 2025-02-12T16:30:58-05:00
 ---
 ![[Pasted image 20250212163048.png]]
 
-**Related notes:** [[Technological approach to mind everywhere, after Levin]]
+**Related notes:** [[Technological approach to mind everywhere, after Levin (2022)]]

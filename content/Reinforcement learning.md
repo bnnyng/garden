@@ -7,7 +7,7 @@ tags:
   - permanent-note
   - topic-cognitive-science
 date: 2023-12-24
-lastmod: 2025-03-12T01:52:45-04:00
+lastmod: 2025-04-14T11:56:29-04:00
 publish: "true"
 ---
 # Overview
@@ -23,17 +23,23 @@ Related: [[Algorithms for simple vs. complex decision problems]]
 ---
 # Topics
 
+#### Formalism
+
 - [[Bandits, exploration, and exploitation]]
 - [[Markov decision processes and dynamic programming]]
 - [[Temporal difference learning]] 
+
+#### Variations
+
+- [[Multi-agent reinforcement learning]]
 - [[Intrinsically motivated reinforcement learning]]
 
 ---
 # Key terms
 
-- **Reward prediction error** = an “index of surprise” that reflects the difference in value between a received reward and a predicted reward at each moment in time; important for *temporal* RL algorithms.
-- **Episodic reinforcement learning** = a learning approach which keeps an explicit record of past events, and uses this record directly as a point of reference in making new decisions (see: [[Squire's taxonomy of long-term memory|episodic memory]]).
-- **Meta-reinforcement learning** = when one learning system progressively adjusts the operation of a second learning system, improving the latter’s speed and efficiency (see: [[Meta-learning is the process of learning to learn|meta-learning]])
+- **Reward prediction error:** an “index of surprise” that reflects the difference in value between a received reward and a predicted reward at each moment in time; important for *temporal* RL algorithms.
+- **Episodic reinforcement learning:** a learning approach which keeps an explicit record of past events, and uses this record directly as a point of reference in making new decisions (see: [[Squire's taxonomy of long-term memory|episodic memory]]).
+- **Meta-reinforcement learning:** when one learning system progressively adjusts the operation of a second learning system, improving the latter’s speed and efficiency (see: [[Meta-learning is the process of learning to learn|meta-learning]]).
 
 ---
 # Notes

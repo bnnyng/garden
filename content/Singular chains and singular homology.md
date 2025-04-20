@@ -7,6 +7,7 @@ aliases:
   - face
   - cycle
   - boundary
+  - singular chain
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -14,7 +15,7 @@ tags:
 status: 🔴 🔨 ❓
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-10T12:27:32-04:00
+lastmod: 2025-04-10T14:03:10-04:00
 ---
 # Overview
 

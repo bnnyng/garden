@@ -1,13 +1,12 @@
 ---
 aliases:
   - mathematical modeling
-  - Mathematical modeling
 tags:
   - permanent-note
   - topic-logic-mathematics
 publish: "true"
 date: 2024-02-19 19:19
-lastmod: 2024-02-20T13:51:08-08:00
+lastmod: 2025-04-15T15:30:33-04:00
 ---
 Mathematical modeling involves identifying relevant facts or data, then using a formal system to represent the real-world mechanism behind them. In the process, modeling can aid both description and prediction of observations. 
 

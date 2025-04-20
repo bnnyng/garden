@@ -22,9 +22,9 @@ date: 2025-01-22T21:47:59-05:00
 | ---------- | ---------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | 2025-01-27 | Explanation                                                | [[@1966hempel]]                                             | - [[Albert-PhilSci-WK2-20250127]]<br>- [[Albert-PhilSci-WK2-20250129]]                                      | - [[Laws and causation in scientific explanation]]<br> |
 | 2025-02-10 | Laws, counterfactuals, and causation                       | [[@2007maudlin]]<br>[[@1912russell]]<br>[[@1980cartwright]] | - [[Albert-PhilSci-WK3-20250203]]<br>- [[Albert-PhilSci-WK3-20250205]]<br>- [[Albert-PhilSci-WK4-20250210]] | - [[Humean mosaic]]                                    |
-| 2025-02-19 | Induction and confirmation                                 | [[@1945hempel]]<br>[[@1983goodman]]                         | - [[Albert-PhilSci-WK5-20250219]]<br>- [[Albert-PhilSci-WK6-20250224]]<br>- [[Albert-PhilSci-WK6-20250226]] |                                                        |
+| 2025-02-19 | Induction and confirmation                                 | [[@1945hempel]]<br>[[@1983goodmanFact]]                         | - [[Albert-PhilSci-WK5-20250219]]<br>- [[Albert-PhilSci-WK6-20250224]]<br>- [[Albert-PhilSci-WK6-20250226]] |                                                        |
 |            | The cognitive status of theories                           |                                                             |                                                                                                             |                                                        |
-|            | Reduction                                                  |                                                             |                                                                                                             |                                                        |
+| 2025-04-20 | Reduction                                                  | [[@1974fodorSpecial]]<br>[[@1975putnamPhilosophy]]          |                                                                                                             |                                                        |
 |            | Continental, Kuhnian, and post-modern critiques of science |                                                             |                                                                                                             |                                                        |
 
 
@@ -47,4 +47,4 @@ date: 2025-01-22T21:47:59-05:00
 
 [[Albert-PhilSci-WK4-20250210]]
 
-- [ ] How do theories like [[The intentional stance, after Dennett]] and [[Technological approach to mind everywhere, after Levin]] fit into different metaphysical beliefs?
+- [ ] How do theories like [[The intentional stance, after Dennett]] and [[Technological approach to mind everywhere, after Levin (2022)]] fit into different metaphysical beliefs?

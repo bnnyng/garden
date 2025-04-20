@@ -12,7 +12,7 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-08T22:49:50-04:00
+lastmod: 2025-04-13T10:35:31-04:00
 ---
 # Overview 
 
@@ -59,10 +59,30 @@ lastmod: 2025-04-08T22:49:50-04:00
 >[!definition] Irreducible element
 >Let $r \in R$ be neither $0$ nor a unit. We say $r$ is **irreducible** if whenever $r = st$ for some $t, s \in R$, then one of $s, t$ is a unit and the other is an associate of $r$.
 
+^4cfae7
+
 #### Greatest common divisor
 
 >[!definition] Greatest common divisor
 >Let $R$ be an integral domain and let $r, s \in R$, not both zero. A **greatest common divisor** $\gcd$ of $r$ and $s$ is an element $d \in R$ such that $d | r$, $d|s$, and, whenever an element $e \in R$ divides both $r, s$, then $e | d$.
+
+>[!definition] Greatest common divisor of multiple elements
+>TBD
+
+>[!lemma] Factoring the GCD of multiple elements
+>Let $R$ be a [[Unique factorization domains|unique factorization domain]] and suppose $r_1, \cdots, r_n \in R$ are not all $0$. 
+>- (i) If $d$ is a $\gcd$ of $r_1, \ldots, r_n$, then $r_1 / d, \ldots, r_n/d$ are relatively prime, i.e.,
+>$$
+>\gcd(r_1/d, \ldots, r_n/d) = 1.
+>$$
+>- (ii) If $s \in R$ is nonzero, then 
+>$$
+>\gcd(sr_1, \ldots, sr_n) = s \gcd(r_1, \ldots, r_n).
+>$$
+
+^ce7379
+
+![[Pasted image 20250413102708.png]]
 
 #### Relatively prime
 

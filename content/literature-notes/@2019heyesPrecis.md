@@ -7,8 +7,9 @@ tags:
 title: "journalArticle | Précis of <i>Cognitive Gadgets: The Cultural Evolution of Thinking</i>"
 year: 2019
 permalink: https://www.cambridge.org/core/product/identifier/S0140525X18002145/type/journal_article
-publish:
+publish: 
 date: 2024-11-03
+lastmod: 2025-04-10T13:23:17-04:00
 ---
 > Heyes, C. (2019). Précis of _Cognitive Gadgets: The Cultural Evolution of Thinking_. _Behavioral and Brain Sciences_, _42_, e169. [https://doi.org/10.1017/S0140525X18002145](https://doi.org/10.1017/S0140525X18002145)
 
@@ -26,6 +27,8 @@ date: 2024-11-03
 ---
 
 # Atomic notes
+
+- [[Cognitive gadgets, after Heyes]]
 
 ---
 

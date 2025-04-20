@@ -3,7 +3,6 @@ aliases:
   - factorization
   - greatest common divisor
   - relatively prime
-  - root
   - splits
 tags:
   - permanent-note
@@ -12,7 +11,7 @@ tags:
 status: 🔴 🔨
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-07T22:46:51-04:00
+lastmod: 2025-04-13T09:59:49-04:00
 ---
 # Overview 
 

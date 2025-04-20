@@ -4,7 +4,7 @@ tags:
   - workspace
 publish: 
 date: 2024-10-10T08:59:12-04:00
-lastmod: 2025-03-25T20:19:54-04:00
+lastmod: 2025-04-15T12:12:54-04:00
 ---
 # Coursework
 
@@ -61,6 +61,40 @@ lastmod: 2025-03-25T20:19:54-04:00
 # Log
 
 [Course registration spreadsheet](https://docs.google.com/spreadsheets/d/1EC1K1KxJ2XQmm4FhbcpVILMZ_cCeUwDmW9XHl_NVEOU/edit?gid=827761127#gid=827761127)
+
+[[2025-04-13]] – Prep for advising meeting
+
+|         | Mon/Wed                                                           | Tue/Thu                                                                                                        |
+| ------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Tier 1  | - 2:10–4:00: Fossil Power (Tooze seminar)                         | - 2:00–3:00: Intro to Theoretical Neuroscience                                                                 |
+| Tier 2  | - 1:10–2:25: Ethics (IF with MMA)<br>- 2:40–3:55: Modern Geometry | - 11:40–12:55: Representations of Finite Groups                                                                |
+| Tier 3  | - 4:10–5:25: Physics and Philosophy                               | - 10:10–11:25: Complex Analysis                                                                                |
+| Explore | - 11:40–12:55: Quantum Mechanics I                                | - (Tue only) 2:10–4:00: Topics in Political Philosophy<br>- (Thu only) 1:00–3:30: Intro to Digital Photography |
+
+- Questions for Dusa
+	- Which grad-level classes would I be ready for? Modern Geometry without complex analysis?
+	- Potential higher degrees in math?
+- Potentially useful
+	- Computer Science Theory → Computational Complexity
+	- [Computation and the Brain](https://doc.sis.columbia.edu/#subj/COMS/E6998-20253-006/) (Papadimitriou)
+	- [Thermal and Statistical Physics](https://vergil.columbia.edu/vergil/course/20253/49643/13056)
+
+2025-04-10
+- Wildcard topics
+	- [History and Practice of Electronic Music](https://scienceandsociety.columbia.edu/courses/un2230-history-and-practice-electronic-music)
+	- [Science and Sensibility](https://scienceandsociety.columbia.edu/courses/un3217-science-and-sensibility-m-crist) (English/CompLit)
+	- [Trees of Knowledge, Ecocriticism](https://scienceandsociety.columbia.edu/courses/bc3164-trees-knowledge-e-grimm) (English/CompLit)
+- By professors
+	- [Fossil Power WITH TOOZE](https://scienceandsociety.columbia.edu/courses/gu4955-fossil-power-tooze) (History)
+	- [Physics and Philosophy with D. Albert](https://scienceandsociety.columbia.edu/courses/un3576-physics-and-philosophy-d-albert) (Philosophy)
+	- [Descrying the World in Physics](https://doc.sis.columbia.edu/#subj/PHIL/G9239-20253-001/) with Justin
+	- [Topics in Political Philosophy](https://doc.sis.columbia.edu/#subj/PHIL/G9750-20253-001/) with MMA
+- By subject: Math
+	- [Graduate AlgTop I](https://doc.sis.columbia.edu/#subj/MATH/G6307-20253-001/)
+	- [Representations of Finite Groups](https://doc.sis.columbia.edu/#subj/MATH/W4044-20253-001/)
+	- [Graduate Modern Geometry](https://doc.sis.columbia.edu/#subj/MATH/G6402-20253-001/) (need to email prof about prerequisites)
+- By subject: Arts
+	- [Intro Digital Photography](https://doc.sis.columbia.edu/#subj/VIAR/R1702-20253-001/)
 
 2025-03-25
 

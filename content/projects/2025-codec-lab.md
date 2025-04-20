@@ -5,7 +5,7 @@ tags:
   - workspace
 publish: 
 date: 2024-08-29 17:56
-lastmod: 2025-04-04T13:14:57-04:00
+lastmod: 2025-04-18T14:03:13-04:00
 ---
 # Associated notes
 
@@ -33,9 +33,15 @@ lastmod: 2025-04-04T13:14:57-04:00
 
 #### April
 
-[[2025-04-04]]
+[[2025-04-18]]
 
-- 
+- Meeting: Testing loss
+	- $(y - y^*)^2$ is variance + expected y^2 - 2….
+	- Selecting x points using uniform distribution over domain
+	- Have target fn
+	- Learner hyperparams: lengthscale, sigma
+	- SVGD to adjust learner hyperparams for multiple sets of hyperparams
+- Next time: Vectorize GP state, look into rest of model (code on GitHub)
 
 #### March
 

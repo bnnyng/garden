@@ -29,7 +29,7 @@ As an aside, it seems that acquiring these shared memory examples is quite a con
 >- What is the connection to the [[Interventionist theory of causation]]?
 >- What is the [[Complexity is the study of teleonomic matter, after Krakauer|purpose]] of life experience that extends beyond shared [[Reality is mediated by our mental models|mental models]], such as culture?
 >
->From [[@2022millhouse]]:
+>From [[@2022millhouseEmbodied]]:
 >- Is self-generated learning fully captured in the data gathered by infants about the world? That is, can AI agents learn from being trained on infant data without interacting with the world themselves?
 >- Would an AI system trained on infant data have the same capacity for generalization as infants?
 

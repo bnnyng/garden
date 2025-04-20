@@ -26,7 +26,7 @@ lastmod: 2025-02-03T17:52:26-05:00
 		- *Example.* $\text{ }$ “If I had dropped by glasses, they would have accelerated toward the earth at $9.8 \ m/s^2$.”
 	- Counterfactuals appeal to **regularities** and facts of life that have so-called nomic force.
 	- Recurring theme of the class: What does it mean for a counterfactual to be true? How can people think they know the truth value of a counterfactual? By construction, the proposition takes place in an alternate world!
-- Only propositions that are “confirmable by their instances” ([[@1983goodman]]) seem like candidates for nomic facts.
+- Only propositions that are “confirmable by their instances” ([[@1983goodmanFact]]) seem like candidates for nomic facts.
 	- Confidence in laws increases quickly after seeing only a small number of instances.
 	- *Non-example.* $\text{ }$”Are there any volcanic rocks in the universe that are not shaped like Mickey Mouse?” Would be absurd to most people to conclude “no”, since it seems like a contingent fact—a poor candidate.
 

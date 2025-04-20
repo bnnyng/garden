@@ -6,6 +6,9 @@ year:
 tags:
   - literature-note
 ---
+> {{bibliography}}
+
+---
 # Summary
 
 >[!example] Key terms

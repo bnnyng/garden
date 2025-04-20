@@ -7,7 +7,7 @@ tags:
 lastmod: 2024-08-17T16:04:07-07:00
 date: 2024-01-01
 ---
-As quoted in [[@2022millhouse|Millhouse et al. (2022)]], Guy Dove (University of Louisville) refers to to the view that “Language is an Embodied Neuroenhancement and Scaffold” as “LENS theory.” This theory supports the importance of [[Embodied cognition|embodiment]] in cognition.
+As quoted in [[@2022millhouseEmbodied|Millhouse et al. (2022)]], Guy Dove (University of Louisville) refers to to the view that “Language is an Embodied Neuroenhancement and Scaffold” as “LENS theory.” This theory supports the importance of [[Embodied cognition|embodiment]] in cognition.
 
 LENS theory is one solution to the [[The symbol ungrounding problem asks how literal meanings are abstracted into arbitrary symbols|symbol ungrounding problem]]. 
 

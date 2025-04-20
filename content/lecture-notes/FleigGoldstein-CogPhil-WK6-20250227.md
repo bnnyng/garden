@@ -25,4 +25,4 @@ $\ \text{}$
 	- *Discussion.* $\ \text{}$ What about changes in language acquisition over the course of development? Do we begin as Turing machines and then reduce to finite-state machines?
 	- *Discussion.* $\ \text{}$ Do there exist any physical Turing machines?
 - The **universal approximation theorems** for feedforward neural networks apply to [[Continuous functions|continuous]] functions on a [[Compactness|compact]] subset of the reals.
-- **Godel’s Disjunction:** Either **mathematical [[Realist philosophies of mathematics|realism]]** is true and there are objective about math that are unprovable in formal systems, or human reasoning surpasses Turing machines.
+- **Godel’s Disjunction:** Either **mathematical [[Mathematical realism|realism]]** is true and there are objective about math that are unprovable in formal systems, or human reasoning surpasses Turing machines.

@@ -5,14 +5,14 @@ permalink:
 year: 
 tags:
   - literature-note
-lastmod: 2025-04-03T15:22:37-04:00
-date: 2025-04-03T14:53:08-04:00
+---
+> Hafner, Danijar, Jurgis Pasukonis, Jimmy Ba, and Timothy Lillicrap. “Mastering Diverse Control Tasks through World Models.” _Nature_, April 2, 2025, 1–7. [https://doi.org/10.1038/s41586-025-08744-2](https://doi.org/10.1038/s41586-025-08744-2).
+
 ---
 # Summary
 
 >[!example] Key terms
 >
-
 
 
 ---
@@ -22,18 +22,12 @@ date: 2025-04-03T14:53:08-04:00
 > ***Briefly, why is the research question important to answer?***
 
 
-
-
 ---
 # Background
 
 > ***What are the main theories in the literature? Is there anything missing or problematic?***
 
-
-
 >***What is the empirical evidence? Is there anything missing or problematic?***
-
-
 
 ---
 # Argument and hypotheses

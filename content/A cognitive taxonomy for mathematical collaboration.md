@@ -17,7 +17,7 @@ lastmod: 2024-11-20T14:07:07-05:00
 ![[Dialogical reasoning#1976-lakatos-proofs-and-refutations]]
 ## Explanation
 
-[[@2019pease]]
+[[@2019peaseExplanation]]
 ## Impasse
 #### [[2024-dedeo-alephzero-and-mathematical-experience]]
 
@@ -50,7 +50,7 @@ lastmod: 2024-11-20T14:07:07-05:00
 
 [[2024-07-26]]
 
-- Thoughts from Simon on [[@2019pease]]
+- Thoughts from Simon on [[@2019peaseExplanation]]
 
 ```
 This paper is focusing on a particular kind of move (explanation). We expect there to be other moves that people are making — e.g., people talking about intuitions, people being surprised, people making judgements about what is promising (i.e., strategizing about the next step), people doing raw calculations to check guesses, people providing examples.

@@ -55,7 +55,7 @@ lastmod: 2025-02-05T10:02:57-05:00
 	- “But even in cases where a content domain does include entities that are recognized by science, the point remains that content domains are not individuated by some objective standard of naturalness. *They are individuated by facts about what kinds of categories minds like ours treat as natural*.”
 	- 💭 Philosophers hate to see this coming; c.f., discussions from [[MATH-GU4200|Mathematics and the Humanities]]!
 - **Domain specificity does not necessarily mean a “psychological structure” is interesting or significant:**
-	- Examples of boring domain-specificity: esoteric forms of expertise (e.g., magic tricks, chess-playing); niche motor abilities (e.g., handshaking); edge detection in low-level vision (e.g., [[@1984enroth-cugell]]).
+	- Examples of boring domain-specificity: esoteric forms of expertise (e.g., magic tricks, chess-playing); niche motor abilities (e.g., handshaking); edge detection in low-level vision (e.g., [[@1984enroth-cugellFunctional]]).
 
 
 ## The rationalism-empiricism debate

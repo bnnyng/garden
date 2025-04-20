@@ -1,14 +1,13 @@
 ---
 aliases:
   - irreducible
-  - rational root test
 tags:
   - permanent-note
   - topic-logic-mathematics
   - MATH-GU4042
 status: 
 publish: "true"
-lastmod: 2025-04-09T00:38:03-04:00
+lastmod: 2025-04-13T10:23:34-04:00
 date: 2025-04-07T21:39:53-04:00
 ---
 # Overview
@@ -16,12 +15,13 @@ date: 2025-04-07T21:39:53-04:00
 **Relevant theorems:**
 - [[(Theorem) Unique factorization in polynomial rings]]
 - [[(Theorem) Chinese remainder]]
-- [[(Theorem) Rational roots test (and generalizations)]]
+- [[(Theorem) A factorization in a UFD exists iff a factorization exists in its field of quotients]]
 
 **Related notes:**
 - [[Factorization on polynomial rings]]
 - [[Factorization on integral domains]]
 - [[Extension fields]]
+- [[Tests for irreducibility in polynomial rings]]
 
 ---
 
@@ -43,28 +43,6 @@ date: 2025-04-07T21:39:53-04:00
 
 - (i) Suppose $d = \gcd (p, f)$. Then $d | p$, so by definition of an irreducible polynomial, we have either $d \in F^*$ as a unit or $d = c^{-1}p$, a multiple of $p$ by some unit $c \in F^*$. In the first case, we can take $d = 1$ and conclude that $p, f$ are relatively prime. In the second case, we can take $d = p$ and conclude that $p | f$. 
 - (ii) Suppose $p | fg$ and $p$ does not divide $f$. Then by (i), $p$ and $f$ are relatively prime, it follows from the earlier proposition that $p |g$ as claimed. $\ \square$
-
----
-
-# Tests for irreducibility
-
->[!theorem]
->Let $R$ be a [[Unique factorization domains|unique factorization domain]], $F$ be its [[Field of quotients of an integral domain|field of quotients]], and 
->$$
->f = a_nx^n + a_{n-1}x^{n-1} + \cdots + a_0 \in R[x]
->$$
->be a polynomial of degree $n \geq 1$. Suppose $I \subseteq R$ is an [[Ideals and quotient rings|ideal]] in $R$ for which $a_n \notin I$. If the reduction $\bar f$ is not the product of two polynomials in $(R/I)[x]$ with degrees $d, e$, respectively, satisfying $0 < d,e < n$, then $f$ is irreducible in $F[x]$.
-
->[!theorem] Eisenstein criterion
->Let $f \in R[x]$ be a polynomial of degree $n \geq 1$, and let $M \subseteq R$ be a [[Prime and maximal ideals|maximal ideal]] in $R$. If the following conditions hold:
->- (i) The leading coefficient $a_n$ is not in $M$;
->- (ii) For $i < n$, we have $a_i \in M$;
->- (iii) We have $a_0 \notin M^2$, meaning there do not exist $b, c \in M$ such that $a_0 = bc$;
->
->Then $f$ is not the product of two polynomials of strictly smaller degree in $R[x]$, and hence $f$ is irreducible as an element of $F[x]$.
-
-> [!Corollary] Irreducibility modulo prime $p$ implies irreducibility in $\mathbb Q[x]$
-> Let $f \in \mathbb{Z} [x]$ be a nonconstant polynomial and $p$ be a prime number which does not divide the leading coefficient of $f$. If $f$ is irreducible over the field $\mathbb{F}_{p}$, then $f$ is irreducible over $\mathbb Q$.
 
 ---
 

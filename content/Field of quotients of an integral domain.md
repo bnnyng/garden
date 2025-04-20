@@ -8,13 +8,17 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-08T20:40:06-04:00
+lastmod: 2025-04-16T00:28:04-04:00
 ---
 # Overview
 
 The **field of quotients** is a way of *extending* an [[Cancellation laws and integral domains|integral domain]] to a field by taking “fractions.” In particular, we can identify each element $r \in R$ with the fraction $r/1 \in Q(R)$, and thus obtain $R \leq Q (R)$ as a [[Algebraic rings|subring]].
 
 #wip [[Universal properties of rings]]
+
+**Relevant theorems:**
+- [[(Theorem) A factorization in a UFD exists iff a factorization exists in its field of quotients]]
+- [[(Theorem) A polynomial ring with coefficients in a UFD is a UFD]]
 
 **Related notes:** [[Prime (sub)fields]]
 

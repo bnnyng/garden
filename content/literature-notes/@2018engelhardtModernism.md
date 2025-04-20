@@ -4,11 +4,12 @@ aliases:
   - 
 tags:
   - literature-note
-title: "bookSection | Modernism, Fiction and Mathematics"
+title: bookSection | Modernism, Fiction and Mathematics
 year: 2018
 permalink: https://www.degruyterbrill.com/document/doi/10.1515/9781474416245/html
-publish:
+publish: 
 date: 2025-04-10
+lastmod: 2025-04-15T15:18:35-04:00
 ---
 > Engelhardt, N. (2018). Modernism, Fiction and Mathematics. In _Modernism, Fiction and Mathematics_. Edinburgh University Press. [https://www.degruyterbrill.com/document/doi/10.1515/9781474416245/html](https://www.degruyterbrill.com/document/doi/10.1515/9781474416245/html)
 
@@ -26,11 +27,20 @@ date: 2025-04-10
 
 # Atomic notes
 
+- [[Mathematics as art, after G. H. Hardy]]
+- [[Mathematics as a useful fiction, after Nietzsche]]
+
 ---
 
 # Key terms
+
 
 ---
 
 # Reading notes
 
+## Introduction
+
+#### Mathematics, art, and fiction
+
+- **Nietzsche sees mathematics as best suited for establishing new grounds of truth during the required re-evaluation after a crisis of Western thought:** 

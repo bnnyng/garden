@@ -1,11 +1,14 @@
 ---
 kanban-plugin: board
-lastmod: 2025-04-10T01:38:28-04:00
+lastmod: 2025-04-20T13:32:11-04:00
 date: 2025-02-12T16:40:50-05:00
 ---
 
 ## Queue
 
+- [ ] 📚 [[@2020colasLanguage]], “Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration”
+- [ ] 📚 [[@2024geigerCausal]], “Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability”
+- [ ] 📚 [[@2024mahowaldDissociating]], “Dissociating language and thought in LLMs”
 - [ ] 📚 Barabasi et al., 2023. “[Neuroscience needs network science](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rXYLXJMAAAAJ&sortby=pubdate&citation_for_view=rXYLXJMAAAAJ:NXjrwPNzFTMC)”
 - [ ] 📚 Papadimitriou et al., 2020. “[Brain computation by assemblies of neurons](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rXYLXJMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=rXYLXJMAAAAJ:sYWh8IhQ1GMC)”
 - [ ] 📚 [[@2022akhlaghpour]], “An RNA-Based Theory of Natural Universal Computation”
@@ -29,7 +32,7 @@ date: 2025-02-12T16:40:50-05:00
 	
 	💬 *Recommendation from Luke C.*
 - [ ] 📚 [[@2016marblestone]], “Towards an integration of deep learning and neuroscience”
-- [ ] 📚 [[@2024mahowald]], “Dissociating language and thought in large language models” 
+- [ ] 📚 [[@2024mahowaldDissociating]], “Dissociating language and thought in large language models” 
 	
 	💬 *Distinguishing between formal and functional linguistic competence*
 - [ ] 📚 [[@2024legris]], “Predicting Insight during Physical Reasoning
@@ -37,7 +40,13 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Shortlist
 
-- [ ] 📚 [[2025hafnerMastering]], “Mastering diverse control tasks using world models”
+- [ ] 📚 [[@2022colasAutotelic]], “Autotelic Agents with Intrinsically Motivated Goal-Conditioned Reinforcement Learning”
+- [ ] 📚 [[@2023parkGenerative]], “Generative Agents: Interactive Simulacra of Human Behavior”
+- [ ] 📚 [[@2024yildirimTask]], “From task structures to world models: What do LLMs know?”
+- [ ] 📚 [[@2023wongTranslating]], “From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought”
+	
+	Notes: Tenenbaum, Goodman
+- [ ] 📚 [[@2025hafnerMastering]], “Mastering diverse control tasks using world models”
 - [ ] 📚 [[@2011aaronson]], “Why Philosophers Should Care About Computational Complexity”
 - [ ] 📚 [[@1980cartwright]], “The Reality of Causes in a World of Instrumental Laws”
 - [ ] 📚 [[@2022lecun]], “A Path Towards Autonomous Machine Intelligence”
@@ -63,15 +72,16 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Inbox
 
+- [ ] [[Cognitive world models]]
 - [ ] [[Mathematical structure]]
 	
 	Source: [[@1950bourbakiArchitecture]]
 - [ ] [[Metaphysics does not settle questions of intellectual value, after Clarke-Doane]]
 	
-	Source: [[@2023clarke-doane]]
+	Source: [[@2023clarke-doaneObservation]]
 - [ ] [[Armchair pluralism, after Clarke-Doane]]
 	
-	Source: [[@2023clarke-doane]]
+	Source: [[@2023clarke-doaneObservation]]
 - [ ] [[Biological systems are physical systems in which information plays a causal role, after Davies and Walker]]
 	
 	Source: [[@2015walker]]
@@ -88,10 +98,10 @@ date: 2025-02-12T16:40:50-05:00
 - [ ] [[(Model) The Rational Speech Acts framework, after Frank and Goodman (2016)]]
 	
 	Source: [[@2020degen]], [[@2024sumers]]
-- [ ] [[Technological approach to mind everywhere, after Levin]]
+- [ ] [[Technological approach to mind everywhere, after Levin (2022)]]
 	
 	Source: [[@2022levinTechnological]]
-- [ ] [[Persuadability as a continuum of agency, after Levin]]
+- [ ] [[Persuadability as a continuum of agency, after Levin (2022)]]
 	
 	Source: [[@2022levinTechnological]]
 - [ ] [[Anatomical homeostasis is a kind of collective intelligence, after Levin]]
@@ -113,6 +123,43 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Someday
 
+- [ ] [[Realism is the conjunction of aptness, belief, truth, independence, and face-value, after Clarke-Doane]]
+	
+	Source: [[@2020clarke-doaneMorality]]
+- [ ] [[All areas of inquiry are controversial because they bottom out in philosophical controversies, after Clarke-Doane]]
+	
+	Source: [[@2020clarke-doaneMorality]]
+- [ ] [[Realism and objectivity are in tension, after Clarke-Doane]]
+	
+	Source: [[@2020clarke-doaneMorality]]
+- [ ] [[Godel's second incompleteness theorem]]
+- [ ] [[Pluralism is the view that any reasonable theory about some entities has a mind-independent truth, after Clarke-Doane]]
+	
+	Source: [[@2020clarke-doaneMorality]]
+- [ ] [[Mathematical, physical, and mental existence, after Penrose]]
+	
+	Source: [[@2004penroseRoad]]
+- [ ] [[Carving nature at its joints]]
+- [ ] [[Mathematical pluralism]]
+- [ ] [[Mathematical invention, after Poincare]]
+	
+	Source: TBD
+- [ ] [[Linguistic competence]] (particularly formal vs. functional)
+	
+	Source: [[@2024yildirimTask]], [[@2024mahowaldDissociating]]
+- [ ] [[Computational graphs]]
+- [ ] [[Graceful degradation]]
+	
+	Source: [[@2024millierePhilosophical]] (II, 7)
+- [ ] [[Semantic competence is both inferential and referential, after Marconi (1997)]]
+	
+	Source: [[@2024millierePhilosophical]]
+- [ ] [[Continuous information representations have an advantage over discrete representations, after Smolensky et al. (2022)]]
+	
+	Source: [[@2024millierePhilosophical]]
+- [ ] [[The re-description fallacy for cognitive capacities, after Milliere & Buckner (2024)]]
+	
+	Source: [[@2024millierePhilosophical]]
 - [ ] [[Neoteny]]
 	
 	Source: [[PHIL-UN3655|Topics in Cognitive Science and Philosophy]]
@@ -178,10 +225,10 @@ date: 2025-02-12T16:40:50-05:00
 - [ ] [[Logicist philosophy of mathematics]]
 	
 	Source: [[MATH-GU4200|Mathematics and the Humanities]]
-- [ ] [[Anti-realist and non-platonistic philosophies of mathematics]]
+- [ ] [[Mathematical anti-realism and non-Platonism]]
 	
 	Source: [[MATH-GU4200|Mathematics and the Humanities]]
-- [ ] [[Realist philosophies of mathematics]]
+- [ ] [[Mathematical realism]]
 	
 	Source: [[MATH-GU4200|Mathematics and the Humanities]]
 - [ ] [[Intuitionist philosophy of mathematics]]

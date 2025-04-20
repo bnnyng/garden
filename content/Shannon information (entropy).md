@@ -10,19 +10,19 @@ tags:
   - topic-physics-complexity
 publish: 
 date: 2024-07-31 15:35
-lastmod: 2024-10-14T10:36:07-04:00
+lastmod: 2025-04-16T18:17:12-04:00
 ---
 # Overview
 
 
->[!example] Definition: Shannon entropy
+>[!definition] Shannon entropy
 >$$
 >H({p_1, \cdots, p_n}) = - \sum_{i=1}^np_i\log_2 (p_i) = \sum_{i=1}^n p_i \log_2 \left (\frac{1}{p_i} \right )
 >$$
 
 The motivation for **Shannon entropy** is an equation that takes a *list of probabilities* and returns a number representing *uncertainty*. This function is required to obey four axioms:
 
-> [!abstract] Axioms of Shannon entropy
+> [!axiom] Axioms of Shannon entropy
 > 1. Continuity
 > 2. Symmetry
 > 3. Condition of Maximum Information

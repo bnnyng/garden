@@ -6,7 +6,7 @@ tags:
 status: 🔴❓
 publish: "true"
 date: 2024-12-08 14:04
-lastmod: 2025-04-04T22:24:51-04:00
+lastmod: 2025-04-17T02:52:45-04:00
 ---
 # Overview
 
@@ -124,6 +124,8 @@ $$
 \pi_1(T) \cong \frac{\mathbb Z * \mathbb Z}{\langle \langle aba^{-1}b^{-1} \rangle \rangle} \cong \langle a, b \ | \ aba^{-1}b^{-1} =1 \rangle
 $$
 The generators $a, b$ commute, so this is precisely the presentation of the [[Abelian groups|abelian]] group $\mathbb Z \times \mathbb Z$. 
+
+
 ---
 # Notes
 

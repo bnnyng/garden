@@ -7,8 +7,12 @@ tags:
   - moc
 publish: 
 date: 2025-04-08T15:45:16-04:00
-lastmod: 2025-04-08T15:51:31-04:00
+lastmod: 2025-04-15T15:36:11-04:00
 ---
+**See also:** [[§ Philosophy of Mathematics]]
+
+---
+
 - Questions (from [[@2008mancosuPhilosophy]])
 	- Philosophers should pose such questions as: How does mathematical knowledge grow? What is mathematical progress? What makes some mathematical ideas (or theories) better than others? What is mathematical explanation?
 	- This prompted questions by analogy with the natural sciences: Is mathematics revisable? What is the nature of mathematical growth? Is there progress in mathematics? Are there revolutions in mathematics?

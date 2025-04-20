@@ -25,4 +25,4 @@ title: Class | Introduction to Cognitive Science
 | 2022-10-12 | Brain scanning                  | 2013           | Coltheart        | “How can functional neuroimaging inform cognitive theories?” |
 | 2022-11-02 | Consciousness                   | 1982           | Jackson          | [[@1982jackson]]                                             |
 | 2022-11-14 | Robotics and embodied cognition | 1999           | Clark            | [[@1999clark]]                                               |
-| 2022-12-03 | Problem solving                 | 2019           | Botvinick et al. | [[@2019botvinick]]                                           |
+| 2022-12-03 | Problem solving                 | 2019           | Botvinick et al. | [[@2019botvinickReinforcement]]                                           |

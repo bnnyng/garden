@@ -10,13 +10,15 @@ aliases:
   - physicalist
   - anti-physicalist
   - mind/brain identity theory
+  - token physicalism
+  - type physicalism
 tags:
   - permanent-note
   - topic-cognitive-science
   - PHIL-UN2655
 publish: 
 date: 2024-10-08 11:52
-lastmod: 2025-03-07T21:57:43-05:00
+lastmod: 2025-04-16T17:07:50-04:00
 ---
 # Overview
 
@@ -39,6 +41,7 @@ lastmod: 2025-03-07T21:57:43-05:00
 # References
 
 - [[@2011kim]], “[[@2011kim|Mind as a Computing Machine]]”
+- [[@1974fodorSpecial]], “The Disunity of Science as a Working Hypothesis”
 
 ---
 # Notes

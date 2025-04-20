@@ -7,7 +7,7 @@ tags:
   - MATH-GU4053
 status: 
 publish: 
-lastmod: 2025-04-10T12:33:28-04:00
+lastmod: 2025-04-17T01:43:17-04:00
 date: 2025-04-10T11:51:58-04:00
 ---
 # Overview
@@ -23,16 +23,20 @@ date: 2025-04-10T11:51:58-04:00
 >[!definition] $\Delta$-complex structure
 >A **$\Delta$-complex structure** on a topological space $X$ is a tuple 
 >$$
->\Sigma = (\sigma_p)_{p \in \mathbb N}, \quad \quad \Sigma_p \subseteq \textup{Sin}_p(X) \text{ for } p \geq 0,
+>\Sigma = (\Sigma_p)_{p \in \mathbb N}, \quad \quad \Sigma_p \subseteq \textup{Sin}_p(X) \text{ for } p \geq 0,
 >$$
 >where $\text{Sin}_p(X)$ is the set of all [[Singular chains and singular homology|singular]] $p$-simplices $\sigma : \Delta^p \to X$, which satisfies the following:
->- (i) For all $i = 0, \ldots, p$ and all $p \in \mathbb N$, we have $$ d_i(\Sigma_p) \subseteq \sigma_{p-1}, $$ where $d_i : \text{Sin}_p(X) \to \text{Sin}_{p-1}(X)$, the canonical linear homeomorphism that preserves ordering of vertices. In other words, each restriction of $\Sigma_p$ to a face of $\Delta^n$ is a map $\sigma: \Delta^{p-1} \to X$;
+>- (i) For all $i = 0, \ldots, p$ and all $p \in \mathbb N$, we have $$ d_i(\Sigma_p) \subseteq \Sigma_{p-1}, $$ where $d_i : \text{Sin}_p(X) \to \text{Sin}_{p-1}(X)$, the canonical linear homeomorphism that preserves ordering of vertices. In other words, each restriction of $\Sigma_p$ to a face of $\Delta^p$ is a map $\sigma: \Delta^{p-1} \to X$;
 >- (ii) Writing $\Delta^p \backslash \partial \Delta^p$ for the interior of the standard $p$-simplex, the restriction $\sigma |_{\Delta^p \backslash \partial \Delta^p}$ is [[Injectivity, surjectivity, and bijectivity|injective]] for all $\sigma \in \Sigma_p$, and the subsets $\sigma(\Delta^p \backslash \partial \Delta^p) \subseteq X$ are all disjoint. In other words, $$ \bigcup_{p \in \mathbb N} \bigcup_{\sigma \in \Sigma_p} \sigma (\Delta^p \backslash \partial \Delta^p) = X, $$ and each point in $X$ is the image of exactly one restriction $\sigma|_{\Delta^p \backslash \partial \Delta^p}$;
->- (iii) A subset $A \subseteq X$ is open if and only if $\sigma^{-1} \subseteq \Delta^p$ is open for all $\sigma \in \Sigma_p$ and all $p \in \mathbb N$.
+>- (iii) A subset $A \subseteq X$ is open if and only if $\sigma^{-1} \subseteq \Delta^p$ is open for all $\sigma(A) \in \Sigma_p$ and all $p \in \mathbb N$.
 
 >[!definition] $\Delta$-complex
 >A **$\Delta$-complex** is a pair $(X, \sigma)$ consisting of a topological space $X$ and a $\Delta$-complex structure $\Sigma$ on $X$. The elements of $\Sigma_p$ are called the **$p$-simplices** of the $\Delta$-complex, and the subsets $\sigma(\Delta^p \backslash \partial \Delta^p) \subseteq X$ are called the **open simplices**.
 
+>[!remark]
+>These axioms express that $X$ can be completely reconstructed from the sets $\Sigma_p$ and maps $d_i : \Sigma_p \to \Sigma_{p-1}$ by considering the 
+
+- More exposition and viewing as maps (notes 77)
 
 ---
 # Examples

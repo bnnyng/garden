@@ -9,14 +9,19 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-08T21:11:55-04:00
+lastmod: 2025-04-16T00:27:27-04:00
 ---
 # Overview and basic definition
 
 >[!definition] Unique factorization domain
 >An [[Cancellation laws and integral domains|integral domain]] $R$ is a **unique factorization domain (UFD)** if the following hold:
 >- (i) For every $r \in R$ that is not $0$ or a [[Algebraic rings|unit]], there exist [[Factorization on integral domains|irreducible]] elements $p_1, \ldots, p_n \in R$ such that $r = p_1 \cdots p_n$;
->- (ii) If $p_1, \ldots, p_n$ and $q_1, \ldots, q_m$ are irreducibles such that $p_1 \cdots p_n = q_1 \cdots q_m$, then $n = m$ and, possibly after a reordering, $p_i, q_i$ are [[Factorization on integral domains|associates]], meaning they differ by a mul
+>- (ii) If $p_1, \ldots, p_n$ and $q_1, \ldots, q_m$ are irreducibles such that $p_1 \cdots p_n = q_1 \cdots q_m$, then $n = m$ and, possibly after a reordering, $p_i, q_i$ are [[Factorization on integral domains|associates]], meaning they differ by a multiple of some unit.
+
+**Relevant theorems:**
+- [[(Theorem) A principal ideal domain is a unique factorization domain]]
+- [[(Theorem) A factorization in a UFD exists iff a factorization exists in its field of quotients]]
+- [[(Theorem) A polynomial ring with coefficients in a UFD is a UFD]]
 
 **Related notes:**
 - [[Principal ideal domains]]
@@ -43,6 +48,8 @@ When neither $r, s$ is $0$ or a unit, we use the following general strategy: con
 
 >[!proposition] A generator of a prime ideal is irreducible
 >Let $R$ be an integral domain and let $r \in R$ be a nonzero element. If $(r)$ is a [[Prime and maximal ideals|prime ideal]] (i.e., $(r) \neq R$ and for all $s, t \in R$, if $st \in (r)$ then either one of $s, t \in (r)$), then $r$ is irreducible. The converse holds when $R$ is a [[Unique factorization domains|unique factorization domain]].
+
+^4f8b66
 
 *Proof from [[MATH-GU4042|Modern Algebra II]].*
 - $\implies$: If $(r) \neq (0)$ is a prime ideal, then $R$ is not a field and $(r) \subseteq R$ is a proper subset. Then by definition, $r$ is not a unit and for all $s, t \in R$, if $r | st$ then $r|s$ or $r | t$. WLOG, suppose $r=st$ and $r | s$, so there exists some $u \in R$ (not assumed to be a unit) such that $r = su$. This implies $r =rut$, so $ut = 1$, and $t$ is a unit while $s$ is an associate of $r$. Then $r$ satisfies the definition of an irreducible element.

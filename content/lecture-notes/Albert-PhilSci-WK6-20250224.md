@@ -13,7 +13,7 @@ lastmod: 2025-03-23T12:48:41-04:00
 
 - David **Lewis** takes the metaphysics of possible worlds very seriously. According Lewis, **possible worlds** are concrete entities that exist as much as the “actual” one does.
 	- *Example.* $\ \text{}$ Suppose a bullet narrowly misses my vital organ. According to Lewis, there is a fact of the matter (i.e., a **truth value**) associated with the claim, “If the bullet had been one inch to the left, I would be dead by now.”
-- In contrast, **Goodman** takes the word “actual” to be **indexical**: like the words “I” or “now”, the meaning of “actual” depends on the **context** where it s uttered ([[@1983goodman]]).
+- In contrast, **Goodman** takes the word “actual” to be **indexical**: like the words “I” or “now”, the meaning of “actual” depends on the **context** where it s uttered ([[@1983goodmanFact]]).
 - **Nagel**’s position is the opposite extreme from Lewis: according to Nagel, counterfactual claims “illustrate the kinds of **causal** or other **nomic** connections that characterize the actual world.”
 	- Goodman’s “**militant actualism**” “shows us much more interesting things than Nagel manages to.”
 

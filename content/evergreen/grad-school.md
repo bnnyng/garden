@@ -4,14 +4,14 @@ tags:
   - workspace
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-04T12:39:30-04:00
+lastmod: 2025-04-11T13:26:30-04:00
 ---
 # Researchers
 
 | Name                  | Institution | Associated Work                                                                                                                                                                                                                                                                                                                            |
 | --------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Gershman, Sam         | Harvard     | - [[@2022chen\|A hierarchical Bayesian model of adaptive teaching]] (2022)                                                                                                                                                                                                                                                                 |
-| Goodman, Noah         | Stanford    | - [[@2014shafto\|A rational account of pedagogical reasoning]] (2014)<br>- [[@2015griffiths\|Rational Use of Cognitive Resources]] (2015)<br>- [[@2016goodman\|Pragmatic Language Interpretation as Probabilistic Inference]] (2016)<br>- [[@2023wong\|Translating from Natural Language to the Probabilistic Language of Thought]] (2023) |
+| Goodman, Noah         | Stanford    | - [[@2014shafto\|A rational account of pedagogical reasoning]] (2014)<br>- [[@2015griffiths\|Rational Use of Cognitive Resources]] (2015)<br>- [[@2016goodmanPragmatic\|Pragmatic Language Interpretation as Probabilistic Inference]] (2016)<br>- [[@2023wongTranslating\|Translating from Natural Language to the Probabilistic Language of Thought]] (2023) |
 | Griffiths, Tom        | Princeton   | - [[@2014shafto\|A rational account of pedagogical reasoning]] (2014)<br>- [[@2015griffiths\|Rational Use of Cognitive Resources]] (2015)<br>- [[@2020liederResource\|Resource-Rational Analysis]] (2020)                                                                                                                                          |
 | Hawkins, Robert       | Stanford    | - [[@2022chen\|A hierarchical Bayesian model of adaptive teaching]] (2022)                                                                                                                                                                                                                                                                 |
 | Ho, Mark              | NYU         |                                                                                                                                                                                                                                                                                                                                            |
@@ -19,6 +19,13 @@ lastmod: 2025-04-04T12:39:30-04:00
 
 ---
 # Log
+
+2025-04-11
+
+**Churchill Scholarship programs**
+
+- Math Part III
+- [MPhil Machine Learning and Machine Intelligence](https://www.postgraduate.study.cam.ac.uk/courses/directory/egegmpmsl/study)
 
 [[2025-03-28]]
 
