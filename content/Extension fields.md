@@ -13,17 +13,17 @@ tags:
 status: 🔴 🔨
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-20T17:54:15-04:00
+lastmod: 2025-05-06T14:32:03-04:00
 ---
 # Overview
 
-**Extension fields** are relevant when we have $F \leq E$ for some [[Algebraic fields|fields]] $F, E$, and $F$ is the object we are interested in studying. Note that when $F \leq E$ is a subfield in general, multiplication defined in $E$ makes $E$ into an $F$[[Vector spaces and ring modules|-vector space]].
+$\quad$ **Extension fields** are relevant when we have $F \leq E$ for some [[Algebraic fields|fields]] $F, E$, and $F$ is the object we are interested in studying. Note that when $F \leq E$ is a subfield in general, multiplication defined in $E$ makes $E$ into an $F$[[Vector spaces and ring modules|-vector space]].
 
-Extension fields are used to investigate [[Polynomial roots]] with coefficients in the underlying field $F$. We say an element $\alpha \in E$ is **algebraic** over $F$ if $\alpha$ is the root of a *nonzero* polynomial $f \in F[x]$, and **transcendental** otherwise. 
+$\quad$ Extension fields are used to investigate [[Polynomial roots]] with coefficients in the underlying field $F$. We say an element $\alpha \in E$ is **algebraic** over $F$ if $\alpha$ is the root of a *nonzero* polynomial $f \in F[x]$, and **transcendental** otherwise. 
 
-The simplest example of an extension field is the *smallest* field containing $F$ and an additional element $\alpha$, denoted $F(\alpha)$. The structure of a **simple extension** $F(\alpha)$ depends on whether $\alpha$ is transcendental or algebraic. In the latter case, the [[(Theorem) First isomorphism theorem|fundamental theorem for ring homomorphisms]] applied to the [[Polynomial evaluation|evaluation homomorphism]] $\textup{ev}_\alpha$ implies that $F(\alpha) \cong F[x] / (p)$, where $p$ is a unique irreducible generator for $\ker \textup{ev}_\alpha$ called the [[Minimal polynomial of an element in an extension field|minimal polynomial]].
+$\quad$ The simplest example of an extension field is the *smallest* field containing $F$ and an additional element $\alpha$, denoted $F(\alpha)$. The structure of a **simple extension** $F(\alpha)$ depends on whether $\alpha$ is transcendental or algebraic. In the latter case, the [[(Theorem) First isomorphism theorem|fundamental theorem for ring homomorphisms]] applied to the [[Polynomial evaluation|evaluation homomorphism]] $\textup{ev}_\alpha$ implies that $F(\alpha) \cong F[x] / (p)$, where $p$ is a unique [[Irreducible polynomials|irreducible]] generator for $\ker \textup{ev}_\alpha$ called the [[Minimal polynomial of an element in an extension field|minimal polynomial]].
 
-- Also building finite extensions
+$\quad$ On the other hand, every *nonconstant* polynomial over a field $F$ has a root in some 
 
 **Related notes:**
 - [[Factorization on polynomial rings]]
@@ -76,6 +76,8 @@ While this immediately implies $F[\alpha]$ is not a field, we can consider the [
 >- (iii) If $f \in F[x]$ is any polynomial such that $f(\alpha) = 0$, then $p | f$.
 >- (iv) $F[\alpha] = F(\alpha)$ is the smallest subfield of $E$ containing both $F$ and $\alpha$.
 
+#wip 
+
 ---
 
 # Generated extensions
@@ -84,6 +86,8 @@ While this immediately implies $F[\alpha]$ is not a field, we can consider the [
 >A field $E$ is a **simple extension** of $F$ if there exists $\alpha \in E$ such that $E = F(\alpha)$. If instead $$ E = F(\alpha_1, \ldots, \alpha_n)$$ for some $\alpha_1, \ldots, \alpha_n \in E$, we say $E$ is **generated over** $F$ by $\alpha_1, \ldots, \alpha_n$.
 
 #wip AGain smallest subfield of E contianing F and the sequence, also can iterate out (a_1,…, ak)(a_{k+1}, …, a_n
+
+$\quad$ An important construction relates **simple extensions** $E = F(\alpha)$, where $\alpha \in E$ is algebraic over $F$, to the [[Minimal polynomial of an element in an extension field|minimal polynomial]] $\text{irr}(\alpha, F)$ #wip
 
 ---
 

@@ -8,13 +8,13 @@ tags:
 status: 🔴 🔨 ❓
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-01T10:19:10-04:00
+lastmod: 2025-05-06T11:24:33-04:00
 ---
 # Overview and basic definition
 
 Variants include any square-free integers and extension fields of rationals
 
->[!example] Definition: Gaussian integers
+>[!definition] Gaussian integers
 >The **Gaussian integers $\mathbb Z[i] \leq \mathbb C$** is the commutative [[Algebraic rings|ring with unity]] with elements
 >$$
 >\mathbb Z [i] = \{ a+ bi \ : \ a,b \in \mathbb Z \};
@@ -23,13 +23,15 @@ Variants include any square-free integers and extension fields of rationals
 
 ^704b4e
 
->[!abstract] Claim: Group of units for the Gaussian integers
+>[!lemma] Group of units for the Gaussian integers
 >The Gaussian integers $\mathbb Z[i]$ are *not* a field, and the set of elements with inverses are
 >$$
 >(\mathbb Z[i])^* = \{ \pm 1, \pm i \} = \langle i \rangle,
 >$$
 >a [[Cyclic groups|cyclic]] group of order 4.
 
+**Related notes:**
+- [[Finite extensions of the rationals]]
 
 ---
 # Properties

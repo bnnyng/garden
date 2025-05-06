@@ -5,7 +5,7 @@ tags:
   - topic-logic-mathematics
 status: 
 publish: 
-lastmod: 2025-04-27T14:56:34-04:00
+lastmod: 2025-05-06T12:34:17-04:00
 date: 2025-04-20T17:54:07-04:00
 ---
 
@@ -42,7 +42,15 @@ hence $\sigma(\alpha)$ is a root of $f$ as well. $\ \square$
 >$$
 >Then $\alpha \in E$ is a root of $f \in F[x]$ if and only if $\varphi(\alpha) \in K$ is a root of $\sigma(f) \in F’[x]$. 
 
-- Converse is called the [[(Theorem) Isomorphism extension theorem for finite extensions of fields|isomorphism extension theorem]]
+$\quad$ From the perspective of homomorphism extensions, this is the situation that $F \leq E$, $F’ \leq K$, $\sigma : F \to F’$ is a homomorphism, and $\varphi : E \to K$ is an **extension** of $\sigma$, i.e., $\sigma(a) = a$ for all $a \in F$. 
+
+*Proof from [[MATH-GU4042|Modern Algebra II]].* $\quad$ In fact, letting $\alpha \in E$ be an arbitrary element, we have from the definitions that
+$$
+\varphi(f(\alpha)) = \varphi \left ( \sum_{i=0}^n a_i \alpha^i \right ) = \sum_{i=0}^n\varphi(a_i) \varphi(\alpha)^i = \sum_{i=0}
+^n \sigma(a_i) \varphi(\alpha)^i = \sigma(f)(\varphi(\alpha)), $$
+which means that $\varphi(f(\alpha)) = 0$ if and only if $\sigma(f)(\varphi(\alpha))$. Then since $\varphi$ is injective, we know that $f(\alpha) = 0$ if and only if $\varphi(f(\alpha)) = 0$, so we can conclude that $f(\alpha) = 0$ if and only if $\sigma(f)(\varphi(\alpha)) = 0$ as claimed. $\quad \square$
+
+
 
 ---
 
@@ -53,8 +61,7 @@ hence $\sigma(\alpha)$ is a root of $f$ as well. $\ \square$
 >$$
 >\rho : \text{Gal}(E / F) \to S_n, \quad \quad \sigma(\alpha_i) = \alpha_{\rho(\sigma)(i)}
 >$$
->where $\text{Gal} (E / F)$ is the [[Galois groups|Galois group]] and $S_n$ is the [[Permutation groups|symmetric group]] on $n$ letters. Moreover, if $E = F(\alpha_1 \ldots, \alpha_n)$,
->then $\rho$ is injective and identifies $\text{Gal} (E / F)$ with a [[Algebraic groups|subgroup]] of $S_n$, and we have 
+>where $\text{Gal} (E / F)$ is the [[Galois groups|Galois group]] and $S_n$ is the [[Permutation groups|symmetric group]] on $n$ letters. Moreover, if $E = F(\alpha_1 \ldots, \alpha_n)$, then $\rho$ is injective and identifies $\text{Gal} (E / F)$ with a [[Algebraic groups|subgroup]] of $S_n$, and we have 
 >$$
 >\# (\text{Gal} (E / F)) \leq n!.
 >$$

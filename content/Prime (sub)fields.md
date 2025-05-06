@@ -9,7 +9,7 @@ tags:
 status: 🔴
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-20T17:30:01-04:00
+lastmod: 2025-05-06T10:58:29-04:00
 ---
 # Overview and basic definition
 
@@ -24,8 +24,8 @@ As a consequence of the [[Categories and morphisms|homomorphism]] induced on the
 
 ---
 
-# Properties
+# Connections to other topics
 
 - [[Extension fields]]: Every field is an **extension** of its prime subfield.
 - [[Finite extension fields]]: Every *finite* field (which has characteristic prime $p > 0$) arises as a [[Extension fields|simple extension]] of its prime subfield $\mathbb F = \mathbb F_p(\gamma)$, where $\gamma$ is a [[Group generators, relations, and presentations|generator]] of the cyclic group $(\mathbb F^*, \cdot)$. 
-- [[Galois groups]]: If $F_0$ is the prime subfield of a field $E$, then the **Galois group** of the [[Extension fields|field extension]] $E$ is precisely the subgroup of **automorphisms**, i.e., $\text{Gal}(E/F_0) = \text{Aut}(E) \subseteq S_E$.
+- [[Galois groups]]: If $E$ is a finite extension of its prime subfield $F_0$, then every **automorphism** $\sigma : E \to E$ necessarily fixes $F_0$, since by definition $\sigma(1) = 1$ fixes the generator $1 \in \mathbb Q$ if $\text{char}(E) = 0$, and preserves addition and multiplication mod $p$ if $\text{char}(E) = p$. Hence the **Galois group** of $E$ as an extension of $F_0$ is precisely $$ \text{Gal}(E/F_0) = \text{Aut}\ E,$$ the set of all automorphisms $E \to E$.

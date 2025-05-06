@@ -8,7 +8,7 @@ tags:
 status: 
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-27T14:50:25-04:00
+lastmod: 2025-05-06T11:00:36-04:00
 ---
 # Overview and basic definition
 
@@ -73,5 +73,7 @@ which gives the claimed equality. $\quad \square$
 >[!corollary] 
 >If $K$ is a finite extension field of $E$ and $E$ is a finite extension field of $F$ with [[Vector bases and dimension|bases]] $$ \beta_1,\ldots, \beta_n,  \quad \quad \alpha_1, \ldots, \alpha_m, $$ respectively, then $$ \{ \alpha_i \beta_j \ : 1 \leq i \leq m, \ 1 \leq j \leq n \} $$ is an $F$-basis of $K$.
 
+---
+# Connections to other topics
 
-
+- [[Galois groups]]: If $E$ is a finite extension of a field $F$ and $\sigma : E \to E$ is any [[Ring homomorphisms and isomorphisms|ring homomorphism]] that fixes $F$, i.e., $\sigma(a) = a$ for all $a \in F$, then $\sigma$ is a surjective, hence an **automorphism**, hence an element of the **Galois group** $\text{Gal}(E/F)$. 

@@ -10,13 +10,15 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-27T09:52:22-04:00
+lastmod: 2025-05-06T14:34:13-04:00
 ---
 # Overview and basic definition
 
-If $f \in F[x]$ is a [[Polynomial rings|polynomial]] with coefficients in a field $F$, the basic definition of a **root** of $f$ is an element $\alpha$ which [[Polynomial evaluation|evaluates]] to $0$ in the formal sum. Equivalently, $x - \alpha$ divides $f$.
+$\quad$ If $f \in F[x]$ is a [[Polynomial rings|polynomial]] with coefficients in a field $F$, the basic definition of a **root** of $f$ is an element $\alpha$ which [[Polynomial evaluation|evaluates]] to $0$ in the formal sum. Equivalently, $x - \alpha$ divides $f$.
 
-**Multiple roots**, which are roots for which $(x-\alpha)^m$ for some power $m > 1$ also divides $f$, can be detected using [[Formal derivatives on polynomial rings|formal derivatives]].
+$\quad$ **Multiple roots**, which are roots for which $(x-\alpha)^m$ for some power $m > 1$ also divides $f$, can be detected using [[Formal derivatives on polynomial rings|formal derivatives]].
+
+$\quad$ A fundamental fact in field theory is that every *nonconstant* polynomial over a field $F$ has a root in some [[Extension fields|extension field]] of $F$. If $f \in F[x]$ is [[Irreducible polynomials|irreducible]], then we can construct this field to be $F[x]/(f)$. 
 
 **Relevant theorems:**
 - [[(Theorem) A factorization in a UFD exists iff a factorization exists in its field of quotients]]

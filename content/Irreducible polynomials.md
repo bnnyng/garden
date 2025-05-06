@@ -7,10 +7,14 @@ tags:
   - MATH-GU4042
 status: 
 publish: "true"
-lastmod: 2025-04-13T10:23:34-04:00
+lastmod: 2025-05-06T14:31:28-04:00
 date: 2025-04-07T21:39:53-04:00
 ---
 # Overview
+
+$\quad$ If $F$ is a [[Algebraic fields|field]], a polynomial that is **irreducible** in $F$ is a *nonconstant* polynomial $f \in F[x]$ that does not factor into polynomials of strictly smaller degrees. Note that the definition depends entirely on the underlying field $F$.
+
+
 
 **Relevant theorems:**
 - [[(Theorem) Unique factorization in polynomial rings]]
@@ -57,6 +61,8 @@ Given a field $F$ and a polynomial $f = c_dx^d + \cdots + c_0 \in F[x]$ that has
 | Computations                                               | Addition is computed by adding coefficients, and multiplication by the rule $a^d = -c_d^{-1}(c_{d-1}\alpha^{d-1} + \cdots + c_0)$                              | Both addition and multiplication are computed by setting multiples of $n$ to be $0$                                                                                                                     |
 | When the quotient is a field                               | When $f$ is irreducible in $F[x]$                                                                                                                              | When $n$ is prime                                                                                                                                                                                       |
 | [[(Theorem) Chinese remainder\|Chinese remainder theorem]] | If $f, g \in F[x]$ are relatively prime, then the quotient by the product $F[x]/(fg)$ is isomorphic to the product of quotients $(F[x]/(f)) \times (F[x]/(g))$ | If $n, m \in \mathbb Z$ are relatively prime, then the modulo of the product $\mathbb Z / nm \mathbb Z$ is isomorphic to the product of modulos $\mathbb Z / n\mathbb Z \times \mathbb Z / m \mathbb Z$ |
+
+
 
 ---
 

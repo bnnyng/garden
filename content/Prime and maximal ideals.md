@@ -9,7 +9,7 @@ tags:
 status: 🔴 🔨 ❓
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-05-05T15:33:00-04:00
+lastmod: 2025-05-06T14:21:33-04:00
 ---
 # Overview and basic definition
 
@@ -19,6 +19,8 @@ lastmod: 2025-05-05T15:33:00-04:00
 >Let $R$ is a [[Algebraic rings|commutative ring with unity]] and $I$ be an [[Ideals and quotient rings|ideal]] in $R$. If $I \neq R$, then $I\subseteq R$ is:
 >- (i) A **prime ideal** for all $r, s \in R$, if $rs \in I$ then either $r \in I$ or $s \in I$;
 >- (ii) a **maximal ideal** if for any other ideal $J \subseteq R$ containing $I \subseteq J$, then either $J = I$ or $J = R$.
+
+#wip important construction: every maximal ideal can be identified with some irreducible polynomial
 
 ---
 # In general commutative rings
