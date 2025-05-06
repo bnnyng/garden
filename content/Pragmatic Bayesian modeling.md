@@ -19,7 +19,7 @@ Bayesian modeling is an approach to estimating some property $\theta$ where, beg
 
 Practically speaking, the Bayesian approach simulates the **data-generating process**: what distributions generate the data, and with what parameters, and what parameter distributions, and so on? …Models can become very complicated!
 
-Related: [[All models are wrong, but some are useful]], [[Conditional probability and Bayes' theorem|Bayes' theorem]], [[Pragmatic statistics]], [[Frequentist vs. Bayesian inference]]
+Related: [[All models are wrong, but some are useful, after Box]], [[Conditional probability and Bayes' theorem|Bayes' theorem]], [[Pragmatic statistics]], [[Frequentist vs. Bayesian inference]]
 
 ---
 # Choosing priors

@@ -42,7 +42,7 @@ SORT lastmod ASC
 
 ![[The real numbers#^e56751]]
 
-![[Complex numbers, conjugates, and absolute value#^d9f858]]
+![[Complex numbers#^d9f858]]
 
 ## Basic topology
 

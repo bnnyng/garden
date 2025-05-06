@@ -10,15 +10,20 @@ tags:
 status: 🔨
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-02-16T13:49:21-05:00
+lastmod: 2025-04-20T17:58:44-04:00
 ---
-# Overview and basic definition
+# Overview and basic definitions
 
->[!example] Definition: Ring homomorphism, isomorphism
+>[!definition] Ring homomorphism, isomorphism
 >Let $R_1, R_2$ be [[Algebraic rings|rings]]. A **homomorphism** $f : R_1 \to R_2$ is a function such that for all $r, s \in R$, we have
 >$$ f(r + s) = f(r) + f(s) \quad \quad f(rs) = f(r)f(s). $$
 >An **isomorphism** is a [[Injectivity, surjectivity, and bijectivity|bijective]] homomorphism. Note that if $S \leq R$ is a subring, then the canonical [[Projection and inclusion maps|inclusion]] $i : S \to R$ is a homomorphism. 
 
+**Relevant theorems:**
+- [[(Theorem) First isomorphism theorem|(Theorem) Fundamental theorem for ring homomorphisms]]
+
+**Related notes:**
+- [[Automorphisms and polynomial roots]]
 
 ---
 # Conventions for rings with unity
@@ -33,13 +38,13 @@ Further, if $R$ is a ring with unity and $S \leq R$ is a [[Algebraic rings|subri
 ---
 # Images and kernels of ring homomorphisms
 
->[!example] Definition: Kernel of a ring homomorphism
+>[!definition] Kernel of a ring homomorphism
 >If $\varphi : R \to S$ is a homomorphism of [[Algebraic rings|rings]], then the **kernel** of $\varphi$ is the set of elements mapping to $0$:
 >$$ \ker \varphi  = \{ r \in R \ : \ \varphi(r) = 0 \in S \} \subset R. $$ 
 
 In other words, the kernel of a ring homomorphism is its kernel as a [[Group homomorphisms and isomorphisms|homomorphism]] of additive groups.
 
->[!abstract] Proposition (Dummit & Foote 7.3.5): Images and kernels of homomorphisms are subrings
+>[!proposition] Dummit & Foote 7.3.5: Images and kernels of homomorphisms are subrings
 >Let $\varphi : R \to S$ be a [[Ring homomorphisms and isomorphisms|ring homomorphism]].
 >- (i) The image of $\varphi$ is a [[Algebraic rings|subring]] $\textup{Im} \varphi \leq S$.
 >- (ii) The kernel $\varphi$ is a subring $\ker \varphi \leq R$. Further, $\ker \varphi$ is closed under multiplication by elements from $R$, i.e., if $a \in \ker \varphi$ then $r a \in \ker \varphi$ for all $r \in R$.

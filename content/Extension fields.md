@@ -13,7 +13,7 @@ tags:
 status: 🔴 🔨
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-07T22:38:32-04:00
+lastmod: 2025-04-20T17:54:15-04:00
 ---
 # Overview
 
@@ -21,7 +21,7 @@ lastmod: 2025-04-07T22:38:32-04:00
 
 Extension fields are used to investigate [[Polynomial roots]] with coefficients in the underlying field $F$. We say an element $\alpha \in E$ is **algebraic** over $F$ if $\alpha$ is the root of a *nonzero* polynomial $f \in F[x]$, and **transcendental** otherwise. 
 
-The simplest example of an extension field is the *smallest* field containing $F$ and an additional element $\alpha$, denoted $F(\alpha)$. The structure of a **simple extension** $F(\alpha)$ depends on whether $\alpha$ is transcendental or algebraic. In the latter case, the [[(Theorem) First isomorphism theorem|fundamental theorem for ring homomorphisms]] applied to the [[Polynomial evaluation|evaluation homomorphism]] $\textup{ev}_\alpha$ implies that $F(\alpha) \cong F[x] / (p)$, where $p$ is a unique irreducible generator for $\ker \textup{ev}_\alpha$ called the [[Minimal polynomial in an extension field|minimal polynomial]].
+The simplest example of an extension field is the *smallest* field containing $F$ and an additional element $\alpha$, denoted $F(\alpha)$. The structure of a **simple extension** $F(\alpha)$ depends on whether $\alpha$ is transcendental or algebraic. In the latter case, the [[(Theorem) First isomorphism theorem|fundamental theorem for ring homomorphisms]] applied to the [[Polynomial evaluation|evaluation homomorphism]] $\textup{ev}_\alpha$ implies that $F(\alpha) \cong F[x] / (p)$, where $p$ is a unique irreducible generator for $\ker \textup{ev}_\alpha$ called the [[Minimal polynomial of an element in an extension field|minimal polynomial]].
 
 - Also building finite extensions
 
@@ -29,6 +29,7 @@ The simplest example of an extension field is the *smallest* field containing $F
 - [[Factorization on polynomial rings]]
 - [[Algebraic extension fields and closures]]
 - [[Finite extension fields]]
+- [[Automorphisms and polynomial roots]]
 
 ---
 

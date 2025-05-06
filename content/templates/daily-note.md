@@ -4,7 +4,7 @@ tags:
 ---
 # Schedule
 
-
+![[2025-spring-finals#^a75aa8]]
 
 ---
 # To do
@@ -23,15 +23,20 @@ tags:
 
 ## Future file
 
-[[2025-04-16]]
 
-- [ ] [[PHIL-UN3551|Philosophy of Science]]: Read [[@1974fodorSpecial]] and [[@1975putnamPhilosophy]]
-- [ ] [[PHIL-UN3551|Philosophy of Science]]: Plan to reach out to Albert about grade/essay revisions
+[[2025-04-25]]
+
+- [ ] [[MATH-GU4053|Algebraic Topology]]: Catch up with today’s lecture
+
+[[2025-04-23]]
+
+- [ ] [[MATH-GU4042|Modern Algebra II]]: Catch up with notes on Galois Theory (`galoistheory1` and `galoistheory2`)
+- [ ] [[MATH-GU4200|Mathematics and the Humanities]]: Email Justin with questions about general philosophical arguments about reduction in both mathematics and science? Possibly also Michael about category theory?
 
 [[2025-04-14]]
 
 - [ ] Make advising meeting with Beyond Barnard to discuss funding for master’s abroad
-- [ ] [[MATH-GU4053|Algebraic Topology]]: Catch up with lecture notes
+- [ ] [[MATH-GU4053|Algebraic Topology]]: Catch up with lecture notes from Thursday, 4/15
 
 [[2025-04-13]]
 

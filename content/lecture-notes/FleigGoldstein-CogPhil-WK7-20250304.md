@@ -11,7 +11,7 @@ lastmod: 2025-03-06T13:50:01-05:00
 ---
 
 - **Abstraction** is the empiricist answer to the problem of **concept acquisition.** If we are not born with e.g., the concept of a triangle, we need to be able to **generalize** this concept from our experiences with triangles.
-- [[@2024buckner]] appeals to the **transformation principle** to explain how sensory information becomes an abstract concept: “the mind’s simple concepts (or conceptions) are in their first appearance derived from systematic, domain-general **transformations** of sensory impressions.”
+- [[@2024bucknerDeep]] appeals to the **transformation principle** to explain how sensory information becomes an abstract concept: “the mind’s simple concepts (or conceptions) are in their first appearance derived from systematic, domain-general **transformations** of sensory impressions.”
 - Aristotle is arguably the first **moderate empiricist**, viewing perception as “reception of form *without* matter.”
 	- All substantial beings are composites of matter and form. Perception occurs though a physical **medium** (e.g., air or water) that transmits form to the sense organ.
 	- *Example.* $\ \text{}$ Light transmits the color red to the eye. We then perceive redness, not the particular red object per se.

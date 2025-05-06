@@ -4,7 +4,7 @@ tags:
   - workspace
 publish: 
 date: 2024-10-10T08:59:12-04:00
-lastmod: 2025-04-15T12:12:54-04:00
+lastmod: 2025-04-29T11:59:29-04:00
 ---
 # Coursework
 
@@ -61,6 +61,9 @@ lastmod: 2025-04-15T12:12:54-04:00
 # Log
 
 [Course registration spreadsheet](https://docs.google.com/spreadsheets/d/1EC1K1KxJ2XQmm4FhbcpVILMZ_cCeUwDmW9XHl_NVEOU/edit?gid=827761127#gid=827761127)
+
+[[2025-04-29]] – Course registration thoughts
+- Grad Algebraic Topology – want to get some sense of higher-level mathematical instruction/reasoning
 
 [[2025-04-13]] – Prep for advising meeting
 

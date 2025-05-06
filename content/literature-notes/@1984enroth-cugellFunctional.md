@@ -81,7 +81,7 @@ lastmod: 2025-04-13T09:19:20-04:00
 	- See also: [[Mathematics is the most efficient formal system for compressing information about physical reality]].
 - Mathematical models allow for *prediction* of cell behavior in response to different stimuli; “even if one is only interested in a *qualitative* prediction of the form of a cell’s response this will still in general only be possible if a *quantitative* model is formulated.”
 - The *existence* of a possible quantitative analysis implies that the phenomena cannot be fully understood by qualitative means.
-	- In general, maybe need more qualifications on this quantitative analysis before immediately determining it useful? See also: [[All models are wrong, but some are useful]].
+	- In general, maybe need more qualifications on this quantitative analysis before immediately determining it useful? See also: [[All models are wrong, but some are useful, after Box]].
 
 ## Sine-wave grating experiments
 

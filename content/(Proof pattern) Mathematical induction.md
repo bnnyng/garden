@@ -23,4 +23,4 @@ date: 2024-11-26T08:37:26-05:00
 ---
 # In the philosophy of mathematics
 
-- [[@1994putnam]], p. 505: “Yet as Quine points out, we can recognize that \[the principle of mathematical induction] has a special status—that **it would take something virtually unimaginable to cause us to revise it** (such as discovering a contradiction in the first-order theory of natural numbers?)—without conceding that the status is the status Wittgenstein calls being a “rule of description” (that is, being *analytic*, though Wittgenstein doesn’t use the term).”
+- [[@1994putnamWhy]], p. 505: “Yet as Quine points out, we can recognize that \[the principle of mathematical induction] has a special status—that **it would take something virtually unimaginable to cause us to revise it** (such as discovering a contradiction in the first-order theory of natural numbers?)—without conceding that the status is the status Wittgenstein calls being a “rule of description” (that is, being *analytic*, though Wittgenstein doesn’t use the term).”

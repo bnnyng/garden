@@ -7,7 +7,7 @@ tags:
   - MATH-GU4053
 status: 
 publish: 
-lastmod: 2025-04-17T01:43:17-04:00
+lastmod: 2025-05-02T00:07:38-04:00
 date: 2025-04-10T11:51:58-04:00
 ---
 # Overview
@@ -31,7 +31,7 @@ date: 2025-04-10T11:51:58-04:00
 >- (iii) A subset $A \subseteq X$ is open if and only if $\sigma^{-1} \subseteq \Delta^p$ is open for all $\sigma(A) \in \Sigma_p$ and all $p \in \mathbb N$.
 
 >[!definition] $\Delta$-complex
->A **$\Delta$-complex** is a pair $(X, \sigma)$ consisting of a topological space $X$ and a $\Delta$-complex structure $\Sigma$ on $X$. The elements of $\Sigma_p$ are called the **$p$-simplices** of the $\Delta$-complex, and the subsets $\sigma(\Delta^p \backslash \partial \Delta^p) \subseteq X$ are called the **open simplices**.
+>A **$\Delta$-complex** is a pair $(X, \Sigma)$ consisting of a topological space $X$ and a $\Delta$-complex structure $\Sigma$ on $X$. The elements of $\Sigma_p$ are called the **$p$-simplices** of the $\Delta$-complex, and the subsets $\sigma(\Delta^p \backslash \partial \Delta^p) \subseteq X$ are called the **open simplices**.
 
 >[!remark]
 >These axioms express that $X$ can be completely reconstructed from the sets $\Sigma_p$ and maps $d_i : \Sigma_p \to \Sigma_{p-1}$ by considering the 

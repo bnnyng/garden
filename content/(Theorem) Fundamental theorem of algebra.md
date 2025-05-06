@@ -35,5 +35,5 @@ Define $f : S^1 \to \mathbb  C \backslash \{ 0\}$ by $f(z) = z^n$. Note that $f$
 # In ring theory
 
 >[!abstract] Theorem: Fundamental theorem of algebra (ring theory version)
->The [[Algebraic fields|field]] of [[Complex numbers, conjugates, and absolute value|complex numbers]] $\mathbb C$ is [[Algebraic extension fields and closures|algebraically closed]].
+>The [[Algebraic fields|field]] of [[Complex numbers|complex numbers]] $\mathbb C$ is [[Algebraic extension fields and closures|algebraically closed]].
 

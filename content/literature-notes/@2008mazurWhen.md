@@ -4,11 +4,12 @@ aliases:
   - 
 tags:
   - literature-note
-title: "bookSection | When is One Thing Equal to Some Other Thing?"
+title: bookSection | When is One Thing Equal to Some Other Thing?
 year: 2008
 permalink: https://www.cambridge.org/core/books/proof-and-other-dilemmas/when-is-one-thing-equal-to-some-other-thing/176F95DD38B132F9B10747350ADE548B
-publish:
+publish: 
 date: 2025-03-25
+lastmod: 2025-04-20T19:29:43-04:00
 ---
 > Mazur, B. (2008). When is One Thing Equal to Some Other Thing? In B. Gold & R. A. Simons (Eds.), _Proof and Other Dilemmas: Mathematics and Philosophy_ (pp. 221–242). Mathematical Association of America. [https://doi.org/10.5948/UPO9781614445050.015](https://doi.org/10.5948/UPO9781614445050.015)
 
@@ -25,6 +26,8 @@ date: 2025-03-25
 ---
 
 # Atomic notes
+
+- [[Category theory replaces mathematical objects with their role in a network of relationships, after Mazur]]
 
 ---
 

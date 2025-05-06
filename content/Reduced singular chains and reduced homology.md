@@ -8,9 +8,11 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-09T18:17:47-04:00
+lastmod: 2025-04-22T12:01:29-04:00
 ---
 # Overview 
+
+Given any [[Homology of general chain complexes|chain complex]], the **reduced chain complex**
 
 ---
 # Basic definition and properties

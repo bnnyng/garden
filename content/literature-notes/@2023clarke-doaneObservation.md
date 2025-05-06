@@ -8,7 +8,7 @@ year: 2023
 permalink: https://philarchive.org/rec/CLAOAI
 publish: 
 date: 2025-02-25
-lastmod: 2025-04-20T12:03:50-04:00
+lastmod: 2025-04-28T08:40:48-04:00
 ---
 > Clarke-Doane, J., & Ash, A. (2023). Observation and Intuition. In C. Antos, N. Barton, & G. Venturi (Eds.), _The Palgrave Companion to the Philosophy of Set Theory_. Palgrave. [https://philarchive.org/rec/CLAOAI](https://philarchive.org/rec/CLAOAI)
 
@@ -34,10 +34,8 @@ lastmod: 2025-04-20T12:03:50-04:00
 
 # Key terms
 
->[!example] Key terms in [[@2023clarke-doaneObservation]]
->- **Analytic truths:** truths that one can know in virtue of having linguistic competence.
+- **Analytic truths:** truths that one can know in virtue of having linguistic competence.
 
 ---
 
 # Reading notes
-

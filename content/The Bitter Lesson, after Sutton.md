@@ -19,6 +19,6 @@ The **”Bitter Lesson”** is the principle that progress in artificial intelli
 
 This coincides with [[@1976newell]]’s definition of intelligence as precisely the ability to search and learn.
 
-[[@2024buckner]] uses Sutton’s argument as an example of a [[The nativism-empiricism continuum, after Buckner|radical empiricist]] view:
+[[@2024bucknerDeep]] uses Sutton’s argument as an example of a [[The nativism-empiricism continuum, after Buckner|radical empiricist]] view:
 
 > General intelligence will naturally arise, the student of the Bitter Lesson supposes, as soon as we stop trying to program human knowledge manually into machines in any form, and simply apply more data and computation to the solution of problems.

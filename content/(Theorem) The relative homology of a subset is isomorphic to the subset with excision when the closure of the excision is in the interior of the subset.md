@@ -2,13 +2,15 @@
 aliases:
   - excision theorem
   - barycentric subdivision
+  - -small
 tags:
   - permanent-note
   - topic-logic-mathematics
-status: 
+  - MATH-GU4053
+status: 🔨
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-08T03:21:24-04:00
+lastmod: 2025-04-23T18:31:10-04:00
 ---
 # Overview and statement
 
@@ -19,7 +21,7 @@ lastmod: 2025-04-08T03:21:24-04:00
 # Preliminaries 
 
 
->[!abstract] Theorem ([[MATH-GU4053|Algebraic Topology]] notes 7.2.2): 
+>[!theorem] ([[MATH-GU4053|Algebraic Topology]] notes 7.2.2): 
 >Let $\mathcal U$ be a collection of subsets of $X$ such that $$ \bigcup_{U \in \mathcal U} \textup{int} (U) = X. $$ Then $C_p^{\mathcal U} \to C_p(X)$ induces an [[Group homomorphisms and isomorphisms|isomorphism]] on homology for all $p \in \mathbb Z$.
 
 
@@ -35,8 +37,17 @@ To prove an isomorphism $H_p^{\mathcal U }(X)
 
 ## Small chains
 
->[!example] Definition: Small chain
->Let $X$ be any space and $\mathcal U$ be a collection of subsets of $X$. We say that a [[Singular chains and singular homology|singular simplex]] $\sigma : \Delta^p \to X$ is $\mathcal U$-small if there exists $U \in \mathcal U$ such that $\textup{Im} (\sigma) \subseteq U$.
+>[!definition] Small chain
+>Let $X$ be any space and $\mathcal U$ be a collection of subsets of $X$. We say that a [[Singular chains and singular homology|singular simplex]] $\sigma : \Delta^p \to X$ is **$\mathcal U$-small if** there exists $U \in \mathcal U$ such that $\textup{Im} (\sigma) \subseteq U$. The subgroup spanned by $\mathcal U$-small simplices is denoted
+>$$
+>C^{\mathcal U}_p(X) \subseteq C_p(X).
+>$$
+>Note that if $\sigma : \Delta^p \to X$ is $\mathcal U$-small, then so is $\sigma \circ \delta^i : \Delta^{p-1} \to X$ and hence $\partial \sigma \in C^{\mathcal U}_p$. Therefore we have a [[Homology of general chain complexes|chain complex]] $(C^{\mathcal U}_*(X), \delta)$ given by restricting the boundary on $C_*(X)$, and the inclusion
+>$$
+>C^{\mathcal U}_*(X) \to C_*(X)
+>$$ 
+>is a chain map.
+
 
 ## Proof of isomorphism for small chains
 

@@ -14,7 +14,7 @@ lastmod: 2025-03-02T09:41:55-05:00
 # Overview
 
 ![[Pasted image 20241112124947.png]]
-*(Image from [[@2024buckner]].)*
+*(Image from [[@2024bucknerDeep]].)*
 
 Today, the nativist-empiricist debate in cognitive science is a disagreement over *which* cognitive structures are innate, and which concepts are learned or acquired from experience: [[Nativism and empiricism are two different styles of learning-based explanation, after Laurence and Margolis]].
 

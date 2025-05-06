@@ -16,7 +16,7 @@ lastmod: 2024-09-23T06:35:02-04:00
 ---
 # Overview
 
-An **inner product** is a function that takes two input vectors and outputs a scalar; this function must be positive, definite, linear on the first input, and have [[Complex numbers, conjugates, and absolute value|conjugate]] symmetry. The most important examples of inner products are the standard dot products on $\mathbb R^n$ and $\mathbb C^n$.
+An **inner product** is a function that takes two input vectors and outputs a scalar; this function must be positive, definite, linear on the first input, and have [[Complex numbers|conjugate]] symmetry. The most important examples of inner products are the standard dot products on $\mathbb R^n$ and $\mathbb C^n$.
 
 An inner product space is a [[Vector spaces and ring modules|vector space]] together with an inner product on it. 
 
@@ -42,7 +42,7 @@ The **complex dot product** has the following properties:
 - Additive in both coordinates: $(z + z^\prime) \cdot w = z \cdot w + z^\prime \cdot w$;
 - Respects scaling in first coordinate only: $(cz) \cdot w = c(z \cdot w)$;
 - Scaling the second coordinate is equal to scaling the dot product by the complex conjugate of that scalar: $z \cdot (cw) = \overline{c}(z \cdot w)$;
-- Swapping the terms changes the dot product by a [[Complex numbers, conjugates, and absolute value|complex conjugation]]: $z \cdot w = \overline{w \cdot z}$.
+- Swapping the terms changes the dot product by a [[Complex numbers|complex conjugation]]: $z \cdot w = \overline{w \cdot z}$.
 
 ---
 # Inner product spaces

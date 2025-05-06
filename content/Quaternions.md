@@ -11,7 +11,7 @@ lastmod: 2025-01-28T10:52:11-05:00
 ---
 # Overview and basic definition
 
-The **quaternions** are an extension of the [[Complex numbers, conjugates, and absolute value|complex numbers]].
+The **quaternions** are an extension of the [[Complex numbers|complex numbers]].
 
 >[!example] Quaternions
 

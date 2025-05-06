@@ -9,7 +9,7 @@ lastmod: 2025-02-11T15:02:46-05:00
 # Week 4, Day 1: Moderate Empiricism and Machine Learning
 ---
 
-**DoGMA, after [[@2024buckner]]**
+**DoGMA, after [[@2024bucknerDeep]]**
 
 - Buckner advocates for **faculty realism** with respect to the brain, and argues that the most promising direction for deep learning research is to model faculties with neural network architectures (see: [[Domain-general modular architecture is the best hope for modeling rational cognition in AI, after Buckner]]).
 - Structures are optimized for particular tasks (e.g., [[Convolution|convolution]]), but are [[Domain specificity and domain generality are graded phenomena, after Laurence and Margolis|domain-general]] since they do not specify **innate content**.
@@ -24,7 +24,7 @@ lastmod: 2025-02-11T15:02:46-05:00
 
 **”How possibly” vs. “how actually” models**
 
-- There is a distinction between **”how possibly”** scientific models—proofs of concept—and **”how actually”** models—models that ostensibly correspond to real aspects of the world ([[@2024buckner]], p. 36).
+- There is a distinction between **”how possibly”** scientific models—proofs of concept—and **”how actually”** models—models that ostensibly correspond to real aspects of the world ([[@2024bucknerDeep]], p. 36).
 - *Example.* $\ \text{}$ Chomsky’s computational argument for [[Defenses for Chomsky's theory of innate language faculty|Universal Grammar]] is that only **Turing machines** with unbounded tapes can keep track of arbitrarily long distance **dependencies** in grammar. Hence **feedforward neural networks**, which are equivalent to **finite state machines**, are computationally inadequate for capturing language.
 	- Chomsky’s distinguishing between **competence** and **performance** depends on first-person accounts of experience. In practice, no procedure is infinite.
 	- This is a *proof* of how humans do something appealing to necessity. An informative “how possibly” model would demonstrate how to do the same thing.

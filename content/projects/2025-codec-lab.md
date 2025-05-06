@@ -5,7 +5,7 @@ tags:
   - workspace
 publish: 
 date: 2024-08-29 17:56
-lastmod: 2025-04-18T14:03:13-04:00
+lastmod: 2025-05-02T13:25:36-04:00
 ---
 # Associated notes
 
@@ -13,11 +13,13 @@ lastmod: 2025-04-18T14:03:13-04:00
 - [[Stein variational inference]]
 
 ---
+
 # Resources
 
 - Deisenroth et al. (2020), [“A Practical Guide to Gaussian Processes”](https://infallible-thompson-49de36.netlify.app/)
 
 ---
+
 # Key biblography
 
 **Rational models of learning and teaching**
@@ -30,8 +32,17 @@ lastmod: 2025-04-18T14:03:13-04:00
 
 - [[20250321-codec-log-archive]]
 
-
 #### April
+
+[[2025-05-02]]
+
+- Next time:
+	- [ ] Try with and without GPU (`jax-metal`) and compare time, both with state GP and Maya’s learner model
+
+[[2025-04-25]]
+
+- Next time:
+	- [ ] Numbers about batching on the GPU (e.g., training a GP on a lot of points, requiring matrix inversion)
 
 [[2025-04-18]]
 
@@ -41,7 +52,10 @@ lastmod: 2025-04-18T14:03:13-04:00
 	- Have target fn
 	- Learner hyperparams: lengthscale, sigma
 	- SVGD to adjust learner hyperparams for multiple sets of hyperparams
-- Next time: Vectorize GP state, look into rest of model (code on GitHub)
+- Next time: 
+	- [ ] Vectorize GP state
+	- [ ] Change target function to closed form
+	- [ ] Look into rest of model (code on GitHub)
 
 #### March
 

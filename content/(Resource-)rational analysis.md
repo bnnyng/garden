@@ -9,31 +9,35 @@ tags:
   - topic-cognitive-science
 publish: "true"
 date: 2024-10-13 20:16
-lastmod: 2025-04-04T12:57:22-04:00
+lastmod: 2025-05-04T14:12:32-04:00
 ---
 
 # Overview
 
-**Rational analysis**, developed by [[@1990andersonAdaptive]], is a paradigm for modeling human cognition that assumes that cognition is a [[Rationality in cognitive science|rational]] adaptation to environmental structure and goals pursued within it. **Rational process models** of human behavior can then be derived from assumptions of the environment. This is similar to ecological explanations of animal behavior based on **evolutionary fitness**.
+$\quad$ **Rational analysis**, developed by [[@1990andersonAdaptive]], is a paradigm for modeling human cognition that assumes that cognition is a [[Rationality in cognitive science|rational]] adaptation to environmental structure and goals pursued within it. **Rational process models** of human behavior can then be derived from assumptions of the environment. This is similar to ecological explanations of animal behavior based on **evolutionary fitness**.
 
-**Resource-rational analysis**, after [[@2020liederResource]], extends this paradigm to account for limited computational resources using the principle of **bounded optimality**, a *normative standard* in which the cognitive process an agent executes performs as well or better than any other process the agent could perform given their constraints.
-
+$\quad$ **Resource-rational analysis**, after [[@2020liederResource]], extends this paradigm to account for limited computational resources using the principle of **bounded optimality**, a *normative standard* in which the cognitive process an agent executes performs as well or better than any other process the agent could perform given their constraints.
 
 ![[Pasted image 20241107122640.png|300]]
 
-Rational process models help to connect [[Classical levels of cognitive theory|computational and algorithmic]] levels of analysis.
+$\quad$ Rational process models help to connect [[Classical levels of cognitive theory|computational and algorithmic]] levels of analysis.
 
 ---
+
 # Problems of indiscriminate confirmation
 
-The classical inductive scientific method is epistemically flawed in an immature science like psychology, which lacks an established body of facts: confirmation of a hypothesis by an observation is a logical fallacy, **affirming the consequent** ($(P \implies Q) \wedge Q \implies P$); on the other hand, failure to confirm a hypothesis could be attributed to both the main hypothesis as well as any number of other auxiliary assumptions.
+$\quad$ The classical inductive scientific method is epistemically flawed in an immature science like psychology, which lacks an established body of facts: confirmation of a hypothesis by an observation is a logical fallacy, **affirming the consequent** ($(P \implies Q) \wedge Q \implies P$); on the other hand, failure to confirm a hypothesis could be attributed to both the main hypothesis as well as any number of other auxiliary assumptions.
 
-The resource-rational method is deductive: $$
+$\quad$ The resource-rational method is deductive: 
+
+$$
 \text{environment} \ \wedge \ \text{rationality assumption} \ \wedge \ \text{constraints} \ \implies \text{behavior}.
 $$
+
 The environment consists of observables that are true by definition, and the rationality assumption is intended to be trivially true. Thus, in the case that observed behavior does not confirm a hypothesis, we know to modify our model of constraints.
 
 ---
+
 # Steps of rational vs. resource-rational analysis
 
 >[!example] Steps of rational analysis ([[@1990andersonAdaptive]]):

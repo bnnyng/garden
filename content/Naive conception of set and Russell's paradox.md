@@ -10,7 +10,7 @@ tags:
   - MATH-GU4200
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-07T21:37:45-05:00
+lastmod: 2025-04-20T16:13:26-04:00
 ---
 # Overview
 
@@ -32,7 +32,7 @@ However, such a collection may not be possible, and even appealing to the **Law 
 ---
 # Russell’s paradox
 
->[!example] Definition: Russell’s paradox
+>[!definition] Russell’s paradox
 >**Russell’s paradox** is the following statement, permissible by the axioms of naive set theory: “$x$ is an element of some $y$ if it does not contain itself”; the paradox is about where the object $y$ should go.
 >$$ (\exists y) (x) (x \in y \iff x \notin x)) $$
 

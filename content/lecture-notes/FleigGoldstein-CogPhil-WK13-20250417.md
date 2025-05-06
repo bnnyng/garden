@@ -3,35 +3,10 @@ aliases:
 tags:
   - fleeting-note
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-17T13:51:14-04:00
+lastmod: 2025-04-20T16:53:46-04:00
 ---
-```
-$\ \text{}$
-```
-
-```
-Course name: PHIL-UN3551 Philosophy of Science
-Note-taker name: Bonnie Yang
-Dates: 
-```
-
-```
-Course name: PHIL-UN3655 Topics in Cognitive Science & Philosophy
-Note-taker name: Bonnie Yang
-Dates: 
-```
-
-
-```
-FleigGoldstein-CogPhil-WK1
-```
-
-```
-Albert-PhilSci-WK1
-```
-
-
-# Week 13, Day 2: Title
+[[2025-04-17]]
+# Week 13, Day 2: Multimodal data
 ---
 
 - LLMs get several orders of magnitude more linguistic data than humans do: training size is <100 million for a 13-year-old vs. 1.4 trillion for the Chinchilla model (2022).

@@ -19,7 +19,7 @@ Variants include any square-free integers and extension fields of rationals
 >$$
 >\mathbb Z [i] = \{ a+ bi \ : \ a,b \in \mathbb Z \};
 >$$ 
->that is; $\mathbb Z[i]$ is the set of complex numbers where both real and imaginary parts are integers. Addition and multiplication on the ring $\mathbb Z[i]$ are induced by the usual operations on [[Complex numbers, conjugates, and absolute value|complex numbers]]. 
+>that is; $\mathbb Z[i]$ is the set of complex numbers where both real and imaginary parts are integers. Addition and multiplication on the ring $\mathbb Z[i]$ are induced by the usual operations on [[Complex numbers|complex numbers]]. 
 
 ^704b4e
 

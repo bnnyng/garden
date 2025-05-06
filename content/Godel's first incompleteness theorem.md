@@ -10,7 +10,7 @@ lastmod: 2025-03-01T21:01:34-05:00
 
 # Overview
 
-Godel’s **First Incompleteness Theorem** says that “nothing worth calling” a **formal system** will encompass all of mathematics, hence disputing the basis of [[Logicist philosophy of mathematics|logicism]]. 
+Godel’s **First Incompleteness Theorem** says that “nothing worth calling” a **formal system** will encompass all of mathematics, hence disputing the basis of [[Mathematical anti-realism and non-Platonism|logicism]]. 
 
 **Related notes:**
 - [[Undecidability and incompleteness theorems]]

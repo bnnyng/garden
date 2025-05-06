@@ -8,7 +8,7 @@ publish:
 date: 2024-02-15 10:21
 lastmod: 2024-02-28T11:13:44-08:00
 ---
-Related: [[All models are wrong, but some are useful]]
+Related: [[All models are wrong, but some are useful, after Box]]
 
 ---
 # Canonical examples

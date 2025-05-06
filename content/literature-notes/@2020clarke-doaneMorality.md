@@ -8,7 +8,7 @@ year: 2020
 permalink: 
 publish: 
 date: 2025-04-20
-lastmod: 2025-04-20T13:38:04-04:00
+lastmod: 2025-04-20T13:44:52-04:00
 ---
 > Clarke-Doane, J. (2020). _Morality and mathematics_ (New product). Oxford University Press.
 
@@ -42,6 +42,7 @@ lastmod: 2025-04-20T13:38:04-04:00
 # Key terms
 
 - **Pluralism:** “pluralism about an area $F$ is that any $F$-like theory that we may have *easily adopted* is true of the entities which it is about, independent of human minds of languages.”
+- **Relativism:** an anti-realist position attributed to Gilbert Harman, according to which “there is no non-trivial fact” as to whether a theory or framework is true (19).
 - **A priori belief:** a belief that is justified (i.e., rational or reasonable) independent of experience.
 - **”Pure” mathematical truths:** mathematical truths that contain only mathematical predicates.
 - **Epistemic closure:** “if $X$ knows [within some theory] that $P$, and $X$ knows that $P$ implies that $Q$, then $X$ knows that $Q$” (55). For example, “if epistemic closure is true, and we know that we have hands, then we must know that we are not brains in vats.”

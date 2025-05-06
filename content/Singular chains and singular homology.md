@@ -8,6 +8,7 @@ aliases:
   - cycle
   - boundary
   - singular chain
+  - face map
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -15,7 +16,7 @@ tags:
 status: 🔴 🔨 ❓
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-10T14:03:10-04:00
+lastmod: 2025-04-22T12:19:37-04:00
 ---
 # Overview
 
@@ -41,7 +42,7 @@ $$
 where $X$ is any space, $f : X \to Y$ is a continuous function, $f_*: C_p(X) \to C_p(Y)$ is the homomorphism defined on generators by $\sigma \mapsto f \circ \sigma$, and $H_p(f) : H_p(X) \to H_p(Y)$ is the homomorphism defined by $\left [ \sum c_\sigma \sigma \right ] \mapsto \left [ \sum c_\sigma (f \circ \sigma) \right ]$ for **cycles** $c = \sum c_\sigma \sigma$.
 
 **Relevant theorems:**
-- [[(Theorem) The abelianization of the fundamental group of a path-connected space is isomorphic its first singular homology group]]
+- [[(Theorem) The first homology group is isomorphic to the abelianization of the fundamental group for path-connected spaces]]
 
 **Related notes:**
 - [[Homology of general chain complexes]]

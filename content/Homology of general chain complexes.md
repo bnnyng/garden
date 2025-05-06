@@ -11,7 +11,7 @@ tags:
 status: 
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-09T14:19:36-04:00
+lastmod: 2025-05-01T12:21:05-04:00
 ---
 # Overview 
 
@@ -21,7 +21,9 @@ $$
 $$
 is **exact** at $C_p$ (i.e., $\ker(\partial_p) = \textup{Im}(\partial_{p+1})$) if and only if $H_p(C_*, \partial) = 0$.
 
-[[Computing homology groups|Computations of homology groups]] typically involve two key theorems, **homotopy equivalence** and excision.
+**Homology groups** $H_p(X)$ are a result of a two-stage process: forming a chain complex of [[Singular chains and singular homology|singular]], [[Simplicial chains and simplicial homology|simplicial]], or cellular chains, then taking the homology groups $\ker \partial / \text{Im}\partial$ of this chain complex.
+
+[[Calculating homology groups|Computations of homology groups]] typically involve two key theorems, **homotopy equivalence** and excision.
 
 **Relevant theorems:**
 - [[(Theorem) A short exact sequence of chain complexes induces a long exact sequence of homology groups]]
@@ -33,6 +35,7 @@ is **exact** at $C_p$ (i.e., $\ker(\partial_p) = \textup{Im}(\partial_{p+1})$) i
 - [[Relative singular chains and relative homology]]
 - [[Reduced singular chains and reduced homology]]
 - [[Chain homotopies]]
+- [[Homology with coefficients]]
 
 ---
 
@@ -74,6 +77,8 @@ To see that $f_*$ is well-defined, we need to justify the following claims:
 - **The map $f_*$ is a homomorphism:** This follows because every $f_p : B_p \to C_p$ is a homomorphism, so they induce homomorphisms on the quotient.
 
 ![[Topological categories and functors#^0c28bf]]
+
+
 
 ---
 # Code snippets

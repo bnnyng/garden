@@ -4,7 +4,7 @@ tags:
   - permanent-note
   - topic-logic-mathematics
   - moc
-lastmod: 2025-02-05T14:23:06-05:00
+lastmod: 2025-05-05T17:01:52-04:00
 date: 2023-05-01
 title: §  Abstract Algebra
 publish: "true"
@@ -24,7 +24,16 @@ publish: "true"
 - [[(Theorem) Lagrange]]
 - [[(Theorem) van Kampen]]
 
-## Ring theory
+## Ring and field theory
+
+
+## Galois theory
+
+- [[Galois groups]]
+
+**Theorems:**
+
+- [[(Theorem) Fundamental theorem of Galois theory]]
 
 
 ---

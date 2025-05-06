@@ -19,7 +19,7 @@ lastmod: 2024-10-15T09:38:21-04:00
 >- Simply confused by the definition of a converging in terms of partial sums/subsequences—why define limit as partial sums converge and not just addition?
 
 >[!example] Definition: Partial sum, series in $\mathbb C$
->Let $(a_n)_{n \in \mathbb N}$ be a sequence of [[Complex numbers, conjugates, and absolute value|complex numbers]]. The $N$**-th partial sum** is defined to be
+>Let $(a_n)_{n \in \mathbb N}$ be a sequence of [[Complex numbers|complex numbers]]. The $N$**-th partial sum** is defined to be
 >$$
 >\sum_{n=0}^N a_n = a_0 + a_1 + \cdots + a_N + \cdots.
 >$$

@@ -12,7 +12,7 @@ lastmod: 2024-10-24T11:59:51-04:00
 	- Different if assuming [[The neuron doctrine and beyond|neuron doctrine]]
 	- Can model each layer if physical, but in principle knowable is not the same as in practice knowable
 
-[[@2022cao]]
+[[@2022caoMultiple]]
 
 - Assume that this is the goal of cognitive science – start with the hardware and then deduce the software?
 	- [[Top-down vs. bottom-up approaches to cognitive science]]

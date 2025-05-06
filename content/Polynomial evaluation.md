@@ -8,7 +8,7 @@ tags:
 status: 🔴 ❓
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-30T16:11:43-04:00
+lastmod: 2025-05-05T15:37:12-04:00
 ---
 # Overview and 
 
@@ -20,7 +20,7 @@ lastmod: 2025-03-30T16:11:43-04:00
 ---
 # Basic definition
 
->[!example] Definition: Evaluation of a polynomial
+>[!definition] Evaluation of a polynomial
 >Let $R$ be a commutative [[Algebraic rings|ring]] with unity. Given an element $r \in R$ and a [[Polynomial rings|polynomial]] $f = \sum_ia_ix^i$, we define the **evaluation of $f$ at $a$** by the formula 
 >$$
 >\text{ev}_r = f(r) = \sum_ia_ia^i \in R.
@@ -38,7 +38,7 @@ Every polynomial in the ring $R[x]$ defines a function $R \to R$, so that:
 - The operations of polynomial addition and multiplication correspond to pointwise addition and multiplication of functions, respectively;
 - The constant polynomial $1$ corresponds to the constant function.
 
->[!abstract] Proposition: The evaluation homomorphism
+>[!proposition] The evaluation homomorphism
 >Let $R$ be a [[Algebraic rings|commutative ring with unity]].
 >- (i) For all $r \in R$, the evaluation function $\text{ev}_r : R[x] \to R$ is a [[Ring homomorphisms and isomorphisms|homomorphism]].
 >- (ii) The function $E$ is a homomorphism from $R[x]$, the ring of [[Polynomial rings|polynomials]] with coefficients in $R$, to $R^R$, the ring of all functions from $R$ to itself (equipped with the operations of pointwise addition and multiplication).
@@ -48,14 +48,14 @@ Every polynomial in the ring $R[x]$ defines a function $R \to R$, so that:
 
 #### Evaluations of subrings
 
->[!example] Definition: Evaluation homomorphism for a subring
+>[!definition] Evaluation homomorphism for a subring
 >Let $R \leq S$ be a subring and let $s \in S$. Then the restriction of $\text{ev}_s$ to the subring $R[x] \leq S[x]$ gives a [[Ring homomorphisms and isomorphisms|homomorphism]] $\text{ev}_s : R[x] \to S$. Then the image of $\textup{ev}_s$ 
 >$$ R[s] = \left \{ \sum_i a_is^i \ : \ a_i \in R \right \} $$
 >is the *smallest* subring of $S$ containing both $R$ and $s$.
 
 #### Homomorphisms of coefficients
 
->[!example] Definition: Homomorphism of polynomial coefficients
+>[!definition] Homomorphism of polynomial coefficients
 >If $\varphi: R \to S$ is any [[Ring homomorphisms and isomorphisms|homomorphism]], then there exists a homomorphism $R[x] \to S[x]$ defined by applying $\varphi$ to all the coefficients of each polynomial:
 >$$ f = \sum_i a_ix^i \mapsto \varphi(f) = \sum_i \varphi_i(a_i)x^i. $$
 

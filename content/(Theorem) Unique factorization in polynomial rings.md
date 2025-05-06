@@ -7,14 +7,14 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-02-23T18:36:54-05:00
+lastmod: 2025-05-05T16:35:13-04:00
 ---
 # Overview
 
 In terms of [[Algebraic rings|ring]] theory, **fundamental theorem of arithmetic** states that every *nonconstant* [[Polynomial rings|polynomial]] $f \in F[x]$ with coefficients in a [[Algebraic fields|field]] $F$ has a unique factorization into [[Factorization on polynomial rings|irreducible]] polynomials. 
 
-
 ---
+
 # Statement and proof
 
 >[!abstract] Theorem: Unique factorization of nonconstant polynomials

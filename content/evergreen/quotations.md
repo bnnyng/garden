@@ -4,9 +4,16 @@ tags:
   - evergreen
 publish: 
 date: 2024-04-11
-lastmod: 2025-04-20T12:56:08-04:00
+lastmod: 2025-05-03T02:58:47-04:00
 ---
-# On the natural sciences
+# On science
+
+## The general scientific enterprise
+
+>[!quote] Jakob von Uexküll (1909, p. 227; quoted in [[@2023smaldinoModeling]])
+>The truth lies directly before us in the reality surrounding us. However, we cannot use it as it is. An unbroken description of reality would be simultaneously the truest and most useless thing in the world, and it would certainly not be science. If we want to make reality and therefore truth useful to science, we must do violence to reality. We must introduce the distinction, which does not exist in nature, between essential and inessential. In nature, everything is equally essential. By seeking out the relationships that seem essential to us, we order the material in a surveyable way at the same time. Then we are doing science.
+
+## Biology
 
 >[!quote] D’Arcy Thompson, *On Growth and Form*
 >Everything is what it is because it got that way.

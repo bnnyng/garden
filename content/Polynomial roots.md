@@ -10,7 +10,7 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-13T10:23:55-04:00
+lastmod: 2025-04-27T09:52:22-04:00
 ---
 # Overview and basic definition
 
@@ -25,6 +25,7 @@ If $f \in F[x]$ is a [[Polynomial rings|polynomial]] with coefficients in a fiel
 - [[Roots of unity]]
 - [[Polynomial evaluation]]
 - [[Formal derivatives on polynomial rings]]
+- [[Automorphisms and polynomial roots]]
 
 ---
 
@@ -50,3 +51,4 @@ If $f \in F[x]$ is a [[Polynomial rings|polynomial]] with coefficients in a fiel
 >If $F$ is an *infinite* field, then the [[Polynomial evaluation|evaluation homomorphism]] $E : F[x] \to F^F$ is [[Injectivity, surjectivity, and bijectivity|injective]]: if $f, f’ \in F[x]$ are two polynomials which define the same function (i.e., $f(a) = f’(a)$ for all $a \in F$), then $f = f’$.
 
 *Proof from [[MATH-GU4042|Modern Algebra II]].* $\quad$ We want to show that $E$ has trivial kernel, which means precisely that if $f \in F[x]$ has $f(a) = 0$ for all $a \in F$, then $f = 0$. If $f$ is nonzero, then it can have at most $\deg f$ roots in $F$, which contradicts the assumption that $F$ is infinite. Hence $f = 0$. $\quad \square$
+

@@ -4,10 +4,10 @@ tags:
   - permanent-note
   - topic-logic-mathematics
   - MATH-GU4042
-status: 
+status: 🔨
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-30T21:13:23-04:00
+lastmod: 2025-05-05T16:37:10-04:00
 ---
 # Overview
 
@@ -23,7 +23,7 @@ lastmod: 2025-03-30T21:13:23-04:00
 ---
 # Statement and proof
 
->[!abstract] Theorem: Classification of finite fields
+>[!theorem] Classification of finite fields
 >Let $p$ be a prime number.
 >- (i) For every $n \in \mathbb N$, there exists a field with $q = p^n$ elements, which we denote $\mathbb F_q$.
 >- (ii) If $\mathbb F$ and $\mathbb F’$ are two finite fields, then $\mathbb F \cong \mathbb F’$ iff $\#(\mathbb F) = \#(\mathbb F’)$.

@@ -77,7 +77,7 @@ Since $r$ is continuous, $r$ is a [[Deformation retractions|retraction]] of $D^2
 	- Induced map from the quotient $\omega \times \text{id}_I : I \times I \to S^1 \times I$.
 
 >[!abstract] Corollary:
->We can view $S^1 \subseteq \mathbb C$, the field of [[Complex numbers, conjugates, and absolute value|complex numbers]] identified with the real plane $\mathbb R^2$, by defining
+>We can view $S^1 \subseteq \mathbb C$, the field of [[Complex numbers|complex numbers]] identified with the real plane $\mathbb R^2$, by defining
 >$$
 >S^1 = \{ z \in \mathbb C \ | \ |z| = 1\}.
 >$$

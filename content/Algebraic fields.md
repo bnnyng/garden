@@ -11,7 +11,7 @@ tags:
 status: 
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-07T22:47:08-04:00
+lastmod: 2025-05-05T16:44:58-04:00
 ---
 # Overview and basic definition
 
@@ -35,11 +35,20 @@ In general, to show that a set $R$ is a field, we show that $(R, +)$ is an [[Abe
 ---
 # Properties
 
+#### Fields and homomorphisms
+
+- [[MATH-GU4042|Modern Algebra II]], HW 3.1: If $\varphi: F \to R$ is a [[Ring homomorphisms and isomorphisms|homomorphism]] from a field $F$ to any ring $R$, then either $\varphi$ is [[Injectivity, surjectivity, and bijectivity|injective]] or $R = 0$. In particular, if $R$ is also a field, then $\varphi$ is injective.
+- [[Ideals and quotient rings]]: Fields have no proper nonzero ideals, meaning the only ideals of a field $F$ are $\{ 0 \}$ and the entire field $F$.
+
 #### Finite fields
 
 - [[Polynomial roots]]: F finite means eval hom is never injective, but it is always surjective
 - [[(Theorem) Existence of a primitive root]]: 
 - [[(Theorem) Classification of finite fields]]: 
+- [[Splitting fields]]: If $\mathbb F_p$ for prime $p$ and $q = p^n$ for some $n \in \mathbb Z$, then the splitting field of the polynomial $x^q - x$ over $\mathbb F_p$ is $\mathbb F_q$.
+- [[Separable, normal, and Galois extensions of fields]]: #wip
+
+![[Pasted image 20250505164503.png]]
 
 #### Polynomials with coefficients in $F$
 

@@ -1,6 +1,6 @@
 ---
 kanban-plugin: board
-lastmod: 2025-04-20T13:32:11-04:00
+lastmod: 2025-05-04T14:43:33-04:00
 date: 2025-02-12T16:40:50-05:00
 ---
 
@@ -40,13 +40,14 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Shortlist
 
+- [ ] 📚 [[@2009lengAlgebraic]], “Algebraic Approaches to Mathematics”
 - [ ] 📚 [[@2022colasAutotelic]], “Autotelic Agents with Intrinsically Motivated Goal-Conditioned Reinforcement Learning”
 - [ ] 📚 [[@2023parkGenerative]], “Generative Agents: Interactive Simulacra of Human Behavior”
 - [ ] 📚 [[@2024yildirimTask]], “From task structures to world models: What do LLMs know?”
 - [ ] 📚 [[@2023wongTranslating]], “From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought”
 	
 	Notes: Tenenbaum, Goodman
-- [ ] 📚 [[@2025hafnerMastering]], “Mastering diverse control tasks using world models”
+- [ ] 📚 [[@2025hafnerMastering 1]], “Mastering diverse control tasks using world models”
 - [ ] 📚 [[@2011aaronson]], “Why Philosophers Should Care About Computational Complexity”
 - [ ] 📚 [[@1980cartwright]], “The Reality of Causes in a World of Instrumental Laws”
 - [ ] 📚 [[@2022lecun]], “A Path Towards Autonomous Machine Intelligence”
@@ -63,7 +64,7 @@ date: 2025-02-12T16:40:50-05:00
 - [ ] 📚 [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/)
 - [ ] 📚 [[@2016jara-ettinger]], “The Naive Utility Calculus”
 - [ ] 📚 [[@2020degen]], “When Redundancy is Useful”
-- [ ] 📚 [[@2024sumers]], “Reconciling Truthfulness and Relevance as Epistemic and Decision-Theoretic Utility”
+- [ ] 📚 [[@2024sumersReconciling]], “Reconciling Truthfulness and Relevance as Epistemic and Decision-Theoretic Utility”
 - [ ] 📚 [[@2024zhaoRational]], “A rational model of innovation by recombination”
 - [ ] 📚 [[@1943rosenblueth]], “Behavior, Purpose, and Teleology”
 - [ ] 📚 [[@2022levinTechnological]], “Technological approach to mind everywhere”
@@ -97,7 +98,7 @@ date: 2025-02-12T16:40:50-05:00
 	Source: [[@1980cartwright]]
 - [ ] [[(Model) The Rational Speech Acts framework, after Frank and Goodman (2016)]]
 	
-	Source: [[@2020degen]], [[@2024sumers]]
+	Source: [[@2020degen]], [[@2024sumersReconciling]]
 - [ ] [[Technological approach to mind everywhere, after Levin (2022)]]
 	
 	Source: [[@2022levinTechnological]]
@@ -123,6 +124,16 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Someday
 
+- [ ] A functional view of norms
+	
+	Source: [[@2019hawkinsEmergence]]
+- [ ] [[The neuron doctrine and beyond]]
+- [ ] [[Yoneda's lemma]]
+	
+	Source: [[@2008mazurWhen]]
+- [ ] [[Category theory replaces mathematical objects with their role in a network of relationships, after Mazur]]
+	
+	Source: [[@2008mazurWhen]]
 - [ ] [[Realism is the conjunction of aptness, belief, truth, independence, and face-value, after Clarke-Doane]]
 	
 	Source: [[@2020clarke-doaneMorality]]
@@ -181,10 +192,10 @@ date: 2025-02-12T16:40:50-05:00
 	Source: [[PHIL-UN3655|Topics in Cognitive Science and Philosophy]]
 - [ ] [[Constructive approach to memory]]
 	
-	Source: [[@2024buckner]] (181–184)
+	Source: [[@2024bucknerDeep]] (181–184)
 - [ ] [[Squire's taxonomy of long-term memory]]
 	
-	Source: [[@2024buckner]]
+	Source: [[@2024bucknerDeep]]
 - [ ] [[Graph neural networks]], including message passing neural networks
 	
 	Source: https://paperswithcode.com/method/mpnn
@@ -222,7 +233,7 @@ date: 2025-02-12T16:40:50-05:00
 	
 	Source: [[PHIL-UN3551|Philosophy of Science]]
 - [ ] [[Infinity]]
-- [ ] [[Logicist philosophy of mathematics]]
+- [ ] [[Mathematical anti-realism and non-Platonism]]
 	
 	Source: [[MATH-GU4200|Mathematics and the Humanities]]
 - [ ] [[Mathematical anti-realism and non-Platonism]]
@@ -231,7 +242,7 @@ date: 2025-02-12T16:40:50-05:00
 - [ ] [[Mathematical realism]]
 	
 	Source: [[MATH-GU4200|Mathematics and the Humanities]]
-- [ ] [[Intuitionist philosophy of mathematics]]
+- [ ] [[Mathematical anti-realism and non-Platonism]]
 	
 	Source: [[MATH-GU4200|Mathematics and the Humanities]]
 

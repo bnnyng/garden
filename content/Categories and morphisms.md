@@ -11,7 +11,7 @@ tags:
 status: 
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-01T09:44:09-04:00
+lastmod: 2025-04-22T12:40:50-04:00
 ---
 # Overview
 
@@ -22,7 +22,7 @@ lastmod: 2025-04-01T09:44:09-04:00
 ---
 # Basic definitions
 
->[!example] Definition: Category
+>[!definition] Category
 >A **category** $\mathsf C$ consists of four pieces of data:
 >1. A collection $\mathsf{Ob}(\mathsf C)$ of “**objects**”.
 >2. For each pair of objects $X, Y \in \mathsf{Ob}(\mathsf C)$, a set $\mathsf C(X, Y) = \mathsf {Hom}_{\mathsf C}(X, Y)$ of **morphisms** from $X$ to $Y$. A generic element $f \in \mathsf {Hom}_{\mathsf C}(X, Y)$ is typically written $f: X \to Y$.
@@ -43,7 +43,12 @@ lastmod: 2025-04-01T09:44:09-04:00
 ---
 # Examples
 
-#wip
+#### 
+
+>[!definition]
+>For any category $\mathsf{C}$, define the **opposite** $\mathsf{C^{op}}$ to be the category with the same objects, i.e., $\mathsf{Ob}(\mathsf{C^{op}})=\mathsf{Ob}(\mathsf{C})$ and with the morphisms reverse, i.e., $\mathsf{C^{op}}(X, Y) = \mathsf{C}(Y, X)$.
+
+
 
 
 ---

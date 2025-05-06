@@ -12,7 +12,7 @@ tags:
 status: 
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-01T10:08:18-04:00
+lastmod: 2025-04-22T12:08:06-04:00
 ---
 # In group theory
 
@@ -29,6 +29,11 @@ lastmod: 2025-04-01T10:08:18-04:00
 - [[Ring homomorphisms and isomorphisms]]: The homomorphism $\varphi : \mathbb Z \to \mathbb Z / n \mathbb Z$ is called **reduction mod $n$**.
 - [[Prime and maximal ideals]]: Analogy between the quotient ring $F[x]/(f)$ and $\mathbb Z/n\mathbb Z$.
 
+---
+# In algebraic topology
+
+[[2025-04-22]]
+- A nice choice for coefficients
 
 ---
 # Code snippets

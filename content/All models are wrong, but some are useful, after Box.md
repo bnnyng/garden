@@ -1,0 +1,17 @@
+---
+aliases:
+  - mathematical modeling
+tags:
+  - permanent-note
+  - topic-logic-mathematics
+publish: 
+date: 2024-02-19 19:19
+lastmod: 2025-05-03T03:07:10-04:00
+---
+Mathematical modeling involves identifying relevant facts or data, then using a formal system to represent the real-world mechanism behind them. In the process, modeling can aid both description and prediction of observations. 
+
+Mathematical modeling can make powerful analogies between different observed phenomena by suggesting the same underlying mechanism. On the other hand, the challenge in mathematical modeling is deciding which details matter, and which should be ignored.
+ 
+**Related notes:** 
+- [[The main undertaking of science is doing violence to reality]]
+- [[Carving nature at its joints]]

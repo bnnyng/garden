@@ -4,13 +4,13 @@ tags:
   - permanent-note
   - topic-logic-mathematics
 status: 
-publish: 
+publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-10T01:14:50-04:00
+lastmod: 2025-04-22T12:14:11-04:00
 ---
 # Statement and proof
 
->[!abstract] Theorem: Homology of a disk relative to its boundary
+>[!theorem] Homology of a disk relative to its boundary
 >$$ H_p (D^n, \partial D^n) \cong \begin{cases} \mathbb Z & \text{if }p=n \\ 0 & \text{otherwise} \end{cases} $$
 
 *Proof from [[MATH-GU4053|Algebraic Topology]]* ([[2025-03-25]]). $\ \text{ }$ 
@@ -41,11 +41,13 @@ $$
 
 # Applications
 
+#wip
+
 #### Homology of the $n$-sphere
 
->[!abstract] Corollary: $S^n \cong S^m \iff n = m$.
+>[!corollary] $S^n \cong S^m \iff n = m$.
 
->[!abstract] Corollary: $\mathbb R^n \cong \mathbb R^m \iff n = m$.
+>[!corollary] $\mathbb R^n \cong \mathbb R^m \iff n = m$.
 
 *Proof from [[MATH-GU4053|Algebraic Topology]]* ([[2025-03-25]]). $\ \text{}$Suppose there exists a [[Homeomorphisms and topological embeddings|homeomorphism]] $h : \mathbb R^n \to \mathbb R^m$, and $h(0) = 0$ without loss of generality. Then the restriction $h|_{\mathbb R^n \backslash \{ 0 \} }: R^n \backslash \{ 0 \} \to R^m \backslash \{ 0 \}$ is also a homeomorphism, so it induces an isomorphism of relative homologies $$ h_* : H_p(\mathbb R^n, R^n \backslash \{ 0 \} ) \to H_p(\mathbb R^m, R^m \backslash \{ 0 \} )$$ which 
 - isomorphic for all $p$

@@ -10,13 +10,13 @@ lastmod: 2025-02-07T14:04:50-05:00
 # Week 3, Day 2: Moderate Empiricism and Machine Learning
 ---
 
-**Moderate empiricism, after [[@2024buckner]]**
+**Moderate empiricism, after [[@2024bucknerDeep]]**
 
 ![[Pasted image 20241112124947.png]]
 
 - *Discussion.* $\text{ }$ How do we distinguish between **structure** and **content**?
 	- In the paradigmatic case, structure is a **learning mechanism**, while content is the information you learn from **experience**. One way to characterize the **empiricist** position is accepting innate structure, but not content.
-	- [[@2024buckner]] couches **moderate empiricism** in terms of a moderate position on structure and content, but the precise definition is not clear.
+	- [[@2024bucknerDeep]] couches **moderate empiricism** in terms of a moderate position on structure and content, but the precise definition is not clear.
 - *Discussion.* $\text{ }$ Why moderate empiricism, rather than moderate nativism?
 
 **Using AI to learn about human cognition**

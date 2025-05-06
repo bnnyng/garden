@@ -5,7 +5,13 @@ tags:
   - permanent-note
 publish: 
 date: 2024-10-17 12:40
-lastmod: 2024-11-20T21:33:59-05:00
+lastmod: 2025-04-21T15:36:53-04:00
+---
+# Overview
+
+
+
+
 ---
 # Basic premises of the neuron doctrine
 

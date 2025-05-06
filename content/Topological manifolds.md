@@ -1,8 +1,7 @@
 ---
 aliases:
-  - locally n-Euclidean
-  - n-manifold
   - locally Euclidean
+  - -manifold
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -10,7 +9,7 @@ tags:
 status: 🟠🔨
 publish: 
 date: 2024-10-28 10:20
-lastmod: 2024-12-16T14:01:52-05:00
+lastmod: 2025-05-01T11:53:58-04:00
 ---
 
 

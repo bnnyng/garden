@@ -6,11 +6,10 @@ aliases:
   - output layer
   - hidden layer
   - artificial neuron
-  - unit
 tags:
   - permanent-note
   - topic-information-computation-statistics
-lastmod: 2024-11-07T12:31:52-05:00
+lastmod: 2025-05-06T09:42:06-04:00
 date: 2022-05-01
 ---
 # Overview

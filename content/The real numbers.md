@@ -17,7 +17,7 @@ The real numbers $\mathbb R$ have three defining properties: they are a [[Axioma
 
 Formally, $\mathbb R$  is the unique [[Completeness|complete ordered field]]. As an upshot of the uniqueness of $\mathbb R$, every real number has a unique [[Decimal representation of reals|decimal representation]].
 
-Related: [[Complex numbers, conjugates, and absolute value]]
+Related: [[Complex numbers]]
 
 ---
 # Formal definition of the reals

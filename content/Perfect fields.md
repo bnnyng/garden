@@ -8,11 +8,11 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-30T17:56:12-04:00
+lastmod: 2025-04-30T11:28:40-04:00
 ---
 # Basic definition
 
->[!example] Definition: Perfect field
+>[!definition] Perfect field
 >A [[Algebraic fields|field]] $F$ is **perfect** if one of the following equivalent conditions holds:
 >- (i) The **characteristic** of $F$, or smallest number of copies of the multiplicative identity that equal the additive identity, is either $0$, or equal to some $p$ for which every element of $F$ is a $p$th power (i.e., for all $\alpha \in F$, there exists a $\beta \in F$ such that $\beta^p = \alpha$;
 >- If $F$ is of characteristic $p$, then the [[Frobenius homomorphism]] $\sigma_p : F \to F$ is [[Injectivity, surjectivity, and bijectivity|surjective]].

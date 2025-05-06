@@ -6,9 +6,5 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-24T15:23:19-04:00
+lastmod: 2025-05-06T09:46:32-04:00
 ---
->[!example] Definition: 
-
->[!abstract] Theorem:
-

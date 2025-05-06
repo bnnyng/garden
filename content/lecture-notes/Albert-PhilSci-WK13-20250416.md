@@ -3,7 +3,7 @@ aliases:
 tags:
   - fleeting-note
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-16T17:24:56-04:00
+lastmod: 2025-04-21T16:18:13-04:00
 ---
 [[2025-04-16]]
 # Week 13, Day 2: Multiple realization arguments
@@ -22,6 +22,8 @@ lastmod: 2025-04-16T17:24:56-04:00
 - *Albert’s view.* $\quad$ These attempts to resist reductivism come from a psychological aversion to characterizing oneself as a set of physical events.
 
 Next time: Finish reduction problem, discuss [[@1975putnamPhilosophy]].
+
+----
 
 - Could there be two worlds that are different in terms of social arrangements without differing physically?
 	- Lewis: hard-nosed physicalist

@@ -2,13 +2,14 @@
 aliases:
   - connecting homomorphism
   - SES of chain complexes
+  - long exact sequence in homology
 tags:
   - permanent-note
   - topic-logic-mathematics
 status: 
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-08T02:20:38-04:00
+lastmod: 2025-04-23T18:48:05-04:00
 ---
 # Overview
 

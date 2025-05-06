@@ -7,9 +7,9 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-04T11:35:42-05:00
+lastmod: 2025-05-06T09:46:05-04:00
 ---
->[!example] Definition: Field of algebraic numbers
+>[!definition] Field of algebraic numbers
 >The **field of algebraic numbers** $\overline {\mathbb Q}$ is the [[Algebraic extension fields and closures|algebraic closure]] of $\mathbb Q$ in $\mathbb C$: $$ \overline {\mathbb Q} = \{ \alpha \in \mathbb C \ : \ \alpha \text{ is algebraic over } \mathbb Q \}. $$ 
 
 - By definition, $\overline {\mathbb Q} \leq \mathbb C$ is the largest [[Algebraic fields|subfield]] of $\mathbb C$ which is algebraic over $\mathbb Q$. 

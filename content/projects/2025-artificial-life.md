@@ -152,6 +152,6 @@ lastmod: 2025-03-21T14:15:42-04:00
 
 [[2025-02-09]]
 
-- Inspiration from [[@2024buckner]]: empiricism and faculty psychology?
+- Inspiration from [[@2024bucknerDeep]]: empiricism and faculty psychology?
 - Degree of biological plausibility that can be reasonably implemented: “Human and animal brains—the biological engines driving the only deeply rational machines of which we are currently aware—are rich symphonies of chemical interactions, exhibiting neural dynamics at multiple timescales and built using other non-neural but potentially Moderate Empiricism and Machine Learning 35  relevant components like glia and myelin”
 - Saved papers: [[@2024mcmillen]], [[@2022fields]], [[@2023davies]], [[@2022watson]]

@@ -8,7 +8,7 @@ tags:
   - MATH-GU4200
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-28T14:53:13-04:00
+lastmod: 2025-04-28T08:44:20-04:00
 ---
 # Overview
 
@@ -31,3 +31,10 @@ In its more general use, the axiomatic frame of mind includes not only the use o
 
 - Law of excluded middle
 - Galois theory as example
+
+---
+# Reading notes
+
+[[@2023clarke-doaneObservation]]
+
+- **Philosophical vs. pragmatic use of axioms:** “A preliminary point: logicians partition axioms into **foundational** and **structural** ones (Shapiro \[1997, 41 & 50]). Outside of set theory, arithmetic, and real analysis in some treatments, mathematicians tend to use axioms to describe anything that satisfies certain conditions, not to characterize an antecedently given collection of things.” (2)

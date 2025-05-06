@@ -11,7 +11,7 @@ tags:
 status: 
 publish: "true"
 date: 2024-12-08 12:57
-lastmod: 2025-04-08T12:39:06-04:00
+lastmod: 2025-04-22T12:26:20-04:00
 ---
 # Overview and basic definition
 
@@ -39,4 +39,11 @@ lastmod: 2025-04-08T12:39:06-04:00
 *Proof from [[MATH-GU4053|Algebraic Topology]].*
 
 - (i) Recall that homomorphisms preserve linear combinations, so two homomorphisms agree on $X$ if and only if they agree on the $\mathbb Z$-linear combination of elements of $X$, i.e., $\mathbb Z X$.
-- (ii) For a function $f : X \to A$, we can define $\varphi: \mathbb Z X \to A$ by $$ \varphi (c) = \sum_{x \in X} c_x f(x) $$ for $c = \sum c_x x$. The map $\varphi$ is well-defined because the terms $c_x$ are uniquely determined by $c$, and we clearly have $\varphi (x) = f(x)$ for all $x \in X$. Finally, $\varphi$ is a homomorphism by definition of addition in $\mathbb Z X$. $\ \square$
+- (ii) For a function $f : X \to A$, we can define $\varphi: \mathbb Z X \to A$ by $$ \varphi (c) = \sum_{x \in X} c_x f(x) $$ for $c = \sum c_x x$. The map $\varphi$ is well-defined because the terms $c_x$ are uniquely determined by $c$, and we clearly have $\varphi (x) = f(x)$ for all $x \in X$. Finally, $\varphi$ is a homomorphism by definition of addition in $\mathbb Z X$. $\quad \square$
+
+---
+# Examples
+
+#### Group of homomorphism between abelian groups
+
+If 
