@@ -7,7 +7,7 @@ tags:
 status: 🟠 🔨
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-05-06T10:56:54-04:00
+lastmod: 2025-05-06T15:24:56-04:00
 ---
 # Overview
 
@@ -30,7 +30,7 @@ lastmod: 2025-05-06T10:56:54-04:00
 
 #### Fields of characteristic zero
 
-- [[Formal derivatives on polynomial rings]]: If $f \in F[x]$ is [[Irreducible polynomials|irreducible]] over $F$, then #wip
+- [[Formal derivatives on polynomial rings]]: If $f \in F[x]$ is [[Irreducible polynomials|irreducible]] over $F$, then no multiple roots in any extension field #wip
 
 ![[Pasted image 20250506102231.png]]
 

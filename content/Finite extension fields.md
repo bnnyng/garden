@@ -1,6 +1,7 @@
 ---
 aliases:
   - finite extension
+  - tower law
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -8,7 +9,7 @@ tags:
 status: 
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-05-06T11:00:36-04:00
+lastmod: 2025-05-06T15:56:50-04:00
 ---
 # Overview and basic definition
 
@@ -24,7 +25,7 @@ $$
 for some $\alpha_i \in E$ which are all the [[Polynomial roots|roots]] of some polynomial $f \in F[x]$ (not necessarily irreducible).
 
 **Relevant theorems:**
-- [[(Theorem) Isomorphism extension theorem for finite extensions of fields]]
+- [[(Theorem) The number of extensions of a field homomorphism is at most the degree of the field extension]]
 
 **Related notes:**
 - [[Minimal polynomial of an element in an extension field]]

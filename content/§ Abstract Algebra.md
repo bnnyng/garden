@@ -4,7 +4,7 @@ tags:
   - permanent-note
   - topic-logic-mathematics
   - moc
-lastmod: 2025-05-05T17:01:52-04:00
+lastmod: 2025-05-06T15:13:12-04:00
 date: 2023-05-01
 title: §  Abstract Algebra
 publish: "true"
@@ -24,8 +24,15 @@ publish: "true"
 - [[(Theorem) Lagrange]]
 - [[(Theorem) van Kampen]]
 
-## Ring and field theory
+## General ring theory
 
+## Field theory
+
+
+**Theorems:**
+- [[(Theorem) Every nonconstant polynomial over a field has a root in some extension field]]
+- [[(Theorem) Universal property of simple field extensions]]
+- [[(Theorem) The number of extensions of a field homomorphism is at most the degree of the field extension]]
 
 ## Galois theory
 

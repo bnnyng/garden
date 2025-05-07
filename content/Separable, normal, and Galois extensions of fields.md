@@ -9,10 +9,12 @@ tags:
   - MATH-GU4042
 status: 
 publish: 
-lastmod: 2025-04-30T12:15:46-04:00
+lastmod: 2025-05-06T18:48:47-04:00
 date: 2025-04-23T12:25:42-04:00
 ---
 # Overview
+
+- Normal extension relates spliting field to constructing utomorphisms
 
 **Relevant theorems:**
 - [[(Theorem) Every finite separable extension is a simple extension]]
@@ -37,6 +39,14 @@ date: 2025-04-23T12:25:42-04:00
 
 # Normal extensions
 
+>[!lemma] The image of a finite extension under a homomorphism is a finite extension of the image
+>Let $L$ be an [[Extension fields|extension field]] of a field $F$ and let $\alpha_1, \ldots, \alpha_n \in L$. If $\varphi : F (\alpha_1, \ldots, \alpha_n) \to L$ is a homomorphism, then 
+>$$
+>\varphi (F (\alpha_1, \ldots, \alpha_n)) = \varphi(F)(\varphi(\alpha_1), \ldots, \varphi(\alpha_n)).
+>$$
+
+
+
 >[!theorem] Relation between splitting fields and constructing automorphisms
 >Let $E$ be a [[Finite extension fields|finite extension]] of a [[Algebraic fields|field]] $F$. Then the following are equivalent:
 >- (i) There exists a [[Polynomial rings|polynomial]] $f \in F[x]$ with $\deg f \geq 1$ such that $E$ is a [[Splitting fields|splitting field]] of $f$ over $F$.
@@ -44,6 +54,15 @@ date: 2025-04-23T12:25:42-04:00
 >- (iii) For every [[Irreducible polynomials|irreducible]] polynomial $p \in F[x]$, if there is a root of $p$ in $E$, then $p$ factors into a product of linear factors in $E[x]$.
 >
 >We say that $E$ is a **normal extension** of $F$ if either of these conditions are satisfied.
+
+*Proof from [[MATH-GU4042|Modern Algebra II]].*
+
+- **(i) $\implies$ (ii):** By the assumption that $E$ is a splitting field of $F$, there exist $\alpha_1, \ldots, \alpha_n \in E$ such that we can split $f = c \prod_{i=1}^n(x - \alpha_i)$ in $E[x]$ and $E = F(\alpha_1, \ldots, \alpha_n)$. In particular, *every* root of $f$ in $L$ is already contained in $E$. If $\varphi : E \to L$ is a homomorphism that fixes $F$, then $\varphi$ specifically fixes the coefficients of $f \in F[x]$ and we have $\varphi(f) = f$. Then by a result from [[Automorphisms and polynomial roots]], we know that $\alpha_i$ is a root of $f$ if and only if $\varphi(\alpha_i)$ is a root of $\varphi(f) = f$, i.e., $\varphi(\alpha_i) = \alpha_j$ for some other root $\alpha_j$, and hence $$ \varphi \{ \alpha_1, \ldots, \alpha_n \} \subseteq \{ \alpha_1, \ldots, \alpha_n \}. $$ Since $\{ \alpha_1, \ldots, \alpha_n \}$ is finite and $\varphi$ is injective, it must be bijective, and hence a permutation of the roots of $f$. Together with the lemma above, this means $$ \varphi(E) = \varphi(F)(\varphi(\alpha_1), \ldots, \varphi(\alpha_n)) = F(\alpha_1, \ldots, \alpha_n) = E, $$ showing that $\varphi$ is an automorphism of $E$.
+- **(ii) $\implies$ (iii):** 
+
+```
+\alpha_1, \ldots, \alpha_n
+```
 
 ---
 

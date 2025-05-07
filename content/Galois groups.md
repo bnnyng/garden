@@ -8,7 +8,7 @@ tags:
   - MATH-GU4042
 status: 🔴
 publish: 
-lastmod: 2025-05-06T11:18:27-04:00
+lastmod: 2025-05-06T18:03:03-04:00
 date: 2025-04-16T20:15:05-04:00
 ---
 
@@ -25,7 +25,8 @@ date: 2025-04-16T20:15:05-04:00
 ---
 # Properties
 
-- Size of Gal is less than n! [[Automorphisms and polynomial roots]]
+- Size of Gal is less than n! [[Automorphisms and polynomial roots]], since symmetric
+- [[(Theorem) The number of extensions of a field homomorphism is at most the degree of the field extension]] Size of Gal is less than degree [E:F] (related to the above, or a better result or something?)
 
 ---
 

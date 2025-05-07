@@ -42,7 +42,7 @@ tags:
 
 - [ ] [[MATH-GU4042|Modern Algebra II]]: Catch up with notes on factorization
 	- [ ] `factorization2`: Noetherian rings
-	- [ ] `factorization3`: [[Cyclotomic polynomials]]
+	- [ ] `factorization3`: [[Complex roots of unity and cyclotomic polynomials]]
 
 [[2025-03-25]]
 

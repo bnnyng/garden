@@ -5,14 +5,15 @@ tags:
   - topic-logic-mathematics
 status: 
 publish: 
-lastmod: 2025-05-06T12:34:17-04:00
+lastmod: 2025-05-06T15:08:06-04:00
 date: 2025-04-20T17:54:07-04:00
 ---
 
 # Overview
 
 **Relevant theorems:**
-- [[(Theorem) Isomorphism extension theorem for finite extensions of fields]]
+- [[(Theorem) Universal property of simple field extensions]]
+- [[(Theorem) The number of extensions of a field homomorphism is at most the degree of the field extension]]
 
 ---
 

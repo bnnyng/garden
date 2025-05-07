@@ -9,10 +9,19 @@ tags:
   - MATH-GU4061
 publish: 
 date: 2024-04-10 17:48
-lastmod: 2025-04-22T20:03:28-04:00
+lastmod: 2025-05-06T17:36:46-04:00
 status: 🟠
 ---
 # Overview
+
+
+**Related notes:** 
+- [[Complex conjugation and absolute value]]
+- [[The real numbers]]
+- [[Complex roots of unity and cyclotomic polynomials]]
+
+---
+# Axiomatic definition and operations
 
 >[!definition] Complex numbers
 >A **complex** number is an ordered pair $(a, b)$ of [[The real numbers|real numbers]] $a, b \in \mathbb R$. A complex number may also be denoted $a + bi$, where $i = \sqrt{-1} = (0, 1)$ and the numbers $a, b$ are the **real** and **imaginary** parts of the number, respectively. 
@@ -34,13 +43,6 @@ status: 🟠
 >$$
 
 ^d9f858
-
-**Related notes:** 
-- [[Complex conjugation and absolute value]]
-- [[The real numbers]]
-
----
-# Operations with complex numbers
 
 Complex numbers and their [[Complex conjugation and absolute value|conjugates]] have the following properties:
 

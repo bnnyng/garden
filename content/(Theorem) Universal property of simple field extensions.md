@@ -1,28 +1,26 @@
 ---
-aliases:
-  - isomorphism extension theorem
-  - universal property of simple extensions
+aliases: 
 tags:
   - permanent-note
   - topic-logic-mathematics
 status: 
 publish: "true"
-lastmod: 2025-05-06T14:18:49-04:00
-date: 2025-04-27T14:49:19-04:00
+lastmod: 2025-05-06T15:37:44-04:00
+date: 2025-05-06T15:07:14-04:00
 ---
 # Overview
 
-The proof depends on the **universal property of simple extensions**, which says that every homomorphism $\sigma : F \to F'$ can be extended to a homomorphism out of $F(\alpha)$, where $\alpha$ is [[Extension fields|algebraic over]] $F$ with [[Minimal polynomial of an element in an extension field|minimal polynomial]] $f = \text{irr}(\alpha, F)$, by sending $\alpha$ to *any* root of the polynomial $\sigma(f)$ in some extension field of $F’$. 
+$\quad$The **universal property of simple extensions** says that every homomorphism $\sigma : F \to F'$ can be extended to a homomorphism out of $F(\alpha)$, where $\alpha$ is [[Extension fields|algebraic over]] $F$ with [[Minimal polynomial of an element in an extension field|minimal polynomial]] $f = \text{irr}(\alpha, F)$, by sending $\alpha$ to *any* root of the polynomial $\sigma(f)$ in some [[Extension fields|extension field]] of $F’$. 
+
+$\quad$ This is an important preliminary result for proving the [[(Theorem) The number of extensions of a field homomorphism is at most the degree of the field extension|isomorphism extension theorem]] for simple extensions.
 
 ---
 
-# Preliminaries: Isomorphism extension theorem for simple extensions
-
-#### The universal property of simple extensions
+# Statement and proof of the theorem
 
 $\quad$ By a lemma in [[Automorphisms and polynomial roots]], we know that when $E = F(\alpha)$ is a simple extension of a field $F$ with $f = \text{irr}(\alpha, F)$, then given a homomorphism $\sigma : F \to F’$, $F’ \leq K$ a subfield, and $\varphi : E \to K$ an **extension** of $\sigma$, the element $\varphi(\alpha)$ is a root of $\sigma(f)$. The following lemma states the converse.
 
->[!lemma] Universal property of simple extensions
+>[!theorem] Universal property of simple extensions
 >Let $E$ be a [[Extension fields|simple extension]] of a field $F$, meaning $E = F(\alpha)$ for some $\alpha \in E$ that is algebraic over $F$. Write $f = \text{irr}(\alpha, F)$ for the [[Minimal polynomial of an element in an extension field|minimal polynomial]]. Suppose $\sigma : F \to F’$ is a [[Ring homomorphisms and isomorphisms|homomorphism]] and $K$ is an extension of $F’$. Under these conditions, if $\beta \in K$ is a [[Polynomial roots|root]] of $\sigma(f)$, then there is a *unique* extension of $\sigma$ to a homomorphism $\varphi : E \to K$ such that $\varphi(\alpha) = \beta$.
 >
 
@@ -86,39 +84,13 @@ $\quad$ To summarize, for every extension $\varphi$ of $\sigma$, we know that:
 
 We conclude that when $E = F(\alpha)$ for some $\alpha \notin F$ with $f = \text{irr}(\alpha, F)$, for any homomorphism $\sigma : F \to F’ \leq K$, ***there is a bijection from the set of extensions $E \to K$ of $\sigma$ to the set of roots of $\sigma(f)$ in $K$.*** $\quad \square$
 
-#### The isomorphism extension theorem for simple extensions
-
->[!corollary] Isomorphism extension theorem for simple extensions
->Let $E$ be a [[Extension fields|simple extension]] of a field $F$, meaning $E = F(\alpha)$ for some $\alpha \in E$ where $\alpha$ is algebraic over $F$, and let $\sigma: F \to F’$ be a homomorphism. Then we have the following:
->- (i) For every extension $K$ of $F’$, there exist at most $[ E : F]$ homomorphisms $\varphi : E \to K$ extending $\sigma$, i.e., such that $\varphi (\alpha)= \sigma(\alpha)$ for all $\alpha \in F$.
->- (ii) There exists an extension field $K$ of $F’$ and a homomorphism $\varphi : E \to K$ extending $\sigma$.
->- (iii) If $F$ has [[Characteristics of rings|characteristic]] $0$ (or $F$ is finite or [[Perfect fields|perfect]]) and $E’$ is an extension field of $F’$, then there exists an extension field $K$ of $E’$ such that there are exactly $[E : F]$ homomorphisms $\varphi : E \to K$ extending $\sigma$.
-
-*Proof from [[MATH-GU4042|Modern Algebra II]].* 
-- (i) From the previous lemma, we know that the extensions of $\sigma$ to a homomorphism $F(\alpha) \to K$ are in one-to-one correspondence with the $\beta \in K$ where $\beta$ is a root of $\sigma(f)$, with $f = \text{irr}(\alpha, F)$. Since $\sigma(f)$ has at most $$ \deg(f) = \deg(\text{irr}(\alpha, F)) = [E: F] $$ roots in any extension field $K$ of $F’$, this implies that there are at most $[E: F]$ such extensions.
-- (ii) Let $K$ be any extension field of $F’$ such that 
-
-#wip 
-
- p. 9 Galois theory 2
-
 ---
+# Examples 
 
-# Statement and proof of the theorem
+#wip
+![[Pasted image 20250506153731.png]]
+![[Pasted image 20250506153748.png]]
 
->[!theorem] Isomorphism extension theorem
->Let $E$ be a [[Finite extension fields|finite extension]] of a [[Algebraic fields|field]] $F$, and suppose $\sigma: F \to F’$ is a [[Ring homomorphisms and isomorphisms|homomorphism]] to another field $F’$. Then we have the following:
->- (i) For every extension field $K$ of $F’$, there exist at most $[E : F]$ homomorphisms $\varphi:E \to K$ extending $\sigma$, i.e., such that $\varphi (\alpha) = \sigma (\alpha)$ for all $\alpha \in F$.
->- (ii) There exists an extension field $K$ of $F’$ and a homomorphism $\varphi : E \to K$ extending $\sigma$. 
->- (iii) If $F$ has [[Characteristics of rings|characteristic]] $0$ (or $F$ is finite or [[Perfect fields|perfect]]) and $E’$ is an extension field of $F’$, then there exists an extension field $K$ of $E’$ such that there are exactly $[E : F]$ homomorphisms $\varphi : E \to K$ extending $\sigma$.
-
----
-
-# Code snippets
-
-```
-\text{ev}_\beta \circ \sigma
-```
 
 [^1]: For $(\text{ev}_\beta \circ \sigma)(a) = \sigma(a)$, note that $a \in F$ is a constant (i.e., degree 0) polynomial in $F[x]$, so $\sigma(a) \in F’$ is a constant polynomial at $F’[x]$, and therefore evaluates to itself on $\beta$. For $(\text{ev}_\beta \circ \sigma)(x) = \beta$, note that the degree 1 polynomial $x$ has coefficients $a_1 = 1$ and $a_i = 0$ for all $i \neq 1$. Since $\sigma$ is a homomorphism, it preserves these identities, so we have $\sigma(0) = 0$ and $\sigma(1) = 1$ in $F’$ and hence $\sigma(x) = x \in F’[x]$. Evaluating $x$ at $\beta$ is clearly $\beta$.
 [^2]: The upper bound $N = \deg(f) - 1$ comes from the fact that higher powers of $\alpha$ can be reduced using $f(\alpha) = 0$. #concept-question WHY?

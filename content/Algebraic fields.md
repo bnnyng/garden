@@ -11,7 +11,7 @@ tags:
 status: 
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-05-06T11:02:46-04:00
+lastmod: 2025-05-06T18:09:37-04:00
 ---
 # Overview and basic definition
 
@@ -47,7 +47,8 @@ In general, to show that a set $R$ is a field, we show that $(R, +)$ is an [[Abe
 - [[Polynomial roots]]: F finite means eval hom is never injective, but it is always surjective
 - [[(Theorem) Existence of a primitive root]]: 
 - [[(Theorem) Classification of finite fields]]: 
-- [[Splitting fields]]: If $\mathbb F_p$ for prime $p$ and $q = p^n$ for some $n \in \mathbb Z$, then the splitting field of the polynomial $x^q - x$ over $\mathbb F_p$ is $\mathbb F_q$.
+- [[Perfect fields]]: Every finite field is **perfect**.
+- [[Splitting fields]]: If $\mathbb F_p$ for prime $p$ and $q = p^n$ for some $n \in \mathbb Z$, then the **splitting field** of the polynomial $x^q - x$ over $\mathbb F_p$ is $\mathbb F_q$.
 - [[Separable, normal, and Galois extensions of fields]]: #wip
 
 ![[Pasted image 20250505164503.png]]
