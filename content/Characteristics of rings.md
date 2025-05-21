@@ -7,7 +7,7 @@ tags:
 status: 🟠 🔨
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-05-06T15:24:56-04:00
+lastmod: 2025-05-12T13:07:34-04:00
 ---
 # Overview
 
@@ -30,13 +30,16 @@ lastmod: 2025-05-06T15:24:56-04:00
 
 #### Fields of characteristic zero
 
-- [[Formal derivatives on polynomial rings]]: If $f \in F[x]$ is [[Irreducible polynomials|irreducible]] over $F$, then no multiple roots in any extension field #wip
+- [[Formal derivatives on polynomial rings]]: If $f \in F[x]$ is **irreducible** over $F$, then $f$ has **no repeated roots** in *any* extension $E$ of $F$. This is because an irreducible polynomial $f$ has repeated roots in some extension if and only if $Df = 0$. However, in characteristic zero, if $f = \sum a_i x^i$ and hence $Df = \sum i a_i x^{i-1}$, we have $$ f \neq 0 \implies a_i \neq 0 \text{ for some }i \implies i a_i \neq 0 \implies Df \neq 0. $$
+- [[Splitting fields]]: If ??
 
-![[Pasted image 20250506102231.png]]
+- Every finite extension is separable? sinc eno multiple roots
 
-- [[Separable, normal, and Galois extensions of fields]]: Every finite **normal** extension of $F$ is a **Galois** extension.
+- [[Separable, normal, and Galois extensions of fields]]: Every finite extension $E$ of $F$ is **separable** by the criteria that for all $\alpha \in E$, the **minimal polynomial** $\text{irr}(\alpha, F)$ is irreducible over $F$ by construction, so it has no repeated roots in any extension of $F$. Hence, every finite **normal** extension of $F$ is a **Galois** extension. (See also: [[Perfect fields#Connections to other topics]].)
 
 #### Fields of characteristic $p > 0$
+
+![[Pasted image 20250507152630.png]]
 
 ---
 # Notes

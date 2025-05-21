@@ -8,9 +8,9 @@ tags:
 status: 🔴 🔨 ❓
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-05-06T11:24:33-04:00
+lastmod: 2025-05-09T12:28:02-04:00
 ---
-# Overview and basic definition
+# Overview 
 
 Variants include any square-free integers and extension fields of rationals
 
@@ -30,6 +30,9 @@ Variants include any square-free integers and extension fields of rationals
 >$$
 >a [[Cyclic groups|cyclic]] group of order 4.
 
+**Relevant theorems:**
+- [[(Theorem) Irreducible elements in the Gaussian integers]]
+
 **Related notes:**
 - [[Finite extensions of the rationals]]
 
@@ -41,8 +44,8 @@ $$
 (\mathbb Z[i])^* = \{ \pm 1, \pm i \} = \langle i \rangle,
 $$
 a cyclic group of order 4.
-- [[Euclidean domains]]: The Gaussian integers are a **Euclidean domain** (see section below), hence a [[Unique factorization domains|principal ideal domain]] and a [[Unique factorization domains|unique factorization domain]].
-- [[(Theorem) Irreducible elements in the Gaussian integers]]
+- [[Euclidean domains]]: The Gaussian integers are a **Euclidean domain** with **norm** $N : \mathbb Z[i] \backslash \{ 0 \} \to \mathbb Z$ defined by $N(\alpha) = \alpha \overline \alpha$, where $\overline \alpha$ denotes [[Complex conjugation and absolute value|complex conjugation]], i.e., $$ N(a + bi) = a^2 + b^2. $$ This implies that $\mathbb Z[i]$ is also a [[Unique factorization domains|principal ideal domain]] and a [[Unique factorization domains|unique factorization domain]]. 
+- [[Euclidean domains]]: There is natural extension of the **norm** $N$ defined above to a norm $N : \mathbb Q (i) \to \mathbb Q$, the [[Finite extensions of the rationals]] obtained by adjoining $i$.
 
 ---
 # Variants of the ring $\mathbb Z[i]$

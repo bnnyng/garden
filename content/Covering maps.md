@@ -12,19 +12,17 @@ tags:
 status: 🔴 🔨
 publish: 
 date: 2024-11-30 14:19
-lastmod: 2025-03-07T17:16:17-05:00
+lastmod: 2025-05-08T10:24:53-04:00
 ---
 🔨 Add examples.
 
 ---
 # Overview and basic definition
 
->[!example] Definition: Covering space
+>[!definition] Covering space
 >A **covering space** of $X$ is a space $\widetilde X$ and a [[Continuous functions|continuous]] map $p : \widetilde X \to X$ such that for all $x \in X$, there exists a neighborhood $U \subseteq X$ of $x$ such that $p^{-1}(U)$ is a union of disjoint open sets called **slices**, and each slice is mapped [[Homeomorphisms and topological embeddings|homeomorphically]] onto $U$ by $p$. In this case, we say $U$ is **evenly covered**. If the entire space is evenly covered, we say the map $p$ is a **trivial covering map**.
 
 ^0c6070
-
-
 
 #wip composition of covering maps from Topology
 
@@ -46,7 +44,7 @@ $$
 which is open in the [[Subspace (induced) topology|subspace topology]].
 
 
->[!abstract] ([[MATH-GU4051|Topology]] HW 10.2)
+>[!proposition] [[MATH-GU4051|Topology]] HW 10.2
 >If $p: X \to Y$ is a covering map, $X$ is [[(Path-)connectedness|path-connected]], and $Y$ is [[Simply connected spaces|simply connected]], then $p$ is a homeomorphism. 
 
 
@@ -56,7 +54,7 @@ Base locally path-conn implies covering space locally oath-conn
 
 # Covering spaces and fundamental groups
 
->[!abstract]
+>[!proposition]
 >If $p : \widetilde X \to X$ is a covering, then the [[Induced homomorphism between fundamental groups|induced homomorphism between fundamental groups]]
 >$$ p_* : \pi_1(\widetilde X, \tilde x) \to \pi_1 (X, p(\tilde x))$$
 >is injective.
@@ -72,7 +70,7 @@ Suppose $[\tilde f] \in \pi_1(\widetilde X, \tilde x)$ is in the kernel of $p_*$
 
 ❓ What is this end?
 
->[!example] Definition: Universal covering
+>[!definition] Universal covering
 >If $X$ is a [[(Path-)connectedness|path-connected]] space, a **universal covering map** for $X$ is a covering $p : \widetilde X \to X$ for which $\widetilde X$ is [[Simply connected spaces|simply connected]]. 
 
 #wip In this case, is bijection

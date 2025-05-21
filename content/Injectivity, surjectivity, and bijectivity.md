@@ -4,14 +4,13 @@ aliases:
   - surjective
   - bijective
   - bijection
-  - permutation
   - inverse
 tags:
   - permanent-note
   - topic-logic-mathematics
 publish: "true"
 date: 2024-03-31 14:16
-lastmod: 2024-09-05T14:15:47-04:00
+lastmod: 2025-05-09T11:27:59-04:00
 ---
 >[!example] Definition: Injective, surjective, and bijective functions
 >Suppose $f : X \to Y$ is a [[Algebra of functions|function]]. We say $f$ is

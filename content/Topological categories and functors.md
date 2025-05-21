@@ -7,7 +7,7 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-06T15:25:09-04:00
+lastmod: 2025-05-08T17:19:22-04:00
 ---
 # Overview
 
@@ -36,7 +36,7 @@ The [[Fundamental groups|fundamental group]] $\pi_1 : \mathsf{Top}_* \to \mathsf
 
 #### Free abelian group
 
-In general, the [[Abelian groups|free abelian group]] is a functor $\mathsf{Set} \to \mathsf {Ab}$ defined by $X \mapsto \mathbb ZX$, where $\mathbb Z X$ is the set of **formal linear combinations** of elements of $X$.
+In general, the [[Free abelian group]] is a functor $\mathsf{Set} \to \mathsf {Ab}$ defined by $X \mapsto \mathbb ZX$, where $\mathbb Z X$ is the set of **formal linear combinations** of elements of $X$.
 
 The lemma that two [[Group homomorphisms and isomorphisms|group homomorphisms]] $\varphi, \psi : \mathbb ZX \to A$, where $A$ is abelian, are equal *iff* they are equal on every value of $x \in X$ is equivalent to the claim that the function $\mathsf{Ab}(\mathbb ZX, A) \to \mathsf {Set}(X, A)$ defined by sending a homomorphism to its restriction $\varphi \mapsto \varphi|_X$ is a **bijection** for all pairs of sets $X$ and abelian groups $A$.
 

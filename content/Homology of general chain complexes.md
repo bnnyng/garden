@@ -11,7 +11,7 @@ tags:
 status: 
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-05-01T12:21:05-04:00
+lastmod: 2025-05-07T11:37:34-04:00
 ---
 # Overview 
 
@@ -39,7 +39,7 @@ is **exact** at $C_p$ (i.e., $\ker(\partial_p) = \textup{Im}(\partial_{p+1})$) i
 
 ---
 
-# Basic definitions
+# Chain complexes and chain maps
 
 >[!definition] Chain complex
 >A **chain complex** 

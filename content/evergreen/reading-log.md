@@ -1,11 +1,14 @@
 ---
+
 kanban-plugin: board
-lastmod: 2025-05-04T14:43:33-04:00
+lastmod: 2025-05-12T11:47:15-04:00
 date: 2025-02-12T16:40:50-05:00
+
 ---
 
 ## Queue
 
+- [ ] 📚 [[@2024massimiPerspectival]], “The Perspectival Nature of Scientific Representation”
 - [ ] 📚 [[@2020colasLanguage]], “Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration”
 - [ ] 📚 [[@2024geigerCausal]], “Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability”
 - [ ] 📚 [[@2024mahowaldDissociating]], “Dissociating language and thought in LLMs”

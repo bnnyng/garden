@@ -11,7 +11,7 @@ tags:
 status: 
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-22T12:40:50-04:00
+lastmod: 2025-05-07T11:36:48-04:00
 ---
 # Overview
 
@@ -20,7 +20,7 @@ lastmod: 2025-04-22T12:40:50-04:00
 **Related notes:** [[Categorical functors]]
 
 ---
-# Basic definitions
+# Axiomatic definition
 
 >[!definition] Category
 >A **category** $\mathsf C$ consists of four pieces of data:

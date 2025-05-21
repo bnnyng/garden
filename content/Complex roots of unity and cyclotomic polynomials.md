@@ -8,7 +8,7 @@ tags:
   - MATH-GU4042
 status: 
 publish: 
-lastmod: 2025-05-06T17:55:45-04:00
+lastmod: 2025-05-14T10:55:46-04:00
 date: 2025-04-13T09:58:13-04:00
 ---
 # Overview
@@ -50,7 +50,6 @@ This is the [[Minimal polynomial of an element in an extension field|minimal pol
 >$$
 >where $\mu_n$ is the group of complex $n$th [[Roots of unity|roots of unity]], i.e., $\zeta = e^{2 i \pi k/n}$ is a primitive $n$th root of unity. 
 
-
 We have $\deg \Phi_n = \varphi(n)$, where $\varphi$ is the [[Euler totient function]]. Further, 
 $$ 
 x^n-1 = \prod_{d|n}\Phi_d, 
@@ -65,8 +64,8 @@ $$ which reflects that $\sum_{d|n} \varphi(d) = n$. This means that $\alpha$ is 
 # Cyclotomic polynomials for prime $p$
 
 
->[!theorem] 
->Let $p$ be prime. Then the **cyclotomic polynmomial**
+>[!theorem] $p$th cyclotomic polynomials are irreducible for prime $p$
+>Let $p$ be prime. Then the **cyclotomic polynomial**
 >$$
 >\Phi_p = \frac{x^p-1}{x-1} = x^{p-1} + x^{p-2} + \cdots + x + 1
 >$$

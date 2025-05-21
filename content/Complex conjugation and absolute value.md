@@ -7,10 +7,10 @@ tags:
   - topic-logic-mathematics
 status: 
 publish: 
-lastmod: 2025-04-22T20:06:06-04:00
+lastmod: 2025-05-07T11:36:15-04:00
 date: 2025-04-22T20:01:03-04:00
 ---
-# Overview and basic definition
+# Overview and definition
 
 >[!definition] Complex conjugation
 >Given a complex number $z = (a, b) \in \mathbb C$, we define **complex conjugation** by 

@@ -7,7 +7,7 @@ tags:
   - MATH-GU4042
 status: 
 publish: "true"
-lastmod: 2025-05-06T14:31:28-04:00
+lastmod: 2025-05-07T11:35:37-04:00
 date: 2025-04-07T21:39:53-04:00
 ---
 # Overview
@@ -29,7 +29,7 @@ $\quad$ If $F$ is a [[Algebraic fields|field]], a polynomial that is **irreducib
 
 ---
 
-# Basic definition and properties
+# Definition and properties
 
 > [!definition] Irreducible polynomial
 >A [[Polynomial rings|polynomial]] $p \in F[x]$ is **irreducible** if it satisfies the following equivalent statements:

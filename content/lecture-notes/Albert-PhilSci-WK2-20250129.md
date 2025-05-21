@@ -3,7 +3,7 @@ aliases:
 tags:
   - fleeting-note
 date: <% tp.file.creation_date() %>
-lastmod: 2025-02-04T20:12:32-05:00
+lastmod: 2025-05-12T16:23:52-04:00
 ---
 [[2025-01-29]]
 # Week 2, Day 2: Probabilistic Explanations in Science

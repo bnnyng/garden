@@ -4,7 +4,7 @@ tags:
 ---
 # Schedule
 
-![[2025-spring-finals#^a75aa8]]
+![[2025#May 14 – May 16]]
 
 ---
 # To do

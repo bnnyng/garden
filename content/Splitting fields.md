@@ -7,16 +7,10 @@ tags:
   - MATH-GU4042
 status: 
 publish: 
-lastmod: 2025-05-06T17:55:51-04:00
+lastmod: 2025-05-10T13:16:45-04:00
 date: 2025-04-23T12:15:32-04:00
 ---
-# Overview and definition
-
->[!definition] Splitting field
->Let $F$ be a [[Algebraic fields|field]] and $f \in F[x]$ be a [[Polynomial rings|polynomial]] of degree at least $1$. An [[Extension fields|extension field]] $E$ of $F$ is a **splitting field** for $f$ over $F$ if the following two conditions hold:
->- (i) There is a factorization $f = c \prod_{i=1}^n (x - \alpha_i)$ in $E[x]$, i.e., $f$ factors into a product of linear factors in $E[x]$.
->- (ii) $E$ is generated as an extension field of $F$ by the [[Polynomial roots|roots]] of $f$, i.e., $E = F(\alpha_1, \ldots, \alpha_n)$ in the notation of (i).
-
+# Overview 
 **Related theorems:**
 - [[(Theorem) The number of extensions of a field homomorphism is at most the degree of the field extension]]
 
@@ -24,19 +18,34 @@ date: 2025-04-23T12:15:32-04:00
 - [[Separable, normal, and Galois extensions of fields]]
 
 ---
+# Definition 
+
+>[!definition] Splitting field
+>Let $F$ be a [[Algebraic fields|field]] and $f \in F[x]$ be a [[Polynomial rings|polynomial]] of degree at least $1$. An [[Extension fields|extension field]] $E$ of $F$ is a **splitting field** for $f$ over $F$ if the following two conditions hold:
+>- (i) There is a factorization $f = c \prod_{i=1}^n (x - \alpha_i)$ in $E[x]$, i.e., $f$ factors into a product of linear factors in $E[x]$.
+>- (ii) $E$ is generated as an extension field of $F$ by the [[Polynomial roots|roots]] of $f$, i.e., $E = F(\alpha_1, \ldots, \alpha_n)$ in the notation of (i).
+
+#wip 
+![[Pasted image 20250507113941.png]]
+
+---
 # Splitting fields and the Galois group
 
 >[!theorem] Transitive action of the Galois group of a splitting field
->Let $E$ be a [[Splitting fields|splitting field]] of the polynomial $f \in F[x]$, where $f$ is [[Irreducible polynomials|irreducible]] in $F[x]$. Then $\text{Gal}(E/F)$ acts transitively on the roots of $f$.
+>Let $E$ be a [[Splitting fields|splitting field]] of the polynomial $f \in F[x]$, where $f$ is [[Irreducible polynomials|irreducible]] in $F[x]$. Then $\text{Gal}(E/F)$ acts transitively on the roots of $f$, i.e., for any root $\alpha_i$ of $f$, there exists an element $\sigma \in \text{Gal}(E/F)$ and another root $\alpha_j$ such that $\alpha_i = \sigma \alpha_j$.
 
+*Proof from [[MATH-GU4042|Modern Algebra II]].* $\quad$ 
+
+#wip
+
+>[!corollary] Relation between degree of an irreducible polynomial and the size of the Galois group of its splitting field
+>Suppose $f \in F[x]$ is an [[Irreducible polynomials|irreducible]] polynomial of degree $n$, with $n$ distinct roots (automatic if $F$ is perfect), and let $E$ be a splitting field of $f$ over $F$. Then $n$ divides the order of the [[Galois groups|Galois group]] $\text{Gal}(E/F)$, and the order of $\text{Gal}(E/F)$ divides $n!$.
 
 
 
 
 ---
 # Examples
-
-#### Basic examples of splitting fields
 
 **See also:** [[Finite extensions of the rationals]]
 
@@ -53,6 +62,11 @@ date: 2025-04-23T12:15:32-04:00
 ![[Pasted image 20250506171740.png]]
 
 ![[Pasted image 20250506171502.png]]
+
+---
+# Review
+
+![[Pasted image 20250507113401.png]]
 
 ---
 # Notes

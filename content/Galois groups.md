@@ -2,13 +2,14 @@
 aliases:
   - automorphism
   - fixed field
+  - Galois group
 tags:
   - permanent-note
   - topic-logic-mathematics
   - MATH-GU4042
 status: 🔴
 publish: 
-lastmod: 2025-05-06T18:03:03-04:00
+lastmod: 2025-05-07T12:35:08-04:00
 date: 2025-04-16T20:15:05-04:00
 ---
 

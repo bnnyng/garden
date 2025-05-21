@@ -11,7 +11,7 @@ tags:
   - MATH-GU4041
 status: 
 publish: 
-lastmod: 2025-05-06T17:36:56-04:00
+lastmod: 2025-05-12T20:57:24-04:00
 date: <% tp.file.creation_date() %>
 ---
 # Overview
@@ -20,8 +20,10 @@ $\quad$The **$n$th roots of unity** are the [[Algebraic fields|field]]-theoretic
 
 $\quad$ When the field is $\mathbb C$, these are points on the unit circle $\zeta = e^{2\pi i k / n}$ for $k = 0, 1, \ldots, n -1$. 
 
+
+
 ---
-# Basic definitions
+# Definitions
 
 >[!definition] $n$th root of unity
 >An $n$th root of unity in a [[Algebraic fields|field]] $F$ is an element $\zeta \in F$ such that $\zeta^n = 1$, i.e., $\zeta$ is a root of the [[Polynomial rings|polynomial]] $x^n - 1$ in $F$. The set of all such $n$th roots of unity is denoted
@@ -38,9 +40,8 @@ $\quad$ When the field is $\mathbb C$, these are points on the unit circle $\zet
 >is a finite [[Cyclic groups|cyclic]] [[Algebraic groups|subgroup]] of the group of [[Algebraic rings|units]] $F^*$ (under the group operation multiplication) with order dividing $n$.
 
 
-
 ----
-# Properties
+# Properties of roots of unity
 
 - [[Splitting fields]]: If $\zeta$ is any generator of $\mu_n$, the group of $n$th root of unity (e.g., $\zeta = e^{2\pi i/n}$), then $\mu_n = \langle \zeta \rangle$ and 
 #wip
@@ -49,6 +50,8 @@ $\quad$ When the field is $\mathbb C$, these are points on the unit circle $\zet
 
 - [[Separable, normal, and Galois extensions of fields]]: 
 ![[Pasted image 20250505164421.png]]
+
+
 
 ---
 

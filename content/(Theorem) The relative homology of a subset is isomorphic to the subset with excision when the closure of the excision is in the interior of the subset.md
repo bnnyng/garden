@@ -3,6 +3,7 @@ aliases:
   - excision theorem
   - barycentric subdivision
   - -small
+  - good pair
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -10,7 +11,7 @@ tags:
 status: 🔨
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-23T18:31:10-04:00
+lastmod: 2025-05-10T11:05:26-04:00
 ---
 # Overview and statement
 
@@ -20,6 +21,17 @@ lastmod: 2025-04-23T18:31:10-04:00
 ---
 # Preliminaries 
 
+#### Deformation retracts of neighborhoods
+
+>[!definition] Good pair
+>Let $A \subseteq X$ be a closed subspace. We say that $A$ is a **deformation retract of a neighborhood** in $X$, or simply that $(X, A)$ is a **good pair**, if there exists a set $U \subseteq X$ containing $A \subseteq \text{int}(U)$ and a homotopy $H : U \times I \to U$ [[Homotopies|relative to]] $A$ from the identity to a [[Retractions and fixed points|retraction]] map $r : U \to A \subseteq U$.
+
+>[!exm]
+>The pair $(X, A) = D^2, S^1)$ with $S^1 \subseteq D^2$ as the boundary of the disk is a good pair: we can take $U$ to be a small annulus containing $S^1$.
+
+
+
+#### ?
 
 >[!theorem] ([[MATH-GU4053|Algebraic Topology]] notes 7.2.2): 
 >Let $\mathcal U$ be a collection of subsets of $X$ such that $$ \bigcup_{U \in \mathcal U} \textup{int} (U) = X. $$ Then $C_p^{\mathcal U} \to C_p(X)$ induces an [[Group homomorphisms and isomorphisms|isomorphism]] on homology for all $p \in \mathbb Z$.
@@ -31,11 +43,11 @@ To prove an isomorphism $H_p^{\mathcal U }(X)
 - (ii) 
 
 
-## Subdivision
+#### Subdivision
 
 
 
-## Small chains
+#### Small chains
 
 >[!definition] Small chain
 >Let $X$ be any space and $\mathcal U$ be a collection of subsets of $X$. We say that a [[Singular chains and singular homology|singular simplex]] $\sigma : \Delta^p \to X$ is **$\mathcal U$-small if** there exists $U \in \mathcal U$ such that $\textup{Im} (\sigma) \subseteq U$. The subgroup spanned by $\mathcal U$-small simplices is denoted
@@ -49,7 +61,7 @@ To prove an isomorphism $H_p^{\mathcal U }(X)
 >is a chain map.
 
 
-## Proof of isomorphism for small chains
+#### Proof of isomorphism for small chains
 
 *Proof from [[MATH-GU4053|Algebraic Topology]]* ([[2025-03-27]]).
 

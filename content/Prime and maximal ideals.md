@@ -9,7 +9,7 @@ tags:
 status: 🔴 🔨 ❓
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-05-06T14:21:33-04:00
+lastmod: 2025-05-12T16:05:33-04:00
 ---
 # Overview and basic definition
 
@@ -48,6 +48,8 @@ $$ (r + I) (s + I) = rs + I \neq 0 + I \in R / I $$ as well. This means precisel
 Again, $I \neq R$ *if and only if* $R / I \neq 0$, so it suffices to show that the we have $J = I$ or $J = R$ for all ideals $J$ containing $I$ *if and only if* every nonzero coset $r + I \in R/I$ has a multiplicative inverse.
 
 - ($\implies$) Let $r + I \in R/I$ be nonzero, i.e., $r \notin I$. Now consider the  $$ J = \{ sr + t \ : \ s \in R, t \in I \} $$ is an ideal of $R$ containing $I$ and $r$. $\ \square$
+
+#wip
 
 >[!corollary] A maximal ideal is a prime ideal.
 

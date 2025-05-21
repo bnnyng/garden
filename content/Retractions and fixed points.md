@@ -8,10 +8,10 @@ tags:
 status: 🔨
 publish: 
 date: 2024-12-08 12:35
-lastmod: 2025-01-30T12:51:10-05:00
+lastmod: 2025-05-07T11:36:52-04:00
 ---
 
-# Overview and basic definition
+# Overview and definition
 
 See also: [[Deformation retractions]], [[Contractible spaces]]
 

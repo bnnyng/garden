@@ -9,14 +9,13 @@ aliases:
   - countably additive
   - countable additivity
   - Lebesgue measure
-  - excision
 tags:
   - permanent-note
   - topic-logic-mathematics
   - MATH-42X
 publish: "true"
 date: 2024-04-10 20:09
-lastmod: 2024-04-24T16:14:59-07:00
+lastmod: 2025-05-10T11:51:54-04:00
 status: 🟧
 ---
 # Overview

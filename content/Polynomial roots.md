@@ -3,6 +3,7 @@ aliases:
   - root
   - multiplicity
   - multiple root
+  - repeated roots
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -10,13 +11,13 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-05-06T14:38:17-04:00
+lastmod: 2025-05-09T11:14:47-04:00
 ---
-# Overview and basic definition
+# Overview 
 
 $\quad$ If $f \in F[x]$ is a [[Polynomial rings|polynomial]] with coefficients in a field $F$, the basic definition of a **root** of $f$ is an element $\alpha$ which [[Polynomial evaluation|evaluates]] to $0$ in the formal sum. Equivalently, $x - \alpha$ divides $f$.
 
-$\quad$ **Multiple roots**, which are roots for which $(x-\alpha)^m$ for some power $m > 1$ also divides $f$, can be detected using [[Formal derivatives on polynomial rings|formal derivatives]].
+$\quad$ **Multiple roots**, which are roots for which $(x-\alpha)^m$ for some power $m > 1$ also divides $f$, can be detected using [[Formal derivatives on polynomial rings|formal derivatives]] or the [[Discriminant of a polynomial|discriminant]].
 
 **Relevant theorems:**
 - [[(Theorem) A factorization in a UFD exists iff a factorization exists in its field of quotients]]
@@ -30,7 +31,7 @@ $\quad$ **Multiple roots**, which are roots for which $(x-\alpha)^m$ for some po
 
 ---
 
-# Basic definitions
+# Definitions
 
 >[!definition] Root of a polynomial
 >Let $f \in F[x]$ be a [[Polynomial rings|polynomial]] with coefficients in the [[Algebraic fields|field]] $F$. A **root** or **zero** of $f$ in $F$ is an element $a \in F$ such that the [[Polynomial evaluation|evaluation]] is $$f(a) = \textup{ev}_a = 0. $$

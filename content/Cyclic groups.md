@@ -2,14 +2,13 @@
 aliases:
   - cyclic
   - generator
-  - primitive root
 tags:
   - permanent-note
   - topic-logic-mathematics
 status: 
 publish: 
 date: 2024-12-13 12:54
-lastmod: 2025-05-06T09:39:23-04:00
+lastmod: 2025-05-14T09:58:02-04:00
 ---
 
 

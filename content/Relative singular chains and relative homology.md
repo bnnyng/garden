@@ -8,7 +8,7 @@ tags:
 status: 🔴 🔨
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-24T16:16:05-04:00
+lastmod: 2025-05-10T19:05:29-04:00
 ---
 # Overview 
 
@@ -50,7 +50,7 @@ $$
 \cdots \to H_p(A) \to_{i_*} H_p(X) \to_{j_*} H_p(X, A) \to_\delta H_{p-1}(A) \to \cdots,
 $$
 
-where $\partial$ is the connecting homomorphism defined explicitly as follows: let $[c] \in H_p(X, A)$ be a relative homology class represented by $c \in C_p(X)$ with $\partial c \in C_{p-1}(A)$. Then $\delta([c]) = [\partial c]$ is the homology class in $H_{p-1}(A)$ defined by the boundary.
+where $\delta$ is the connecting homomorphism defined explicitly as follows: let $[c] \in H_p(X, A)$ be a relative homology class represented by $c \in C_p(X)$ with $\partial c \in C_{p-1}(A)$. Then $\delta([c]) = [\partial c]$ is the homology class in $H_{p-1}(A)$ defined by the boundary.
 
 >[!lemma] Long exact sequence of a sequence of inclusions
 >For $B \subseteq A \subseteq X$, the inclusions $i : (A, B) \to (X, B)$ and $j : (X, B) \to (X, A)$ induce a [[Exact sequences|short exact sequence]] of [[Homology of general chain complexes|chain complexes]]

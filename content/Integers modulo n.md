@@ -3,7 +3,6 @@ aliases:
   - group of units
   - invertible residues
   - integers modulo
-  - primitive root
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -12,7 +11,7 @@ tags:
 status: 
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-22T12:08:06-04:00
+lastmod: 2025-05-13T15:22:03-04:00
 ---
 # In group theory
 

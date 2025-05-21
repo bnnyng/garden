@@ -13,14 +13,14 @@ tags:
   - permanent-note
   - topic-logic-mathematics
   - MATH-GU4042
-status: 🟠 🔨
+status: 🟠
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-01T10:08:25-04:00
+lastmod: 2025-05-09T11:16:18-04:00
 ---
-# Overview and basic definitions
+# Overview 
 
->[!example] Definition: Ring
+>[!definition] Ring
 >A **ring** $(R, +, \cdot)$ is a set with two binary operations such that:
 >- (i) $(R, +)$ is an [[Abelian groups|abelian]] group;
 >- (ii) $\cdot$ is an associative binary operation;
@@ -28,12 +28,15 @@ lastmod: 2025-04-01T10:08:25-04:00
 >
 >In this case, we write $0$ for the additive identity of $R$ and $-r$ for the additive inverse of each $r \in R$. If multiplication $\cdot$ is commutative, then $R$ is called a **commutative ring**. 
 
->[!example] Definition: Subring
+>[!definition] Subring
 >A **subring** $S \leq R$ is set satisfying the ring axioms via the following properties:
 >- (i) **Subgroup under $+$:** $(S, +) \leq (R, +)$;
 >- (ii) **Closure under multiplication:** For all $s_1, s_2 \in S$, we have $s_1s_2 \in S$ as well.
 
-Related: [[Algebraic fields]], [[Ring homomorphisms and isomorphisms]], [[Rings of functions]]
+**Related notes:** 
+- [[Algebraic fields]]
+- [[Ring homomorphisms and isomorphisms]]
+- [[Rings of functions]]
 
 ---
 # Familiar operations on general rings
@@ -57,19 +60,19 @@ Many familiar operations with numbers carry over to general rings. It follows fr
 ---
 # Inverses and rings with unity
 
->[!example] Definition: Rings with unity
+>[!definition] Rings with unity
 >We say $R$ is a **ring with unity** if there exists a *unique* multiplicative identity $1 \in R$, called the **unity**, such that for all $r \in R$ we have $1r = r1 = r$.
 >
 >Further, if $R$ is a ring with unity, we can define $r^0 = 1$. Given $n \in \mathbb Z$, we also have $n \cdot 1 \in R$ such that $$ (n \cdot 1)r = n \cdot(1r) = n \cdot r.$$
 >
 >If $R$ is a ring with unity, then $R^*$ is the **set of units** of $R$, and $(R^*, \cdot )$ is a group.
 
->[!example] Definition: Unit, invertible
+>[!definition] Unit, invertible
 >Let $R$ be a ring with unity. An element $r \in R$ is a **unit** (or called **invertible**) if it has a multiplicative inverse, meaning there exists a *unique* element $r’ \in \mathbb R$ such that $$ rr' = r'r = 1.$$ 
 >
 >If $r,s$ are units, then so is $rs$. If $r \in R$ is invertible, we denote its unique inverse by $r^{-1}$, and if $r$ is a unit then so is $r^{-1}$ with $(r^{-1})^{-1} = r$.
 
->[!abstract] Lemma ([[MATH-GU4042|Modern Algebra II]] HW 2.1): Inverses are preserved under homomorphisms
+>[!lemma] [[MATH-GU4042|Modern Algebra II]] HW 2.1: Inverses are preserved under homomorphisms
 >Let $R, S$ be rings with unity and $f : R \to S$ be a [[Ring homomorphisms and isomorphisms|ring homomorphism]]. If $r \in R^*$ is a unit in $R$, then $f(r) \in S^*$ is a unit in $S$ and 
 >$$
 >f(r)^{-1} = f(r^{-1}).

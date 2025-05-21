@@ -7,10 +7,10 @@ tags:
   - MATH-GU4053
 status: 
 publish: 
-lastmod: 2025-05-01T23:48:24-04:00
+lastmod: 2025-05-07T11:37:08-04:00
 date: 2025-05-01T13:40:31-04:00
 ---
-# Overview and basic definition
+# Overview 
 
 - Cup product makes cohomology into ring
 

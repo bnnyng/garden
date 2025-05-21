@@ -11,13 +11,13 @@ tags:
 status: 🔨
 publish: 
 date: 2024-12-04 13:53
-lastmod: 2025-02-04T11:45:25-05:00
+lastmod: 2025-05-07T14:28:42-04:00
 ---
 # Overview and basic definition
 
 Two *spaces* are **homotopy equivalent** if one can be continuously deformed into the other; this is parallels the notion of [[Homotopies|homotopy]], which says when one *map* can be continuously deformed into the other. A key property of homotopy equivalence is that two spaces with the same **homotopy type** have the same [[Fundamental groups|fundamental group]]. Homotopy equivalence also preserves the usual invariants like [[(Path-)connectedness|connectedness]], [[(Path-)connectedness|path-connectedness]], and [[Compactness|compactness]].
 
->[!example] Definition: Homotopy equivalence between maps, homotopy equivalent spaces
+>[!definition] Homotopy equivalence between maps, homotopy equivalent spaces
 >A [[Continuous functions|continuous]] map $f : X \to Y$ is a **homotopy equivalence** if there exists $g : Y \to X$ such that we have [[Homotopies|homotopies]]
 >$$
 >g \circ f \simeq \text{id}_X \quad \quad f \circ g \simeq \text{id}_Y.
@@ -36,14 +36,14 @@ To *prove* homotopy equivalence, we explicitly define $f, g$, as well as the des
 ---
 # Homotopy equivalence and fundamental groups
 
->[!abstract] Lemma:
+>[!lemma]
 >Let $h, k : X \to Y$ be [[Homotopies|homotopic]] with $h(x_0) = y_0$ and $k(x_0) = y_1$. Then if $H$ is the homotopy between $h,k$, there exists a path $\alpha(t) = H(x_0, t)$ in $Y$ from $y_0$ to $y_1$ such that the [[Fundamental groups|change-of-basepoint map]] satisfies $\hat \alpha \circ h_* = k_*$. In particular, we have:
 >- (i) $h_*$ is injective/surjective $\iff$ $k_*$ is injective/surjective;
 >- (ii) If $h$ is [[Contractible spaces|nullhomotopic]], then $h_*$ is trivial.
 >
 >![[Pasted image 20241216145541.png|200]]
 
->[!abstract] Theorem: Homotopy equivalent spaces have isomorphic fundamental groups
+>[!theorem] Homotopy equivalent spaces have isomorphic fundamental groups
 >If $f: X\to Y$ is a homotopy equivalence, then the [[Induced homomorphism between fundamental groups|induced homomorphism between fundamental groups]]
 >$$
 >f_* : \pi_1(X, x_0) \to \pi_1(Y, f(x_0))

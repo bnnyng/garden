@@ -5,7 +5,7 @@ tags:
   - topic-logic-mathematics
 status: 
 publish: 
-lastmod: 2025-04-10T14:19:07-04:00
+lastmod: 2025-05-08T12:19:42-04:00
 date: 2025-04-10T12:32:45-04:00
 ---
 # Overview 
@@ -15,7 +15,7 @@ date: 2025-04-10T12:32:45-04:00
 
 ---
 
-# Statement of the theorem 
+# Statement and proof of the theorem 
 
 >[!theorem] Simplicial and singular homology groups are isomorphic
 >Let $X$ be a $\Delta$[[Delta-complexes|-complex]]. The inclusion of [[Simplicial chains and simplicial homology|simplicial chains]] into [[Singular chains and singular homology|singular chains]] $\Delta_*(X) \to C_*(X)$ is a [[Homology of general chain complexes|chain map]], and induces an isomorphism in homology
@@ -24,29 +24,11 @@ date: 2025-04-10T12:32:45-04:00
 >$$
 >for all $p$.
 
+
 ---
+# Corollary: Homology of *finite* $\Delta$-complexes
 
-# Preliminaries: Relative simplicial homology
+>[!corollary] Homology of finite $\Delta$-complexes
+>Let $X$ be a topological space admitting the structure of a *finite* $\Delta$[[Delta-complexes|-complex]]. Then $H_p(X)$ is a finitely generated [[Abelian groups|abelian]] group for all $p$, and is trivial if $p$ is larger than the dimension of any simplices in $X$.
 
->[!definition] Subcomplex
->Let $(X, \Sigma^X)$ be a $\Delta$[[Delta-complexes|-complex]]. A subspace $A \subseteq X$ is a **subcomplex** if it is the union of some of the simplices of $X$, meaning
->$$
->A = \bigcup_{p \in \mathbb N} \bigcup_{\sigma \in \Sigma_p'} \sigma(\Delta^p)
->$$
->for some subsets $\Sigma_p’ \subseteq \Sigma_p^X$. Thus, we can define a **$\Delta$-complex structure** on $A$ by setting
->$$
->\Sigma_p^A = \{ \sigma \in \Sigma_p^X \ | \ \sigma(\Delta^p) \subseteq A \}. 
->$$
-
->[!definition] Relative simplicial homology
->Let $X$ be a $\Delta$[[Delta-complexes|-complex]] and $A$ be a subcomplex. Then $\Delta_p(A) \subseteq \Delta_p(X)$, and we define the relative simplicial chain by 
->$$
->\Delta_p(X, A) = \Delta_p(X) / \Delta_p(A).
->$$
->This inherits a boundary homomorphism $\partial : \Delta_p(X, A) \to  \Delta_{p-1}(X, A)$ satisfying $\delta \circ \delta =0$, and we define **relative simplicial homology** by
->$$
->H_p^\Delta (X, A) = H_p(\Delta_* (X, A), \partial).
->$$
-
-![[Pasted image 20250410141844.png|300]]
-
+*Proof from [[MATH-GU4053|Algebraic Topology]].* $\quad$ Since $X$ has a finite $\Delta$-complex structure, the [[Simplicial chains and simplicial homology|simplicial chain]] $\Delta_p(X)$ must be a finitely generated abelian group for all $p$. Then the kernel of $\partial : \Delta_p(X) \to \Delta_{p-1}(X)$, which is a subgroup of $\Delta_p(X)$, is also finitely generated, and hence the quotient $H^\Delta_p(X) \cong H_p(X)$ must be as well. $\quad \square$

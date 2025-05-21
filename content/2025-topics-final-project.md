@@ -15,6 +15,7 @@ lastmod: 2025-05-04T14:17:37-04:00
 
 **Experiment**
 
-| Cite key       | Topic | One-line takeaway |
-| -------------- | ----- | ----------------- |
-| [[@2021wuToo]] |       |                   |
+| Cite key               | Topic | One-line takeaway |
+| ---------------------- | ----- | ----------------- |
+| [[@2020carrollUtility]] |       |                   |
+| [[@2021wuToo]]         |       |                   |

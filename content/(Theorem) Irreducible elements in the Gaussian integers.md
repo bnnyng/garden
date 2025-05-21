@@ -7,11 +7,11 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-01T10:31:21-04:00
+lastmod: 2025-05-09T12:23:20-04:00
 ---
 >[!example] Definition: 
 
->[!abstract] Theorem: Irreducible elements in $\mathbb Z[i]$
+>[!theorem] Irreducible elements in $\mathbb Z[i]$
 >The irreducible elements in the [[Gaussian integers]] $\mathbb Z[i]$ are:
 >- (i) $1 + i$ and its associates $\pm 1 \pm i$;
 >- (ii) Ordinary prime numbers $p \in \mathbb Z$ that are congruent to $3 \mod 4$, as well as their associates $\pm p, \pm ip$;
