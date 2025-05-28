@@ -5,14 +5,18 @@ permalink:
 year: 
 tags:
   - literature-note
+lastmod: 2025-05-26T13:12:44-04:00
+date: 2025-05-26T12:59:37-04:00
 ---
-> Hafner, Danijar, Jurgis Pasukonis, Jimmy Ba, and Timothy Lillicrap. “Mastering Diverse Control Tasks through World Models.” _Nature_, April 2, 2025, 1–7. [https://doi.org/10.1038/s41586-025-08744-2](https://doi.org/10.1038/s41586-025-08744-2).
+> Ho, Mark K., David Abel, Carlos G. Correa, Michael L. Littman, Jonathan D. Cohen, and Thomas L. Griffiths. “People Construct Simplified Mental Representations to Plan.” _Nature_ 606, no. 7912 (June 2022): 129–36. [https://doi.org/10.1038/s41586-022-04743-9](https://doi.org/10.1038/s41586-022-04743-9).
 
 ---
 # Summary
 
 >[!example] Key terms
->
+>- **(Value-guided) task construal:** “the process of adaptively selecting simplified task representations for planning.”
+
+- [[(Model) Value-guided task construals, after Ho et al. (2022)]]
 
 
 ---
@@ -26,6 +30,8 @@ tags:
 # Background
 
 > ***What are the main theories in the literature? Is there anything missing or problematic?***
+
+- The current work builds on [[Markov decision processes and dynamic programming|Markov decision process]] models of sequential-decision making by adding the **construal process**, “the process of adaptively selecting simplified task representations for planning.”
 
 >***What is the empirical evidence? Is there anything missing or problematic?***
 

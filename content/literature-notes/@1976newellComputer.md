@@ -1,22 +1,22 @@
 ---
-citekey: 1976newell
-aliases:
-  - Computer Science as Empirical Inquiry
+citekey: 1976newellComputer
+aliases: 
 tags:
   - literature-note
+  - seminal
 title: "Paper | Computer Science as Empirical Inquiry: Symbols and Search"
 year: 1976
 permalink: https://dl.acm.org/doi/10.1145/360018.360022
 publish: "true"
 date: 2024-09-10
-lastmod: 2025-01-30T13:14:17-05:00
+lastmod: 2025-05-22T15:58:23-04:00
 ---
 > Newell, A., & Simon, H. A. (1976). Computer science as empirical inquiry: Symbols and search. _Commun. ACM_, _19_(3), 113–126. [https://doi.org/10.1145/360018.360022](https://doi.org/10.1145/360018.360022)
 
 ---
 # Summary
 
-In this article, Simon & Newell argue that [[§ Intelligence|intelligence]] can be defined as the ability to generate and test solutions—that is, the ability to *search* and *identify* (compare to [[Meno's paradox]]). Thus, to determine if something is intelligent, we need a set of necessary conditions for this ability. For Simon & Newell, these necessary conditions are satisfied by a **physical symbol system**.
+$\quad$In this article, Simon and Newell argue that [[§ Intelligence|intelligence]] can be defined as the ability to generate and test solutions—that is, the ability to *search* and *identify* (compare to [[Meno's paradox]]). Thus, to determine if something is intelligent, we need a set of necessary conditions for this ability. For Simon and Newell, these necessary conditions are satisfied by a **physical symbol system**.
 
 ---
 

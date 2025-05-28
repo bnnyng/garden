@@ -17,7 +17,7 @@ lastmod: 2025-03-11T15:36:05-04:00
 - Psychological localization is distinct from neurological localization: you can maintain that, e.g., memory is a distinct faculty from imagination while accepting the notion that these faculties can be physically implemented in similar locations.
 - *Example.* $\ \text{}$ Is it easier to remember whether you’ve driven behind a baby blue Ford Tacoma, or whether you’ve slow danced with John Travolta?
 
-**Presentation: [[@1995mcclelland]], “Complementary learning systems in the hippocampus and neocortex”**
+**Presentation: [[@1995mcclellandWhy]], “Complementary learning systems in the hippocampus and neocortex”**
 
 - Key questions: Why is a **hippocampal system** necessary for consolidating memories? Why does consolidation happen at different timescales? 
 - Hippocampus has more immediate **plasticity**, while the neocortex stores underlying knowledge via **gradual accumulation** over multiple instances of activation.

@@ -16,9 +16,9 @@ tags:
   - permanent-note
   - topic-cognitive-science
   - PHIL-UN2655
-publish: 
+publish: "true"
 date: 2024-10-08 11:52
-lastmod: 2025-04-28T08:55:14-04:00
+lastmod: 2025-05-22T15:46:42-04:00
 ---
 # Overview
 
@@ -34,7 +34,7 @@ lastmod: 2025-04-28T08:55:14-04:00
 | Type physicalism (mind/brain identity theory)  | Every **type** of mental state is identical to a type of brain state (e.g., every instance of pain is equivalent to C-fibers firing)                                                                         | Can’t really talk about beliefs more generally; plausible that things can have the same mental state while being physically different | ✔            | ✔           |
 | Functionalism                                  | Every mental state is constituted by its **causal** relation to other mental states                                                                                                                          |                                                                                                                                       | ✖            | ✔           |
 
-**Related notes:** [[Computationalist and connectionist approaches to cognition]]
+**Related notes:** [[Computationalist, connectionist, and rational research traditions in cognitive science]]
 
 ---
 # Selected passages
@@ -44,7 +44,7 @@ lastmod: 2025-04-28T08:55:14-04:00
 ---
 # References
 
-- [[@2011kim]], “[[@2011kim|Mind as a Computing Machine]]”
+- [[@2011kimMind]], “Mind as a Computing Machine”
 - [[@1974fodorSpecial]], “The Disunity of Science as a Working Hypothesis”
 
 ---

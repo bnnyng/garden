@@ -1,7 +1,6 @@
 ---
-citekey: 2001grand
-aliases:
-  - "Creation: Life and How to Make It"
+citekey: 2001grandCreation
+aliases: 
 tags:
   - literature-note
 title: "Book | Creation: Life and How to Make It"
@@ -9,7 +8,7 @@ year: 2001
 permalink: 
 publish: 
 date: 2025-01-02
-lastmod: 2025-02-08T12:25:37-05:00
+lastmod: 2025-05-23T15:31:56-04:00
 ---
 > Grand, S. (2001). _Creation: Life and how to make it_. Phoenix.
 
@@ -30,7 +29,7 @@ lastmod: 2025-02-08T12:25:37-05:00
 
 # Key terms
 
->[!example] Key terms from [[@2001grand]]
+>[!example] Key terms from [[@2001grandCreation]]
 >- **Artificial life:** (the project of creating) complete synthetic living entities.
 >- **Autocatalysis:** a phenomenon that maintains itself by **catalyzing** its own production (e.g., speeding up a chemical reaction) without being consumed in the process.
 >	- **Metabolism:** the process by which living things act as autocatalytic networks.

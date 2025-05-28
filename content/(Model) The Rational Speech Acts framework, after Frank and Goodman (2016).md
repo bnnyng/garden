@@ -7,13 +7,13 @@ tags:
   - topic-cognitive-science
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-05-04T19:50:02-04:00
+lastmod: 2025-05-15T12:52:21-04:00
 ---
 # Overview
 
-The **Rational Speech Acts (RSA) framework** aims to model how people make **pragmatic inferences** beyond the literal semantics of language. 
+$\quad$The **Rational Speech Acts (RSA) framework** aims to model how people make **pragmatic inferences** beyond the literal semantics of language. 
 
-RSA treats **speakers** as [[(Resource-)rational analysis|boundedly rational]] agents—i.e., agents whose decision-making is optimal with respect to both environmental utility and internal (cognitive) constraints—who optimize the trade-off between **informativeness** and **utterance costs**. Speakers make decisions by *simulating* a **listener**, selecting the **utterance** from a fixed set that is most likely to induce beliefs about the true **world state**. 
+$\quad$RSA treats **speakers** as [[(Resource-)rational analysis|boundedly rational]] agents—i.e., agents whose decision-making is optimal with respect to both environmental utility and internal (cognitive) constraints—who optimize the trade-off between **informativeness** and **utterance costs**. Speakers make decisions by *simulating* a **listener**, selecting the **utterance** from a fixed set that is most likely to induce beliefs about the true **world state**. 
 
 ![[Pasted image 20250211153915.png]]
 

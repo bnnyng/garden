@@ -1,13 +1,14 @@
 ---
 
 kanban-plugin: board
-lastmod: 2025-05-12T11:47:15-04:00
+lastmod: 2025-05-27T14:30:46-04:00
 date: 2025-02-12T16:40:50-05:00
 
 ---
 
 ## Queue
 
+- [ ] 📚 [[@1995mcclellandWhy]], “Why there are complementary learning systems in the hippcampus and the neocortex”
 - [ ] 📚 [[@2024massimiPerspectival]], “The Perspectival Nature of Scientific Representation”
 - [ ] 📚 [[@2020colasLanguage]], “Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration”
 - [ ] 📚 [[@2024geigerCausal]], “Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability”
@@ -19,7 +20,6 @@ date: 2025-02-12T16:40:50-05:00
 - [ ] 📚 [[@1994sims]], “Evolving 3D Morphology and Behavior by Competition”
 - [ ] 📚 [[@2013cheney]], “Unshackling Evolution: Evolving Soft Robots with Multiple Materials and a Powerful Generative Encoding”
 - [ ] 📚 [[@2011perfors]], “A tutorial introduction to Bayesian models of cognitive development”
-- [ ] Aguera y Arcas et al. (2024), “Computational Life: How Self-Replicating Programs Emerge from Simple Interaction”
 - [ ] Shepard (1978), “Toward a Universal Law of Generalization for Psychological Science”
 	
 	💬 *On origins of Bayesianism*
@@ -43,6 +43,8 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Shortlist
 
+- [ ] 📚 [[@2024griffithsBayesian]], *Bayesian Models of Cognition: Reverse engineering the mind*
+- [ ] 📚 [[@2025icardResource]], *Resource Rationality*
 - [ ] 📚 [[@2009lengAlgebraic]], “Algebraic Approaches to Mathematics”
 - [ ] 📚 [[@2022colasAutotelic]], “Autotelic Agents with Intrinsically Motivated Goal-Conditioned Reinforcement Learning”
 - [ ] 📚 [[@2023parkGenerative]], “Generative Agents: Interactive Simulacra of Human Behavior”
@@ -50,7 +52,7 @@ date: 2025-02-12T16:40:50-05:00
 - [ ] 📚 [[@2023wongTranslating]], “From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought”
 	
 	Notes: Tenenbaum, Goodman
-- [ ] 📚 [[@2025hafnerMastering 1]], “Mastering diverse control tasks using world models”
+- [ ] 📚 [[@2025hafnerMastering]], “Mastering diverse control tasks using world models”
 - [ ] 📚 [[@2011aaronson]], “Why Philosophers Should Care About Computational Complexity”
 - [ ] 📚 [[@1980cartwright]], “The Reality of Causes in a World of Instrumental Laws”
 - [ ] 📚 [[@2022lecun]], “A Path Towards Autonomous Machine Intelligence”
@@ -61,6 +63,7 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Unprocessed
 
+- [ ] 📚 [[@2024aguerayarcasComputational]], “Computational Life: How Self-Replicating Programs Emerge from Simple Interaction”
 - [ ] 📚 [[@1950bourbakiArchitecture]], “The Architecture of Mathematics”
 - [ ] 📚 [[@1995rosen]], “Effective processes and natural law”
 - [ ] 📚 [[@2015walker]], “The Descent of Math”
@@ -99,9 +102,6 @@ date: 2025-02-12T16:40:50-05:00
 - [ ] [[Internal realism, after Putnam]]
 	
 	Source: [[@1980cartwright]]
-- [ ] [[(Model) The Rational Speech Acts framework, after Frank and Goodman (2016)]]
-	
-	Source: [[@2020degen]], [[@2024sumersReconciling]]
 - [ ] [[Technological approach to mind everywhere, after Levin (2022)]]
 	
 	Source: [[@2022levinTechnological]]
@@ -127,6 +127,13 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Someday
 
+- [ ] [[The method of hypothesis and problems of indiscriminate confirmation]], combined with [[(Resource-)rational analysis]]
+- [ ] [[Bayesian inference]]
+	
+	Source: [[@2024griffithsBayesian]]
+- [ ] [[Active learning]]
+	
+	Source: [[@2024griffithsBayesian]]
 - [ ] A functional view of norms
 	
 	Source: [[@2019hawkinsEmergence]]
@@ -253,6 +260,9 @@ date: 2025-02-12T16:40:50-05:00
 ## Completed
 
 **Complete**
+- [x] [[(Model) The Rational Speech Acts framework, after Frank and Goodman (2016)]]
+	
+	Source: [[@2020degen]], [[@2024sumersReconciling]]
 - [ ] [[Effectively calculable, recursive, and computable are equivalent descriptions of functions]]
 	
 	Source: [[MATH-GU4200|Mathematics and the Humanities]]

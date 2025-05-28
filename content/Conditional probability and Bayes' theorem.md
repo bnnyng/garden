@@ -14,21 +14,28 @@ tags:
   - permanent-note
   - topic-logic-mathematics
   - STAT-UN1201
-  - formula
   - STAT-GU4203
 publish: "true"
 date: 2022-12-21
-lastmod: 2024-10-14T10:35:53-04:00
+lastmod: 2025-05-23T12:48:00-04:00
 status: 🟠
 ---
 # Overview
 
 
->[!example] Definition: Conditional probability
+>[!definition] Conditional probability
 >If $A,B$ are events with $P(B) > 0$, then the **conditional probability** of event $A$ given that the **conditioning event** $B$ has occured is given by
 >$$ P(A|B) = \frac{P(A \cap B)}{P(B)}. $$
 
-Conditional probability satisfies the [[General definition of probability|axioms of probability]]:
+$\quad$ **Bayes’ rule** and the **law of total probability**, which follow directly from the definition of conditional probability, allow us to compute conditional probabilities in a wide range of problems.
+
+ **Related notes:**
+ - [[Probabilistic reasoning and Bayesian inference]]
+
+---
+# Conditional probability
+
+$\quad$ Conditional probability satisfies the [[General definition of probability|axioms of probability]]:
 1. $P(A|B) \leq 1$ 
 2. $P(\mathcal S|B) = P(B|B) = 1$.
 3. If $A_1, A_2, ...$ are disjoint events, then
@@ -40,13 +47,19 @@ Further, similar to with unconditioned probabilities, we have $P(A|B) = 1 - P(A^
 $$
 P(A \cup B | C) = P(A | C) + P(B | C) - P(A \cap B|C).
 $$
+>[!definition] Simpson’s paradox
+>The events $A, B, C$ exhibit **Simpson’s paradox** if we have both 
+>$$
+>P(A | B \cap C) < P(A | B^C \cap C) \quad \text{and} \quad P(A | B^C \cap C) < P(A|B ^C \cap C^C),
+>$$
+> but $P(A|B) > P(A|B^C)$.
 
-**Bayes’ rule** and the **law of total probability**, which follow directly from the definition of conditional probability, allow us to compute conditional probabilities in a wide range of problems.
+$\quad$ Intuitively, Simpson’s paradox occurs when there is “some confounding going on.”
 
 ---
 # Law of total probability
 
->[!abstract] Theorem (Blitzstein & Hwang 2.3.1-2): Probability of an intersection of events
+>[!theorem] Blitzstein & Hwang 2.3.1-2: Probability of an intersection of events
 >As a direct consequence of the definition of conditional probability, we have the following result for an intersection of two events:
 >$$ 
 >P(A \cap B) = P(A|B) \cdot P(B). 
@@ -57,9 +70,9 @@ $$
 >$$
 >where $A_1, …, A_n$ are events with intersection $P(A_1, …, A_n) > 0$. The commas denote intersections (i.e., “and”).
 
-Note that one can permute $A_1,…A_n$ (from B&H, “this is $n!$ theorems in one”); some orderings are more convenient than others.
+$\quad$Note that one can permute $A_1,…A_n$ (from B&H, “this is $n!$ theorems in one”); some orderings are more convenient than others.
 
->[!abstract] Theorem: Law of total probability
+>[!theorem] Law of total probability
 >Suppose $A_1, ..., A_n$ are **mutually exclusive** (i.e., disjoint) and **exhaustive** (i.e., at least one event in the collection must occur) events. Then for any other event $B$, we have 
 >$$
 >\begin{align}
@@ -69,16 +82,16 @@ Note that one can permute $A_1,…A_n$ (from B&H, “this is $n!$ theorems in on
 >$$ 
 >(see [[General definition of probability]] for axioms and properties of probability.)
 
-Equivalently, we require $A_1, …, A_n$ to **partition** the whole set $S$; that is, $A_i \cap A_j = \varnothing$ for all $1 \leq i, j \leq n$ (mutually exclusive), and $S$ is the union of all sets in the collection (exhaustive).
+$\quad$Equivalently, we require $A_1, …, A_n$ to **partition** the whole set $S$; that is, $A_i \cap A_j = \varnothing$ for all $1 \leq i, j \leq n$ (mutually exclusive), and $S$ is the union of all sets in the collection (exhaustive).
 
 ---
 # Bayes’ theorem
 
->[!example] Definition: Bayes’ theorem (reversing the conditioning)
+>[!definition] Bayes’ theorem (reversing the conditioning)
 >If $A_1, ..., A_k$ are **mutually exclusive** and **exhaustive** events, then for any other event $B$, the **posterior probability** of $A_j$ given that $B$ as occurred is 
 >$$ P(A_j|B) =\frac{P(A_j \cap B)}{P(B)} = \frac{P(B|A_j) \cdot P(A_j)}{\sum^k_{i=1}P(B|A_i) \cdot P(A_i)}. $$
 
-We can incorporate “extra conditioning” into Bayes’ theorem using the definition of conditional probability again. Let $P (B \cap E) > 0$. Then
+$\quad$We can incorporate “extra conditioning” into Bayes’ theorem using the definition of conditional probability again. Let $P (B \cap E) > 0$. Then
 $$
 \begin{align}
 P(A | B \cap E) 
@@ -87,18 +100,6 @@ P(A | B \cap E)
 \end{align}.
 $$
 
-
----
-# Paradoxes
-
->[!example] Definition: Simpson’s paradox
->The events $A, B, C$ exhibit **Simpson’s paradox** if we have both 
->$$
->P(A | B \cap C) < P(A | B^C \cap C) \quad \text{and} \quad P(A | B^C \cap C) < P(A|B ^C \cap C^C),
->$$
-> but $P(A|B) > P(A|B^C)$.
-
-Intuitively, Simpson’s paradox occurs when there is “some confounding going on.”
 
 ---
 # Review

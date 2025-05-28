@@ -3,13 +3,13 @@ citekey: 1990anderson
 aliases: 
 tags:
   - literature-note
-  - essential
+  - seminal
 title: book | The Adaptive Character of Thought
 year: 1990
 permalink: 
 publish: 
 date: 2024-09-10
-lastmod: 2025-04-04T12:49:32-04:00
+lastmod: 2025-05-22T15:57:33-04:00
 ---
 > Anderson, J. R. (1990). _The Adaptive Character of Thought_. Psychology Press.
 

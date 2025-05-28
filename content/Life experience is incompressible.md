@@ -38,7 +38,7 @@ As an aside, it seems that acquiring these shared memory examples is quite a con
 ---
 # Related passages
 
-- [[@2001grand]]: “A system will not be intelligent unless it is also alive” (21).
+- [[@2001grandCreation]]: “A system will not be intelligent unless it is also alive” (21).
 
 ---
 # Further reading

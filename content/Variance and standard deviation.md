@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - variance
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -7,12 +8,14 @@ tags:
 status: 
 publish: 
 date: 2024-10-14 10:49
-lastmod: 2024-10-21T10:24:31-04:00
+lastmod: 2025-05-27T15:33:04-04:00
 ---
 - Variance is a metric for measuring edistance between X and mean
 - Why sqrt? Gets back to original units
 
->[!example] Definition: Variance and standard deviation
+#wip 
+
+>[!definition] Variance and standard deviation
 >For a random variable $X$, the **variance** of $X$ is 
 >$$
 >\text{Var}(X) = E(X-EX)^2 = E(X^2) - E(X)^2;

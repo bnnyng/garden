@@ -5,7 +5,7 @@ permalink:
 year: 
 tags:
   - literature-note
-lastmod: 2025-04-14T12:02:45-04:00
+lastmod: 2025-05-15T13:00:42-04:00
 date: 2025-03-08T23:30:20-05:00
 ---
 # Summary
@@ -16,7 +16,7 @@ date: 2025-03-08T23:30:20-05:00
 
 > ***Briefly, why is the research question important to answer?***
 
-- This article investigates whether [[Reinforcement learning|reinforcement learning]] agents can improve performance by learning from other agents, including expert demonstrations.
+- This article investigates whether [[§ Reinforcement Learning|reinforcement learning]] agents can improve performance by learning from other agents, including expert demonstrations.
 
 ---
 # Background
@@ -47,11 +47,14 @@ date: 2025-03-08T23:30:20-05:00
 
 - Agents are trained independently, do not share parameters, and do not have direct access to other agents’ observations or actions.
 - **Experts** are distinguished by their task skill, rather than privileged information about the environment as in previous related work.
-- **Model-based auxiliary loss**
+- Each agent has a **model-based auxiliary loss** that helps agents learn from experts by predicting the next demonstration state, implicitly improving the agent’s ability to model other agents’ policies.
+- A **social learning environment** encourages social learning by making individual exploration difficult and expensive, and introduces **prestige cues** that indicate how well agents perform in the environment to social learners.
 
 >***What data is used?***
 
 >***What are the specific methods and techniques?***
+
+
 
 
 ---
@@ -76,3 +79,6 @@ date: 2025-03-08T23:30:20-05:00
 
 >***What needs to be done in the future?***
 
+- **Other task domains:** The current study focuses on exploratory navigation tasks, but future studies could extend to task domains like manipulation, different expert/novice goals, and more diverse expert strategies.
+- **Different strategies for augmenting solitary with social experience:** Clarifying when adding social experiences could aid solitary task performance, and which algorithms enable this for arbitrary tasks.
+- Predicting performance with prestigue cues. 

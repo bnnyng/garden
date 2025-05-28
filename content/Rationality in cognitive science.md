@@ -1,21 +1,27 @@
 ---
 aliases:
   - rational
+  - rationality
 tags:
   - permanent-note
   - topic-cognitive-science
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-01-22T13:31:34-05:00
+lastmod: 2025-05-27T14:46:45-04:00
 ---
 # Overview
 
-In cognitive science, a study that treats human agents as **rational** assumes that people choose actions in proportion to their *expected utility*. Context-specific operational definitions include:
+$\quad$ **Rationality** is an interdisciplinary principle where people act to maximize their expected utility, reason based on logical rules, and handle uncertainty according to probability theory; notions of rationality exist in philosophy, economics, psychology, neuroscience, linguistics, and political science ([[@2020liederResource]]).
 
-- **Rational pedagogical reasoning**, where the teacher must choose examples that maximize the likelihood of the learner inferring the correct concept (i.e., applying **theory of mind**), and the learner must infer the correct concept given the assumption that the teacher is choosing helpful examples [[@2014shafto]]; 
-- **Rational communication**, where utility of an utterance is determined by reasoning about how it will change the beliefs of a listener in the intended direction [[@2016jara-ettinger]].
+$\quad$In cognitive science, a study that treats human agents as **rational** assumes that people choose actions in proportion to their *expected utility*. Context-specific operational definitions include:
 
-Related: [[Bayesian models of cognition]], [[(Resource-)rational analysis]]
+- **Rational pedagogical reasoning**, where the teacher must choose examples that maximize the likelihood of the learner inferring the correct concept (i.e., applying **theory of mind**), and the learner must infer the correct concept given the assumption that the teacher is choosing helpful examples ([[@2014shafto]]); 
+- **Rational communication**, where utility of an utterance is determined by reasoning about how it will change the beliefs of a listener in the intended direction ([[@2016jara-ettinger]]).
+
+ **Related notes:**
+ - [[Bayesian models of cognition]]
+ - [[(Resource-)rational analysis]]
+ - [[Rational process models of cognition]]
 
 ---
 # Rational models of cognition

@@ -4,9 +4,9 @@ tags:
   - permanent-note
   - topic-humanities
   - PHIL-UN3551
-publish: 
+publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-01-30T12:06:35-05:00
+lastmod: 2025-05-23T12:51:03-04:00
 ---
 
 |                                                                                              | Frequentism                                                                               | Subjectivism                                                                                             | Primitivism                                                                                      |

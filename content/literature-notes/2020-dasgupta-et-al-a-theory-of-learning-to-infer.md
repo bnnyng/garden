@@ -25,7 +25,7 @@ The authors propose that instead of performing domain-general Bayesian approxima
 - **Query** = when data is given to a inference system, which returns the probability of a hypothesis or subset of hypotheses
 - **Base rate neglect** = [[Base rate neglect occurs when people underreact to prior probabilities]]
 - **Conservatism** = [[Conservatism occurs when people underreact to the likelihood of the data]]
-- **Rational process models** = [[Rational process models claim that judgement errors come from approximations of rational reasoning]]
+- **Rational process models** = [[Rational process models of cognition]]
 - **Approximate inference algorithm** = an algorithm that avoids computing the **marginal likelihood**, or denominator in [[Conditional probability and Bayes' theorem|Bayes' rule]]
 	- **Monte Carlo algorithm** = an approximation of the posterior using a finite number of weighted samples
 	- **Markov chain Monte Carlo** = an approximate inference algorithm that generates samples with *uniform weights* from a Markov chain where the distribution that remains unchanged between states (i.e., the **stationary distribution**) is precisely the posterior
@@ -36,7 +36,7 @@ The authors propose that instead of performing domain-general Bayesian approxima
 
 ## Introduction
 
-- Usage of **heuristics** and principled **approximation** of rational judgements are two theories that explain [[Probabilistic reasoning|Bayesian suboptimality]], when people exhibit errors in probabilistic judgement.
+- Usage of **heuristics** and principled **approximation** of rational judgements are two theories that explain [[Probabilistic reasoning and Bayesian inference|Bayesian suboptimality]], when people exhibit errors in probabilistic judgement.
 	- Heuristic models assume that people are able to get feedback on a strategy’s usefulness and perform a cost-benefit analysis.
 	- Rational process models do not explain systematically domain-specific inferential errors.
 - The authors propose a rational process model that performs *approximate recognition* by mapping different queries to [[Conditional probability and Bayes' theorem|posterior probabilities]].

@@ -10,7 +10,7 @@ publish: "true"
 date: 2024-02-01
 lastmod: 2024-02-07T12:11:01-08:00
 ---
-In [[Pragmatic statistics]], **inference** is concerned with understanding a real-world property $\theta$. This can be anything from a causal effect, a classification system for different objects, a regression coefficient, a function, etc. 
+In [[20250523-archive-pragmatic-statistics]], **inference** is concerned with understanding a real-world property $\theta$. This can be anything from a causal effect, a classification system for different objects, a regression coefficient, a function, etc. 
 
 A **point estimate** is a single estimate for the true value of $\theta$.
 

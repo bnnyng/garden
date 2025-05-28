@@ -20,7 +20,7 @@ publish:
 
 Levels of explanation in cognitive science imply that phenomena may be [[Disjoint unions|partitioned]] into levels 
 
-%% %are significant because different phenomena may be described using unique, level-specific principles. Under the classical approach to the brain as an [[Computationalist and connectionist approaches to cognition|information-processing system]], questions and measurements in cognitive science must target the appropriate level of abstraction. 
+%% %are significant because different phenomena may be described using unique, level-specific principles. Under the classical approach to the brain as an [[Computationalist, connectionist, and rational research traditions in cognitive science|information-processing system]], questions and measurements in cognitive science must target the appropriate level of abstraction. 
  %%
 * Depends on computational theory of mind
 * Anders

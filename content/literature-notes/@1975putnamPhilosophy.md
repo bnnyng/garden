@@ -1,15 +1,15 @@
 ---
 citekey: 1975putnamPhilosophy
-aliases:
-  - 
+aliases: 
 tags:
   - literature-note
-title: bookSection | Philosophy and our mental life
+  - seminal
+title: Chapter | Philosophy and our mental life
 year: 1975
 permalink: https://www.cambridge.org/core/books/philosophical-papers/philosophy-and-our-mental-life/45E42DE21692C2050A11E4D5BC16C2E4
 publish: 
 date: 2025-04-16
-lastmod: 2025-04-30T14:15:23-04:00
+lastmod: 2025-05-22T15:58:14-04:00
 ---
 > Putnam, H. (Ed.). (1975). Philosophy and our mental life. In _Philosophical Papers: Volume 2: Mind, Language and Reality_ (Vol. 2, pp. 291–303). Cambridge University Press. [https://doi.org/10.1017/CBO9780511625251.016](https://doi.org/10.1017/CBO9780511625251.016)
 

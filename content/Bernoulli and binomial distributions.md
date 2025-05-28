@@ -12,12 +12,12 @@ tags:
 status: 
 publish: 
 date: 2024-10-14 10:36
-lastmod: 2024-10-14T10:38:40-04:00
+lastmod: 2025-05-27T15:26:27-04:00
 ---
 # Bernoulli distributions
 
 
->[!example] Definition: Bernoulli distribution, indicator random variable
+>[!definition] Bernoulli distribution, indicator random variable
 >We say $X$ has a **Bernoulli distribution with parameter $p$**, denoted $X \sim \text{Bern}(p)$, if $X$ has support $\{ 0, 1 \}$ and there are **success** and **failure** probabilities given, respectively, by
 >$$
 >p(1) = P(X =1) = p \quad \quad \quad p(0) = P(X = 0) = 1-p.

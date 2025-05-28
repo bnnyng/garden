@@ -7,29 +7,29 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
-publish: 
+publish: "true"
 date: 2024-11-12 12:48
-lastmod: 2025-03-02T09:41:55-05:00
+lastmod: 2025-05-22T16:21:01-04:00
 ---
 # Overview
 
 ![[Pasted image 20241112124947.png]]
 *(Image from [[@2024bucknerDeep]].)*
 
-Today, the nativist-empiricist debate in cognitive science is a disagreement over *which* cognitive structures are innate, and which concepts are learned or acquired from experience: [[Nativism and empiricism are two different styles of learning-based explanation, after Laurence and Margolis]].
+$\quad$Today, the nativist-empiricist debate in cognitive science is a disagreement over *which* cognitive structures are innate, and which concepts are learned or acquired from experience: [[Nativism and empiricism are two different styles of learning-based explanation, after Laurence and Margolis]].
 
-Nativism and empiricism are related to [[Computationalist and connectionist approaches to cognition]] by the following: **computationalist** theories depend on a notion of innateness, while **connectionist** theories, despite being technically neutral, take learning to be enabled by “updating” based on experiences alone. An approach that somewhat integrates both sides is to design artificial with innate [[Faculty psychology, after Locke and Hume|psychological faculties]] that are capable of [[Domain specificity and domain generality are graded phenomena, after Laurence and Margolis|domain-general]] learning (see [[Domain-general modular architecture is the best hope for modeling rational cognition in AI, after Buckner]].
+$\quad$Nativism and empiricism are related to [[Computationalist, connectionist, and rational research traditions in cognitive science]] by the following: **computationalist** theories depend on a notion of innateness, while **connectionist** theories, despite being technically neutral, take learning to be enabled by “updating” based on experiences alone. An approach that somewhat integrates both sides is to design artificial with innate [[Faculty psychology, after Locke and Hume|psychological faculties]] that are capable of [[Domain specificity and domain generality are graded phenomena, after Laurence and Margolis|domain-general]] learning (see [[Domain-general modular architecture is the best hope for modeling rational cognition in AI, after Buckner]].
 
 **Related notes:** [[The nativism-empiricism continuum, after Buckner]]
 
 --- 
 # The philosophical debate
 
-**Empiricism** and **nativism** (or **rationalism**) are two opposing viewpoints on knowledge acquisition: 
+$\quad$**Empiricism** and **nativism** (or **rationalism**) are two opposing viewpoints on knowledge acquisition: 
 - **Empiricism:** “All knowledge comes from environmental input via perception”, e.g., Hume (see also: [[The human mind as a tabula rasa, after Aristotle]]); 
 - **Rationalism:** “There is knowledge in the mind that did not come from the senses”; includes *coming to know* via rational faculties (e.g., mathematical knowledge, reasoning from first principles, etc.), e.g., Descartes, Leibniz. 
 
-Many arguments for rational theories (e.g., [[Defenses for Chomsky's theory of innate language faculty|Universal Grammar]]) echo [[Meno's paradox]]. 
+$\quad$Many arguments for rational theories (e.g., [[Defenses for Chomsky's theory of innate language faculty|Universal Grammar]]) echo [[Meno's paradox]]. 
 
 ---
 # The (classical) psychological debate

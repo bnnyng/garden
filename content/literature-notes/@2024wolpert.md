@@ -23,7 +23,7 @@ The mathematician-SMS and universe-SMS—the accepted claims by a far-future com
 
 Further, while evidence in mathematics involves chains of proof-like reasoning, evidence in science involves chains of *brain states* of the scientist that correspond to experimental outcomes or observations. This abstraction reflects the fact that scientists’ interpretations often depend on theories they have previously committed to. Then a scientist’s brain state, or set of claims, is mapped to by the collection of all physical processes in the universe that might have led to it (the preimage of the embedding function); for example, a brain state where the scientist recalls some facts would be mapped to by a set of processes that includes reading the textbook that contains the fact, the publication of that textbook, etc.
 
-The SMS framework is applied to establish the benefit of two heuristics that are not compatible with [[Probabilistic reasoning|Bayesian epistemology]]: stronger belief in a hypothesis with multiple lines of reasoning, and [[Abduction is going from a believed conclusion to requirements for the conclusion to be true, after Peirce|abductive inference]]. 
+The SMS framework is applied to establish the benefit of two heuristics that are not compatible with [[Probabilistic reasoning and Bayesian inference|Bayesian epistemology]]: stronger belief in a hypothesis with multiple lines of reasoning, and [[Abduction is going from a believed conclusion to requirements for the conclusion to be true, after Peirce|abductive inference]]. 
 
 ---
 # Atomic notes

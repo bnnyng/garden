@@ -1,7 +1,6 @@
 ---
 aliases:
   - "#STAT-GU4203"
-  - Probability Theory
 title: Class | Probability Theory
 ---
 # Overview
@@ -41,7 +40,7 @@ SORT lastmod ASC
 
 ![[Bernoulli and binomial distributions#^e0f572]]
 
-#### [[Independent and conditional random variables]]
+#### [[Independent and conditionally independent probabilities]]
 
 ## Expectation
 

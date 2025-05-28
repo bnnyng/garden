@@ -18,7 +18,7 @@ Chomsky’s hierarchy characterizes different complexities of grammar via the co
 
 According to Chomsky, our in-principle ability to detect arbitrarily long distance dependencies shows that we are more computationally powerful than a **finite-state machine**, which can only keep track of finitely many inputs; thus, humans are *not* finite-state machines.
 
-Interestingly, this classical debate in computationalist theory is relevant for evaluating the “cognitive” capacities of [[Computationalist and connectionist approaches to cognition|connectionist]] models, like [[Multilayer perceptrons|feedforward neural networks]], today: it follows from Chomsky’s argument that connectionist models will never achieve human-like cognition.
+Interestingly, this classical debate in computationalist theory is relevant for evaluating the “cognitive” capacities of [[Computationalist, connectionist, and rational research traditions in cognitive science|connectionist]] models, like [[Multilayer perceptrons|feedforward neural networks]], today: it follows from Chomsky’s argument that connectionist models will never achieve human-like cognition.
 
 ---
 # Properties of computation systems

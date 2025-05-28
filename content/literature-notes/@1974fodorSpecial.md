@@ -1,15 +1,15 @@
 ---
 citekey: 1974fodorSpecial
-aliases: []
+aliases: 
 tags:
   - literature-note
-  - essential
+  - seminal
 title: "Essay | Special Sciences (Or: The Disunity of Science as a Working Hypothesis)"
 year: 1974
 permalink: http://www.jstor.org/stable/20114958
 publish: 
 date: 2025-04-16
-lastmod: 2025-04-28T10:02:58-04:00
+lastmod: 2025-05-22T15:57:52-04:00
 ---
 > Fodor, J. A. (1974). Special Sciences (Or: The Disunity of Science as a Working Hypothesis). _Synthese_, _28_(2), 97–115.
 

@@ -10,7 +10,7 @@ lastmod: 2025-02-03T18:25:06-05:00
 # Week 2, Day 1: Chomskyian and Fodorian Nativism Considered
 ---
 
-**[[Computationalist and connectionist approaches to cognition]]**
+**[[Computationalist, connectionist, and rational research traditions in cognitive science]]**
 
 |                            | Computationalism                                                                                                                                            | Connectionism                                                                                                                                                   |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |

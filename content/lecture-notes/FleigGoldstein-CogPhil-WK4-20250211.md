@@ -17,7 +17,7 @@ lastmod: 2025-02-11T15:02:46-05:00
 
 **Is moderate empiricism really moderate?**
 
-- **Moderate empiricism**, as a subset of [[Computationalist and connectionist approaches to cognition|connectionism]], is a sort of “fringe” position in cognitive science, only rising to dominance in the last 10–15 years.
+- **Moderate empiricism**, as a subset of [[Computationalist, connectionist, and rational research traditions in cognitive science|connectionism]], is a sort of “fringe” position in cognitive science, only rising to dominance in the last 10–15 years.
 	- *Question.* $\ \text{}$Given that much of connectionism’s success came about due to material circumstances, is this a good reason to be on board?
 - Barnard and Columbia are predominantly **nativist** (e.g., Ann Senghas is an intellectual descendant of Chomsky); see Dennett, “The logical geography of computational approaches.”
 - Buckner points that **connectionism** is a form of **associationist** psychology that is less extreme than **behaviorism**, which examines only the inputs and outputs of a system without considering innate or internal structure.

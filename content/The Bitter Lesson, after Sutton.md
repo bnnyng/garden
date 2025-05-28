@@ -17,7 +17,7 @@ The **”Bitter Lesson”** is the principle that progress in artificial intelli
 >4. Breakthrough progress eventually arrives by an opposing approach based on scaling computation by **search** and **learning**.
 >This eventual success is tinged with bitterness, and often incompletely digested, because it is success over a favored, human-centric approach.
 
-This coincides with [[@1976newell]]’s definition of intelligence as precisely the ability to search and learn.
+This coincides with [[@1976newellComputer]]’s definition of intelligence as precisely the ability to search and learn.
 
 [[@2024bucknerDeep]] uses Sutton’s argument as an example of a [[The nativism-empiricism continuum, after Buckner|radical empiricist]] view:
 

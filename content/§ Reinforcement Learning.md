@@ -5,20 +5,18 @@ aliases:
   - model-based
 tags:
   - permanent-note
-  - topic-cognitive-science
+  - topic-information-computation-statistics
 date: 2023-12-24
-lastmod: 2025-04-14T11:56:29-04:00
+lastmod: 2025-05-21T15:40:21-04:00
 publish: "true"
 ---
 # Overview
 
-**Reinforcement learning (RL**) is the method of learning from rewards and punishments rather than explicit instructions. Specifically, the agent must learn a **behavioral policy**, or mapping from states to actions, which maximizes cumulative long-term reward. The agent then explores or exploits the state using actions and learns from the resulting rewards. 
+$\quad$**Reinforcement learning (RL**) is the method of learning from rewards and punishments rather than explicit instructions. Specifically, the agent must learn a **behavioral policy**, or mapping from states to actions, which maximizes cumulative long-term reward. The agent then explores or exploits the state using actions and learns from the resulting rewards. 
 
-Reinforcement learning can be divided into **model-free**, attempts to estimate reward values of particular actions directly based on stimulus-response associations (i.e., a value associated with each action), and **model-based**, which leverages internal representations of the task structure to build representations of plans and their expected outcomes to choose between policies.
+$\quad$Reinforcement learning can be divided into **model-free**, attempts to estimate reward values of particular actions directly based on stimulus-response associations (i.e., a value associated with each action), and **model-based**, which leverages internal representations of the task structure to build representations of plans and their expected outcomes to choose between policies.
 
-There are two general approaches to reinforcement learning algorithms: **value-based methods**, like Monte Carlo and [[Temporal difference learning|temporal difference learning]], attempt to learn a value function and then derive a policy, while **policy-gradient methods** directly learn and optimize the parameters of a policy function.
-
-Related: [[Algorithms for simple vs. complex decision problems]]
+$\quad$There are two general approaches to reinforcement learning algorithms: **value-based methods**, like Monte Carlo and [[Temporal difference learning|temporal difference learning]], attempt to learn a value function and then derive a policy, while **policy-gradient methods** directly learn and optimize the parameters of a policy function.
 
 ---
 # Topics
@@ -33,6 +31,10 @@ Related: [[Algorithms for simple vs. complex decision problems]]
 
 - [[Multi-agent reinforcement learning]]
 - [[Intrinsically motivated reinforcement learning]]
+
+#### Miscellaneous
+
+- [[Algorithms for simple vs. complex decision problems]] 
 
 ---
 # Key terms

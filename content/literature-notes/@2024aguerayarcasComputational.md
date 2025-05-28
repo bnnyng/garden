@@ -1,0 +1,36 @@
+---
+citekey: 2024aguerayarcasComputational
+aliases:
+  - Computational Life
+tags:
+  - literature-note
+title: "preprint | Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
+year: 2024
+permalink: https://arxiv.org/abs/2406.19108
+publish:
+date: 2025-02-21
+---
+> Agüera y Arcas, B., Alakuijala, J., Evans, J., Laurie, B., Mordvintsev, A., Niklasson, E., Randazzo, E., & Versari, L. (2024). _Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction_. [https://doi.org/10.48550/ARXIV.2406.19108](https://doi.org/10.48550/ARXIV.2406.19108)
+
+---
+
+# Summary
+
+> [!Abstract]
+>
+> The fields of Origin of Life and Artificial Life both question what life is and how it emerges from a distinct set of "pre-life" dynamics. One common feature of most substrates where life emerges is a marked shift in dynamics when self-replication appears. While there are some hypotheses regarding how self-replicators arose in nature, we know very little about the general dynamics, computational principles, and necessary conditions for self-replicators to emerge. This is especially true on "computational substrates" where interactions involve logical, mathematical, or programming rules. In this paper we take a step towards understanding how self-replicators arise by studying several computational substrates based on various simple programming languages and machine instruction sets. We show that when random, non self-replicating programs are placed in an environment lacking any explicit fitness landscape, self-replicators tend to arise. We demonstrate how this occurs due to random interactions and self-modification, and can happen with and without background random mutations. We also show how increasingly complex dynamics continue to emerge following the rise of self-replicators. Finally, we show a counterexample of a minimalistic programming language where self-replicators are possible, but so far have not been observed to arise.
+>.
+
+
+---
+
+# Atomic notes
+
+---
+
+# Key terms
+
+---
+
+# Reading notes
+

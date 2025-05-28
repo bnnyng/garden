@@ -5,7 +5,7 @@ permalink:
 year: 
 tags:
   - literature-note
-lastmod: 2025-05-04T14:13:14-04:00
+lastmod: 2025-05-15T12:54:41-04:00
 date: 2025-05-04T13:40:12-04:00
 ---
 > Wu, Sarah A., Rose E. Wang, James A. Evans, Joshua B. Tenenbaum, David C. Parkes, and Max Kleiman‐Weiner. “Too Many Cooks: Bayesian Inference for Coordinating Multi‐Agent Collaboration.” _Topics in Cognitive Science_ 13, no. 2 (April 2021): 414–32. [https://doi.org/10.1111/tops.12525](https://doi.org/10.1111/tops.12525).
@@ -73,6 +73,8 @@ date: 2025-05-04T13:40:12-04:00
 
 >***What are the key limitations?***
 
+- Agents cannot recognize when their own specific role in a sub-task is completed.
 
 >***What needs to be done in the future?***
 
+- Incorporating representations like hierarchies, norms, and conventions that enable long-term coordination.

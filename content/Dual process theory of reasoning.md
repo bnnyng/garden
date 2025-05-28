@@ -26,4 +26,4 @@ According to the **dual process theory**, humans are capable of two “systems�
 | Demonstrated by current [[§ Deep Learning\|deep learning]] models | Demonstrated by agents with [[Generalization\|generalized]] ability, like humans |
 
 
-Related: [[Squire's taxonomy of long-term memory|Non-declarative memory]], [[Computationalist and connectionist approaches to cognition|Computationalism vs. connectionism]], [[Global workspace theory]]
+Related: [[Squire's taxonomy of long-term memory|Non-declarative memory]], [[Computationalist, connectionist, and rational research traditions in cognitive science|Computationalism vs. connectionism]], [[Global workspace theory]]

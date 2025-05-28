@@ -1,15 +1,15 @@
 ---
 citekey: 2020lieder
-aliases: []
+aliases: 
 tags:
   - literature-note
-  - essential
+  - seminal
 title: Paper | Resource-Rational Analysis
 year: 2020
 permalink: https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/resourcerational-analysis-understanding-human-cognition-as-the-optimal-use-of-limited-computational-resources/586866D9AD1D1EA7A1EECE217D392F4A
 publish: 
 date: 2024-10-04
-lastmod: 2025-04-04T12:49:56-04:00
+lastmod: 2025-05-22T15:57:45-04:00
 ---
 > Lieder, F., & Griffiths, T. L. (2020). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. _Behavioral and Brain Sciences_, _43_, e1. [https://doi.org/10.1017/S0140525X1900061X](https://doi.org/10.1017/S0140525X1900061X)
 

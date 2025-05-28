@@ -31,10 +31,10 @@ lastmod: 2024-08-14T10:56:44-07:00
 ## Introduction
 
 - MCMC is exponentially expensive in high dimensions and in distributions with many modes.
-- Like [[Reinforcement learning|reinforcement learning]], GFlowNets need a reward function and a deterministic episodic environment.
+- Like [[§ Reinforcement Learning|reinforcement learning]], GFlowNets need a reward function and a deterministic episodic environment.
 	- The GFlowNet objective is to sample approximately in proportion to the given reward function.
 	- GFlowNets use “imagined” experiments to train to generate queries for the real world.
-- GFlowNets do not focus on a small number of high-reward paths like in classic [[Reinforcement learning|reinforcement learning]]; instead, sample randomly from a “broad spectrum” of paths in proportion to their reward—maintains sampling diversity, balances [[Exploration-exploitation tradeoff]].
+- GFlowNets do not focus on a small number of high-reward paths like in classic [[§ Reinforcement Learning|reinforcement learning]]; instead, sample randomly from a “broad spectrum” of paths in proportion to their reward—maintains sampling diversity, balances [[Exploration-exploitation tradeoff]].
 	- Diversity is useful for practical applications, like drug discovery; avoid local minima.
 
 ## Interview

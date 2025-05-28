@@ -1,14 +1,15 @@
 ---
 citekey: 1943mcculloch
-aliases:
-  - 
+aliases: 
 tags:
   - literature-note
-title: "journalArticle | A logical calculus of the ideas immanent in nervous activity"
+  - seminal
+title: Paper | A logical calculus of the ideas immanent in nervous activity
 year: 1943
 permalink: https://doi.org/10.1007/BF02478259
-publish:
+publish: 
 date: 2024-09-10
+lastmod: 2025-05-22T16:08:58-04:00
 ---
 > McCulloch, W. S., & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. _The Bulletin of Mathematical Biophysics_, _5_(4), 115–133. [https://doi.org/10.1007/BF02478259](https://doi.org/10.1007/BF02478259)
 

@@ -5,7 +5,7 @@ tags:
   - topic-cognitive-science
 ---
 
-[Fee & Goldberg (2011)](https://pubmed.ncbi.nlm.nih.gov/22015923/) showed that songbirds learning songs implement [[Reinforcement learning|reinforcement learning]] at the circuit level, which involves individual connections between neurons. They showed the following differences:
+[Fee & Goldberg (2011)](https://pubmed.ncbi.nlm.nih.gov/22015923/) showed that songbirds learning songs implement [[§ Reinforcement Learning|reinforcement learning]] at the circuit level, which involves individual connections between neurons. They showed the following differences:
 
 | Biological system                                                                                 | Machine system             | 
 | ------------------------------------------------------------------------------------------------- | -------------------------- |

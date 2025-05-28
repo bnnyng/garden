@@ -3,13 +3,13 @@ citekey: 1950bourbakiArchitecture
 aliases: 
 tags:
   - literature-note
-  - essential
+  - seminal
 title: Paper | The Architecture of Mathematics
 year: 1950
 permalink: https://www.jstor.org/stable/2305937
 publish: 
 date: 2025-03-25
-lastmod: 2025-04-04T12:49:25-04:00
+lastmod: 2025-05-22T15:57:41-04:00
 ---
 > Bourbaki, N. (1950). The Architecture of Mathematics. _The American Mathematical Monthly_, _57_(4), 221–232. [https://doi.org/10.2307/2305937](https://doi.org/10.2307/2305937)
 

@@ -6,7 +6,7 @@ year:
 tags:
   - literature-note
 ---
-> Carroll, Micah, Rohin Shah, Mark K. Ho, Thomas L. Griffiths, Sanjit A. Seshia, Pieter Abbeel, and Anca Dragan. “On the Utility of Learning about Humans for Human-AI Coordination.” arXiv, January 9, 2020. [https://doi.org/10.48550/arXiv.1910.05789](https://doi.org/10.48550/arXiv.1910.05789).
+> Yoshida, Wako, Ray J. Dolan, and Karl J. Friston. “Game Theory of Mind.” _PLOS Computational Biology_ 4, no. 12 (December 26, 2008): e1000254. [https://doi.org/10.1371/journal.pcbi.1000254](https://doi.org/10.1371/journal.pcbi.1000254).
 
 ---
 # Summary

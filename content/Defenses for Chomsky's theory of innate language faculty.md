@@ -8,16 +8,16 @@ tags:
   - topic-cognitive-science
 publish: 
 date: 2024-09-24 12:17
-lastmod: 2025-02-11T13:59:39-05:00
+lastmod: 2025-05-22T16:01:12-04:00
 ---
 # Overview
 
-Chomsky’s theory of innate knowledge for language is an answer to fundamental questions about the relation between language and human nature. As stated in [[@1994jackendoff]]:
+$\quad$Chomsky’s theory of innate knowledge for language is an answer to fundamental questions about the relation between language and human nature. As stated in [[@1994jackendoff]]:
 
 > - What does human language have to be like to account for the fact that we can all speak and understand a language?
 > - What are the *prerequisites* for language? What do we need in order to be able to talk?
 
-Chomsky’s argument for a **Universal Grammar (UG)** that cannot be acquired by **associative learning** (i.e., [[Computationalist and connectionist approaches to cognition|connectionist]]) models has two horns:
+$\quad$Chomsky’s argument for a **Universal Grammar (UG)** that cannot be acquired by **associative learning** (i.e., [[Computationalist, connectionist, and rational research traditions in cognitive science|connectionist]]) models has two horns:
 - **Poverty of the stimulus:** Humans demonstrate an ability to learn language without sufficient data for an associative learning strategy.
 - **Arbitrarily long-distance dependencies:** Only [[Turing machines|Turing machines]] can capture with unbounded tapes can keep track of arbitrarily long distance dependencies in grammar. Hence **finite state machines** are, in principle, incapable of having human-like **competence** of language.
 
