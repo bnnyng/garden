@@ -6,7 +6,7 @@ tags:
   - topic-humanities
 status: 
 publish: 
-lastmod: 2025-04-20T13:40:58-04:00
+lastmod: 2025-05-29T01:17:40-04:00
 date: 2025-04-20T11:57:49-04:00
 ---
 [[@2020clarke-doaneMorality]] defines **pluralism** about some domain as the following:

@@ -34,7 +34,7 @@ Bayes’ theorem encodes two facts about how beliefs change:
 ---
 # Bayesian suboptimality
 
-Subjective probabilities are Bayesian optimal when they come from taking a weighted average of past events.  However, empirical evidence shows that people deviate from [[Probabilistic reasoning and Bayesian inference|Bayesian optimality]], or have errors in reasoning, in two systematic ways: [[Base rate neglect occurs when people underreact to prior probabilities|base rate neglect]], or underreacting to the prior, and [[Conservatism occurs when people underreact to the likelihood of the data|conservatism]], or underreacting to the likelihood.
+Subjective probabilities are Bayesian optimal when they come from taking a weighted average of past events.  However, empirical evidence shows that people deviate from [[Probabilistic reasoning and Bayesian belief updating|Bayesian optimality]], or have errors in reasoning, in two systematic ways: [[Base rate neglect occurs when people underreact to prior probabilities|base rate neglect]], or underreacting to the prior, and [[Conservatism occurs when people underreact to the likelihood of the data|conservatism]], or underreacting to the likelihood.
 
 One theory of Bayesian suboptimality is that people use heuristics to overcome limits in cognitive processing (e.g., representativeness and availability). On the other hand, [[Rational process models of cognition]] (e.g., hypothesis sampling). These theories are overlapping, as heuristics can be considered approximation methods.
 

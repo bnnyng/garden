@@ -4,7 +4,7 @@ tags:
 ---
 # Schedule
 
-![[2025#May 19 – May 25]]
+![[2025-Q3-WK1-0602-0608#June 2 – June 8]]
 
 ---
 # To do
@@ -17,6 +17,12 @@ tags:
 # Menu
 
 > What other things can I do today that are less important?
+
+## Inbox
+
+- [[2025-mathhum-final-paper]]
+- [[2025-topics-final-project]]
+
 ## Today
 
 - [ ]
@@ -27,11 +33,6 @@ tags:
 
 - [ ] Message Brendan about [[@2024griffithsBayesian]] intro, claims about Bayesian framework vs. nativism/empiricism
 
-[[2025-02-13]]
-
-- [ ] [[PHIL-UN3655|Topics in Cognitive Science and Philosophy]]: Topics to look into
-	- [ ] Akhlaghpour’s model
-	- [ ] The genome as a generative model
 
 ---
 

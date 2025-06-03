@@ -23,7 +23,7 @@ lastmod: 2025-04-14T19:18:56-04:00
 - [[The re-description fallacy for cognitive capacities, after Milliere & Buckner (2024)]]
 - [[Continuous information representations have an advantage over discrete representations, after Smolensky et al. (2022)]]
 - [[Semantic competence is both inferential and referential, after Marconi (1997)]]
-- [[Externalist view of linguistic reference]]
+- [[Externalist view of linguistic reference, after Putnam (1975) and Burge (1979)]]
 - [[Human cultural learning shows a unique ratcheting effect, after Tomasello]]
 
 **Part II: The way forward**

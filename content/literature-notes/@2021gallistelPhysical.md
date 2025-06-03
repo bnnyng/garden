@@ -1,14 +1,14 @@
 ---
-citekey: 2021gallistel
-aliases:
-  - 
+citekey: 2021gallistelPhysical
+aliases: 
 tags:
   - literature-note
-title: "journalArticle | The physical basis of memory"
+title: journalArticle | The physical basis of memory
 year: 2021
 permalink: https://www.sciencedirect.com/science/article/pii/S0010027720303528
-publish:
+publish: 
 date: 2024-11-28
+lastmod: 2025-05-29T10:41:42-04:00
 ---
 > Gallistel, C. R. (2021). The physical basis of memory. _Cognition_, _213_, 104533. [https://doi.org/10.1016/j.cognition.2020.104533](https://doi.org/10.1016/j.cognition.2020.104533)
 

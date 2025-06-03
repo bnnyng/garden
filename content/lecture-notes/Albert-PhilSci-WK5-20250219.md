@@ -19,7 +19,7 @@ lastmod: 2025-02-19T17:21:33-05:00
 
 - Hempel argues that these two conditions—consequence and converse consequence—cannot simultaneously be true.
 	- *Example.* $\ \text{}$ The proposition “all ravens are black” follows from “all ravens are black and all metals expand when heated.” Clearly the **converse consequence condition** holds: confirming the former statement confirms the latter. But observing a black raven confirms also the latter statement, and based on the **consequence condition**, we are committed to confirming “all metals expand when heated,” which is clearly ridiculous. Hence both conditions cannot be simultaneously applied.
-	- Note that [[Probabilistic reasoning and Bayesian inference|Bayesianism]] denies the consequence condition.
+	- Note that [[Probabilistic reasoning and Bayesian belief updating|Bayesianism]] denies the consequence condition.
 	- Upshot: if you adopt both conditions, then *anything* could be confirmed; see also: [[Effectively calculable, recursive, and computable are equivalent descriptions of functions|consistency of formal systems]].
 - Hempel further assumes that any **positive instance** of a hypothesis is confirmatory of the hypothesis and any **negative instance** is **disconfirmatory**, but clearly this cannot be the case.
 	- *Example.* $\ \text{}$”If it is a cockroach, then it is not in my apartment” is a positive proposition that is disconfirmatory.

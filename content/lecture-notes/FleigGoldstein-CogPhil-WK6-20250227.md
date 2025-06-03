@@ -14,7 +14,7 @@ $\ \text{}$
 # Week 6, Day 2: Computational Power
 ---
 
-- Weaker grammars in the [[Chomsky hierarchy of computation systems|Chomsky hierarchy]], e.g., **linear bounded automata**, **pushdown automata**, and **finite state machines**, can be thought of as [[Turing machines|Turing machines]] with more restricted access to the infinite tape.
+- Weaker grammars in the [[Chomsky hierarchy of computation systems|Chomsky hierarchy]], e.g., **linear bounded automata**, **pushdown automata**, and **finite state machines**, can be thought of as [[Turing machines, completeness, and equivalence|Turing machines, completeness, and equivalence]] with more restricted access to the infinite tape.
 	- **Finite state machines** can be considered Turing machines which can read off a tape, but not see what they have written to it.
 - Chomsky specifically focuses on the kind of computational power needed to produce utterances in human language.
 	- In principle, natural language grammar can be used to form sentences with **arbitrarily long-distance dependencies**. Thus, Chomsky argues, humans cannot be computationally equivalent to finite state machines.

@@ -5,26 +5,8 @@ tags:
   - workspace
 publish: 
 date: 2024-08-29 17:56
-lastmod: 2025-05-27T14:23:08-04:00
+lastmod: 2025-06-03T11:16:45-04:00
 ---
-# Associated notes
-
-- [[Gaussian process regression]]
-- [[Stein variational inference]]
-
----
-
-# Resources
-
-- Deisenroth et al. (2020), [“A Practical Guide to Gaussian Processes”](https://infallible-thompson-49de36.netlify.app/)
-
----
-
-# Key biblography
-
-**Rational models of learning and teaching**
-
-- Shafto et al. (2014), “[[@2014shafto|A rational account of pedagogical reasoning]].”
 
 ---
 
@@ -32,7 +14,59 @@ lastmod: 2025-05-27T14:23:08-04:00
 
 - [[20250321-codec-log-archive]]
 
-#### May
+## June
+
+#### Reading notes
+
+| Date       | Cite key                                                                                         | One-line takeaway                                                                                                                  | Technical notes | Discussion                                                                |
+| ---------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------- |
+| 2025-06-03 | [[@2023hoRational]], “Rational simplification and rigidity in human planning”                    |                                                                                                                                    |                 |                                                                           |
+| 2025-06-03 | [[@2016hoFeaturebased]], “Feature-based joint planning and norm learning in collaborative games” | Models norm learning as making inferences about *joint* reward function biases that all agents follow and expect others to follow. |                 | What other factors would enable people to flexibly adopt different roles? |
+
+#### Daily notes
+
+[[2025-06-03]]
+
+**Project parameters**
+
+- **Complementarity:** the ability of an interacting group to flexibly adopt specialized roles while working towards a joint goal.
+- Focusing on the “Completing the First Feedback Loop” section from [[@2024wuGroup]]
+	- “It is less clear how these mechanisms explain the way that groups self-organize into complementary roles over shorter (non-evolutionary) time scales. Reciprocity requires actions to match, while complementarity actually often requires actions to differ in coordinated ways (Fiske, 2000). Distinct profiles of beliefs and knowledge must be distributed throughout the population.”
+		- Is there a useful formalism for this?
+
+## May
+
+#### Reading notes
+
+| Date       | Cite key                                                                                    | One-line takeaway | Technical notes | Discussion points                                                                                                                                                                               |
+| ---------- | ------------------------------------------------------------------------------------------- | ----------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2025-05-27 | [[@2008yoshidaGame]], “Game Theory of Mind”                                                 |                   |                 | An alternative to TOM-dependent optimization is **prosocial utility**, in which players do not make inferences about each other—equivalent equilibrium behavior in altruistically-valued games! |
+| 2025-05-27 | [[@2002camererSophisticated]]                                                               |                   |                 |                                                                                                                                                                                                 |
+| 2025-05-27 | [[@2004camererCognitive]]                                                                   |                   |                 |                                                                                                                                                                                                 |
+| 2025-05-27 | [[@2006traulsenCoevolutionary]], “Coevolutionary dynamics in large, but finite populations” |                   |                 |                                                                                                                                                                                                 |
+| 2025-05-30 | [[@2023hoRational]], “Rational simplification and rigidity in human planning”               |                   |                 |                                                                                                                                                                                                 |
+
+#### Daily notes
+
+[[2025-06-03]]
+
+
+
+[[2025-05-30]]
+
+**New terms**
+
+- **Centralized stochastic games:** players jointly control a single Markov chain with common state and combined actions influencing the transition probability.
+
+**Code notes**
+
+
+**Code edits**
+
+[[2025-05-29]]
+
+- Tom Griffiths tea: doesn’t care about other stuff. “You gamble your career on the level of analysis to care about.”
+	- Really not seeing these as complementary?
 
 [[2025-05-27]]
 
@@ -40,18 +74,47 @@ lastmod: 2025-05-27T14:23:08-04:00
 
 - [ ] How are Bellman equations used—direct computation or “stops changing”? “The optimal value is a solution to the Bellman equation”?
 
-**Project-specific questions**
+**Reading questions**
 
-- [ ] Not sequential games/decision-making, but synchronous?
+- [ ] Don’t think I fully understand the difference between the papers’ models: “Note that ‘steps of strategic thinking’ are not the same as the levels of sophistication in this paper. The sophistication addressed here pertains to the recursive representation of an opponent’s goals, and can be applied to any iterated extensive form game.”
+- [ ] Putting these behavioral economic/game theory models in context of current work in RL, MDPs, etc.?
+- [ ] What do they mean by “pro-social” here?
+- [ ] **Review: How does this relate to the proposed research in computational psych?**
+- [ ] Definition of prosocial here, just inequity aversion?
 
 **Project-specific thoughts**
 
-- Interested in strategic teaching or learning from experts?
+- [ ] Interested in strategic teaching or learning from experts?
+- [ ] Small group coordination, e.g., [[@2024wuGroup]], innovation by recombination, skills and complementarity (flexibly adapting specialized goals or subgoals)
+- [ ] More related to evolutionary game theory (what is this?)
+- [ ] Is there any work that connects Bayes/individual cognition to group-level dynamics/collective intelligence (a la Rob Goldstone)?
 
 **Other notes**
 
 - Further readings for cognitive game theory
 	- Strategic teaching: Camerer CF, Ho TH, Chong JK (2002) Sophisticated experience-weighted attraction learning and strategic teaching in repeated games. J Econ Theory 104: 137–188.
+
+>[!example] Notation
+>- $s_t \in S$: the state of an agent at time or trial $t$.
+>- $n$: the total number of admissible states $|S|$.
+>- $v$: the value of the state defined recursively as $$ v = \ell + \ell P + \ell P^2 + \cdots \to v = \ell + v P(v), $$ where $\ell$ is the utility or payoff. If $n = |S|$, we have row vectors for values over states and payoff in the current state $v, \ell \in \mathbb R^{1 \times n}$, respectively.
+>- $P(v)$: a matrix representing the agent’s policy; under Markov assumptions, the probability of going from state $i$ to $j$ is $P(v)_{ji} = p(s_{t+1} = j | s_t = i, v)$.
+>- $P(0)$: the uncontrolled transition probability matrix, or the “autonomous” transitions that would occur if $v(i) = 0$ for all $i$.
+>- $T$: total number of states in the trajectory.
+
+**Meeting with Mark and Maya**
+
+- Affordances (people have different affordances for the same item?) 
+	- GW with two agents, paying attn to diff affordances (limits?); if you need to coordinate, how to distribute?
+	- When to coordinate? Meeting somewhere, drawing pictures like r/place, basic overcooked, full restaurant coordination
+	- Simulating a restaurant
+- Construals paper 
+- Egg hunt model implementation of Yoshida paper
+
+**Next time**
+- [ ] Fork egg hunt repo and play around
+- [ ] Extra papers sent by Mark
+
 
 2025-05-23
 
@@ -75,7 +138,7 @@ lastmod: 2025-05-27T14:23:08-04:00
 - Next time:
 	- [x] Try with and without GPU (`jax-metal`) and compare time, both with state GP and Maya’s learner model
 
-#### April
+## April
 
 
 
@@ -97,7 +160,7 @@ lastmod: 2025-05-27T14:23:08-04:00
 	- [ ] Change target function to closed form
 	- [ ] Look into rest of model (code on GitHub)
 
-#### March
+## March
 
 [[2025-03-28]]
 

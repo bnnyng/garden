@@ -57,7 +57,7 @@ publish:
 	- Domain-specific intelligence is on a continuum with general intelligence (e.g., chess-playing vs. everyday human intelligence).
 	- Things that are easy for humans are objectively easy, and things that are hard for humans are objectively hard (e.g., perception vs. playing a difficult puzzle).
 	- Researchers uncritically use “wishful” analogies when describing AI performance, such as “reading” texts.
-	- Understanding intelligence and learning is limited to internal phenomena in the brain; Mitchell believes [[Embodied cognition|embodiment]] is an important consideration.
+	- Understanding intelligence and learning is limited to internal phenomena in the brain; Mitchell believes [[4E (embodied, embedded, extended, and enactive) cognition|embodiment]] is an important consideration.
 	- Intelligence can be described without considering the limitations, biases, strategies, and goals of an agent.
 - Mitchell describes three components in her [[Definitions of intelligence]]: representational modeling, ability to affect the external world, and capacity for generalization.
 

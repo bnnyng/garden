@@ -11,7 +11,7 @@ tags:
 status: 
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-05-07T11:37:34-04:00
+lastmod: 2025-05-01T12:21:05-04:00
 ---
 # Overview 
 
@@ -39,7 +39,7 @@ is **exact** at $C_p$ (i.e., $\ker(\partial_p) = \textup{Im}(\partial_{p+1})$) i
 
 ---
 
-# Chain complexes and chain maps
+# Basic definitions
 
 >[!definition] Chain complex
 >A **chain complex** 
@@ -77,6 +77,8 @@ To see that $f_*$ is well-defined, we need to justify the following claims:
 - **The map $f_*$ is a homomorphism:** This follows because every $f_p : B_p \to C_p$ is a homomorphism, so they induce homomorphisms on the quotient.
 
 ![[Topological categories and functors#^0c28bf]]
+
+
 
 
 

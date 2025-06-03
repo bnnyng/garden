@@ -1,15 +1,15 @@
 ---
 citekey: 2003chemero
-aliases:
-  - An Outline of a Theory of Affordances
+aliases: 
 tags:
   - literature-note
+  - seminal
 title: Article | An Outline of a Theory of Affordances
 year: 2003
 permalink: https://doi.org/10.1207/S15326969ECO1502_5
 publish: 
 date: 2024-10-29
-lastmod: 2024-12-01T20:06:37-05:00
+lastmod: 2025-05-30T13:36:38-04:00
 ---
 > Chemero, A. (2003). An Outline of a Theory of Affordances. _Ecological Psychology_, _15_(2), 181–195. [https://doi.org/10.1207/S15326969ECO1502_5](https://doi.org/10.1207/S15326969ECO1502_5)
 
@@ -33,13 +33,12 @@ lastmod: 2024-12-01T20:06:37-05:00
 
 # Key terms
 
->[!example] Key terms from [[@2003chemero]]:
->- **Dispositional property** = a property that unambiguously manifests when paired with an **actualizing circumstance**; for example, “being fragile” is a dispositional property.
->- **Affordance** = a relation between features of the whole environment and abilities of an animal; $\text{Affords-}\phi(\text{feature},\text{ ability})$.
->	- **Ability** = a **functional property** of an animal; the “animal-side relata” in the affordance relation; **functional properties** are properties that are relevant to an animal’s behavioral ecology because they were evolutionarily useful.
->- **Perception** = “a relation between the perceiver and what is being perceived”; $\text{Perceives} [\text{animal}, \text{ affordance-of-}\phi]$.
->- **Ecological niche** = the set of situations in which one or more abilities of the animal can be exercised.
->- **Event** = changes in the layout of affordances in the animal-environment system.
+- **Dispositional property** = a property that unambiguously manifests when paired with an **actualizing circumstance**; for example, “being fragile” is a dispositional property.
+- **Affordance** = a relation between features of the whole environment and abilities of an animal; $\text{Affords-}\phi(\text{feature},\text{ ability})$.
+	- **Ability** = a **functional property** of an animal; the “animal-side relata” in the affordance relation; **functional properties** are properties that are relevant to an animal’s behavioral ecology because they were evolutionarily useful.
+- **Perception** = “a relation between the perceiver and what is being perceived”; $\text{Perceives} [\text{animal}, \text{ affordance-of-}\phi]$.
+- **Ecological niche** = the set of situations in which one or more abilities of the animal can be exercised.
+- **Event** = changes in the layout of affordances in the animal-environment system.
 
 ---
 

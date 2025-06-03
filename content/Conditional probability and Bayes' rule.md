@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Bayes' theorem
   - Bayes' rule
   - reversing the conditioning
   - conditional probability
   - conditioned
-  - exhaustive
   - posterior probability
   - law of total probability
   - probability of the intersection
-  - Simpson's paradox
+  - odds
+  - likelihood ratio
 tags:
   - permanent-note
   - topic-logic-mathematics
@@ -17,25 +16,28 @@ tags:
   - STAT-GU4203
 publish: "true"
 date: 2022-12-21
-lastmod: 2025-05-23T12:48:00-04:00
+lastmod: 2025-05-28T11:42:18-04:00
 status: 🟠
 ---
 # Overview
 
+$\quad$ **Conditional probability** expresses the probability of one event given that another (probabilistic) event has already occurred. **Bayes’ rule** and the **law of total probability**, which follow directly from the definition of conditional probability, allow us to compute conditional probabilities in a wide range of problems.
+
+**Related notes:**
+
+- [[Probabilistic reasoning and Bayesian belief updating]] (a characterization of Bayes’ rule in terms of cognitive belief updating)
+- [[Pragmatic Bayesian modeling]]
+
+---
+
+# Conditional probability
 
 >[!definition] Conditional probability
 >If $A,B$ are events with $P(B) > 0$, then the **conditional probability** of event $A$ given that the **conditioning event** $B$ has occured is given by
 >$$ P(A|B) = \frac{P(A \cap B)}{P(B)}. $$
 
-$\quad$ **Bayes’ rule** and the **law of total probability**, which follow directly from the definition of conditional probability, allow us to compute conditional probabilities in a wide range of problems.
-
- **Related notes:**
- - [[Probabilistic reasoning and Bayesian inference]]
-
----
-# Conditional probability
-
 $\quad$ Conditional probability satisfies the [[General definition of probability|axioms of probability]]:
+
 1. $P(A|B) \leq 1$ 
 2. $P(\mathcal S|B) = P(B|B) = 1$.
 3. If $A_1, A_2, ...$ are disjoint events, then
@@ -44,6 +46,7 @@ P \left(\bigcup_{i=1}^\infty A_i | B \right) = \sum_{i=1}^\infty P(A_i | B).
 $$
 
 Further, similar to with unconditioned probabilities, we have $P(A|B) = 1 - P(A^C | B)$ and 
+
 $$
 P(A \cup B | C) = P(A | C) + P(B | C) - P(A \cap B|C).
 $$
@@ -57,6 +60,7 @@ $$
 $\quad$ Intuitively, Simpson’s paradox occurs when there is “some confounding going on.”
 
 ---
+
 # Law of total probability
 
 >[!theorem] Blitzstein & Hwang 2.3.1-2: Probability of an intersection of events
@@ -85,13 +89,15 @@ $\quad$Note that one can permute $A_1,…A_n$ (from B&H, “this is $n!$ theorem
 $\quad$Equivalently, we require $A_1, …, A_n$ to **partition** the whole set $S$; that is, $A_i \cap A_j = \varnothing$ for all $1 \leq i, j \leq n$ (mutually exclusive), and $S$ is the union of all sets in the collection (exhaustive).
 
 ---
-# Bayes’ theorem
+
+# Bayes’ rule and odds
 
 >[!definition] Bayes’ theorem (reversing the conditioning)
 >If $A_1, ..., A_k$ are **mutually exclusive** and **exhaustive** events, then for any other event $B$, the **posterior probability** of $A_j$ given that $B$ as occurred is 
 >$$ P(A_j|B) =\frac{P(A_j \cap B)}{P(B)} = \frac{P(B|A_j) \cdot P(A_j)}{\sum^k_{i=1}P(B|A_i) \cdot P(A_i)}. $$
 
 $\quad$We can incorporate “extra conditioning” into Bayes’ theorem using the definition of conditional probability again. Let $P (B \cap E) > 0$. Then
+
 $$
 \begin{align}
 P(A | B \cap E) 
@@ -100,8 +106,24 @@ P(A | B \cap E)
 \end{align}.
 $$
 
+$\quad$ Bayes’ rule can also be expressed in **odds**, instead of probability.
+
+>[!definition] Odds of an event
+>The **odds** of an event $A$ are defined by
+>$$
+>\text{odds}(A) = \frac{P(A)}{P(A^c)}, \quad \quad P(A) = \frac{\text{odds}(A)}{1 + \text{odds}(A)}.
+>$$
+
+>[!theorem] Odds form of Bayes’ rule
+>For any events $A, B$ with positive probabilities, the **posterior odds** of $A$ after conditioning on $B$ are
+>$$
+>\frac{P(A|B)}{P(A^c|B)} = \frac{P(B | A)}{P(B|A^c)} \cdot \frac{P(A)}{P(A^c)},
+>$$
+>where the factors in the right-hand expression are called the **likelihood ratio** and **prior odds**, respectively.
+
 
 ---
+
 # Review
 
 ## Definitions

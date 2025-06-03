@@ -1,12 +1,11 @@
 ---
-aliases:
-  - Bayesian delegation
+aliases: []
 tags:
   - permanent-note
   - topic-cognitive-science
 publish: 
 date: 2025-05-04T14:03:10-04:00
-lastmod: 2025-05-15T12:43:10-04:00
+lastmod: 2025-05-28T10:50:02-04:00
 ---
 # Overview
 

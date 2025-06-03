@@ -4,7 +4,7 @@ aliases:
 tags:
   - workspace
 date: <% tp.file.creation_date() %>
-lastmod: 2025-05-23T15:29:06-04:00
+lastmod: 2025-05-29T10:50:59-04:00
 ---
 # References
 
@@ -15,6 +15,13 @@ lastmod: 2025-05-23T15:29:06-04:00
 
 ---
 # Log
+
+[[2025-05-29]]
+
+**Reading shortlist**
+
+- Lakoff, *Where Mathematics Comes From*
+- Ong
 
 [[2025-04-29]]
 

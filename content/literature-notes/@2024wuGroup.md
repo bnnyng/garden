@@ -9,7 +9,7 @@ year: 2024
 permalink: https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00155/124233/Group-Coordination-Catalyzes-Individual-and
 publish: 
 date: 2025-05-04
-lastmod: 2025-05-04T19:13:11-04:00
+lastmod: 2025-06-03T11:11:30-04:00
 ---
 > Wu, C. M., Dale, R., & Hawkins, R. D. (2024). Group Coordination Catalyzes Individual and Cultural Intelligence. _Open Mind_, _8_, 1037–1057. [https://doi.org/10.1162/opmi_a_00155](https://doi.org/10.1162/opmi_a_00155)
 
@@ -26,7 +26,7 @@ lastmod: 2025-05-04T19:13:11-04:00
 
 # Atomic notes
 
-
+- [[Complementarity and recombination in interacting groups form a feedback loop with the fitness landscape for individual intelligence, after Wu et al. (2024)]]
 
 ---
 
@@ -51,7 +51,6 @@ lastmod: 2025-05-04T19:13:11-04:00
 	- **Specialized roles ease cognitive load by making general knowledge inessential for survival:** “First, to the extent that the group develops a wide variety of complementary roles (e.g., butcher, baker, candlestick maker), each individual no longer needs to maintain the entirety of their society’s knowledge in order to survive, thus easing cognitive load and allowing the agent to pursue deeper expertise in specialized domains (Genter et al., 2011; Pradhan et al., 2012).”
 	- **Predictable roles increase efficiency of exchanging social information:** “Second, to the extent that individuals in a group have tacitly agreed on the same representation of complementary roles (i.e., the same decomposition of their task), they may use ToM to track who has expertise in which areas, and thus engage in “on-demand” or “asynchronous” processing to retrieve needed fragments only when relevant (Hollingshead, 2000).”
 	- **Agents trained in interactive group contexts generalize more effectively to individual problem-solving tasks:** “Third, group recombination endows each individual agent with a combinatorially expanded conceptual repertoire (i.e., through combining fragments of other socially observed solutions), facilitating new ways of approaching the problems they individually encounter (Pradhan et al., 2012).”
-
 
 #### Cultural tools give new methods for group-level coordination 
 

@@ -9,10 +9,14 @@ tags:
 > {{bibliography}}
 
 ---
-# Summary
+# Overview
 
->[!example] Key terms
->
+#### Summary
+
+#### Atomic notes
+
+---
+# Key terms
 
 
 ---

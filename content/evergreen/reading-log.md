@@ -1,13 +1,14 @@
 ---
-
 kanban-plugin: board
-lastmod: 2025-05-27T14:30:46-04:00
+lastmod: 2025-05-30T13:36:26-04:00
 date: 2025-02-12T16:40:50-05:00
-
 ---
 
 ## Queue
 
+- [ ] 📚 [[@1984dennettCognitive]], “Cognitive wheels: The frame problem of AI”
+- [ ] 📚 [[@2020papadimitriouBrain]], “Brain computation by assemblies of neurons”
+- [ ] 📚 [[@1944schrodingerWhat]], *What is life?*
 - [ ] 📚 [[@1995mcclellandWhy]], “Why there are complementary learning systems in the hippcampus and the neocortex”
 - [ ] 📚 [[@2024massimiPerspectival]], “The Perspectival Nature of Scientific Representation”
 - [ ] 📚 [[@2020colasLanguage]], “Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration”
@@ -15,7 +16,7 @@ date: 2025-02-12T16:40:50-05:00
 - [ ] 📚 [[@2024mahowaldDissociating]], “Dissociating language and thought in LLMs”
 - [ ] 📚 Barabasi et al., 2023. “[Neuroscience needs network science](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rXYLXJMAAAAJ&sortby=pubdate&citation_for_view=rXYLXJMAAAAJ:NXjrwPNzFTMC)”
 - [ ] 📚 Papadimitriou et al., 2020. “[Brain computation by assemblies of neurons](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rXYLXJMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=rXYLXJMAAAAJ:sYWh8IhQ1GMC)”
-- [ ] 📚 [[@2022akhlaghpour]], “An RNA-Based Theory of Natural Universal Computation”
+- [ ] 📚 [[@2022akhlaghpourRNABased]], “An RNA-Based Theory of Natural Universal Computation”
 - [ ] 📚 [[@2021anthropic]], “A mathematic framework for transformer circuits”
 - [ ] 📚 [[@1994sims]], “Evolving 3D Morphology and Behavior by Competition”
 - [ ] 📚 [[@2013cheney]], “Unshackling Evolution: Evolving Soft Robots with Multiple Materials and a Powerful Generative Encoding”
@@ -54,15 +55,15 @@ date: 2025-02-12T16:40:50-05:00
 	Notes: Tenenbaum, Goodman
 - [ ] 📚 [[@2025hafnerMastering]], “Mastering diverse control tasks using world models”
 - [ ] 📚 [[@2011aaronson]], “Why Philosophers Should Care About Computational Complexity”
-- [ ] 📚 [[@1980cartwright]], “The Reality of Causes in a World of Instrumental Laws”
 - [ ] 📚 [[@2022lecun]], “A Path Towards Autonomous Machine Intelligence”
 - [ ] 📚 [[@2023poesia]], “Peano: Learning Formal Mathematical Reasoning”
-- [ ] 📚 [[@2021gallistel]], “The physical basis of memory”
+- [ ] 📚 [[@2021gallistelPhysical]], “The physical basis of memory”
 - [ ] 📚 Cushman (2020), “Rationalization is rational”
 
 
 ## Unprocessed
 
+- [ ] 📚 [[@2009gallagherMental]], “Mental institutions”
 - [ ] 📚 [[@2024aguerayarcasComputational]], “Computational Life: How Self-Replicating Programs Emerge from Simple Interaction”
 - [ ] 📚 [[@1950bourbakiArchitecture]], “The Architecture of Mathematics”
 - [ ] 📚 [[@1995rosen]], “Effective processes and natural law”
@@ -79,6 +80,9 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Inbox
 
+- [ ] [[The parity principle for extended cognition, after Clark and Chalmers (1998)]]
+	
+	Source: [[@2009gallagherMental]]
 - [ ] [[Cognitive world models]]
 - [ ] [[Mathematical structure]]
 	
@@ -127,6 +131,16 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Someday
 
+- [ ] [[Combinatory logic and lambda-calculus]]
+	
+	Source: [[@2022akhlaghpourRNABased]]
+- [ ] [[The Turing test]]
+	
+	Source: [[@2020proudfootRethinking]]
+- [ ] [[Active externalism includes both neuronal and environmental structures as physical bases of cognition, after Clark and Chalmers (1998)]]
+	
+	Source: [[@1998clarkExtended]]
+- [ ] [[Pragmatic Bayesian modeling]]
 - [ ] [[The method of hypothesis and problems of indiscriminate confirmation]], combined with [[(Resource-)rational analysis]]
 - [ ] [[Bayesian inference]]
 	
@@ -238,7 +252,7 @@ date: 2025-02-12T16:40:50-05:00
 - [ ] [[The standard model]]
 	
 	Source: [[MATH-GU4200|Mathematics and the Humanities]]
-- [ ] [[Turing machines]]
+- [ ] [[Turing machines, completeness, and equivalence]]
 - [ ] [[Inference to the best explanation]]
 	
 	Source: [[PHIL-UN3551|Philosophy of Science]]

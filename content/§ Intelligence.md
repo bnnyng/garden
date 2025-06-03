@@ -19,9 +19,9 @@ title: §  Intelligence
 
 ## Embodiment and situatedness
 
-- [[Embodied cognition]]
-	- [[Simple embodied cognition assumes that cognitive systems are designed to operate on a physical world]]
-	- [[Radical embodiment claims that the mind cannot be meaningfully studied in isolation from the physical world]]
+- [[4E (embodied, embedded, extended, and enactive) cognition]]
+	- [[Simple vs. radical embodied cognition, after Clark]]
+	- [[Simple vs. radical embodied cognition, after Clark]]
 
 ## Society and collective intelligence
 

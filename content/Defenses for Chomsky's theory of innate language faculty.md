@@ -19,7 +19,7 @@ $\quad$Chomsky’s theory of innate knowledge for language is an answer to funda
 
 $\quad$Chomsky’s argument for a **Universal Grammar (UG)** that cannot be acquired by **associative learning** (i.e., [[Computationalist, connectionist, and rational research traditions in cognitive science|connectionist]]) models has two horns:
 - **Poverty of the stimulus:** Humans demonstrate an ability to learn language without sufficient data for an associative learning strategy.
-- **Arbitrarily long-distance dependencies:** Only [[Turing machines|Turing machines]] can capture with unbounded tapes can keep track of arbitrarily long distance dependencies in grammar. Hence **finite state machines** are, in principle, incapable of having human-like **competence** of language.
+- **Arbitrarily long-distance dependencies:** Only [[Turing machines, completeness, and equivalence|Turing machines, completeness, and equivalence]] can capture with unbounded tapes can keep track of arbitrarily long distance dependencies in grammar. Hence **finite state machines** are, in principle, incapable of having human-like **competence** of language.
 
 BFG: “Should not get cognitive science degree without understanding Chomsky’s points.”
 

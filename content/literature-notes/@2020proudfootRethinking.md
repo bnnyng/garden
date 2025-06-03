@@ -1,7 +1,6 @@
 ---
 citekey: "[@2020proudfoot]"
-aliases:
-  - Rethinking Turing's Test
+aliases: []
 tags:
   - literature-note
 title: Paper | Rethinking Turing's Test and the Philosophical Implications
@@ -9,7 +8,7 @@ year: 2020
 permalink: https://philarchive.org/rec/PRORTT-3
 publish: 
 date: 2024-09-10
-lastmod: 2024-10-03T12:02:04-04:00
+lastmod: 2025-05-29T13:00:42-04:00
 ---
 > Proudfoot, D. (2020). Rethinking Turing’s Test and the Philosophical Implications. _Minds and Machines_, _30_(4), 487–512. [https://doi.org/10.1007/s11023-020-09534-7](https://doi.org/10.1007/s11023-020-09534-7)
 

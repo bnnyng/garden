@@ -1,13 +1,12 @@
 ---
 aliases:
   - Bayesian model
-  - Bayesian inference
 tags:
   - permanent-note
   - topic-cognitive-science
 publish: 
 date: 2024-02-22 15:20
-lastmod: 2025-05-23T15:52:31-04:00
+lastmod: 2025-05-28T10:49:35-04:00
 ---
 # Overview 
 
@@ -15,13 +14,14 @@ $\quad$Bayesian models of cognition formalize [[Rationality in cognitive science
 
 $\quad$The Bayesian framework focuses on a specific type of abstract human knowledge: **probabilistic generative world models**, which represent the latent processes that “generate” observed events while inherently accommodating uncertainty.
 
-$\quad$ Methodologically, the Bayesian framework in cognitive science research investigates the [[The problem of induction|problem of induction]] in individual minds using a **top-down** **reverse-engineering** approach, giving a comprehensive mathematical framework that models the behavior of a rational agent using Bayesian updating. Creating a Bayesian model involves first specifying the [[Classical levels of cognitive theory|computational-level]] problem that the mind is solving, then using [[Conditional probability and Bayes' theorem|Bayes' rule]] to predict ideal solutions that can then be compared against human behavior. 
+$\quad$ Methodologically, the Bayesian framework in cognitive science research investigates the [[The problem of induction|problem of induction]] in individual minds using a **top-down** **reverse-engineering** approach, giving a comprehensive mathematical framework that models the behavior of a rational agent using Bayesian updating. Creating a Bayesian model involves first specifying the [[Classical levels of cognitive theory|computational-level]] problem that the mind is solving, then using [[Conditional probability and Bayes' rule|Bayes' rule]] to predict ideal solutions that can then be compared against human behavior. 
 
 $\quad$Importantly, the Bayesian framework is not a *mechanistic* model of mental processes, but tool for predicting how agents will behave in different situations and giving *clues* about their implicit assumptions and representations. Thus, the framework is *not* *falsifiable*, although specific theories that follow the framework can be tested and disconfirmed; instead, the Bayesian framework is evaluated based on its utility in producing meaningful explanations about (human) cognition.
 
 **Related notes:**
-- [[Conditional probability and Bayes' theorem]]
-- [[Probabilistic reasoning and Bayesian inference]]
+- [[Conditional probability and Bayes' rule]]
+- [[Probabilistic reasoning and Bayesian belief updating]]
+- [[Pragmatic Bayesian modeling]]
 - [[(Resource-)rational analysis]]
 
 ---

@@ -6,7 +6,11 @@ tags:
   - moc
 publish: 
 date: 2025-05-27T15:26:48-04:00
-lastmod: 2025-05-27T15:48:39-04:00
+lastmod: 2025-05-28T10:41:09-04:00
+---
+
+**See also:** [[§ Bayesian Statistics]]
+
 ---
 # Topics
 
@@ -17,18 +21,19 @@ lastmod: 2025-05-27T15:48:39-04:00
 
 ## Conditional probability
 
-- [[Conditional probability and Bayes' theorem]]
+- [[Conditional probability and Bayes' rule]]
 - [[Independent and conditionally independent probabilities]]
 
 ## Random variables and probability distributions
 
 - [[Discrete random variables and probability mass functions]]
-- [[Variance and standard deviation]]
+- [[Expected value, variance, and standard deviation]]
 - [[Bernoulli and binomial distributions]]
 - [[Poisson distribution]]
 
 **Theorems:**
 - [[(Theorem) Poisson approximation to binomial]]
+
 
 ---
 # Probability distribution cheat sheet

@@ -17,7 +17,7 @@ Related: [[All models are wrong, but some are useful, after Box]]
 - Computation – MuCulloch-Pitts, [[Multilayer perceptrons|perceptrons]], artificial neural networks
 - [[Memory]] – Hopfield networks
 - Sensory experience – [[Convolutional neural network|convolutional neural networks]] (sight)
-- Decision-making – probability and [[Probabilistic reasoning and Bayesian inference|Bayesian optimal reasoning]]
+- Decision-making – probability and [[Probabilistic reasoning and Bayesian belief updating|Bayesian optimal reasoning]]
 - Learning from reward – temporal difference, reinforcement learning
 
 ---

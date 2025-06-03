@@ -29,4 +29,4 @@ In the “standard” view of [[§ Reinforcement Learning|reinforcement learning
 
 2023-12-29
 
-- This seems to be the opposite problem of [[Embodied cognition|embodiment]] in ML; the former is about putting the computation “inside” the agent, the latter is about extending cognition beyond the individual.
+- This seems to be the opposite problem of [[4E (embodied, embedded, extended, and enactive) cognition|embodiment]] in ML; the former is about putting the computation “inside” the agent, the latter is about extending cognition beyond the individual.

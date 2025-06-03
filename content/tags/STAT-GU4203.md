@@ -44,13 +44,13 @@ SORT lastmod ASC
 
 ## Expectation
 
-#### [[Expected value]]
+#### [[Expected value, variance, and standard deviation]]
 
-![[Expected value#^3fd087]]
+![[Expected value, variance, and standard deviation#^3fd087]]
 
-![[Expected value#^1fe688]]
+![[Expected value, variance, and standard deviation#^1fe688]]
 
-#### [[Variance and standard deviation]]
+#### [[Expected value, variance, and standard deviation]]
 
 ---
 # Notes

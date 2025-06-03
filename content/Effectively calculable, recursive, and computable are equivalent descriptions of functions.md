@@ -28,7 +28,7 @@ The following are equivalent ways to interpret the statements made in a **formal
 
 - **Effective (decidable) functions:** An intuitive notion, used in the context of [[Undecidability and incompleteness theorems|Godel’s theorems]]. The set of formulas that are **effectively enumerable**, meaning that there exists a **mechanical procedure**—an **algorithm**—for producing the entire set. Such formulas are called **provable formulas**.
 - **Recursive functions:** “The intersection of **partial functions** that includes some ‘initial functions’ and is closed under additional operations.”
-- **Computable functions:** The set of functions that can be computed by a [[Turing machines|Turing machine]], a mathematical precisification of the concept “human effectively computable” by means of an “apparatus” with a reader, an infinite tape, and a simple set of instructions.
+- **Computable functions:** The set of functions that can be computed by a [[Turing machines, completeness, and equivalence|Turing machine]], a mathematical precisification of the concept “human effectively computable” by means of an “apparatus” with a reader, an infinite tape, and a simple set of instructions.
 
 ---
 # Reading notes

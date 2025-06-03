@@ -25,7 +25,7 @@ In this book section, Dennett explains basic concepts of computing machines to p
 # Key terms
 
 - **Register machine** = an idealized computer introduced by philosopher Hao Wang which consists of **registers**, or memory locations with unique addresses, and a **processing unit** that has three abilities: *end* the program, *increment* the contents of a register, and *decrement or branch* a register depending on if the contents are empty.
-- **Universal Turing machine** = a program that can “read” the unique identifier of second program and execute it (main page: [[Turing machines]]).
+- **Universal Turing machine** = a program that can “read” the unique identifier of second program and execute it (main page: [[Turing machines, completeness, and equivalence]]).
 - **Software** = a systematic list of instructions create an imaginary machine, which may or may not imitate physical hardware (i.e., a **real machine**).
 - **Virtual machine** = software that “turns a general-purpose computer into a special-purpose machine that could have been designed and wired up as hardware.”
 - **Algorithm** = a “formal process that can be counted on—logically—to yield a certain sort of result whenever it is ‘run’ or instantiated.”
@@ -46,7 +46,7 @@ In this book section, Dennett explains basic concepts of computing machines to p
 3. “Since a number in a register can stand for anything, this means that the register machine can, in principle, be designed to “notice” anything, to “discriminate” any pattern or feature that can be associated with a number—or a number of numbers.”
 	- **Conditional branching is a [[Cognitive signposts|signpost]] in program execution that enables self-reference and self-”reflection”:** “Thanks to the basic “sensory” power embodied in Deb—its capacity to “notice” a zero when it tries to decrement a register—we can turn the register machine’s “eyes” in on itself, so it can examine its own registers, moving contents around and switching operations depending on what it finds where.
 4. **Computers *sorta* read:** “Since a number can stand for anything, a number can stand for an instruction or an address.”
-5. “All possible programs can be given a unique number as a name, which can then be treated as a list of instructions to be executed by a Universal machine” (see [[@1936turing]], obviously).
+5. “All possible programs can be given a unique number as a name, which can then be treated as a list of instructions to be executed by a Universal machine” (see [[@1936turingOn]], obviously).
 6. “All the improvements in computers since Turing invented his imaginary paper-tape machine are simply ways of making them faster.”
 7. “There are no more secrets!”
 

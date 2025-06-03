@@ -8,12 +8,13 @@ aliases:
   - state value function
   - Bellman equation
   - planning
+  - transition function
 tags:
   - permanent-note
   - topic-information-computation-statistics
 publish: "true"
 date: 2024-10-25 09:42
-lastmod: 2025-05-27T15:09:33-04:00
+lastmod: 2025-06-03T10:14:01-04:00
 ---
 # Overview
 
@@ -67,10 +68,11 @@ $\quad$ For a given MDP, a **policy** $\pi$ represents the behavior of a decisio
 $\quad$ The policy **prediction** problem is to calculate the **state value function**, or expected return, from every state that results from following a *fixed* policy $\pi$. 
 
 >[!definition] Equation: State value
+>The **value** of a state $s$ under policy $\pi$ is given by the expected return (i.e., cumulative discounted reward) conditioned on starting at state $s_0 = s$ and following $\pi$ thereafter:
 >$$
 >v_\pi(s) = \mathbb{E}_{\pi, T}\left[ \sum_{t=0}^{\infty} \gamma^{t} r_t \mid s_0 = s\right],
 >$$
->where $\gamma \in (0, 1]$ is a **discount rate**.
+>where $r_t = R(s_t, a_t, s_{t+1})$ is the reward at $t$ with action given by the policy $a_t \sim \pi(\cdot | s_t)$ and next state given by transition dynamics $s_{t+1} \sim T(\cdot | s_t, a_t)$, and $\gamma \in (0, 1]$ is the discount rate.
 
 $\quad$ The **Monte Carlo policy prediction** algorithm calculates $v_\pi$ by repeatedly sampling trajectories and averaging returns. 
 
@@ -155,6 +157,13 @@ where $\mathbf 1[P] = 1$ if $P$ is true and $0$ otherwise, thus $\sum_a \pi_*(a 
 #### Partially observable MDPs
 
 ![[Pasted image 20250527150923.png]]
+
+
+#### Stochastic games
+
+[[@2016hoFeaturebased]]
+
+![[Pasted image 20250603095020.png|300]]
 
 #### Multi-agent MDPs
 

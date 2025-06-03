@@ -4,7 +4,7 @@ tags:
   - workspace
 publish: 
 date: 2024-10-10T08:59:12-04:00
-lastmod: 2025-05-23T17:27:54-04:00
+lastmod: 2025-05-28T17:39:19-04:00
 ---
 # Coursework
 
@@ -68,6 +68,8 @@ lastmod: 2025-05-23T17:27:54-04:00
 	- Add probability and decision theory
 	- Drop all math besides AlgTop
 	- Add symbolic logic, inspiration here? https://www.illc.uva.nl/
+- Other classes?
+	- CS: Causal Inference, Computational Complexity
 
 [[2025-04-29]] – Course registration thoughts
 - Grad Algebraic Topology – want to get some sense of higher-level mathematical instruction/reasoning

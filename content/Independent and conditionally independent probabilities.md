@@ -15,7 +15,7 @@ lastmod: 2024-09-30T10:46:35-04:00
 >$$
 >P(A \cap B) = P(A) P(B).
 >$$
->If $P(A), P(B) >0$, then this is equivalent to their [[Conditional probability and Bayes' theorem|conditional probabilities]] satisfying 
+>If $P(A), P(B) >0$, then this is equivalent to their [[Conditional probability and Bayes' rule|conditional probabilities]] satisfying 
 >$$
 >P(A | B) = P(A) \quad \quad \quad P(B | A) = P(B).
 >$$

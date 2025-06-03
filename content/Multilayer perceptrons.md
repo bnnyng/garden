@@ -18,7 +18,7 @@ A multilayer perceptron, sometimes called a feedforward network, is a model whic
 
 In the [[§ Deep Learning|deep learning]] approach, the model output is given by  $$ y = f(x; \theta,w) = \phi(x; \theta)^{\top}w, $$ where $\phi$ is a nonlinear function called a hidden layer. The parameters $\theta$ specify $\phi$ from a family of functions, and the weights $w$ are used to map $\phi(x)$ to the desired output $y$.
 
-Feedforward neural networks are equivalent to **finite state machines** (see also: [[Turing machines]], Chomsky hierarchy).
+Feedforward neural networks are equivalent to **finite state machines** (see also: [[Turing machines, completeness, and equivalence]], Chomsky hierarchy).
 
 ---
 # Key terms

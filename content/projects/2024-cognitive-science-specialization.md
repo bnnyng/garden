@@ -21,7 +21,7 @@ lastmod: 2024-08-15T09:39:03-07:00
 	- **Nonlinear dynamical systems theory (NDST)** = mathematical study for variables that change over time (Strogatz, 2015; Tuller, Case, Ding, & Kelso 1994)
 	- **Synergetics** = general principles for systems that have “spontaneous processes and structures” found by investigating “contextually defined macroscopic and microscopic spatial and temporal features”
 - Examples of the utility of complexity science
-	- Experimental investigation of [[Embodied cognition|embodied cognition]], e.g., assessing if extended systems have the same nonlinearity and self-organization of single functional systems
+	- Experimental investigation of [[4E (embodied, embedded, extended, and enactive) cognition|embodied cognition]], e.g., assessing if extended systems have the same nonlinearity and self-organization of single functional systems
 	- Neuronal avalanches
 	- Energy requirements for artificial vs. biological cognition
 - Follow-up citations

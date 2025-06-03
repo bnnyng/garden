@@ -1,9 +1,6 @@
 ---
-citekey: "[@1999clark]"
-aliases:
-  - An embodied cognitive science?
-  - Clark (1999)
-  - Clark, 1999
+citekey: 
+aliases: 
 tags:
   - literature-note
 title: Paper | An embodied cognitive science?
@@ -11,7 +8,7 @@ year: 1999
 permalink: https://doi.org/10.1016/S1364-6613(99)01361-3
 publish: "true"
 date: 2022-10-20
-lastmod: 2024-08-16T14:23:36-07:00
+lastmod: 2025-05-28T16:32:06-04:00
 ---
 >"Clark, A. (1999). An embodied cognitive science? _Trends in Cognitive Sciences_, _3_(9), 345–351. [https://doi.org/10.1016/S1364-6613(99)01361-3](https://doi.org/10.1016/S1364-6613(99)01361-3)"
 
@@ -27,13 +24,14 @@ The author describes the difference between two different approaches to facts ab
 - [[Representation-hungry systems maintain complex internal states and perform offline computations linearly]]
 - [[Dynamic coupling model of cognition]]
 - [[Human cognition depends on artifact and culture]]
+- [[Simple vs. radical embodied cognition, after Clark]]
 
 ---
 # Key terms
 
 - **Adaptive coupling** = when a system develops a mechanism to track the behavior of another system (typically an evolved mechanism in animals).
-- **Simple embodiment** = [[Simple embodied cognition assumes that cognitive systems are designed to operate on a physical world|approaching facts about embodiment as rules for a theory about information processing]].
-- **Radical embodiment** = [[Radical embodiment claims that the mind cannot be meaningfully studied in isolation from the physical world|an approach where the mind cannot be meaningfully studied in isolation from the physical world]]
+- **Simple embodiment** = [[Simple vs. radical embodied cognition, after Clark|approaching facts about embodiment as rules for a theory about information processing]].
+- **Radical embodiment** = [[Simple vs. radical embodied cognition, after Clark|an approach where the mind cannot be meaningfully studied in isolation from the physical world]]
 - **Deictic pointer** = a physical action that has the *functional role* of binding computational memory/output to a feature of the external world.
 
 ---

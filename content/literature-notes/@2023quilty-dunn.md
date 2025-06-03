@@ -19,7 +19,7 @@ lastmod: 2024-10-29T16:14:27-04:00
 
 >We think that LoTH is indispensible to a computational account of the mind. … Our claim is somewhat modest: Many representational formats across many cognitive systems are LoTs.
 
-This article builds upon previous definitions of [[The language-of-thought-hypothesis|language-of-thought]] by defining six key properties on which a representational format can be assessed for “how LoT-like it is.” The authors argue that the LoTH is “the best game in town,” meaning it is the most plausible explanation for a wide variety of empirical results about biological minds including [[Probabilistic reasoning and Bayesian inference|probabilistic inference]], concept acquisition, [[Dual process theory of reasoning|System 1]] cognition, object-based and relational perceptual processing, and reasoning in infants and animals. 
+This article builds upon previous definitions of [[The language-of-thought-hypothesis|language-of-thought]] by defining six key properties on which a representational format can be assessed for “how LoT-like it is.” The authors argue that the LoTH is “the best game in town,” meaning it is the most plausible explanation for a wide variety of empirical results about biological minds including [[Probabilistic reasoning and Bayesian belief updating|probabilistic inference]], concept acquisition, [[Dual process theory of reasoning|System 1]] cognition, object-based and relational perceptual processing, and reasoning in infants and animals. 
 
 ---
 

@@ -6,7 +6,7 @@ tags:
   - topic-cognitive-science
 publish: 
 date: 2025-04-14T18:45:34-04:00
-lastmod: 2025-04-14T18:59:03-04:00
+lastmod: 2025-05-28T16:27:46-04:00
 ---
 # Definitions of world models
 
@@ -21,3 +21,8 @@ lastmod: 2025-04-14T18:59:03-04:00
 #### Formal
 
 - [[@2023wongTranslating]]: “A probabilistic generative model that captures key mechanics of a domain and facilitates coherent, causal explanations of events”; part of a [[Rationality in cognitive science|rational]] model of cognition. 
+
+---
+# Selected passages and quotations
+
+- Rodney Brooks: “The world is its own best model.”o

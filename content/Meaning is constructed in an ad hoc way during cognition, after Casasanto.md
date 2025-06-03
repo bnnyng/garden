@@ -12,4 +12,4 @@ Daniel Casasanto, professor of psychology and human development, [argues](https:
 
 Words do not have “core meanings” because their usage is flexible and subject to context-dependent nuances. The context around a word cues a specific pattern of neuro-cognitive activity that produces to our understanding of the word—the contextual meaning of a word is physically reflected in the brain! Language learning, which involves arbitrary connections between symbols and meanings, is an example of our capacity for flexible cognition. 
 
-Experiments using transcranial magnetic stimulation have shown that impairing motor regions impairs understanding of relevant words, suggesting that meaning is related to [[Embodied cognition|embodied actions]].
+Experiments using transcranial magnetic stimulation have shown that impairing motor regions impairs understanding of relevant words, suggesting that meaning is related to [[4E (embodied, embedded, extended, and enactive) cognition|embodied actions]].
