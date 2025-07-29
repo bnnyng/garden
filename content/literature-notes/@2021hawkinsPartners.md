@@ -32,7 +32,7 @@ date: 2025-05-04T19:14:27-04:00
 > ***What are the main theories in the literature? Is there anything missing or problematic?***
 
 - Many computational accounts of the emergence of **stable social conventions** involve groups of agents which update their language representation after each interaction, which does not address **partner-specific** or **local flexibility**.
-- Theories of partner-level alignment (e.g., Donald Davidson) do not specify mechanisms for emergence of community-level [[Conventions are stable but arbitrary solutions to repeated coordination problems, after Lewis|conventions]]. 
+- Theories of partner-level alignment (e.g., Donald Davidson) do not specify mechanisms for emergence of community-level [[Conventions are stable but arbitrary solutions to repeated coordination problems, after Lewis (1969)|conventions]]. 
 
 >***What is the empirical evidence? Is there anything missing or problematic?***
 

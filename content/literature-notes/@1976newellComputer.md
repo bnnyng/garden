@@ -16,7 +16,7 @@ lastmod: 2025-05-22T15:58:23-04:00
 ---
 # Summary
 
-$\quad$In this article, Simon and Newell argue that [[§ Intelligence|intelligence]] can be defined as the ability to generate and test solutions—that is, the ability to *search* and *identify* (compare to [[Meno's paradox]]). Thus, to determine if something is intelligent, we need a set of necessary conditions for this ability. For Simon and Newell, these necessary conditions are satisfied by a **physical symbol system**.
+$\quad$In this article, Simon and Newell argue that [[Intelligence|intelligence]] can be defined as the ability to generate and test solutions—that is, the ability to *search* and *identify* (compare to [[Meno's paradox]]). Thus, to determine if something is intelligent, we need a set of necessary conditions for this ability. For Simon and Newell, these necessary conditions are satisfied by a **physical symbol system**.
 
 ---
 
@@ -48,7 +48,7 @@ $\quad$In this article, Simon and Newell argue that [[§ Intelligence|intelligen
 
 ## On intelligence, in general
 
->We measure the [[§ Intelligence|intelligence]] of a system by its ability to achieve stated ends in the face of variations, difficulties, and complexities posed by the task environment.
+>We measure the [[Intelligence|intelligence]] of a system by its ability to achieve stated ends in the face of variations, difficulties, and complexities posed by the task environment.
 
 - **Intelligence is a primary concern of computer science:** “All information is processed by computers in service of ends, and we measure the intelligence of a system by its ability to achieve stated ends in the face of variations, difficulties, and complexities posed by the task environment.”
 

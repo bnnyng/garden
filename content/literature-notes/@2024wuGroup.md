@@ -1,15 +1,14 @@
 ---
 citekey: 2024wuGroup
-aliases:
-  - 
+aliases: 
 tags:
   - literature-note
-title: journalArticle | Group Coordination Catalyzes Individual and Cultural Intelligence
+title: Paper | Group Coordination Catalyzes Individual and Cultural Intelligence
 year: 2024
 permalink: https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00155/124233/Group-Coordination-Catalyzes-Individual-and
 publish: 
 date: 2025-05-04
-lastmod: 2025-06-03T11:11:30-04:00
+lastmod: 2025-07-16T13:13:57-04:00
 ---
 > Wu, C. M., Dale, R., & Hawkins, R. D. (2024). Group Coordination Catalyzes Individual and Cultural Intelligence. _Open Mind_, _8_, 1037–1057. [https://doi.org/10.1162/opmi_a_00155](https://doi.org/10.1162/opmi_a_00155)
 
@@ -27,6 +26,7 @@ lastmod: 2025-06-03T11:11:30-04:00
 # Atomic notes
 
 - [[Complementarity and recombination in interacting groups form a feedback loop with the fitness landscape for individual intelligence, after Wu et al. (2024)]]
+- [[Human coordination is distinguished by flexible adoption of new, ad hoc roles as required by the task at hand]]
 
 ---
 
@@ -55,3 +55,8 @@ lastmod: 2025-06-03T11:11:30-04:00
 #### Cultural tools give new methods for group-level coordination 
 
 - **Languages encode composable, embodied representations:** “We may productively think of a linguistic utterance as more akin to a computer program than an axe or a hammer (Cano et al., 2023; Wong et al., 2023). Axes and hammers are constructed to solve specific problems (e.g., chopping down trees or hitting nails) in the same way that a particular computer program is constructed to solve specific problems (e.g., calculating a tip percentage or moving a robot’s limbs). But programs have the added benefit of being compositional recipes for behavior, drawing from larger, more expressive libraries of abstractions (e.g., functions, procedures, definitions). It is in this sense that Lupyan and Bergen (2016) argue that language is a means to “mutually program” one another to act in the world (see [[@2024sumersReconciling]], for a recent formalization of this process).”
+
+---
+# Further reading
+
+- [[@2021gweonInferential]]: Overview of **inferential social learning**, which studies social learning and teaching “through a common theoretical lens.”

@@ -12,8 +12,10 @@ tags:
   - COGS-UN1001
 publish: "true"
 date: 2022-12-21
-lastmod: 2025-05-28T10:57:19-04:00
+lastmod: 2025-06-07T14:55:58-04:00
 ---
+# Overview
+
 >[!quote] Laplace
 >”Probability theory is nothing but common sense reduced to calculation.”
 
@@ -24,7 +26,7 @@ $\quad$Probabilistic reasoning uses **subjective probabilities**—the interpret
 >$$
 >P(h|d) = \frac{P(d|h) P(h)}{P(d)} = \frac{P(d|h)P(h)}{\sum_{h' \in \mathcal H}P(d|h') P(h')},
 >$$
->where the expansion in the final denominator follows from the marginalization principle $P(d) = \sum_h P(d, h)$ and the chain rule $P(d, h ) = P(d|h) P(h)$. This is often expressed as $$ P(h|d) \propto P(d|h) P(h) $$ to emphasize the denominator’s role as a normalizing constant.
+>where the expansion in the final denominator follows from the marginalization principle $P(d) = \sum_h P(d, h)$ and the chain rule $P(d, h ) = P(d|h) P(h)$. This is often expressed as $$ P(h|d) \propto P(d|h) P(h) $$ to emphasize the denominator’s role as a normalizing constant (i.e., the marginal probability of observing data $d$ is the same for every hypothesis $h$).
 
 $\quad$From a cognitive science perspective, Bayes’ rule describes how a [[Rationality in cognitive science|rational]] agent should approach the [[The problem of induction|problem of induction]]. Bayes’ rule encodes two facts about how our beliefs change in response to new evidence: if we believe an event has a low probability, then the probably is still low in spite of reliable evidence; and if new evidence is unreliable, then our beliefs will change very little.
 

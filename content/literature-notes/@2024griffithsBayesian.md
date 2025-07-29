@@ -1,14 +1,15 @@
 ---
 citekey: 2024griffithsBayesian
-aliases: []
+aliases: 
 tags:
   - literature-note
+  - reference
 title: "book | Bayesian models of cognition: reverse engineering the mind"
 year: 2024
 permalink: 
 publish: 
 date: 2025-05-22
-lastmod: 2025-05-23T12:27:01-04:00
+lastmod: 2025-06-09T14:06:50-04:00
 ---
 > Griffiths, T. L., Chater, N., & Tenenbaum, J. B. (2024). _Bayesian models of cognition: Reverse engineering the mind_. The MIT Press.
 

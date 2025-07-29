@@ -35,7 +35,7 @@ lastmod: 2025-03-28T00:05:43-04:00
 - Quine’s critique of positivism is its problems with **holism**: there is no way to turn a statement like “there is an electron over there” into a **finite** set of propositions about observables.
 	- Making definitions truly precise would implicate all facts of the world: “Our beliefs face the tribunal experience not one at as a time, but as a corporate body.”
 
-**[[@1951quine|"Two Dogmas of Empiricism" (Quine, 1951)]]**
+**[[@1951quineTwo|"Two Dogmas of Empiricism" (Quine, 1951)]]**
 
 - The distinction between **synthetic** and **analytic** is absolutely necessary for positivism. In particular, the relation between a statement about time and a hand on a clock, for example, must be analytic—true by definition.
 	- Logic and mathematics are analytic by virtue of being tautologies, which are not statements about the world.

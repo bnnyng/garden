@@ -6,7 +6,7 @@ tags:
 title: "Podcast | Prof. Yoshua Bengio: GFlowNets, Consciousness, & Causality"
 publish: 
 date: 2024-01-01 22:18
-lastmod: 2024-08-14T10:56:44-07:00
+lastmod: 2025-06-03T14:13:25-04:00
 ---
 *Machine Learning Street Talk Podcast* – [Source](https://youtu.be/M49TMqK5uCE?si=SMqf6RrFbe2VJynW)  
 
@@ -54,7 +54,7 @@ lastmod: 2024-08-14T10:56:44-07:00
 	- “You need to have a part of your model that is aware of the fact that there are whole areas or aspects of the world that you don’t know about, so you can drive its exploration.”
 	- That is, need a model of your own uncertainty as well as active learning policy.
 	- #concept-question Could be considered a form of [[Metacognition]]? Or in complexity terms, hierarchy of the complex system.
-	- Related: [[Cognitive hierarchy]]
+	- Related
 - “If there is a structure, there is a free lunch.” (i.e., this is universally the best-performing algorithm?)
 	- The “possible free lunch” is that you can learn abstract structure on data x (as opposed to discriminative model which just learns the probability of y given x), getting powerful predictive encoding.
 - Classical machine learning: given a candidate place, how much reward is expected vs. GFN: given some places where the reward is high, learn the “inverse function.”

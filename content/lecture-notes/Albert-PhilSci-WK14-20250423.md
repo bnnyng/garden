@@ -2,8 +2,9 @@
 aliases: 
 tags:
   - fleeting-note
+  - PHIL-UN3551
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-28T16:45:52-04:00
+lastmod: 2025-06-11T10:52:49-04:00
 ---
 [[2025-04-23]]
 # Week 14, Day 2: More ways of resisting reductionism

@@ -15,4 +15,4 @@ However, Dennett does not believe such self-monitoring should be implemented in 
 ---
 # References
 
-[[2021-sfi-foundations-of-intelligence]]
+[[@2021millhouseFoundations]]

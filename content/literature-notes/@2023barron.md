@@ -26,7 +26,7 @@ lastmod: 2025-02-06T11:36:09-05:00
 
 # Atomic notes
 
-- [[Changes in control flow determine five major transitions in cognitive evolution, after Barron et al.]]
+- [[Changes in control flow determine five major transitions in cognitive evolution, after Barron et al. (2023)]]
 
 ---
 

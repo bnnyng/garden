@@ -9,7 +9,7 @@ year: 2019
 permalink: 
 publish: 
 date: 2024-09-13
-lastmod: 2025-05-04T14:38:55-04:00
+lastmod: 2025-06-23T10:42:10-04:00
 ---
 > Hawkins, R. X. D., Goodman, N. D., & Goldstone, R. L. (2019). The Emergence of Social Norms and Conventions. _Trends in Cognitive Sciences_, _23_(2), 158–169. [https://doi.org/10.1016/j.tics.2018.11.003](https://doi.org/10.1016/j.tics.2018.11.003)
 
@@ -27,7 +27,7 @@ lastmod: 2025-05-04T14:38:55-04:00
 
 # Atomic notes
 
-- [[Conventions are stable but arbitrary solutions to repeated coordination problems, after Lewis]]
+- [[Conventions are stable but arbitrary solutions to repeated coordination problems, after Lewis (1969)]]
 - [[Prescriptive norms are solutions to problems where coordination may not initially be in all agents' self-interest]]
 
 ---
@@ -39,3 +39,14 @@ lastmod: 2025-05-04T14:38:55-04:00
 # Reading notes
 
 ![[Pasted image 20250504143001.png|300]]
+
+---
+# Further reading
+
+
+**Individual cognitive processes and local interactions**
+
+- [[@2004garrodWhy]]: Reviews evidence that people achieve linguistic alignment through **automatic alignment channels** that “are functionally similar to the automatic links between perception and behavior” (**perception-behavior expressway**) proposed in contemporaneous theories of social interaction.
+- [[@2015dingemanseUniversal]]: Empirical study showing that during real-time communication, people depend on feedback through **backchannels** to “dynamically repair utterances as they attempt to coordinate on an intended meaning.”
+- [[@2018lazaridouEmergence]]: Empirical example of the following recommendation for future research: “Progress in minimal multiagent models will be made by considering coordination tasks that increasingly approximate the true computational challenges faced by humans in social contexts.”
+- [[@2018freyCognitive]]: Empirical study showing **sophisticated flocking** in formally distinct games; an example where “the appropriate level of reasoning itself may be a norm.”

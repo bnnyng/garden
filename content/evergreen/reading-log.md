@@ -1,11 +1,30 @@
 ---
 kanban-plugin: board
-lastmod: 2025-05-30T13:36:26-04:00
+lastmod: 2025-07-28T20:42:48-04:00
 date: 2025-02-12T16:40:50-05:00
 ---
 
 ## Queue
 
+- [ ] 📚 [[@2023zhangClassical]], “Classical sorting algorithms as a model of morphogenesis”
+- [ ] 📚 C. Alexander, *The Phenomenon of Life*
+- [ ] 📚 [“Model checking vs. theorem proving: a manifesto”](https://www.cs.cornell.edu/home/halpern/papers/manifesto.pdf)
+- [ ] 📚 [[@2020botvinickDeep]], “Deep reinforcement learning and its neuroscientific implications”
+- [ ] 📚 [[@2003baradPosthumanist]], “Posthumanist performativity”
+	
+	Notes: Cited in [[@2020harutyunyanWhat]]
+- [ ] 📚 [[@2001daugmanBrain]], “Brain metaphor and brain theory”
+	
+	Notes: From [[@2011jonesBayesian]]
+- [ ] 📚 [[@2019gibsonHow]], “How efficiency shapes human language”
+	
+	Notes: From [[@2025icardResource]]
+- [ ] 📚 [[@1974griceMethod]], “Method in philosophical psychology”
+	
+	Notes: Introduces **creature construction** project, from [[@2025icardResource]]
+- [ ] 📚 [[@2016bruntrupEmergent]], “Emergent Panpsychism”
+	
+	Notes: Recommendation from John G.
 - [ ] 📚 [[@1984dennettCognitive]], “Cognitive wheels: The frame problem of AI”
 - [ ] 📚 [[@2020papadimitriouBrain]], “Brain computation by assemblies of neurons”
 - [ ] 📚 [[@1944schrodingerWhat]], *What is life?*
@@ -44,11 +63,13 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Shortlist
 
+- [ ] 📚 [[@2019hernandez-lealSurvey]], “A survey and critique of multi-agent deep reinforcement learning”
+- [ ] 📚 [[@2022akhlaghpourRNABased]], “An RNA-based account of natural universal computation”
+- [ ] 📚 [[@2022dehaeneSymbols]], “Symbols and mental programs: a hypothesis about human singularity”
 - [ ] 📚 [[@2024griffithsBayesian]], *Bayesian Models of Cognition: Reverse engineering the mind*
 - [ ] 📚 [[@2025icardResource]], *Resource Rationality*
 - [ ] 📚 [[@2009lengAlgebraic]], “Algebraic Approaches to Mathematics”
 - [ ] 📚 [[@2022colasAutotelic]], “Autotelic Agents with Intrinsically Motivated Goal-Conditioned Reinforcement Learning”
-- [ ] 📚 [[@2023parkGenerative]], “Generative Agents: Interactive Simulacra of Human Behavior”
 - [ ] 📚 [[@2024yildirimTask]], “From task structures to world models: What do LLMs know?”
 - [ ] 📚 [[@2023wongTranslating]], “From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought”
 	
@@ -57,20 +78,35 @@ date: 2025-02-12T16:40:50-05:00
 - [ ] 📚 [[@2011aaronson]], “Why Philosophers Should Care About Computational Complexity”
 - [ ] 📚 [[@2022lecun]], “A Path Towards Autonomous Machine Intelligence”
 - [ ] 📚 [[@2023poesia]], “Peano: Learning Formal Mathematical Reasoning”
-- [ ] 📚 [[@2021gallistelPhysical]], “The physical basis of memory”
 - [ ] 📚 Cushman (2020), “Rationalization is rational”
 
 
 ## Unprocessed
 
+- [ ] 📚 [[@2021gweonInferential]], “Inferential social learning”
+- [ ] 📚 [[@2021laiPolicy]], “Policy compression”
+	
+	Notes: Cited by [[@2025icardResource]]
+- [ ] 📚 [[@2019hawkinsEmergence]], “The emergence of social norms and conventions”
+- [ ] 📚 [[@2022suttonQuest]], “The quest for a common model of the intelligent decision-maker”
+- [ ] 📚 [[@2020harutyunyanWhat]], “What is an agent?”
+- [ ] 📚 [[@1972andersonMore]], “More is different”
+	
+	Note: Linked from David Abel’s website
+- [ ] 📚 [[@1996dunbarHow]], “How scientists really reason”
+	
+	Notes: Potential reference for [[2025-mathhum-final-paper]]? From [[@2011jonesBayesian]]
+- [ ] 📚 [[@2023parkGenerative]], “Generative Agents: Interactive Simulacra of Human Behavior”
+- [ ] 📚 [[@2024zhaoRational]], “A rational model of innovation by recombination”
+- [ ] 📚 [[@2021gallistelPhysical]], “The physical basis of memory”
 - [ ] 📚 [[@2009gallagherMental]], “Mental institutions”
 - [ ] 📚 [[@2024aguerayarcasComputational]], “Computational Life: How Self-Replicating Programs Emerge from Simple Interaction”
 - [ ] 📚 [[@1950bourbakiArchitecture]], “The Architecture of Mathematics”
 - [ ] 📚 [[@1995rosen]], “Effective processes and natural law”
 - [ ] 📚 [[@2015walker]], “The Descent of Math”
 - [ ] 📚 [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/)
-- [ ] 📚 [[@2016jara-ettinger]], “The Naive Utility Calculus”
-- [ ] 📚 [[@2020degen]], “When Redundancy is Useful”
+- [ ] 📚 [[@2016jara-ettingerNaive]], “The Naive Utility Calculus”
+- [ ] 📚 [[@2020degenRedundancy]], “When Redundancy is Useful”
 - [ ] 📚 [[@2024sumersReconciling]], “Reconciling Truthfulness and Relevance as Epistemic and Decision-Theoretic Utility”
 - [ ] 📚 [[@2024zhaoRational]], “A rational model of innovation by recombination”
 - [ ] 📚 [[@1943rosenblueth]], “Behavior, Purpose, and Teleology”
@@ -131,6 +167,18 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Someday
 
+- [ ] [[Morality is fundamentally an evolved solution to problems of cooperation, after Curry et al. (2019)]]
+	
+	Source: [[@2020gellnerMorality]]
+- [ ] [[Taxonomy of methods for modeling other agents]]
+	
+	Source: [[@2018albrechtAutonomous]]
+- [ ] [[Animal culture]]
+- [ ] [[The two dogmas of (logical) empiricism, after Quine (1951)]]
+	
+	Source: [[@1951quineTwo]]
+- [ ] [[Society’s most powerful technology tends to become the dominant metaphor for the brain, after Daugman (2001)]]
+- [ ] [[Coarse-graining and equivalence classes]]
 - [ ] [[Combinatory logic and lambda-calculus]]
 	
 	Source: [[@2022akhlaghpourRNABased]]
@@ -142,7 +190,7 @@ date: 2025-02-12T16:40:50-05:00
 	Source: [[@1998clarkExtended]]
 - [ ] [[Pragmatic Bayesian modeling]]
 - [ ] [[The method of hypothesis and problems of indiscriminate confirmation]], combined with [[(Resource-)rational analysis]]
-- [ ] [[Bayesian inference]]
+- [ ] [[Bandit problems]]
 	
 	Source: [[@2024griffithsBayesian]]
 - [ ] [[Active learning]]
@@ -276,7 +324,7 @@ date: 2025-02-12T16:40:50-05:00
 **Complete**
 - [x] [[(Model) The Rational Speech Acts framework, after Frank and Goodman (2016)]]
 	
-	Source: [[@2020degen]], [[@2024sumersReconciling]]
+	Source: [[@2020degenRedundancy]], [[@2024sumersReconciling]]
 - [ ] [[Effectively calculable, recursive, and computable are equivalent descriptions of functions]]
 	
 	Source: [[MATH-GU4200|Mathematics and the Humanities]]

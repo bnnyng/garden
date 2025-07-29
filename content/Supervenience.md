@@ -4,13 +4,13 @@ aliases:
 tags:
   - permanent-note
   - topic-humanities
-publish: 
+publish: "true"
 date: 2025-02-10T17:00:41-05:00
-lastmod: 2025-04-28T09:55:58-04:00
+lastmod: 2025-06-03T12:11:16-04:00
 ---
-**Supervenience** is a dependence relationship between two sets of properties where $A$-properties **supervene** on $B$-properties if there cannot be a difference in the state of affairs at the level of $A$ without a difference in the state of affairs at the level of $B$. If $A$ and $B$ are sciences, we say that $A$ supervenes on $B$ if any two possible worlds that differ in $A$ facts *must* also differ in $B$ facts. 
+$\quad$**Supervenience** is a dependence relationship between two sets of properties where $A$-properties **supervene** on $B$-properties if there cannot be a difference in the state of affairs at the level of $A$ without a difference in the state of affairs at the level of $B$. If $A$ and $B$ are sciences, we say that $A$ supervenes on $B$ if any two possible worlds that differ in $A$ facts *must* also differ in $B$ facts. 
 
-The claim of [[Scientific reductionism|reductionism]] in the philosophy of science includes the view that the language and facts of all the other sciences supervene on the language and facts of physics, the most fundamental science. For example, there could not be two worlds that are *economically* different—such as having different levels of inflation—while being physically identical.
+$\quad$The claim of [[Scientific reductionism|reductionism]] in the philosophy of science includes the view that the language and facts of all the other sciences supervene on the language and facts of physics, the most fundamental science. For example, there could not be two worlds that are *economically* different—such as having different levels of inflation—while being physically identical.
 
 #concept-question  Is this more precisely [[Classical theories of mind|physicalism]]?
 

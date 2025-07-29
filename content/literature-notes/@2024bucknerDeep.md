@@ -28,7 +28,7 @@ lastmod: 2025-03-31T20:00:59-04:00
 # Atomic notes
 
 - [[The human mind as a tabula rasa, after Aristotle]]
-- [[The nativism-empiricism continuum, after Buckner]]
+- [[The nativism-empiricism continuum, after Buckner (2024)]]
 - [[Domain-general modular architecture is the best hope for modeling rational cognition in AI, after Buckner]]
 - [[Taxonomy of forms of attention, after James]]
 

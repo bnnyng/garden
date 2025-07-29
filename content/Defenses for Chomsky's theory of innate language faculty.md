@@ -8,11 +8,11 @@ tags:
   - topic-cognitive-science
 publish: 
 date: 2024-09-24 12:17
-lastmod: 2025-05-22T16:01:12-04:00
+lastmod: 2025-06-29T14:05:48-04:00
 ---
 # Overview
 
-$\quad$Chomsky’s theory of innate knowledge for language is an answer to fundamental questions about the relation between language and human nature. As stated in [[@1994jackendoff]]:
+$\quad$Chomsky’s theory of innate knowledge for language is an answer to fundamental questions about the relation between language and human nature. As stated in [[@1994jackendoffPatterns]]:
 
 > - What does human language have to be like to account for the fact that we can all speak and understand a language?
 > - What are the *prerequisites* for language? What do we need in order to be able to talk?
@@ -28,7 +28,7 @@ Related: [[Meno's paradox]]
 ---
 # Key terms
 
-From [[@1994jackendoff]]:
+From [[@1994jackendoffPatterns]]:
 
 - **Expressive variety of language:** “the number of different things we can say by combining words in different ways”; the expressive variety of language implies the existence of **mental grammar**, or unconscious grammatical principles in the brain.
 - **Mental grammar:** the complete collection of recursive patterns that determine the possible sentences for a given language, stored in individual human memory; “the notion of a mental grammar stored in the brain of a language user is *the* central theoretical construct of modern linguistics.”
@@ -47,3 +47,7 @@ From [[@1994jackendoff]]:
 
 - **Pidgin languages** may form when communities of different languages live in close proximity with each other.
 
+---
+# References
+
+- [[@1994jackendoffPatterns]], *Patterns in the Mind: Language and Human Nature*

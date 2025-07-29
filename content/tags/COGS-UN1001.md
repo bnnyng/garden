@@ -20,7 +20,7 @@ title: Class | Introduction to Cognitive Science
 | ---------- | ------------------------------- | -------------- | ---------------- | ------------------------------------------------------------ |
 | 2022-09-11 | The cognitive approach          | 1995           | Stillings et al. | [[@1995stillings]]                                           |
 | 2022-09-14 | Levels of explanation           | 1999           | Pylyshyn         | “What is in your mind?”                                      |
-| 2022-09-14 | Levels of explanation           | 1982           | Marr             | [[@1982marr]]                                                |
+| 2022-09-14 | Levels of explanation           | 1982           | Marr             | [[@1982marrVision]]                                                |
 | 09-19-2022 | Kinds of computation            | 2014           | Jones            | “The Learning Machines”                                      |
 | 2022-10-12 | Brain scanning                  | 2013           | Coltheart        | “How can functional neuroimaging inform cognitive theories?” |
 | 2022-11-02 | Consciousness                   | 1982           | Jackson          | [[@1982jacksonEpiphenomenal]]                                             |

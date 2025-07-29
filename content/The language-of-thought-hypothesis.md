@@ -7,13 +7,16 @@ tags:
   - topic-cognitive-science
 publish: 
 date: 2024-10-29 16:01
-lastmod: 2025-06-03T11:21:55-04:00
+lastmod: 2025-06-03T11:26:50-04:00
 ---
 # Overview
 
 $\quad$ The **language-of-thought hypothesis (LoTH)** is a [[Computationalist, connectionist, and rational research traditions in cognitive science|computationalist]] theory—that is, one that assumes behavior can be explained by “computational operations over structural symbols”—about the format of natural mental representations (i.e., thought). First introduced by J. Fodor, the earliest formulations of LoTH appealed to the need for structure, and hence a formal grammar, in representations under [[Computationalist, connectionist, and rational research traditions in cognitive science|computationalism]].
 
-Related: [[Concept nativism, after Fodor]]
+$\quad$ A deeply related notion is [[Cognitive compositionality|compositionality]], which is the capacity to represent complex problems based on the meanings of their parts and how they are combined. 
+
+**Related notes:**
+- [[Concept nativism, after Fodor]]
 
 ---
 # Fodor’s hypothesis

@@ -8,7 +8,7 @@ year: 2022
 permalink: https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2022.768201/full
 publish: 
 date: 2025-02-09
-lastmod: 2025-05-29T13:03:51-04:00
+lastmod: 2025-06-11T11:40:05-04:00
 ---
 > Levin, M. (2022). Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds. _Frontiers in Systems Neuroscience_, _16_. [https://doi.org/10.3389/fnsys.2022.768201](https://doi.org/10.3389/fnsys.2022.768201)
 
@@ -49,12 +49,14 @@ lastmod: 2025-05-29T13:03:51-04:00
 
 ## Examples
 
-- **Changing of anatomical homeostasis (end goal of morphogensis):**
+- **Changing of anatomical homeostasis (end goal of morphogenesis):**
 	- Wounds made in **deer antlers** in one year will result in etopic tines growing at the same location in following years, even after the original antlers have fallen off.
 	- **Planarian flatworms** can be cut into pieces with each fragment regenerating what is missing to make a “perfect little worm”—”near 100 percent fidelity of anatomical structure,” despite a messy genome. But worms that are altered to have abnormal head number are *permanently* altered: their pieces regenerate with the new head number.
 - **Features of the brain that are found outside of the central nervous system (p. 18)**
 - **Non-neural bioelectricity:**
 	- **Modularity of pattern completion:** In **planaria**, “a few cells transduced with an ion channel that sets them into a “make the eye here” trigger recruit their neighbors, in any region of the body, to fulfill the purpose of the subroutine call and create an eye.”
+
+#wip Note on morphogenesis as a form of cognition
 
 ## Cognition: Changing the subject
 

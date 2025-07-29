@@ -10,7 +10,7 @@ tags:
   - topic-physics-complexity
 publish: "true"
 date: 2024-09-26 11:53
-lastmod: 2025-05-29T14:52:47-04:00
+lastmod: 2025-06-07T16:19:41-04:00
 ---
 # Overview
 
@@ -25,6 +25,19 @@ $\quad$A general set of data-manipulation rules is called **Turing complete** if
 - [[Undecidability and incompleteness theorems]]
 - [[Effectively calculable, recursive, and computable are equivalent descriptions of functions]]
 - [[Combinatory logic and lambda-calculus]]
+
+---
+# A semi-formal definition
+
+>[!definition] [[@2025icardResource]] 9: Turing machine
+>A **Turing machine** is given by:
+>- (i) An infinite read/write tape with inputs (“observations”) written on the tape at the beginning of computation, and outputs (“actions”) written on the tape at the time of halting;
+>- (ii) A “random bit” tape with an infinite binary sequence, each bit assumed to be drawn uniformly and independently with probability 0.5;
+>- (iii) A finite set of **states** that the machine can be in;
+>- (iv) **Transition rules** of the form $\langle q, o, b; a, d, q’ \rangle$, which can be stated as follows: when in state $q$, reading symbol $o$ and random bit $b$, rewrite $o$ as $a$, go direction $d$ on the tape (left or right), and enter state $q’$.
+>
+>A Turing machine is said to be **deterministic** if its actions do not depend on the input (ii). Deterministic Turing machines define exactly the **computable** functions.
+
 
 ---
 # Turing completeness and equivalence
@@ -42,7 +55,7 @@ $\quad$ Abstract systems that can compute any computable function, such as Turin
 ---
 # Relation to cognition and intelligence
 
-$\quad$Turing machines minimize [[§ Intelligence]] during computation, so that explanations of computational ability don’t have to appeal to some other substrate (e.g., appeal to [[Degrees of emergence|strong emergence]]). [[Recognition and discernment is the only trace of intelligence in a Turing machine, after Dennett]].
+$\quad$Turing machines minimize [[Intelligence]] during computation, so that explanations of computational ability don’t have to appeal to some other substrate (e.g., appeal to [[Degrees of emergence|strong emergence]]). [[Recognition and discernment is the only trace of intelligence in a Turing machine, after Dennett]].
 
 ---
 # Relation to formal limitations

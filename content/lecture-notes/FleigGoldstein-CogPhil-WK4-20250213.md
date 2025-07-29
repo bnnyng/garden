@@ -10,7 +10,7 @@ lastmod: 2025-02-13T23:53:32-05:00
 # Week 4, Day 2: Hereditary Pathways
 ---
 
-**Presentation: [[@2020mitchell]] Ch. 5, “The Nature of Nurture”**
+**Presentation: [[@2020mitchellInnate]] Ch. 5, “The Nature of Nurture”**
 
 - Extreme childhood experiences are correlated with abnormal behavioral development. However, according to Mitchell, the robustness of behavior to slight differences in parenting suggests “family environment has little to no effect on variance in psychological traits.”
 - Brain circuitry is spontaneous prior to birth, responsive to environment afterward. 

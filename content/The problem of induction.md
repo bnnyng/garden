@@ -11,7 +11,7 @@ lastmod: 2025-05-22T13:59:40-04:00
 ---
 # Hume’s argument against induction
 
-**See also:** [[2025-philsci-final-review]]
+**See also:** [[2025-academics-philsci-final-review]]
 
 $\quad$ Hume argues that inductive inferences presuppose the **principle of uniformity of nature**—the thesis that things we have not experienced should resemble things we have experienced—which we have no basis to expect. Hume specifically focuses on inductive inferences of the following form: “All observed instances of $A$ have been $B$. The next instance of $A$ will be $B$.”
 

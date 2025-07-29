@@ -1,15 +1,15 @@
 ---
 citekey: 2016goodman
-aliases:
-  - 
+aliases: 
 tags:
   - literature-note
-title: journalArticle | Pragmatic Language Interpretation as Probabilistic Inference
+  - seminal
+title: Paper | Pragmatic Language Interpretation as Probabilistic Inference
 year: 2016
 permalink: https://www.sciencedirect.com/science/article/pii/S136466131630122X
 publish: 
 date: 2025-02-11
-lastmod: 2025-02-11T15:31:43-05:00
+lastmod: 2025-06-09T11:47:02-04:00
 ---
 > Goodman, N. D., & Frank, M. C. (2016). Pragmatic Language Interpretation as Probabilistic Inference. _Trends in Cognitive Sciences_, _20_(11), 818–829. [https://doi.org/10.1016/j.tics.2016.08.005](https://doi.org/10.1016/j.tics.2016.08.005)
 

@@ -15,7 +15,7 @@ lastmod: 2025-05-29T13:00:42-04:00
 ---
 # Summary
 
-Proudfoot argues [[The Turing test]] intends for [[§ Intelligence|intelligence]] to be a **response-dependent concept**, which is entirely dependent on the human judgement it generates: “Turing undermined the idea that intelligence is a feature of the world independent of our tendency to ‘imagine’ intelligence in things.”
+Proudfoot argues [[The Turing test]] intends for [[Intelligence|intelligence]] to be a **response-dependent concept**, which is entirely dependent on the human judgement it generates: “Turing undermined the idea that intelligence is a feature of the world independent of our tendency to ‘imagine’ intelligence in things.”
 
 ---
 

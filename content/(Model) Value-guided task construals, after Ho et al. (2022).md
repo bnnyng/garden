@@ -7,7 +7,7 @@ tags:
   - topic-cognitive-science
 publish: "true"
 date: 2025-05-26T13:12:36-04:00
-lastmod: 2025-06-03T10:49:22-04:00
+lastmod: 2025-06-09T17:05:38-04:00
 ---
 # Overview
 
@@ -21,8 +21,9 @@ $\quad$The key idea is to treat model and policy selection as a two-level optimi
 
 # Preliminaries: MDP models of sequential decision-making
 
+
 >[!definition] MDP model of sequential decision-making tasks
->A task representation $\mathcal T$ consists of the following data: a state space $\mathcal S$ with initial state $s_0 \in \mathcal S$; an action space $\mathcal A$; a transition function $P : \mathcal S \times \mathcal A \times \mathcal S \to [0, 1]$; and a utility function $U : \mathcal S \to \mathbb R$. The **value** of a plan $\pi : S \times A \to [0, 1]$ is defined for all states $s \in \mathcal S$ by the expected cumulative utility of using that plan:
+>A task representation $\mathcal T$ consists of the following data: a state space $\mathcal S$ with initial state $s_0 \in \mathcal S$; an action space $\mathcal A$; a transition function $P : \mathcal S \times \mathcal A \times \mathcal S \to [0, 1]$; and a utility function $U : \mathcal S \to \mathbb R$. The **value** $V_\pi$ of a plan $\pi : S \times A \to [0, 1]$ is defined for all states $s \in \mathcal S$ by the expected cumulative utility of using that plan:
 >$$
 >V_\pi(s) = U(s) + \sum_a \pi(a | s ) \sum_{s'}P(s' | s, a) V_\pi(s').
 >$$
@@ -60,7 +61,7 @@ $\quad$The key idea is to treat model and policy selection as a two-level optimi
 
 # Model implementation
 
-- Given a value of representation function $\text{VOR}$ that assigns a value to each construal, decision-makers are modeled as selecting a construal according to a [[Bayesian inference|softmax]] decision rule: $$ P (c) \propto \exp(\alpha^{-1}\text{VOR}(c), $$ where $\alpha > 0$ is temperature parameter.
+- Given a value of representation function $\text{VOR}$ that assigns a value to each construal, decision-makers are modeled as selecting a construal according to a [[Bandit problems|softmax]] decision rule: $$ P (c) \propto \exp(\alpha^{-1}\text{VOR}(c), $$ where $\alpha > 0$ is temperature parameter.
 - The process of revisiting and modifying construals at each stage of planning is represented as a sequential decision-making problem, the **construal modification Markov decision process.**
 
 >[!definition] Construal modification Markov decision process
@@ -76,3 +77,8 @@ $\quad$The key idea is to treat model and policy selection as a two-level optimi
 >$$
 >where $|c’-c|$ is the number of additional cause-effect relationships in $c’$ compared to $c$.
 
+---
+
+# Notes
+
+- **Value-guided task construals are an example of simultaneous [[Abstraction and idealization]] ([[@2025icardResource]], 130):** “Ho et al. (2022) investigate human-like approximations to the transition function in an MDP that mix idealization and abstraction. The approximations are idealizations because the transition probabilities are inaccurate; they are inaccurate because they are themselves built from causal representations that omit detail (cf. Icard and Goodman 2015).”

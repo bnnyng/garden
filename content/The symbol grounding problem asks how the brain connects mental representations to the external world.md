@@ -12,7 +12,7 @@ publish: "true"
 ---
 # Overview
 
-$\quad$The **symbol grounding problem** is the problem of how biological and artificial cognitive systems use internal formal symbols (i.e., [[Representation is describing some aspect of reality with a useful symbol|mental representations]]) to refer to things in the real world. It has a cheeky converse: [[The symbol ungrounding problem asks how literal meanings are abstracted into arbitrary symbols]].
+$\quad$The **symbol grounding problem** is the problem of how biological and artificial cognitive systems use internal formal symbols (i.e., [[Cognitive representations|mental representations]]) to refer to things in the real world. It has a cheeky converse: [[The symbol ungrounding problem asks how literal meanings are abstracted into arbitrary symbols]].
 
 $\quad$There are two ways to frame the symbol grounding problem, which give different importance to [[4E (embodied, embedded, extended, and enactive) cognition|embodiment]] in ongoing cognition:
 - **Sensorimotor grounding:** concept representations are based on sensorimotor perception, so embodied cognition is used directly. This perspective focuses on how the specific cognitive architecture relates mental representations to physical things, and is close to the problem’s original framing.

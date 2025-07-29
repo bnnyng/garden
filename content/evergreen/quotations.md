@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-04-11
-lastmod: 2025-05-03T02:58:47-04:00
+lastmod: 2025-06-11T12:31:11-04:00
 ---
 # On science
 
@@ -20,6 +20,16 @@ lastmod: 2025-05-03T02:58:47-04:00
 
 >[!quote] [[@2022levinTechnological]]
 >Nothing in biology makes sense except in the light of [[Complexity is the study of teleonomic matter, after Krakauer|teleonomy]].
+
+## Physics
+
+>[!quote] [[@1972andersonMore]]
+>It is only slightly overstating the case to say that physics is the study of symmetry. The first demonstration of the power of this idea may have been by Newton, who may have asked himself the question: What if the matter here in my hand obeys the same laws as that up in the sky—that is, what if space and matter are homogeneous and isotropic?
+
+## Psychology
+
+>[!quote] Tomasello (2022), *The Evolution of Agency* (quoted in [[@2024abelThree]])
+>Every scientific  discipline begins with a proper domain, a first principle. In biology, that proper domain or first principle is life: physical  substances organized in particular ways to perform particular organismic functions. In psychology, depending on one’s  theoretical predilections, that proper domain or first principle might be either behavior or mentality. But my preferred  candidate would be agency, precisely because agency is the organizational framework within which both behavioral and  mental processes operate.
 
 ---
 

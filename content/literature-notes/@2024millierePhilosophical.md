@@ -35,7 +35,7 @@ lastmod: 2025-04-14T19:18:56-04:00
 # Key terms
 
 >[!example] Key terms in [[@2024millierePhilosophical]]:
->- **Psychologism:** the position that [[§ Intelligence]] not only depends on the behavioral disposition of an observed system, but also the nature of internal information processing mechanisms (i.e., “mental states”) that drive behavior.
+>- **Psychologism:** the position that [[Intelligence]] not only depends on the behavioral disposition of an observed system, but also the nature of internal information processing mechanisms (i.e., “mental states”) that drive behavior.
 >- **Structuralist view of language:** the position that “linguistic units acquire meaning through patterns of co-occurrence units in the system”; that is, the meaning of a word can be inferred from its context.
 >- **Re-description fallacy:** the authors’ term for the argument that a system cannot “model” a particular cognitive capacity if it can be explained in simpler terms than other systems with that capacity.
 >- 

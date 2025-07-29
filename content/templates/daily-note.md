@@ -2,11 +2,11 @@
 tags:
   - daily-note
 ---
-# Schedule
 
-![[2025-Q3-WK1-0602-0608#June 2 – June 8]]
+[[2025-Q3-WK9-0728-0803]] | **Intention:** Commit to my dream self.
 
 ---
+
 # To do
 
 > What are the top three *most important* things I need to do today?
@@ -14,6 +14,7 @@ tags:
 - [ ] 
 
 ----
+
 # Menu
 
 > What other things can I do today that are less important?
@@ -21,7 +22,8 @@ tags:
 ## Inbox
 
 - [[2025-mathhum-final-paper]]
-- [[2025-topics-final-project]]
+- [[2025-application-fulbright]]
+- [[2025-valueslab]]
 
 ## Today
 
@@ -29,10 +31,7 @@ tags:
 
 ## Future file
 
-[[2025-05-22]]
-
-- [ ] Message Brendan about [[@2024griffithsBayesian]] intro, claims about Bayesian framework vs. nativism/empiricism
-
+- [ ] [[2025-07-16]]: Reach out to Simon about research in mathematical gesture making—potential for other forms of modeling?
 
 ---
 
@@ -41,4 +40,3 @@ tags:
 ```
 <input type="checkbox">
 ```
-

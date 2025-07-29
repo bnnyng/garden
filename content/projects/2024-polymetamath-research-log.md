@@ -27,8 +27,8 @@ DOOR CODE: 5891\*
 **Methods**
 - [[Methods for PolyMetaMath]]
 - [[Topic modeling with MALLET]]
-- [[Shannon information (entropy)]]
-- [[Coarse-graining]]
+- [[Axioms of Shannon information (entropy)]]
+- [[Coarse-graining and equivalence classes]]
 
 **Fleeting notes and workspaces**
 - [[20240802-semantic-topic-hierarchy-specs]]

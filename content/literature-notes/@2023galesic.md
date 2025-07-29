@@ -34,7 +34,7 @@ lastmod: 2024-10-29T15:36:44-04:00
 >[!example] Definition: Key terms in [[@2023galesic]]
 >- **Collective adaptation** = a property of a “complex socio-cognitive system” that emerges from “dynamic interactions of social integration strategies, social environments, and problem structures collectives face”; the adaptive trajectory depends on the “landscape” of these interactions.
 >	- **Collective** = “complex adaptive socio-cognitive systems that continuously adjust themselves and their environments in response to different problems.”
->- **Collective intelligence** = the ability of a group to perform a wide variety of tasks, particularly in a way that *seems* [[§ Intelligence|intelligent]] (see also: [[@2021gupta]] TBD).
+>- **Collective intelligence** = the ability of a group to perform a wide variety of tasks, particularly in a way that *seems* [[Intelligence|intelligent]] (see also: [[@2021gupta]] TBD).
 
 ---
 

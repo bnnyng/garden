@@ -12,7 +12,7 @@ lastmod: 2025-02-12T20:30:33-05:00
 
 **Last time: [[Albert-PhilSci-WK3-20250205|Week 3, Day 2]]**
 
-- The **governance** or **necessitarian** view of [[Laws and causation in scientific explanation|scientific laws]] takes the world to have a **hierarchical** metaphysical structure, while the **Humean** or **descriptivist** takes the world to be “flat.” 
+- The **governance** or **necessitarian** view of [[Laws of nature|scientific laws]] takes the world to have a **hierarchical** metaphysical structure, while the **Humean** or **descriptivist** takes the world to be “flat.” 
 	- Humeans believe there is no **metaphysical** distinction between *de facto* true propositions and **nomic** propositions.
 	- The entire metaphysical structure is the [[Humean mosaic]].
 	- Note that both are **realist** positions that simply differ in their metaphysical theory.

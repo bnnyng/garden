@@ -5,11 +5,11 @@ aliases:
   - correlation coefficient
 tags:
   - permanent-note
-  - topic-logic-mathematics
   - STAT-UN1201
+  - topic-information-computation-statistics
 publish: 
 date: 2024-09-13 10:24
-lastmod: 2024-09-13T10:42:27-04:00
+lastmod: 2025-06-04T10:29:17-04:00
 ---
 # Joint probability distributions
 

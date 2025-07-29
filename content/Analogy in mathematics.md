@@ -1,12 +1,11 @@
 ---
-aliases:
-  - analogy
+aliases: []
 tags:
   - permanent-note
   - topic-humanities
 publish: "true"
 date: 2025-03-27T23:57:32-04:00
-lastmod: 2025-03-28T14:12:54-04:00
+lastmod: 2025-06-10T12:38:05-04:00
 ---
 # Examples
 

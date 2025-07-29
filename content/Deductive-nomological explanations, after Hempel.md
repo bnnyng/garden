@@ -13,4 +13,4 @@ lastmod: 2025-01-29T17:07:04-05:00
 
 - Also must include one law
 
-Related: [[Laws and causation in scientific explanation]]
+Related: [[Laws of nature]]

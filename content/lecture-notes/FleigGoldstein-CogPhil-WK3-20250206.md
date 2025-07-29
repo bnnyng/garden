@@ -29,7 +29,7 @@ lastmod: 2025-02-07T14:04:50-05:00
 
 - **Faculty psychology** is the theory that our mental processes are distributed into **faculties** like perception, memory, attention, (learning), reasoning, executive control, etc. Architectures optimized for specific faculties could be considered a form of **domain specificity**.
 
-**Presentation: Continuation of [[@2020marcus]]**
+**Presentation: Continuation of [[@2020marcusNext]]**
 
 - What are more nuanced ways that recent developments have corroborated or weakened Marcus’s argument for hybrid methods for more robust AI?
 - What implications to Bucker and Marcus’s views have about the future of AI, and which do you agree with more?

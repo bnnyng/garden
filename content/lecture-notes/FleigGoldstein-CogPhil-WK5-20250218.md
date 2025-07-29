@@ -28,7 +28,7 @@ lastmod: 2025-02-18T21:11:25-05:00
 - **Nurture** happens in the womb; see Giudice (2010), “Modeling the conditions for visual experience in human fetuses.”
 	- Conversely, fetuses respond to face-like stimuli (projected through the uterus) over non face-like stimuli; see Reid et al. (2017), “The Human Fetus Preferentially Engages with Face-like Visual Stimuli.”
 
-**Presentation: [[@2020mitchell]], *Innate* Ch. 6**
+**Presentation: [[@2020mitchellInnate]], *Innate* Ch. 6**
 
 - Associating genes with personality is challenging because personality traits are not **genetically modular**; genome-wide association studies also found that no shared genetic variant has a significant effect on personality.
 - On the other hand, mutations can disrupt **neuromodulator systems** (e.g., serotonin receptors), leading to abnormal and anti-social behavior.

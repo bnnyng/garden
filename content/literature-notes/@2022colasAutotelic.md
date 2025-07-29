@@ -8,7 +8,7 @@ year: 2022
 permalink: http://arxiv.org/abs/2012.09830
 publish: 
 date: 2025-04-14
-lastmod: 2025-04-14T19:18:14-04:00
+lastmod: 2025-07-09T14:54:48-04:00
 ---
 > Colas, C., Karch, T., Sigaud, O., & Oudeyer, P.-Y. (2022). _Autotelic Agents with Intrinsically Motivated Goal-Conditioned Reinforcement Learning: A Short Survey_ (No. arXiv:2012.09830). arXiv. [https://doi.org/10.48550/arXiv.2012.09830](https://doi.org/10.48550/arXiv.2012.09830)
 
@@ -30,7 +30,11 @@ lastmod: 2025-04-14T19:18:14-04:00
 
 # Key terms
 
+- 
+
 ---
 
 # Reading notes
+
+![[Pasted image 20250709145430.png|500]]
 

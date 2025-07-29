@@ -9,7 +9,7 @@ tags:
   - topic-cognitive-science
 publish: "true"
 date: 2024-10-13 20:16
-lastmod: 2025-05-27T14:48:21-04:00
+lastmod: 2025-06-09T11:53:20-04:00
 ---
 
 # Overview
@@ -20,12 +20,16 @@ $\quad$ **Resource-rational analysis**, after [[@2020liederResource]], extends t
 
 ![[Pasted image 20241107122640.png|300]]
 
+
 **Related notes:**
 
-- [[Bayesian models of cognition]]
+- [[(Sequential) decision problems]]
 - [[Rational process models of cognition]]
-- [[The method of hypothesis and problems of indiscriminate confirmation]]
 
+---
+# Atomic notes
+
+- [[Cost-theoretic vs. panoramic approaches to resource rationality, after Icard (2025)]]
 
 ---
 
@@ -54,8 +58,13 @@ $\quad$ **Resource-rational analysis**, after [[@2020liederResource]], extends t
 
 - “While rational analysis strives to predict human behavior from people’s goals and the structure of the environment alone, resource-rational analysis strives to uncover cognitive mechanisms and representations by taking into account the cognitive architecture that people have available to pursue their goals.” (315)
 
+[[@2025icardResource]]
+
+- “A founding doctrine for the field of cognitive science is that—at an appropriate level of abstraction and idealization—the mind can be understood as solving various informational problems (Newell et al., 1959; Marr and Poggio, 1976; Marr, 1982). This perspective affords a distinctive methodological tool, a potentially powerful way of formulating psychological hypotheses. If we can clarify the problem some cognitive system is solving, then we can use solutions to that problem as guiding hypotheses for the particular way the mind manages to solve them. This is the methodology of rational analysis.” (85)
+
 ---
 # References
 
 - [[@2015griffithsRational]], “Rational use of cognitive resources”
 - [[@2020liederResource]], “Resource-rational analysis”
+- [[@2025icardResource]], *Resource Rationality*

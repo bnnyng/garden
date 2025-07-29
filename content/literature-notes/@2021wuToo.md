@@ -5,17 +5,19 @@ permalink:
 year: 
 tags:
   - literature-note
-lastmod: 2025-05-15T12:54:41-04:00
+lastmod: 2025-06-03T13:26:20-04:00
 date: 2025-05-04T13:40:12-04:00
 ---
 > Wu, Sarah A., Rose E. Wang, James A. Evans, Joshua B. Tenenbaum, David C. Parkes, and Max Kleiman‐Weiner. “Too Many Cooks: Bayesian Inference for Coordinating Multi‐Agent Collaboration.” _Topics in Cognitive Science_ 13, no. 2 (April 2021): 414–32. [https://doi.org/10.1111/tops.12525](https://doi.org/10.1111/tops.12525).
 
 ---
+
 # Summary
 
 - This study introduces the **Bayesian delegation** algorithm for decentralized multi-agent coordination. Bayesian delegation uses **Bayesian inference** with **inverse planning** to allow agents to rapidly infer the sub-tasks that others are working on under uncertainty and ambiguity.
 
 **Atomic notes:**
+
 - [[(Model) Bayesian delegation, after Wu et al. (2021)]]
 
 ---
@@ -27,6 +29,7 @@ date: 2025-05-04T13:40:12-04:00
 - Successful action planning in a **multi-agent context** depends on inferences about the actions and intentions of others. 
 
 ---
+
 # Background
 
 > ***What are the main theories in the literature? Is there anything missing or problematic?***
@@ -38,6 +41,7 @@ date: 2025-05-04T13:40:12-04:00
 - Other **decentralized** multi-agent planning approaches focus on **spatial task allocation problems**, which do not address agents cooperating on the same sub-task.
 
 ---
+
 # Argument and hypotheses
 
 >***Does the article advance a new theoretical argument? If yes, what is it?***
@@ -45,6 +49,7 @@ date: 2025-05-04T13:40:12-04:00
 >***What are the hypotheses to be tested?***
 
 ---
+
 # Research design
 
 >***What is the methodological approach?***
@@ -53,23 +58,21 @@ date: 2025-05-04T13:40:12-04:00
 
 >***What are the specific methods and techniques?***
 
-
 ---
+
 # Results
 
 >***What are the key findings?***
 
 >***What do these findings say about the argument and hypotheses?***
 
-
 ---
+
 # Conclusion
 
 >***What is the overall conclusion?***
 
-
 >***How did this study advance the literature? What are the main contributions?***
-
 
 >***What are the key limitations?***
 

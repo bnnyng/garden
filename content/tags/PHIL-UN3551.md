@@ -13,14 +13,14 @@ date: 2025-01-22T21:47:59-05:00
 >[!example] Course description
 >Philosophical problems within science and about the nature of scientific knowledge in the 17th-20th centuries. Sample problems: causation and scientific explanation; induction and real kinds; verification and falsification; models, analogies and simulations; the historical origins of the modern sciences; scientific revolutions; reductionism and supervenience; differences between physics, biology and the social sciences; the nature of life; cultural evolution; human nature; philosophical issues in cosmology.
 
-[[2025-philsci-paper-1|Paper 1]]
+[[2025-academics-philsci-paper-1|Paper 1]]
 
 ---
 # Readings
 
 | Date       | Topic                                                      | Cite Key                                                    | Lecture Notes                                                                                               | Permanent Notes                                        |
 | ---------- | ---------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| 2025-01-27 | Explanation                                                | [[@1966hempel]]                                             | - [[Albert-PhilSci-WK2-20250127]]<br>- [[Albert-PhilSci-WK2-20250129]]                                      | - [[Laws and causation in scientific explanation]]<br> |
+| 2025-01-27 | Explanation                                                | [[@1966hempel]]                                             | - [[Albert-PhilSci-WK2-20250127]]<br>- [[Albert-PhilSci-WK2-20250129]]                                      | - [[Laws of nature]]<br> |
 | 2025-02-10 | Laws, counterfactuals, and causation                       | [[@2007maudlin]]<br>[[@1912russell]]<br>[[@1980cartwright]] | - [[Albert-PhilSci-WK3-20250203]]<br>- [[Albert-PhilSci-WK3-20250205]]<br>- [[Albert-PhilSci-WK4-20250210]] | - [[Humean mosaic]]                                    |
 | 2025-02-19 | Induction and confirmation                                 | [[@1945hempel]]<br>[[@1983goodmanFact]]                         | - [[Albert-PhilSci-WK5-20250219]]<br>- [[Albert-PhilSci-WK6-20250224]]<br>- [[Albert-PhilSci-WK6-20250226]] |                                                        |
 |            | The cognitive status of theories                           |                                                             |                                                                                                             |                                                        |
@@ -31,7 +31,7 @@ date: 2025-01-22T21:47:59-05:00
 ---
 # Log
 
-[[2025-philsci-paper-1]]
+[[2025-academics-philsci-paper-1]]
 - [ ] [[@2015walker]]’s definition of probability: states that are more likely to be traversed in a random walk. States that are comprehensible and have comprehenders have more connectivity, and are therefore more likely to be traversed.
 - [ ] In [[@1980cartwright]]’s writing, are the two kinds of explanations, theoretical vs. causal, in tension?
 
@@ -47,4 +47,4 @@ date: 2025-01-22T21:47:59-05:00
 
 [[Albert-PhilSci-WK4-20250210]]
 
-- [ ] How do theories like [[The intentional stance, after Dennett]] and [[Technological approach to mind everywhere, after Levin (2022)]] fit into different metaphysical beliefs?
+- [ ] How do theories like [[The intentional stance, after Dennett (1990)]] and [[Technological approach to mind everywhere, after Levin (2022)]] fit into different metaphysical beliefs?

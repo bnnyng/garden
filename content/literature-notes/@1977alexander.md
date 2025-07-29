@@ -28,7 +28,7 @@ lastmod: 2024-08-16T13:10:59-07:00
 	- “Each pattern can exist in the world, only to the extent that it is supported by other patterns.”
 	- “It says that when you build a thing you cannot merely build that thing in isolation, but must also repair the world around it, and within it, so that the larger world at that one place becomes more coherent, and more whole.” (xiii)
 	- Patterns are [[Complex systems have nontrivial emergent and self-organizing behaviors|complex systems]]!
-- Patterns are conceptualized (and listed) top-down, but built bottom-up—any analogies to top-down, bottom-up approaches to [[§ Intelligence]]?
+- Patterns are conceptualized (and listed) top-down, but built bottom-up—any analogies to top-down, bottom-up approaches to [[Intelligence]]?
 - Patterns are compressed in a single structure; like English, both in poetry and ordinary language, each component carries “whispers of the meanings” of the others.
 
 ### Towns

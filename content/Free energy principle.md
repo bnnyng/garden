@@ -8,7 +8,7 @@ publish: "true"
 date: 2024-01-01 13:01
 lastmod: 2024-02-19T20:00:27-08:00
 ---
-The free energy principle is a mathematical theory of [[§ Intelligence]] that says intelligent systems aim to minimize surprise and maximize predictability by either making internal world models as close to reality as possible, or enacting change in the world to make it closer to the system’s predictions.
+The free energy principle is a mathematical theory of [[Intelligence]] that says intelligent systems aim to minimize surprise and maximize predictability by either making internal world models as close to reality as possible, or enacting change in the world to make it closer to the system’s predictions.
 
 The framework was created by British neuroscientist Karl Friston. The FEP is a “grand unified theory” of the brain that has been applied to explain both perception and action. Friston has argued for the FEP as a “guiding principle of all biology and evolution and even as a way of understanding the fundamentals of physics.”
 

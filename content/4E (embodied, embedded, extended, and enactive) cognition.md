@@ -15,13 +15,13 @@ tags:
   - seed
   - COGS-UN1001
 publish: "true"
-lastmod: 2025-05-29T11:20:03-04:00
+lastmod: 2025-06-30T20:31:17-04:00
 date: 2023-12-26
 ---
 
 # Overview
 
-$\quad$**Embodied cognition**, broadly, investigates how cognition changes when situated in a physical environment. This is often contrasted with—but not always opposed to—“classical” **cognitivism**, which emphasizes computational or [[Representation is describing some aspect of reality with a useful symbol|representational]] processes “in the head.”
+$\quad$**Embodied cognition**, broadly, investigates how cognition changes when situated in a physical environment. This is often contrasted with—but not always opposed to—“classical” **cognitivism**, which emphasizes computational or [[Cognitive representations|representational]] processes “in the head.”
 
 $\quad$ The **4E concept** involves, in addition to embodied cognition:
 

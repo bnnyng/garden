@@ -27,7 +27,7 @@ lastmod: 2025-02-27T22:41:27-05:00
 - What if there exist no simple patterns in the mosaic?
 	- Assuming a **deterministic**, **Newtonian world**, the “exceptionlessly true”, T-shirt-worthy facts might include $F = MA$, Coulomb’s Law, Law of Universal Gravitation, etc. 
 	- A **chaotic** or **anarchic** world would not accommodate the scientific enterprise—but given the success of science so far, this appears not to be the case.
-- The third option is a **probabilistic** world in which laws are not required to be exceptionally true, but more like useful [[Coarse-graining|coarse-grainings]] of phenomena.
+- The third option is a **probabilistic** world in which laws are not required to be exceptionally true, but more like useful [[Coarse-graining and equivalence classes|coarse-grainings]] of phenomena.
 - The Humean view gives a more sophisticated meaning to [[Frequentist, subjectivist, and primitivist interpretations of a probabilistic locution|frequentist probabilities]]: frequentist claims are about probabilistic laws “at the bottom”, which best summarize the *entire* mosaic.
 	- *Example.* $\text{ }$ What does it mean to say “the coin will land ‘heads’ with probability 0.6”? Frequentist claims are about **fundamental objects** present in the whole mosaic—electrons, protons, etc.—which then gives meaning to the looser, “trivial” claims about composite objects like the coin.
 	- Contrast with our first, “vulgar” conception of frequentist probabilities (e.g., the limiting ratio of some infinite number of events).

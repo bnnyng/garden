@@ -11,7 +11,7 @@ lastmod: 2025-05-28T17:00:41-04:00
 ---
 Dynamic coupling is the ongoing interaction between an intelligent system and its local environment, where the system repeatedly observes the world and performs simple “live” adjustments. The goal of intelligent systems is therefore to maintain an “adaptive equilibrium” between internal and external worlds.
 
-The dynamic coupling model of cognition contrasts with the [[Representation-hungry systems maintain complex internal states and perform offline computations linearly|representation-hungry]] model, where systems prioritize making rich representations of the outside world and complete tasks in a linear processing cycle. Dynamic coupling computations are necessarily less expensive than forming [[Representation is describing some aspect of reality with a useful symbol|representations]].
+The dynamic coupling model of cognition contrasts with the [[Representation-hungry systems maintain complex internal states and perform offline computations linearly|representation-hungry]] model, where systems prioritize making rich representations of the outside world and complete tasks in a linear processing cycle. Dynamic coupling computations are necessarily less expensive than forming [[Cognitive representations|representations]].
 
 ---
 # Reading notes

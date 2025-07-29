@@ -1,17 +1,12 @@
 ---
 aliases:
   - mental model
-  - mental representation
-  - mental models
-  - mental representations
-  - two oppositions
 tags:
-  - permanent-note
   - topic-physics-complexity
   - seed
 publish: "true"
 date: 2024-07-23
-lastmod: 2024-08-16T16:30:10-07:00
+lastmod: 2025-06-11T11:34:31-04:00
 ---
 In a talk for the 2024 SFI undergraduate research program, Simon DeDeo described how instead of interacting directly with reality, the mind interacts with “the symbolic,” a third thing used for seeing through. This is necessary because the real—in the Lacanian sense of what is resistant to formalization—is too big for our minds to process. 
 

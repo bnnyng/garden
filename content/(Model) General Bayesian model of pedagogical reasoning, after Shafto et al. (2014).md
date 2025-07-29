@@ -5,10 +5,10 @@ tags:
   - topic-cognitive-science
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-05-04T14:09:38-04:00
+lastmod: 2025-06-05T16:00:47-04:00
 ---
 
-$\quad$ [[@2014shafto]] formalize [[Rationality in cognitive science|rational]] **pedagogical reasoning**—that is, reasoning in a setting in which one agent chooses information to transmit to another agent in order to teach a concept—using a [[Self-reference|recursive]] [[Bayesian models of cognition|Bayesian model]] that captures two problems:
+$\quad$ [[@2014shaftoRational]] formalize [[Rationality in cognitive science|rational]] **pedagogical reasoning**—that is, reasoning in a setting in which one agent chooses information to transmit to another agent in order to teach a concept—using a [[Self-reference|recursive]] [[Bayesian models of cognition|Bayesian model]] that captures two problems:
 
 - The **teacher** needs to choose *helpful* examples that serve as data for the learner;
 - The **learner** needs to infer the correct concept from the data, under the assumption that the teacher is choosing helpful examples.

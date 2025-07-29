@@ -4,17 +4,27 @@ aliases:
 tags:
   - workspace
 date: <% tp.file.creation_date() %>
-lastmod: 2025-05-29T10:50:59-04:00
+lastmod: 2025-07-28T20:36:11-04:00
 ---
 # References
 
 [[@2020lakoffWhere]]
 [[@2011lakoffMetaphors]]
-
+[[@1972andersonMore]]
 
 
 ---
 # Log
+
+[[2025-07-28]]
+
+**Further reading**
+- Fridland, E., Stichter, M. It just feels right: _an account of expert intuition_. _Synthese_ **199**, 1327–1346 (2021). https://doi.org/10.1007/s11229-020-02796-9
+
+[[2025-06-03]]
+
+- [[@2024wuGroup]] relevant: processes at play in mathematical discovery/invention
+	- Essay idea: give an account of how individual processes interact with small groups, interact with the larger community
 
 [[2025-05-29]]
 

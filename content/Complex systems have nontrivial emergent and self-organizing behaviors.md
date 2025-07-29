@@ -24,5 +24,5 @@ David Krakauer believes that a necessary condition of **complex adaptive systems
 
 ---
 # References
-- [[@2009mitchell]]
+- [[@2009mitchellComplexity]]
 - [[2018-sfi-introduction-to-complexity]]

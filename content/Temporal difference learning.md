@@ -9,7 +9,7 @@ tags:
   - topic-information-computation-statistics
 publish: 
 date: 2024-10-25 12:04
-lastmod: 2025-05-27T10:05:05-04:00
+lastmod: 2025-06-19T13:03:10-04:00
 ---
 # Overview
 
@@ -18,8 +18,8 @@ lastmod: 2025-05-27T10:05:05-04:00
 $\quad$ **Temporal difference learning** algorithms are a class of model-free [[§ Reinforcement Learning|reinforcement learning]] algorithms that learn by interaction with the environment. At each timestep, the agent-environment loop consists of a tuple $\langle s, a , r,  s’ \rangle$, where $s$ is the state in which an agent take an action $a$, receives a reward $r$, and transitions to the next state $s’$. 
 
 **Related notes:**
-- [[Bandits, exploration, and exploitation]]
-- [[Markov decision processes and dynamic programming]]
+- [[Bandit problems]]
+- [[Markov decision processes]]
 
 ---
 
@@ -27,7 +27,7 @@ $\quad$ **Temporal difference learning** algorithms are a class of model-free [[
 
 #### Basic tabular TD($0$)
 
-$\quad$ Like in the [[Markov decision processes and dynamic programming|MDP]] prediction problem, TD learning for **predicting** a fixed policy involves estimating the value function (that is, of a finite-state MDP under a policy $\pi$) at a state $s$ by using the estimate at the next state $s’$, even if the latter estimate is not entirely correct. However, there are two key differences from MDPs:
+$\quad$ Like in the [[Markov decision processes|MDP]] prediction problem, TD learning for **predicting** a fixed policy involves estimating the value function (that is, of a finite-state MDP under a policy $\pi$) at a state $s$ by using the estimate at the next state $s’$, even if the latter estimate is not entirely correct. However, there are two key differences from MDPs:
 
 - We do not have access to the transition function $T$ or the reward function $R$, only **samples** of transitions $\langle s, a ,r,  s’\rangle$ that result from the policy interacting with the underlying MDP. 
 - We initialize a table with arbitrary values $v_\pi(s)$ for all states $s$, and the function that estimates $v_\pi(s)$ at each state $s$ satisfies $\hat v_\pi(s) = v_\pi(s)$ when we have the modified Bellman equation $$ \hat v_\pi (s) \approx \mathbb E_{\pi, T}[r + \gamma \hat v_\pi(s')]. $$ 
@@ -81,7 +81,7 @@ with a chosen learning rate $\alpha > 0$.
 >\delta_S = [r + \gamma \hat q(s', a')] - \hat q (s, a), \quad \quad \delta_Q = [r + \gamma \max_{\alpha'} \hat q (s' a')] - \hat q (s, a).
 >$$
 
-$\quad$ Note that in SARSA, the next action $a’$ is taken from the policy currently being executed in the MDP, while in Q-learning, the next action $a’$ is taken from the *best* state action value estimate. Thus, SARSA is called an **on-policy** RL algorithm, while Q-learning is called an **off-policy** RL algorithm.
+$\quad$ Note that in SARSA, the next action $a’$ is taken from the policy currently being executed in the MDP, while in Q-learning, the next action $a’$ is taken from the *best* state action value estimate. Thus, SARSA is called an **on-policy** RL algorithm, while Q-learning is called an **off-policy** RL algorithm.====
 
 ---
 
@@ -141,5 +141,5 @@ class RandomWalk_TD_NStep_Learner(RandomWalkBaseLearner):
 
 - Image from Sutton & Barlow, 2018.
 - TDL = learning through interactions with environment
-- In RL, can no longer access the underlying transition functions or reward function of a [[Markov decision processes and dynamic programming|Markov decision process]]
+- In RL, can no longer access the underlying transition functions or reward function of a [[Markov decision processes|Markov decision process]]
 	- **Question:** Is this true for all RL settings?

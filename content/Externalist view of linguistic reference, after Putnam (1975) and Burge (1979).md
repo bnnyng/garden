@@ -7,7 +7,7 @@ tags:
   - topic-cognitive-science
 publish: "true"
 date: 2024-11-10 12:07
-lastmod: 2025-05-28T17:00:25-04:00
+lastmod: 2025-06-29T16:11:44-04:00
 ---
 $\quad$According to the **externalist view** of [[Semantic competence is both inferential and referential, after Marconi (1997)|referential semantic competence]] in the philosophy of language, language users learn references not by directly interacting with referents (see also: Augustine’s “semantic” version of [[Meno's paradox]]), but by gleaning referential meaning from “linguistic division of labor” or historical-causal chains of usage.
 

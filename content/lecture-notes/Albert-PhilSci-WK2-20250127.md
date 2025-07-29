@@ -25,7 +25,7 @@ lastmod: 2025-02-04T20:01:39-05:00
 	- According to [[@1966hempel]], DN explanations satisfy the [[Scientific explanations must be explanatorily relevant and testable, after Hempel|requirement of explanatory relevance]] in “the strongest sense,” since the explanans give logically conclusive ground for expecting the **explanandum phenomenon**. 
 	- DN explanations must include at least one **law**—merely contingent facts do not give a satisfying explanation.
 
-**[[Laws and causation in scientific explanation|Natural laws]], after Hempel**
+**[[Laws of nature|Natural laws]], after Hempel**
 
 - Laws feel different from facts in that they **avoid particulars**. They play crucial roles in explanation, but are often **implicitly assumed** rather than explicitly stated.
 - Albert claims laws of biology and chemistry are **non-fundamental**, relative to physics.

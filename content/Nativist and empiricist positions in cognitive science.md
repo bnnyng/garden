@@ -20,7 +20,7 @@ $\quad$Today, the nativist-empiricist debate in cognitive science is a disagreem
 
 $\quad$Nativism and empiricism are related to [[Computationalist, connectionist, and rational research traditions in cognitive science]] by the following: **computationalist** theories depend on a notion of innateness, while **connectionist** theories, despite being technically neutral, take learning to be enabled by “updating” based on experiences alone. An approach that somewhat integrates both sides is to design artificial with innate [[Faculty psychology, after Locke and Hume|psychological faculties]] that are capable of [[Domain specificity and domain generality are graded phenomena, after Laurence and Margolis|domain-general]] learning (see [[Domain-general modular architecture is the best hope for modeling rational cognition in AI, after Buckner]].
 
-**Related notes:** [[The nativism-empiricism continuum, after Buckner]]
+**Related notes:** [[The nativism-empiricism continuum, after Buckner (2024)]]
 
 --- 
 # The philosophical debate

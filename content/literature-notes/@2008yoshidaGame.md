@@ -5,16 +5,22 @@ permalink:
 year: 
 tags:
   - literature-note
-lastmod: 2025-05-28T12:58:51-04:00
+lastmod: 2025-06-04T10:19:54-04:00
 date: 2025-05-27T09:41:23-04:00
 ---
 > Yoshida, Wako, Ray J. Dolan, and Karl J. Friston. “Game Theory of Mind.” _PLOS Computational Biology_ 4, no. 12 (December 26, 2008): e1000254. [https://doi.org/10.1371/journal.pcbi.1000254](https://doi.org/10.1371/journal.pcbi.1000254).
 
 ---
-# Summary
+# Overview
 
->[!example] Key terms
->
+#### Summary
+
+#### Key terms
+
+#### Atomic notes
+
+- [[(Model) Cognitive hierarchy and iterated reasoning]]
+
 
 
 ---

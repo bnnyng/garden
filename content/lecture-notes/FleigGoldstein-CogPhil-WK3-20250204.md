@@ -29,7 +29,7 @@ lastmod: 2025-02-07T14:07:05-05:00
 - Using deep learning for **perception** and **classification**, and symbolic reasoning for **logical inference** and **decision-making**.
 - Using neural networks and symbolic models to design each other.
 
-**Presentation: [[@2020marcus]], The Next Decade in AI**
+**Presentation: [[@2020marcusNext]], The Next Decade in AI**
 
 - Marcus’s argument: Robust AI must have **cognitive models of the world** that represent abstract, causal knowledge.
 - Hybrid approaches combine strengths from both techniques.
@@ -37,6 +37,6 @@ lastmod: 2025-02-07T14:07:05-05:00
 	- Classical symbolic models: clear rules of inference that apply to other objects of the same abstract category; structured, hierarchical representation; generalization beyond specific training data.
 	- **Large-scale knowledge** and **common sense** includes axioms of logic, as well as innate conceptions about time, space, manipulation, causation, etc.
 - Discussion questions
-	- Is [[@2020marcus]] or [[@2019sutton]] more convincing today?
+	- Is [[@2020marcusNext]] or [[@2019sutton]] more convincing today?
 	- Does GPT-4 (and larger models in general) overcome issues with “non-robust” AI?
 	- How to balance innate priors with flexibility of machine learning?

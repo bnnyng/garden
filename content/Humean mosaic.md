@@ -9,7 +9,7 @@ publish: "true"
 date: 2025-02-05T16:50:55-05:00
 lastmod: 2025-05-10T15:10:05-04:00
 ---
-$\quad$The **Humean mosaic** refers to totality of all facts and properties of the world in four-dimensional spacetime, within which there is no **metaphysical** distinction between [[Laws and causation in scientific explanation|scientific laws]] and other propositions. 
+$\quad$The **Humean mosaic** refers to totality of all facts and properties of the world in four-dimensional spacetime, within which there is no **metaphysical** distinction between [[Laws of nature|scientific laws]] and other propositions. 
 
 $\quad$This view is invoked in the **descriptivist** account of scientific laws, which takes laws to [[Supervenience|supervene]] on particular facts about the world. David Lewis refers to this relationship between laws and facts as **Humean supervenience**:
 
