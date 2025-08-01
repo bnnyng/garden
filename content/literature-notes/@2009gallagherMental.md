@@ -9,7 +9,7 @@ year: 2009
 permalink: https://doi.org/10.1007/s11245-008-9045-0
 publish: 
 date: 2025-05-28
-lastmod: 2025-05-29T11:29:03-04:00
+lastmod: 2025-07-29T11:08:42-04:00
 ---
 > Gallagher, S., & Crisafi, A. (2009). Mental Institutions. _Topoi_, _28_(1), 45–51. [https://doi.org/10.1007/s11245-008-9045-0](https://doi.org/10.1007/s11245-008-9045-0)
 
@@ -27,8 +27,10 @@ lastmod: 2025-05-29T11:29:03-04:00
 
 # Atomic notes
 
-- [[Social institutions are pieces of the mind externalized in specific time and place, after Hegel]]
 - [[The parity principle for extended cognition, after Clark and Chalmers (1998)]]
+- [[Individual human cognition supervenes on socially instituted processes, after Gallagher and Crisafi (2009)]]
+- [[Will is thought that translates itself into existence, after Hegel]]
+
 
 ---
 

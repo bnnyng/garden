@@ -45,7 +45,7 @@ $\quad$ Subtypes of reinforcement learning include:
 
 # Notes
 
-- Interestingly, reinforcement learning is one of the only domains in cognitive science where all [[Classical levels of cognitive theory|levels of explanation]] are understood.
+- Interestingly, reinforcement learning is one of the only domains in cognitive science where all [[Computational, algorithmic, and implementation level analyses of information-processing systems, after Marr (1982)|levels of explanation]] are understood.
 	- Computational/knowledge – maximizing reward.
 	- Algorithmic – temporal difference learning for a value function.
 	- Implementational/physical – dopamine neurons encode error signals needed for updating association values.

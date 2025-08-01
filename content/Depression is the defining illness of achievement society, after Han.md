@@ -12,4 +12,4 @@ Depression in Han’s “achievement society” comes has the following sources:
 - Exhaustion at excess positivity;
 - Inability to continue achieving.
 
-Such circumstances lead depressed individuals to “destructive self-reproach and auto-aggression” ([[@2015han|Han, 2015]]).
+Such circumstances lead depressed individuals to “destructive self-reproach and auto-aggression” ([[@2015hanBurnout|Han, 2015]]).

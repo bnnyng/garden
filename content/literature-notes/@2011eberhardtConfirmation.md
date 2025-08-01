@@ -1,14 +1,14 @@
 ---
 citekey: 2011eberhardtConfirmation
-aliases:
-  - Confirmation in the Cognitive Sciences
+aliases: 
 tags:
   - literature-note
-title: "journalArticle | Confirmation in the Cognitive Sciences: The Problematic Case of Bayesian Models"
+title: "Journal Article | Confirmation in the Cognitive Sciences: The Problematic Case of Bayesian Models"
 year: 2011
 permalink: https://doi.org/10.1007/s11023-011-9241-3
-publish:
+publish: 
 date: 2024-11-11
+lastmod: 2025-07-31T16:06:25-04:00
 ---
 > Eberhardt, F., & Danks, D. (2011). Confirmation in the Cognitive Sciences: The Problematic Case of Bayesian Models. _Minds and Machines_, _21_(3), 389–410. [https://doi.org/10.1007/s11023-011-9241-3](https://doi.org/10.1007/s11023-011-9241-3)
 

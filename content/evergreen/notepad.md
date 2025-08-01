@@ -32,7 +32,7 @@ lastmod: 2025-02-11T09:49:36-05:00
 - Extra metabolic energy
 - David Deutsch universal explaners
 - Conversational backchannels
-- Origins of doubt and why to hold off on doubts of this world [[@2022mccarthya]]
+- Origins of doubt and why to hold off on doubts of this world [[@2022mccarthyPassenger]]
 	- Signposts vs. freedom to wander
 	- The use of the unconscious in doing mathematics
 

@@ -6,7 +6,7 @@ tags:
   - topic-humanities
 publish: "true"
 date: 2025-05-04T14:31:10-04:00
-lastmod: 2025-06-23T10:01:50-04:00
+lastmod: 2025-07-31T22:45:48-04:00
 ---
 
 $\quad$According to David Lewis (1969), social **conventions** are behavioral regularities that are stable but relatively arbitrary solutions to repeated coordination problems. A paradigmatic example is using language to communicate: 
@@ -18,7 +18,7 @@ $\quad$According to David Lewis (1969), social **conventions** are behavioral re
 
 $\quad$ In order to succeed, conventions generally require a bidirectional coordination of *expectations* during an interaction. For example, both the sender and receiver of a gesture must expect that the other shares their interpretation in order for the behavioral signal to be meaningful.
 
-$\quad$ Conventions apply when everyone’s best interest to coordinate ([[@2019hawkinsEmergence]]). In contrast, [[Prescriptive norms are solutions to problems where coordination may not initially be in all agents' self-interest]].
+$\quad$ Conventions apply when it is in everyone’s best interest to coordinate ([[@2019hawkinsEmergence]]). In contrast, [[Prescriptive norms are solutions to problems where coordination may not initially be in all agents' self-interest]].
 
 ---
 # References

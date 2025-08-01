@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags:
-  - workspace
   - topic-cognitive-science
   - seed
 publish: 
 date: 2024-07-26 09:55
-lastmod: 2024-11-20T14:07:07-05:00
+lastmod: 2025-07-29T15:06:53-04:00
 ---
 # Literature notes
 
@@ -45,7 +44,7 @@ lastmod: 2024-11-20T14:07:07-05:00
 
 [[2024-08-02]]
 
-- From [[@2017mercier]]
+- From [[@2017mercierEnigma]]
 	- Reasoning is for *justifying oneself and convincing others* – possible cognitive category for finding more words?
 
 [[2024-07-26]]

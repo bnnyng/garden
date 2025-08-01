@@ -56,9 +56,9 @@ Information processes are formal, goal-oriented operations with symbols related 
 
 ## Levels of information processes
 
-- [[Classical levels of cognitive theory]]
-- [[Classical levels of cognitive theory]]
-- [[Classical levels of cognitive theory]]
+- [[Computational, algorithmic, and implementation level analyses of information-processing systems, after Marr (1982)]]
+- [[Computational, algorithmic, and implementation level analyses of information-processing systems, after Marr (1982)]]
+- [[Computational, algorithmic, and implementation level analyses of information-processing systems, after Marr (1982)]]
 #### Knowledge
 - Knowledge-level analysis, which includes understanding representational mapping, is concerned with the algorithm's function
 - Knowledge-level analysis reveals to general principles about a system's significance or purpose

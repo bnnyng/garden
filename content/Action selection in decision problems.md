@@ -10,7 +10,7 @@ tags:
   - topic-information-computation-statistics
 publish: "true"
 date: 2025-06-09T14:29:45-04:00
-lastmod: 2025-07-09T15:32:26-04:00
+lastmod: 2025-07-29T15:00:57-04:00
 ---
 
 # Overview
@@ -21,7 +21,7 @@ $\quad$While [[§ Reinforcement Learning|learning]] allows [[Agent|agents]] to f
 
 ---
 
-# Greedy policies
+# Greedy policy
 
 $\quad$**Greedy policies** select the action(s) with highest estimated [[State and action value functions|value]].
 

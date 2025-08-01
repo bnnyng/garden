@@ -16,7 +16,7 @@ lastmod: 2025-02-09T16:24:09-05:00
 
 # Summary
 
-Related work: [[@2022fields]]
+Related work: [[@2022fieldsCompetency]]
 
 > [!Abstract]
 >

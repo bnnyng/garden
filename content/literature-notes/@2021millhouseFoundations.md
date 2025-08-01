@@ -117,7 +117,7 @@ publish:
 
 ### Bruno Olshausen – “Perception as Model Building”
 
-- Olshausen investigates the role of model building in perception and how these models are implemented in the brain (see: [[Classical levels of cognitive theory|levels of explanation]]).
+- Olshausen investigates the role of model building in perception and how these models are implemented in the brain (see: [[Computational, algorithmic, and implementation level analyses of information-processing systems, after Marr (1982)|levels of explanation]]).
 - One way to study perceptual models is to ask participants to draw a vague object before and after they recognize what it is supposed to be.
 	- Results suggest that visual object recognition relies on building a model of what is seen (see: Melanie Mitchell in [[20250611-archive-definitions-of-intelligence]]).
 - An important part of model building is the ability to factorize, or separate, different parts of a scene.

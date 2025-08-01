@@ -1,11 +1,12 @@
 ---
-aliases: []
+aliases:
+  - game theory
 tags:
   - permanent-note
   - topic-information-computation-statistics
 publish: 
 date: 2025-07-09T15:45:24-04:00
-lastmod: 2025-07-21T11:37:44-04:00
+lastmod: 2025-07-31T22:47:13-04:00
 ---
 [[@2015bloembergenEvolutionary]]
 
@@ -17,3 +18,7 @@ Classical game theory assumes that full knowledge of the game is available to al
 ---
 
 - [[Equilibria in games of strategy]]
+
+[[@2021henrichOrigins]]
+
+![[Pasted image 20250731133954.png]]

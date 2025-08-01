@@ -33,7 +33,7 @@ lastmod: 2025-04-15T15:36:11-04:00
 
 # Reading notes
 
->[!quote] [[@lakatosProofsRefutationsLogic1976]] (paraphrasing Kant)
+>[!quote] [[@1976lakatosProofs]] (paraphrasing Kant)
 >The history of mathematics, lacking the guidance of philosophy, has become _blind_, while the philosophy of mathematics, turning its back on the most intriguing phenomena in the history of mathematics, has become _empty_.
 
 

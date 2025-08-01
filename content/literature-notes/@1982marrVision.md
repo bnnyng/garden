@@ -4,12 +4,12 @@ aliases:
 tags:
   - literature-note
   - seminal
-title: "book | Vision: A Computational Investigation into the Human Representation and Processing of Visual Information"
+title: "Book | Vision: A Computational Investigation into the Human Representation and Processing of Visual Information"
 year: 1982
 permalink: http://mitpress.universitypressscholarship.com/view/10.7551/mitpress/9780262514620.001.0001/upso-9780262514620
 publish: 
 date: 2024-08-15
-lastmod: 2025-06-09T10:44:06-04:00
+lastmod: 2025-07-31T12:26:45-04:00
 ---
 > Marr, D. (1982). _Vision: A Computational Investigation into the Human Representation and Processing of Visual Information_. The MIT Press. [https://doi.org/10.7551/mitpress/9780262514620.001.0001](https://doi.org/10.7551/mitpress/9780262514620.001.0001)
 
@@ -29,7 +29,7 @@ lastmod: 2025-06-09T10:44:06-04:00
 
 # Atomic notes
 
-- [[Classical levels of cognitive theory]]
+- [[Computational, algorithmic, and implementation level analyses of information-processing systems, after Marr (1982)]]
 
 ---
 

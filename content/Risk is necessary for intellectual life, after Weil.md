@@ -12,7 +12,7 @@ $\quad$According to Simone Weil, risk is a necessary part of human life. Without
 >[!quote] Simone Weil, *The Need For Roots*
 >”The protection of mankind from fear and terror doesn’t imply the abolition of risk; it implies, on the contrary, the permanent presence of a certain amount of risk in all aspects of social life; for the absence of risk weakens courage to the point of leaving the soul, if the need should arise, without the slightest inner protection against fear.” 
 
-$\quad$This stands in contrast to Byung-Chul Han’s claim in his essay “[[@2015han|Profound Boredom]]” that [[Idleness is needed for creative generation]].
+$\quad$This stands in contrast to Byung-Chul Han’s claim in his essay “[[@2015hanBurnout|Profound Boredom]]” that [[Idleness is needed for creative generation]].
 
 >[!question] #concept-question 
 >How are Weil’s and Han’s definitions of boredom differently characterized? Can the two perspectives be reconciled?

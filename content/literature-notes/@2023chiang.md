@@ -34,7 +34,7 @@ Chiang cites addressing wealth inequality and “taming capitalism” as work th
 >A former McKinsey employee has described the company as “[capital’s willing executioners](https://www.currentaffairs.org/2019/02/mckinsey-company-capitals-willing-executioners#:~:text=An%20insider's%20perspective%20on%20how,spreads%20the%20gospel%20of%20capitalism%E2%80%A6&text=The%20author%20of%20this%20piece%20has%20chosen%20to%20maintain%20anonymity.)”: if you want something done but don’t want to get your hands dirty, McKinsey will do it for you. That escape from accountability is one of the most valuable services that management consultancies provide. Bosses have certain goals, but don’t want to be blamed for doing what’s necessary to achieve those goals; by hiring consultants, management can say that they were just following independent, expert advice.
 
 - Chiang focuses on the “execution” role of management consultancies like McKinsey. The main benefit of such consultancies is removing blame from the client.
-	- This doesn’t quite align with the claim in Chiang’s referenced [[@2019lovely]], which begins by arguing that McKinsey’s secrecy allows them to also avoid blame. Perhaps things have changed?
+	- This doesn’t quite align with the claim in Chiang’s referenced [[@2019lovelyMcKinsey]], which begins by arguing that McKinsey’s secrecy allows them to also avoid blame. Perhaps things have changed?
 	- Similarly, AI allows companies to blame “the algorithm” for any negative effects.
 - To prevent AI from becoming another version of McKinsey, we must also define the term “artificial intelligence” itself.
 	- If AI is a set of technologies that helps companies reduce cost, we risk it parallelling McKinsey’s role as “capital’s willing executioners.”

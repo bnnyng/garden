@@ -31,4 +31,4 @@ Related: [[§ Mathematical Logic and Formal Proofs]], [[Meno's paradox]]
 ---
 # Notes
 
-- Original note, inspired by [[@2022viteri]]: A **mathematical proof** is a unidirectional, deductive argument from axioms to conclusion. A proof never explicitly advances an [[Abduction is going from a believed conclusion to requirements for the conclusion to be true, after Peirce|abductive]] argument in the opposite direction; rather, abduction in mathematical proofs is an active reasoning process used to evaluate and build confidence in the deductive argument.
+- Original note, inspired by [[@2022viteriEpistemic]]: A **mathematical proof** is a unidirectional, deductive argument from axioms to conclusion. A proof never explicitly advances an [[Abduction is going from a believed conclusion to requirements for the conclusion to be true, after Peirce|abductive]] argument in the opposite direction; rather, abduction in mathematical proofs is an active reasoning process used to evaluate and build confidence in the deductive argument.

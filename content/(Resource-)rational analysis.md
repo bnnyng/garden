@@ -44,8 +44,8 @@ $\quad$ **Resource-rational analysis**, after [[@2020liederResource]], extends t
 >6. If predictions are off, iterate.
 
 >[!example] Six steps of resource-rational analysis ([[@2020liederResource]]):
->1. Begin by giving an aspect of cognition with a [[Classical levels of cognitive theory|computational-level]] (i.e., [[Classical theories of mind|functional]]) description in terms of a problem and its solution.
->2. Determine which class of [[Classical levels of cognitive theory|algorithms]] the mind’s computational architecture may be used to solve these this problem in a **satisficing** way, then determine the resource cost of these algorithms and the utility of more accurately approximating the correct solution.
+>1. Begin by giving an aspect of cognition with a [[Computational, algorithmic, and implementation level analyses of information-processing systems, after Marr (1982)|computational-level]] (i.e., [[Classical theories of mind|functional]]) description in terms of a problem and its solution.
+>2. Determine which class of [[Computational, algorithmic, and implementation level analyses of information-processing systems, after Marr (1982)|algorithms]] the mind’s computational architecture may be used to solve these this problem in a **satisficing** way, then determine the resource cost of these algorithms and the utility of more accurately approximating the correct solution.
 >3. Find the particular algorithm that optimally trades off resource cost and utility.
 >4. Evaluate the resulting **rational process model** against empirical data.
 >5. Refine computational-level theory from step (1) or assumptions about computational architecture and constraints (2) to make a new resource-rational model, then iterate until model’s predictions are sufficiently realistic.

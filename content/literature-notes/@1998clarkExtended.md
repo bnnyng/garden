@@ -9,7 +9,7 @@ year: 1998
 permalink: https://www.jstor.org/stable/3328150
 publish: 
 date: 2025-05-28
-lastmod: 2025-05-29T11:16:19-04:00
+lastmod: 2025-07-29T10:44:47-04:00
 ---
 > Clark, A., & Chalmers, D. (1998). The Extended Mind. _Analysis_, _58_(1), 7–19.
 
@@ -26,8 +26,7 @@ lastmod: 2025-05-29T11:16:19-04:00
 # Atomic notes
 
 - [[Active externalism includes both neuronal and environmental structures as physical bases of cognition, after Clark and Chalmers (1998)]]
-- 
-
+- [[The parity principle for extended cognition, after Clark and Chalmers (1998)]]
 
 ---
 

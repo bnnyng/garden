@@ -1,16 +1,18 @@
 ---
-aliases:
-  - complementarity
+aliases: []
 tags:
   - permanent-note
   - topic-cognitive-science
 publish: "true"
 date: 2025-06-03T11:11:23-04:00
-lastmod: 2025-06-03T12:05:35-04:00
+lastmod: 2025-07-31T14:55:30-04:00
 ---
 # Overview
 
 $\quad$[[@2024wuGroup]] propose a feedback loop between the individual cognitive capacities of [[Theory-of-mind|theory-of-mind]] and [[Cognitive compositionality|compositionality]], and the group-level capacities of **complementarity**—the ability of an interacting group to flexibly adopt specialized roles while working toward a joint goal[^1]—and **recombination** of existing solutions in group problem-solving.
+
+**Related notes:**
+- [[Human coordination is distinguished by flexible adoption of new, ad hoc roles as required by the task at hand]]
 
 ---
 

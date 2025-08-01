@@ -1,11 +1,18 @@
 ---
 kanban-plugin: board
-lastmod: 2025-07-28T20:42:48-04:00
+lastmod: 2025-07-31T21:40:07-04:00
 date: 2025-02-12T16:40:50-05:00
 ---
 
 ## Queue
 
+- [ ] 📚 [[@2025brattonSpeculative]], “A speculative philosophy of planetary computation”
+- [ ] 📚 Morgan (1986), *Images of Organizations*.
+	
+	Notes: Cited in [[@1995hutchinsHow]], as a review of metaphors for organizations.
+- [ ] 📚 [[@1958marchOrganizations]], *Organizations.*
+	
+	Note: Cited in [[@1995hutchinsHow]], characterizing organizations as cognitive systems.
 - [ ] 📚 [[@2023zhangClassical]], “Classical sorting algorithms as a model of morphogenesis”
 - [ ] 📚 C. Alexander, *The Phenomenon of Life*
 - [ ] 📚 [“Model checking vs. theorem proving: a manifesto”](https://www.cs.cornell.edu/home/halpern/papers/manifesto.pdf)
@@ -49,7 +56,7 @@ date: 2025-02-12T16:40:50-05:00
 - [ ] 📚 Arumugam et al. (2024), “Bayesian Reinforcement Learning with Limited Cognitive Load”
 - [ ] 📚 Hawkins, et al. (2022), “From partners to populations: A hierarchical bayesian account of  coordination and convention”
 - [ ] 📚 [[@1997wolpert]], “No free lunch theorems for optimization”
-- [ ] 📚 [[@2022frank]], “Intelligence as a planetary-scale process”
+- [ ] 📚 [[@2022frankIntelligence]], “Intelligence as a planetary-scale process”
 - [ ] 📚 [[@2023sharma]], “Assembly theory explains and quantifies selection and evolution”
 - [ ] 📚 [[@2023langdon]], “A unifying perspective on neural manifolds and circuits for cognition”
 	
@@ -63,6 +70,8 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Shortlist
 
+- [ ] 📚 [[@1995hutchinsHow]], “How a cockpit remembers its speeds”
+- [ ] 📚 [[@2000fiskeComplementarity]], “Complementarity theory”
 - [ ] 📚 [[@2019hernandez-lealSurvey]], “A survey and critique of multi-agent deep reinforcement learning”
 - [ ] 📚 [[@2022akhlaghpourRNABased]], “An RNA-based account of natural universal computation”
 - [ ] 📚 [[@2022dehaeneSymbols]], “Symbols and mental programs: a hypothesis about human singularity”
@@ -76,13 +85,16 @@ date: 2025-02-12T16:40:50-05:00
 	Notes: Tenenbaum, Goodman
 - [ ] 📚 [[@2025hafnerMastering]], “Mastering diverse control tasks using world models”
 - [ ] 📚 [[@2011aaronson]], “Why Philosophers Should Care About Computational Complexity”
-- [ ] 📚 [[@2022lecun]], “A Path Towards Autonomous Machine Intelligence”
+- [ ] 📚 [[@2022lecunPath]], “A Path Towards Autonomous Machine Intelligence”
 - [ ] 📚 [[@2023poesia]], “Peano: Learning Formal Mathematical Reasoning”
 - [ ] 📚 Cushman (2020), “Rationalization is rational”
 
 
 ## Unprocessed
 
+- [ ] 📚 [[@2021henrichOrigins]], “The origins and psychology of human cooperation”
+- [ ] 📚 [[@2019heyesCognitive]], “Precis of Cognitive Gadgets”
+- [ ] 📚 [[@2020gellnerMorality]], “Debate: Morality is fundamentally an evolved solution to problems of social co-operation”
 - [ ] 📚 [[@2021gweonInferential]], “Inferential social learning”
 - [ ] 📚 [[@2021laiPolicy]], “Policy compression”
 	
@@ -116,9 +128,6 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Inbox
 
-- [ ] [[The parity principle for extended cognition, after Clark and Chalmers (1998)]]
-	
-	Source: [[@2009gallagherMental]]
 - [ ] [[Cognitive world models]]
 - [ ] [[Mathematical structure]]
 	
@@ -136,7 +145,6 @@ date: 2025-02-12T16:40:50-05:00
 	
 	Source: [[MATH-GU4053|Algebraic Topology]]
 - [ ] [[Torus]]
-	
 	
 	Source: [[MATH-GU4053|Algebraic Topology]]
 - [ ] [[Internal realism, after Putnam]]
@@ -167,6 +175,15 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Someday
 
+- [ ] [[Theory-of-mind is a culturally learned cognitive mechanism, after Heyes (2019)]]
+	
+	Source: [[@2019heyesCognitive]]
+- [ ] [[Will is thought that translates itself into existence, after Hegel]]
+	
+	Source: [[@2009gallagherMental]]
+- [ ] [[Individual human cognition supervenes on socially instituted processes, after Gallagher and Crisafi (2009)]]
+	
+	Source: [[@2009gallagherMental]]
 - [ ] [[Morality is fundamentally an evolved solution to problems of cooperation, after Curry et al. (2019)]]
 	
 	Source: [[@2020gellnerMorality]]
@@ -247,9 +264,6 @@ date: 2025-02-12T16:40:50-05:00
 	
 	Source: [[PHIL-UN3655|Topics in Cognitive Science and Philosophy]]
 - [ ] [[Derivé]]
-- [ ] [[Cognitive gadgets, after Heyes]]
-	
-	Source: [[@2019heyesPrecis]]
 - [ ] [[Transfinite numbers]]
 	
 	Source: [[MATH-GU4200|Mathematics and the Humanities]]
@@ -319,27 +333,10 @@ date: 2025-02-12T16:40:50-05:00
 	Source: [[MATH-GU4200|Mathematics and the Humanities]]
 
 
-## Completed
 
-**Complete**
-- [x] [[(Model) The Rational Speech Acts framework, after Frank and Goodman (2016)]]
-	
-	Source: [[@2020degenRedundancy]], [[@2024sumersReconciling]]
-- [ ] [[Effectively calculable, recursive, and computable are equivalent descriptions of functions]]
-	
-	Source: [[MATH-GU4200|Mathematics and the Humanities]]
-
-
-***
-
-## Archive
-
-- [ ] [[Causation is a vestige of prescientific ways of thinking of the world, after Russell]]
-	
-	Source: [[@1912russell]]
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"new-card-insertion-method":"prepend","new-line-trigger":"enter"}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"new-card-insertion-method":"prepend","new-line-trigger":"enter"}
 ```
 %%

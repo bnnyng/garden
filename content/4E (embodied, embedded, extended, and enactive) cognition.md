@@ -15,7 +15,7 @@ tags:
   - seed
   - COGS-UN1001
 publish: "true"
-lastmod: 2025-06-30T20:31:17-04:00
+lastmod: 2025-07-31T21:41:11-04:00
 date: 2023-12-26
 ---
 
@@ -30,18 +30,28 @@ $\quad$ The **4E concept** involves, in addition to embodied cognition:
 | Embedded cognition                                      | How the environment scaffolds cognitive processes or shifts cognitive load |                                                                                                                                                                                                                     |
 | Extended cognition (i.e., the extended mind hypothesis) |                                                                            | Influenced by **pragmatists** like Peirce and Dewey, roboticists like Brooks, as well as [[Computationalist, connectionist, and rational research traditions in cognitive science\|connectionism]] and neural nets. |
 
-
 **Related notes:**
 - [[Simple vs. radical embodied cognition, after Clark]]
 - [[Challenge questions for interpretations of embodied cognition, after Gallagher]]
 
-
 ---
+
 # Selected passages and quotations
 
-- [[@1998clarkExtended]]: “The moral is that when it comes to belief, there is nothing sacred about skull and skin. What makes some information count as a belief is the role it plays, and there is no reason why the relevant role can be played only from inside the body.” (14)
+[[@1998clarkExtended]]: 
+
+> The moral is that when it comes to belief, there is nothing sacred about skull and skin. What makes some information count as a belief is the role it plays, and there is no reason why the relevant role can be played only from inside the body. (14)
 
 ---
+
+# Highlights
+
+[[@2009marshSocial]]
+
+- “The traditional views of cognition see the ‘‘mind ⁄ brain as an organ for building internal representations of the external world. By performing internal computations over these representations, the mind ⁄ brain comes to a decision about what actions are appropriate’’ (van Dijk, Kerkhofs, van Rooij, & Haselager, 2008, p. 299–300).” (321)
+
+---
+
 # Notes
 
 >[!question] #open-question 
@@ -51,6 +61,7 @@ $\quad$ The **4E concept** involves, in addition to embodied cognition:
 - **Semantic externalism:**  “the view that the meaning or “content” of a mental state depends on how one is situated in one’s environment.”
 
 ---
+
 # References
 
 - [[@1998clarkExtended]], “The extended mind”

@@ -55,7 +55,7 @@ lastmod: 2025-04-08T15:33:58-04:00
 
 - **Mathematics is traditionally considered a cumulative science:** “Everything that once was mathematics remains mathematics—at least in principle. And so it would appear that the subject is a vast, increasing organism, with branch upon branch of theory and practice. The prior branch is prerequisite for the understanding of the subsequent branch.” (18)
 - **Realistically, previously established facts and techniques are frequently modified:** “As mathematical textures are built up, there are concomitantly other processes at work which tend to break them down. Individual facts are found to be erroneous or incomplete. Theories become unpopular and are neglected. Work passes into obscurity and becomes grist for the mill of antiquarians .... Other theories become saturated and are not pursued further. Older work is seen from modern perspectives and is recast, reformulated, while the older formulations may even become unintelligible … Applications become irrelevant and forgotten … Superior methods are discovered and replace inferior ones.” (19)
-	- 💬 Is this process more like that of homeostatic self-maintenance, as in a single organism (e.g., the classic tree metaphor)? Or is it cultural evolution, even [[Humans are the niche constructors par excellence, after Kydd|niche construction]]?
+	- 💬 Is this process more like that of homeostatic self-maintenance, as in a single organism (e.g., the classic tree metaphor)? Or is it cultural evolution, even [[Humans are the niche constructors par excellence, after Kydd (2008)|niche construction]]?
 
 #### Ulam’s dilemma
 
@@ -70,7 +70,7 @@ lastmod: 2025-04-08T15:33:58-04:00
 
 - **Mathematics could be limited by internal saturation of sub-disciplines:** “Within a fairly limited mode of expression or operation there are only a very limited number of recognizably different forms, and while it would be possible to proliferate these forms indefinitely, a few prototypes adequately express the character of the mode. Thus, although it is said that no two snowflakes are identical, it is generally acknowledged that from the point of view of visual enjoyment, when you have seen a few, you have seen them all.” (24)
 - **”Living” mathematics is limited by the community:** “It seems certain that there is a limit to the amount of living mathematics that humanity can sustain at any time. As new mathematical specialties arise, old ones will have to be neglected.” (25)
-	- 💬 Again invokes [[Humans are the niche constructors par excellence, after Kydd|niche construction]]. Conversely, could be interpreted as the collective of mathematicians functioning as a sort of **fitness landscape** for mathematical ideas.
+	- 💬 Again invokes [[Humans are the niche constructors par excellence, after Kydd (2008)|niche construction]]. Conversely, could be interpreted as the collective of mathematicians functioning as a sort of **fitness landscape** for mathematical ideas.
 
 ## From certainty to fallibility
 

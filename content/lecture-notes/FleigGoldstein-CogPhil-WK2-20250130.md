@@ -13,7 +13,7 @@ lastmod: 2025-02-04T09:47:43-05:00
 
 **[[The Bitter Lesson, after Sutton]]**
 
-The **”Bitter Lesson”** is the principle that progress in artificial intelligence comes not from advances in engineering, but scaling computational power. From [[@2019sutton]]:
+The **”Bitter Lesson”** is the principle that progress in artificial intelligence comes not from advances in engineering, but scaling computational power. From [[@2019suttonBitter]]:
 
 >The bitter lesson is based on historical observations that:
 >1. AI researchers have often tried to build knowledge into their agents,

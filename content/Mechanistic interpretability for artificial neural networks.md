@@ -17,7 +17,7 @@ lastmod: 2025-04-14T18:44:32-04:00
 
 **Mechanistic interpretability** is the project of achieving explanatory understanding of causal mechanisms in artificial neural networks, particularly [[Large language models|large language models]]. Most interpretability research involves an attempt to **reverse engineer** the computations to obtain human-intelligible descriptions of **functional modules** in the network. 
 
-Like **systems neuroscience**, the mechanistic explanations occur at the [[Classical levels of cognitive theory|algorithmic level]]. The relevant functional modules for general neural networks are **features**, which are human-interpretable properties of the input data, and **circuits**, which are chains of operations that select for certain input features. **Computational graphs** give a formalism for representing circuits in general neural networks.
+Like **systems neuroscience**, the mechanistic explanations occur at the [[Computational, algorithmic, and implementation level analyses of information-processing systems, after Marr (1982)|algorithmic level]]. The relevant functional modules for general neural networks are **features**, which are human-interpretable properties of the input data, and **circuits**, which are chains of operations that select for certain input features. **Computational graphs** give a formalism for representing circuits in general neural networks.
 
 ---
 # Intervention methods

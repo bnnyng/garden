@@ -22,4 +22,4 @@ lastmod: 2025-04-08T14:30:40-04:00
 
 - Just as **genes** are the smallest unit of natural selection, **memes** are the smallest units of cultural selection.
 	- Memes do not need to contribute to the fitness of an organism, but is instead a parallel evolutionary process.
-- [[Humans are the niche constructors par excellence, after Kydd|Niche construction]] is when organisms and environment mutually affect each other’s features over evolutionary time. The classic example is beavers building dams, which changes the **fitness landscape** by creating ponds they can fish in. 
+- [[Humans are the niche constructors par excellence, after Kydd (2008)|Niche construction]] is when organisms and environment mutually affect each other’s features over evolutionary time. The classic example is beavers building dams, which changes the **fitness landscape** by creating ponds they can fish in. 

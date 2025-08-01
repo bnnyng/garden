@@ -8,7 +8,7 @@ year: 2024
 permalink: https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00155/124233/Group-Coordination-Catalyzes-Individual-and
 publish: 
 date: 2025-05-04
-lastmod: 2025-07-16T13:13:57-04:00
+lastmod: 2025-07-31T15:08:54-04:00
 ---
 > Wu, C. M., Dale, R., & Hawkins, R. D. (2024). Group Coordination Catalyzes Individual and Cultural Intelligence. _Open Mind_, _8_, 1037–1057. [https://doi.org/10.1162/opmi_a_00155](https://doi.org/10.1162/opmi_a_00155)
 
@@ -60,3 +60,6 @@ lastmod: 2025-07-16T13:13:57-04:00
 # Further reading
 
 - [[@2021gweonInferential]]: Overview of **inferential social learning**, which studies social learning and teaching “through a common theoretical lens.”
+- [[@2021henrichOrigins]]: Overview of evolutionary mechanisms for developing human **cumulative culture**.
+- [[@2000fiskeComplementarity]]: Introduces **complementarity theory**, which posits that “human social coordination is the product of structured psychological proclivities linked to corresponding cultural paradigms.”
+- [[@2021wuToo]]: Demonstrates that [[Theory-of-mind|theory-of-mind]] facilitates complementarity by showing that social inferences made via [[Inverse planning and Bayesian theory-of-mind|Bayesian theory-of-mind]] allow groups to “distribute specialized roles and collaboratively solve tasks with many interlocking parts and dependencies” (1042).

@@ -27,4 +27,4 @@ where $d$ is data chosen by the teacher and $h$ is the *correct* hypothesis.
 
 $\quad$ The parameter $\alpha$ captures a “soft maximization” of the posterior probability, or the degree to which the teacher tends towards maximizing the posterior instead of choosing the most *representative* samples. As $\alpha \to 0$, the teacher chooses *uniformly* among data consistent with the hypothesis, with $\alpha = 0$ being the case of random sampling (i.e., not helpful) and $\alpha = 1$ representing selection in direct proportion to the posterior probability they give to the target hypothesis. 
 
-$\quad$ Under this model, teachers compute the utility of selecting an example using [[Theory-of-mind|theory-of-mind]]. [[@2022chen]] extend this model to capture *uncertainty* during adaptive and interactive pedagogical setting.
+$\quad$ Under this model, teachers compute the utility of selecting an example using [[Theory-of-mind|theory-of-mind]]. [[@2022chenHierarchical]] extend this model to capture *uncertainty* during adaptive and interactive pedagogical setting.

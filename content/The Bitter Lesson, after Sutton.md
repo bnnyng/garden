@@ -8,7 +8,7 @@ publish:
 date: <% tp.file.creation_date() %>
 lastmod: 2025-02-05T10:40:25-05:00
 ---
-The **”Bitter Lesson”** is the principle that progress in artificial intelligence comes not from advances in engineering—in particular, the explicit programming of [[Domain specificity and domain generality are graded phenomena, after Laurence and Margolis|domain-specific]] knowledge—but scaling computational power. From [[@2019sutton]]:
+The **”Bitter Lesson”** is the principle that progress in artificial intelligence comes not from advances in engineering—in particular, the explicit programming of [[Domain specificity and domain generality are graded phenomena, after Laurence and Margolis|domain-specific]] knowledge—but scaling computational power. From [[@2019suttonBitter]]:
 
 >The bitter lesson is based on historical observations that:
 >1. AI researchers have often tried to build knowledge into their agents,

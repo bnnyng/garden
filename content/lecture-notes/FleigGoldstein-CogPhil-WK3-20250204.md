@@ -16,7 +16,7 @@ lastmod: 2025-02-07T14:07:05-05:00
 	- Does the success of AI imply something important about intelligence in general, and more specifically, human cognition?
 - Are AI only “stochastic parrots,” after Bender? How is mimicking by AI, e.g., in art, different from human creation of art?
 	- *Example of a difficult question.*$\text{ }$ Take a capital “D”, rotate 90 degrees counterclockwise, place a “J” underneath. What weather does this remind you of?
-- [[@2018marcus]]’s suggestion, contra [[@2019sutton]]: Hybridize deep learning with **symbolic models**. Who seems more right today?
+- [[@2018marcusDeep]]’s suggestion, contra [[@2019suttonBitter]]: Hybridize deep learning with **symbolic models**. Who seems more right today?
 
 **Buckner’s “moderate empiricism”**
 
@@ -37,6 +37,6 @@ lastmod: 2025-02-07T14:07:05-05:00
 	- Classical symbolic models: clear rules of inference that apply to other objects of the same abstract category; structured, hierarchical representation; generalization beyond specific training data.
 	- **Large-scale knowledge** and **common sense** includes axioms of logic, as well as innate conceptions about time, space, manipulation, causation, etc.
 - Discussion questions
-	- Is [[@2020marcusNext]] or [[@2019sutton]] more convincing today?
+	- Is [[@2020marcusNext]] or [[@2019suttonBitter]] more convincing today?
 	- Does GPT-4 (and larger models in general) overcome issues with “non-robust” AI?
 	- How to balance innate priors with flexibility of machine learning?

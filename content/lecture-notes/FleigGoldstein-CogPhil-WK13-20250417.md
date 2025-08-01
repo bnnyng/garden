@@ -16,7 +16,7 @@ lastmod: 2025-04-20T16:53:46-04:00
 
 - The **SAYCam-S** contains video data from three children, capturing about 2 hours per week.
 - The goal of multimodal learning is designing a model that associates words and images without explicit labels or supervised learning using “developmentally plausible” training data.
-	- *Discussion.* $\quad$ Does this the same as learning a concept, or some sort of more simplistic associative learning? (And can concept learning emerge from associative learning without engineering more mechanisms? See [[@2019heyesPrecis]] on domain-general functions.)
+	- *Discussion.* $\quad$ Does this the same as learning a concept, or some sort of more simplistic associative learning? (And can concept learning emerge from associative learning without engineering more mechanisms? See [[@2019heyesCognitive]] on domain-general functions.)
 - The **Child’s View for Contrastive Learning** model pairs video frames that co-occur with uttered words and projected images and words to the same embedding spaces.
 	- Paper: https://doi.org/10.1126/science.adi1374
 	- This implies that **ecologically realistic** data helps train models; you can have **domain-general learning mechanisms** that successfully learn tasks without innate knowledge.

@@ -37,7 +37,7 @@ date: 2025-01-22T21:47:59-05:00
 
 [[Albert-PhilSci-WK6-20250226]]
 
-- Goodman’s view of deductive inferences as justified by “mutual adjustment”; cf. [[Dialogical reasoning]], [[@2017mercier]]; cultural evolution.
+- Goodman’s view of deductive inferences as justified by “mutual adjustment”; cf. [[Dialogical reasoning]], [[@2017mercierEnigma]]; cultural evolution.
 - [ ] Why is time needed for the “grue” construction? Still do not quite understand why Goodman’s problem is a problem.
 
 [[Albert-PhilSci-WK5-20250217]]

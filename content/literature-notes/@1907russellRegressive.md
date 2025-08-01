@@ -31,7 +31,7 @@ lastmod: 2025-06-24T17:33:16-04:00
 
 # Key terms
 
-- [[The epistemological priority of mathematical principles typically precedes their logical priority, after Russell]]
+- [[The epistemological priority of mathematical principles typically precedes their logical priority, after Russell (1907)]]
 
 ---
 

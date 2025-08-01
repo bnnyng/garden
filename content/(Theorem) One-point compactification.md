@@ -6,11 +6,11 @@ tags:
 status: 
 publish: "true"
 date: 2024-10-17 18:50
-lastmod: 2024-12-17T18:01:22-05:00
+lastmod: 2025-07-29T15:01:13-04:00
 ---
 # Proof
 
->[!abstract] Theorem: One-point compactification
+>[!theorem] One-point compactification
 >A [[Topological spaces and open sets|topological space]] $X$ is [[Local compactness and compactification|locally compact]] and [[Hausdorff spaces|Hausdorff]] if and only if there exists a space $Y$ and an [[Homeomorphisms and topological embeddings|embedding]] $i : X \to Y$ such that:
 >- (i) $Y$ is [[Compactness|compact]] and Hausdorff;
 >- (ii) $Y \backslash i (X) = \{ p\}$, a single point;

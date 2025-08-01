@@ -9,9 +9,9 @@ tags:
 status: 
 publish: "true"
 date: 2024-10-20 16:44
-lastmod: 2024-12-04T12:55:27-05:00
+lastmod: 2025-07-29T15:01:40-04:00
 ---
->[!abstract] Lemma: Lebesgue number
+>[!lemma]  Lebesgue number
 >If $\mathcal C$ is an open cover of a [[Compactness|compact]] [[Metrics, metric spaces, and the metric topology|metric space]], then there exists $\delta > 0$ such that whenever $\text{diam}(A) < \delta$, we have $A \subseteq U$ entirely contained for some $U \in \mathcal C$. The quantity $\delta$ is known as the **Lebesgue number** of the cover. 
 
 ^dd996c

@@ -98,7 +98,7 @@ $\quad$ This paper proposes that conceptual inflexibility during planning arises
 
 - People simplify problems and persist in their construal strategies even when a more attending to more details would lead to a better solution.
 	- For example, people adopt a blocks-only construal strategy if navigating through notches was optional for solving the problem, and continue to ignore notches. 
-- The [[Classical levels of cognitive theory|computational level]] principles underlying functional fixedness—avoidance of complexity and switching costs—are confirmed by modeling patterns of optimal behavior, suboptimal behavior, and reaction times in the [[(Model) Value-guided task construals, after Ho et al. (2022)|value-guided task construal]] framework.
+- The [[Computational, algorithmic, and implementation level analyses of information-processing systems, after Marr (1982)|computational level]] principles underlying functional fixedness—avoidance of complexity and switching costs—are confirmed by modeling patterns of optimal behavior, suboptimal behavior, and reaction times in the [[(Model) Value-guided task construals, after Ho et al. (2022)|value-guided task construal]] framework.
 
 >***How did this study advance the literature? What are the main contributions?***
 

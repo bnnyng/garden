@@ -26,7 +26,7 @@ lastmod: 2025-03-06T13:50:01-05:00
 | Abstraction-as-subtraction | Subtracting away details from particular instances of objects in the category. | Seems to already require the knowledge of the concept to know details; particular instances may have exceptional details while still fitting under the general concept. |
 | Abstraction-as-composition | Built by combining basic ideas.                                                | Not empiricist, since requires more basic concepts.                                                                                                                     |
 
-**Presentation: [[@2019zhou]], “Humans can decipher adversarial images**
+**Presentation: [[@2019zhouHumans]], “Humans can decipher adversarial images**
 
 - **Adversarial images** are subtly manipulated input images on which AI models make incorrect classifications. The goal of the present study is to determine if humans can identify which images are adversarial to AI.
 	- **Fooling images** are “meaningless patterns” that are classified by familiar objects.

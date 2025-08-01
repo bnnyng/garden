@@ -32,7 +32,7 @@ $\quad$There are two ways to frame the symbol grounding problem, which give diff
 ---
 # Notes
 
-- Mental content externalism holds that the relationships between physical and semantic components in the cognitive [[Classical levels of cognitive theory|levels of explanation]] are arbitrary; brain and body characteristics may constrain what actions are performed, but there is nothing deterministic in the relationship between physical characteristics and mental representations. Rather, the relationships are determined by the agent’s situatedness. Thus, embodied cognition presents an answer to the symbol grounding problem.
+- Mental content externalism holds that the relationships between physical and semantic components in the cognitive [[Computational, algorithmic, and implementation level analyses of information-processing systems, after Marr (1982)|levels of explanation]] are arbitrary; brain and body characteristics may constrain what actions are performed, but there is nothing deterministic in the relationship between physical characteristics and mental representations. Rather, the relationships are determined by the agent’s situatedness. Thus, embodied cognition presents an answer to the symbol grounding problem.
 
 >[!question] #open-question 
 >- Does information about an organism’s environment and evolutionary history help us understand its cognition and behavior? ([[@2022millhouseEmbodied]])
