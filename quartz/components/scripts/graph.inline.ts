@@ -209,7 +209,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     } else if (d.tags.includes("topic-physics-complexity")) {
       return "#2268c3" // blue
     } else if (d.tags.includes("literature-note")) {
-      return "#424242" // blue
+      return "#424242" // dark gray
     // } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
     //   return computedStyleMap["--tertiary"]
     } else {

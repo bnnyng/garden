@@ -11,7 +11,7 @@ export const sharedPageComponents: SharedLayout = {
         // filter: (file) => {
         //     return file.frontmatter?.publish == true
         // },
-        title: "Recently Edited",
+        title: "Recent Notes",
         limit: 5,
         showTags: false,
         filter: (file: { frontmatter?: { publish?: unknown, tags?: unknown[] } }): boolean => {
