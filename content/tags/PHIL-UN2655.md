@@ -7,11 +7,10 @@ title: Class | Cognitive Science and Philosophy
 
 *Columbia University, Fall 2024 – B. Fleig-Goldstein*
 
->[!example] Course description
->An overview of the rise of cognitive science as an interdisciplinary field, and the fundamental
-debates it has engendered. Cognitive science emerged in the twentieth century as a paradigm for studying the mind. Since its beginning, cognitive science has drawn upon formal developments in philosophy, logic, mathematics, and computer science in order to establish various frameworks for generating and testing theories of cognition. It has sought to integrate, as well as further, the empirical findings of psychology, linguistics, anthropology, and neuroscience. The premises behind this ambitious approach have given rise to significant philosophical discussion. The first half of the course will introduce students to philosophical and empirical developments within the individual disciplines related to cognitive science and will show how they interrelate. The second half of the course is devoted to the central debates: classical computationalism versus connectionism; nativism versus empiricism; representationalism versus anti-representationalism; bottom-up versus top-down approaches; the rationality wars; and so on.
+>An overview of the rise of cognitive science as an interdisciplinary field, and the fundamental debates it has engendered. Cognitive science emerged in the twentieth century as a paradigm for studying the mind. Since its beginning, cognitive science has drawn upon formal developments in philosophy, logic, mathematics, and computer science in order to establish various frameworks for generating and testing theories of cognition. It has sought to integrate, as well as further, the empirical findings of psychology, linguistics, anthropology, and neuroscience. The premises behind this ambitious approach have given rise to significant philosophical discussion. The first half of the course will introduce students to philosophical and empirical developments within the individual disciplines related to cognitive science and will show how they interrelate. The second half of the course is devoted to the central debates: classical computationalism versus connectionism; nativism versus empiricism; representationalism versus anti-representationalism; bottom-up versus top-down approaches; the rationality wars; and so on.
 
 ---
+
 # Readings
 
 | Date       | Topic                                                                                                          | Cite Key                                         | Discussion Post                                                                                                                   |
@@ -42,6 +41,7 @@ debates it has engendered. Cognitive science emerged in the twentieth century as
 | 2024-11-05 | Consciousness (continued)                                                                                      | Blackmore                                        |                                                                                                                                   |
 
 ---
+
 # Final assignment
 
 - [[20241012-cogphil-final-paper-proposal|Cognitive Science and Philosophy final assignment proposal]]

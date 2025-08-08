@@ -5,7 +5,8 @@ aliases:
   - epistemic phase transition
 tags:
   - permanent-note
+  - topic-physics-complexity
 publish: 
 date: 2024-06-06 16:41
-lastmod: 2024-06-06T16:42:45-06:00
+lastmod: 2025-08-08T15:35:20-04:00
 ---

@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://bnnyng.github.io/garden/",
     ignorePatterns: [
       "private", 
       "templates", 
