@@ -1,7 +1,7 @@
 ---
 publish: "true"
 date: 2023-12-26
-lastmod: 2025-08-08T15:53:54-04:00
+lastmod: 2025-08-08T15:56:07-04:00
 title: Bonnie's Notes
 cssclasses:
   - hide-date
@@ -9,7 +9,3 @@ cssclasses:
 ---
 
 $\quad$ Hello! My name is Bonnie Yang. I am an undergraduate at Barnard College, where I study [[topic-logic-mathematics|mathematics]] and [[topic-cognitive-science|cognitive science]] with occasional forays into [[topic-humanities|philosophy]]. This website is for sharing some of my notes on those topics, as well as on [[topic-physics-complexity|complexity]] and [[topic-information-computation-statistics|computer]] sciences. Most of the time, these are the same thing in disguise. 
-
-You can find me on [LinkedIn](https://www.linkedin.com/in/bonnie-yang-1198a522a/), [GitHub](https://github.com/bnnyng), and [Goodreads](https://www.goodreads.com/liminaljest).
-
-(Tip: check the graph view.)
