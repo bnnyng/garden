@@ -4,6 +4,8 @@ aliases:
   - literature note
   - literature notes
 publish: "true"
+cssclasses:
+  - hide-date
 ---
 
 $\quad$Literature notes correspond with a single source (book, article, video, etc.). They will generally be formatted with the following sections:

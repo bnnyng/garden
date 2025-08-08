@@ -21,7 +21,7 @@ lastmod: 2024-11-29T12:10:29-05:00
 
 # Atomic notes
 
-- [[Rational thought is thought linked to the pronunciation of language, after Jackendoff]]
+- [[Rational thought is thought linked to the pronunciation of language, after Jackendoff (2012)]]
 
 ---
 

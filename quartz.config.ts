@@ -31,19 +31,20 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "DotGothic16", // "VT323", // "Schibsted Grotesk", Handjet
-        body: "IBM Plex Sans", // "Source Sans Pro",
+        title: "Coral Pixels",
+        header: "Markazi Text", // "DotGothic16", // "VT323", // "Schibsted Grotesk", Handjet
+        body: "STIX Two Text", // "IBM Plex Sans", // "Source Sans Pro",
         code: "IBM Plex Mono", // inline and block quotes
       },
       colors: {
         lightMode: {
-          light: "#faf8f8", // page bg
-          lightgray: "#e5e5e5", // borders
-          gray: "#b8b8b8", // graph links, heavier borders
-          darkgray: "#db3b3b", // "#4e4e4e", // body text
-          dark: "#db3b3b", // "#2b2b2b", // header text and icons
-          secondary: "#b51010", // "#284b63", // link color, current graph node
-          tertiary: "#84a59d", // hover states and visited graph nodes
+          light: "#F4F7F5", // "#faf8f8", // page bg
+          lightgray: "#A7A2A9", //  "#e5e5e5", // borders
+          gray: "#A7A2A9", // "#b8b8b8", // graph links, heavier borders
+          darkgray: "#575A5E", // "#db3b3b", // "#4e4e4e", // body text
+          dark: "#575A5E", // "#db3b3b", // "#2b2b2b", // header text and icons
+          secondary: "#222823", // "#b51010", // "#284b63", // link color, current graph node
+          tertiary: "#222823", // "#84a59d", // hover states and visited graph nodes
           highlight: "rgba(143, 159, 169, 0.15)", // internal link background
           textHighlight: "rgba(143, 159, 169, 0.15)",
         },

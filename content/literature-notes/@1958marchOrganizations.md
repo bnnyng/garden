@@ -1,15 +1,14 @@
 ---
 citekey: 1958marchOrganizations
-aliases: 
+aliases:
+  - 
 tags:
   - literature-note
-  - seminal
-title: book | Organizations
+title: "book | Organizations"
 year: 1958
 permalink: 
-publish: 
+publish:
 date: 2025-07-31
-lastmod: 2025-07-31T16:18:15-04:00
 ---
 > March, J. G., & Simon, H. A. (1958). _Organizations_. Wiley.
 

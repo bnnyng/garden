@@ -6,11 +6,11 @@ tags:
   - topic-cognitive-science
 publish: 
 date: 2025-07-16T13:03:54-04:00
-lastmod: 2025-07-31T15:19:04-04:00
+lastmod: 2025-08-06T12:41:56-04:00
 ---
 # Overview
 
-$\quad$ **Complementarity** is the ability of an interacting group to adopt specialized roles while working towards a joint goal. According to [[@2024wuGroup]], complementarity is a distinguishing feature of human interactions:
+$\quad$ **Complementarity** is the ability of an interacting group to adopt specialized roles while working towards a shared goal. According to [[@2024wuGroup]], complementarity is a distinguishing feature of human interactions:
 
 > Whether for good or ill, it is clear is that the ability to infer and adapt to different roles in different groups is a core feature of human sociality, which must be understood to navigate the challenges faced by modern societies (Smaldino, 2014).
 

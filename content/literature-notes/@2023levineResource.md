@@ -8,7 +8,7 @@ year: 2023
 permalink: https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/resourcerational-contractualism-a-triple-theory-of-moral-cognition/5A567D41A472DBC0D965460966580C74
 publish: 
 date: 2025-07-29
-lastmod: 2025-08-01T13:52:20-04:00
+lastmod: 2025-08-07T15:58:51-04:00
 ---
 > Levine, S., Chater, N., Tenenbaum, J. B., & Cushman, F. (2023). Resource-rational contractualism: A triple theory of moral cognition. _Behavioral and Brain Sciences_, 1–38.
 
@@ -49,7 +49,7 @@ lastmod: 2025-08-01T13:52:20-04:00
 	- “A virtue-based perspective on moral judgment posits that it is morally good to pursue certain ”self-regarding” virtues like fortitude, prudence, and courage (Taylor and Wolfram 1968), which need not have anything to do with other people. Our account likewise does not explain these virtues, unless they are framed as having down-stream impacts on other agents (as indeed, they sometimes are) (though see §6).”
 - **The framework only applies to moral judgments that involve negotiation:** “Even some cases of interdependent choice are nonetheless outside the scope of our proposal because they bypass the cognitive processes of negotiation, such as the sense of moral duty to provide for one’s children. This intuition, and others like it, likely originates in “blind” adaptive processes rather than agreement-based reasoning.”
 - **The framework predicts situations that people may find immoral, such as labor exploitation:** “Consider a case where a person agrees to their own exploitation, such as a worker who accepts a very low wage and very poor working conditions because they truly have no better option. The most straightforward application of an agreement-based view would hold that there is nothing morally wrong with this arrangement—after all, everyone is better off than they would be otherwise. Indeed, an agreement favoring the advantaged party is specifically predicted by the Nash bargaining solution. Yet, many people hold that there is something morally wrong with this arrangement. 
-- **Preferences for equal rights do not emerge from agreement:** “The origin of our preference for equal, universal human rights, regardless of a person’s bargaining position and power, is something that contractualist theories often regard as outside the scope of what emerges from agreement(Gauthier 1986).”
+- **Preferences for equal rights do not emerge from agreement:** “The origin of our preference for equal, universal human rights, regardless of a person’s bargaining position and power, is something that contractualist theories often regard as outside the scope of what emerges from agreement (Gauthier 1986).”
 	- **However, acceptability based on mutual agreement is explained by bargaining theory:** “Meanwhile, many people probably also hold a roughly “libertarian” view of the exploitation case—namely, that any social arrangement is morally acceptable as long as it is mutually agreed upon (or feel the force of the viewpoint even if balanced against competing egalitarian viewpoints). This part of our moral psychology is well explained by our theory.”
 
 ## Mechanisms of moral cognition

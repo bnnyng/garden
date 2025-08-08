@@ -6,7 +6,7 @@ tags:
   - topic-humanities
 publish: "true"
 date: 2025-07-29T13:43:05-04:00
-lastmod: 2025-07-29T15:32:30-04:00
+lastmod: 2025-08-07T10:12:13-04:00
 ---
 
 $\quad$ [[@2018stichQuest]] outlines two inconclusive attempts to characterize morality and moral judgments:
@@ -18,9 +18,12 @@ $\quad$ While progress can be made in the theory of specific moral judgments (e.
 
 >However, if it turns out, and I’m betting it will, that there are actually a number of different natural kinds included in that vaguely specified class, then future philosophers and psychologists may simply drop the term “moral judgment” and focus instead on judgments of these separate natural kinds. If that’s the way things unfold, both philosophers and psychologists may be destined for a future without “morality.” (20)
 
-**Related notes:** [[Morality is fundamentally an evolved solution to problems of cooperation, after Curry et al. (2019)]]
+**Related notes:** 
+- [[Morality is fundamentally an evolved solution to problems of cooperation, after Curry et al. (2019)]]
+- [[Morality functions to guide people with competing interests towards agreements of mutual benefit]]
 
 ---
+
 # References
 
 - [[@2018stichQuest]], “The quest for the boundaries of morality”

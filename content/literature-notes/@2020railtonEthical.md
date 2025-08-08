@@ -1,15 +1,14 @@
 ---
 citekey: 2020railtonEthical
-aliases:
-  - 
+aliases: 
 tags:
   - literature-note
-title: bookSection | Ethical Learning, Natural and Artificial
+title: Chapter | Ethical Learning, Natural and Artificial
 year: 2020
 permalink: https://doi.org/10.1093/oso/9780190905033.003.0002
 publish: 
 date: 2025-07-29
-lastmod: 2025-07-31T16:12:39-04:00
+lastmod: 2025-08-07T11:34:53-04:00
 ---
 > Railton, P. (2020). Ethical Learning, Natural and Artificial. In S. M. Liao (Ed.), _Ethics of Artificial Intelligence_ (p. 0). Oxford University Press. [https://doi.org/10.1093/oso/9780190905033.003.0002](https://doi.org/10.1093/oso/9780190905033.003.0002)
 
@@ -28,6 +27,9 @@ lastmod: 2025-07-31T16:12:39-04:00
 # Atomic notes
 
 - [[Corporate entities and foundation models are analogous cognitive systems, after Railton (2020)]]
+- [[Default cooperation with others is a basic part of the human capacity for learning, after Railton (2020)]]
+- [[The human capacity to identify and respond to ethically relevant considerations is a basic part of human general intelligence and capacity for open-ended problem-solving, after Railton (2020)]]
+
 
 ---
 

@@ -4,7 +4,7 @@ tags:
   - evergreen
 publish: 
 date: 2024-08-16T12:32:50-04:00
-lastmod: 2025-07-31T22:38:16-04:00
+lastmod: 2025-08-07T14:08:46-04:00
 ---
 # Anthropology
 
@@ -17,14 +17,16 @@ lastmod: 2025-07-31T22:38:16-04:00
 ---
 # Cognitive Science
 
-| Name                                   | Institution | Research interests                                        | Notable works          | Also cited in           |
-| -------------------------------------- | ----------- | --------------------------------------------------------- | ---------------------- | ----------------------- |
-| [Rick Dale](https://co-mind.org/rick/) | UCLA        | Cognitive dynamics, human communication                   | [[@2011daleDynamics]]  |                         |
-| Dan Sperber                            |             | Cognitive anthropology, argumentative theory of reasoning | [[@2017mercierEnigma]] | [[@2023levineResource]] |
+| Name                                                                                                                | Institution  | Research interests                                        | Notable works                             | Also cited in           |
+| ------------------------------------------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------- | ----------------------------------------- | ----------------------- |
+| [Rick Dale](https://co-mind.org/rick/)                                                                              | UCLA         | Cognitive dynamics, human communication                   | [[@2011daleDynamics]]<br>[[@2024wuGroup]] |                         |
+| Robert Hawkins                                                                                                      | Stanford     |                                                           | [[@2024wuGroup]]                          |                         |
+| Dan Sperber                                                                                                         |              | Cognitive anthropology, argumentative theory of reasoning | [[@2017mercierEnigma]]                    | [[@2023levineResource]] |
+| [Charley M. Wu](https://charleywu.github.io/)<br><br>(Student of F. Cushman, S. Gershman; collaborator of N. Velez) | TU Darmstadt | Efficient learning with generalization; social learning   | [[@2024wuGroup]]                          |                         |
 
 ---
 # Psychology
 
-| Name          | Institution          | Research interests           | Notable works           |
-| ------------- | -------------------- | ---------------------------- | ----------------------- |
-| Cecilia Heyes | University of Oxford | Evolution of human cognition | [[@2019heyesCognitive]] |
+| Name          | Institution          | Research interests           | Notable works           | Also cited in |
+| ------------- | -------------------- | ---------------------------- | ----------------------- | ------------- |
+| Cecilia Heyes | University of Oxford | Evolution of human cognition | [[@2019heyesCognitive]] |               |

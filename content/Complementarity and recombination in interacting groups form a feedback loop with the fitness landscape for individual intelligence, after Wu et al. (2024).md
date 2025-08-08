@@ -5,7 +5,7 @@ tags:
   - topic-cognitive-science
 publish: "true"
 date: 2025-06-03T11:11:23-04:00
-lastmod: 2025-07-31T14:55:30-04:00
+lastmod: 2025-08-06T13:12:06-04:00
 ---
 # Overview
 
@@ -31,6 +31,6 @@ $\quad$[[@2024wuGroup]] propose a feedback loop between the individual cognitive
 - **Shared role decompositions reduces transactive memory costs:** Agents with the same representation of complementary roles (i.e., same decomposition of the task) can use ToM to track expertise of other agents and thus engage in “on-demand” or “asynchronous” processing to retrieve knowledge only when needed.
 	- #open-question  Further empirical work: does instability in interaction partners lead to an impaired ability to exchange social information?
 - **Agents trained in social environments generalize better to new tasks:** Group recombination gives each agent a larger combinatorial space of solutions for individual problem-solving tasks.
-	- #open-question Does this effect scale with the degree of specialization and recombination in the training group?
+	- #open-question Further empirical work: does this effect scale with the degree of specialization and recombination in the training group?
 
 [^1]: Complementarity is distinct from **reciprocity** of prosocial behaviors often studied in game theory—the latter requires actions to match exactly, while the former often requires actions to differ in coordinated ways.

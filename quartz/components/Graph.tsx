@@ -26,11 +26,13 @@ interface GraphOptions {
   globalGraph: Partial<D3Config> | undefined
 }
 
+
+
 const defaultOptions: GraphOptions = {
   localGraph: {
     drag: true,
     zoom: true,
-    depth: 1,
+    depth: 2,
     scale: 1.1,
     repelForce: 0.5,
     centerForce: 0.3,
@@ -40,15 +42,15 @@ const defaultOptions: GraphOptions = {
     showTags: false,
     removeTags: [],
     focusOnHover: false,
-    enableRadial: false,
+    enableRadial: true,
   },
   globalGraph: {
     drag: true,
     zoom: true,
     depth: -1,
     scale: 0.9,
-    repelForce: 0.5,
-    centerForce: 0.2,
+    repelForce: 1,
+    centerForce: 0.5,
     linkDistance: 30,
     fontSize: 0.6,
     opacityScale: 1,
@@ -60,8 +62,12 @@ const defaultOptions: GraphOptions = {
 }
 
 export default ((opts?: Partial<GraphOptions>) => {
-  const Graph: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
-    const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
+  const Graph: QuartzComponent = ({ displayClass, cfg, fileData }: QuartzComponentProps) => {
+    const slug = fileData.slug
+    const isIndex = slug === "index"
+    // console.log("Graph slug:", slug, "| isIndex:", isIndex)
+
+    const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph, scale: isIndex ? 0.001 : 1.1 }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
       <div class={classNames(displayClass, "graph")}>

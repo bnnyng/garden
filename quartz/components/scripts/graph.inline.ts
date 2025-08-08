@@ -124,7 +124,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   const neighbourhood = new Set<SimpleSlug>()
   const wl: (SimpleSlug | "__SENTINEL")[] = [slug, "__SENTINEL"]
-  if (depth >= 0) {
+  if (depth >= 0 && getFullSlug(window) !== "index") {
     while (depth >= 0 && wl.length > 0) {
       // compute neighbours
       const cur = wl.shift()!

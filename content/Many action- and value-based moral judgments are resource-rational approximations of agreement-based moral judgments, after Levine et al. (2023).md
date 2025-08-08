@@ -6,11 +6,11 @@ tags:
   - topic-cognitive-science
 publish: "true"
 date: 2025-07-31T23:28:42-04:00
-lastmod: 2025-08-01T13:35:00-04:00
+lastmod: 2025-08-07T12:42:00-04:00
 ---
 # Overview
 
-$\quad$ According to [[@2023levineResource]], the moral judgments that people make in situations of [[Morality functions to guide people with competing interests towards agreements of mutual benefit|interdependent choice]] imply that human moral psychology is substantially **contractualist**, meaning judgments are based on what rational agents ought to do in order to achieve mutual benefit. Under the contractualist view, ideal moral decision-making involves assembling a group of individuals and agreeing to a solution that applies to a specific [[Bargaining problems|bargaining problem]]. However, this idealized agreement-seeking is often infeasible in the real world. 
+$\quad$ According to [[@2023levineResource]], the moral judgments that people make in situations of [[Morality functions to guide people with competing interests towards agreements of mutual benefit|interdependent choice]] imply that human moral psychology is substantially [[Moral contractualism|contractualist]], meaning judgments are based on what rational agents ought to do in order to achieve mutual benefit. Under the contractualist view, ideal moral decision-making involves assembling a group of individuals and agreeing to a solution that applies to a specific [[Bargaining problems|bargaining problem]]. However, this idealized agreement-seeking is often infeasible in the real world. 
 
 $\quad$Instead, [[@2023levineResource]] propose **resource-rational contractualism**, which says that many apparently **consequentialist** (i.e., welfare-based) and **deontological** (i.e., action-based) moral judgments are actually resource-rational approximations of agreement-based ones. 
 
