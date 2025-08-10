@@ -6,9 +6,9 @@ tags:
 status: 
 publish: "true"
 date: 2024-10-20 16:27
-lastmod: 2024-12-19T02:36:29-05:00
+lastmod: 2025-08-09T00:26:23-04:00
 ---
->[!abstract] Theorem: Continuity is equals uniform continuity on compact spaces
+>[!theorem] Continuity is equals uniform continuity on compact spaces
 >Let $(X, d_X)$ and $(Y, d_Y)$ be [[Metrics, metric spaces, and the metric topology|metric spaces]]. If $f: X \to Y$ is [[Continuous functions|continuous]] and $X$ is [[Compactness|compact]], then $f$ is uniformly continuous.
 
 ^96dcf9

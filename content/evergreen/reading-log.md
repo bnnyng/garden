@@ -302,7 +302,7 @@ date: 2025-02-12T16:40:50-05:00
 	
 	Source: [[@1980cartwright]]
 - [ ] [[Modeling relation between natural and formal systems]]
-- [ ] [[The central dogma of mathematical formalism, after Harris]]
+- [ ] [[The central dogma of mathematical formalism, after Harris (2024)]]
 	
 	Source: [[MATH-GU4200|Mathematics and the Humanities]]
 - [ ] [[Definitions of mathematics]]

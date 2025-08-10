@@ -6,11 +6,11 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-11T09:53:01-04:00
+lastmod: 2025-08-09T00:40:40-04:00
 ---
 # Basic definition
 
->[!example] Definition: Torus
+>[!definition] Torus
 >The $2$-torus is the [[Quotient spaces|quotient space]] $T = [0, 1]^2 / \sim$, where $\sim$ is the equivalence relation given by $$ (t, 0) \sim (t, 1) \quad \quad (0, s) \sim (1, s). $$
 
 ---

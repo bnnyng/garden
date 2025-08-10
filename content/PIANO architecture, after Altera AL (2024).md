@@ -18,7 +18,7 @@ lastmod: 2025-01-17T12:11:25-05:00
 
 The **PIANO (Parallel Input Aggregation via Neural Orchestration) architecture** is a composite architecture for the implementation of human-like AI agents based on two brain-inspired design principles: **concurrency** and **information bottlenecked decision-making**.
 
-> Just as a pianist coordinates multiple notes to create a harmony, the PIANO architecture selectively and concurrently executes various modules in parallel to enable agents to interact with the environment in real time. [[@2024al]]
+> Just as a pianist coordinates multiple notes to create a harmony, the PIANO architecture selectively and concurrently executes various modules in parallel to enable agents to interact with the environment in real time. [[@2024alProject]]
 
 ![[IMG_383BB0535C6E-1.jpeg|500]]
 

@@ -14,7 +14,7 @@ tags:
 status: 🟡
 publish: "true"
 date: 2024-11-12 18:23
-lastmod: 2025-04-06T21:28:48-04:00
+lastmod: 2025-08-09T14:01:32-04:00
 ---
 # Overview
 
@@ -27,11 +27,13 @@ Path-homotopy classes are also elements of the [[Fundamental groups|fundamental 
 - [[Homotopy equivalence]]
 
 ---
+
 # Ways to (dis-)prove homotopies
 
 - [[(Path-)connectedness]] (ex: antipodal maps on the real line with origin removed)
 
 ---
+
 # (Path-)homotopies and (path-)homotopy classes
 
 >[!definition] Homotopic, homotopy
@@ -54,6 +56,7 @@ Alternatively, a homotopy can be viewed as a one-parameter family $t \mapsto H_t
 *Proof from [[MATH-GU4051|Topology]]*.
 
 We check the three properties of an [[Relation|equivalence relation]] for homotopies:
+
 - **Reflexivity:** For $f : X \to Y$, we have $f \simeq f$ via $H : X \times I \to Y$ defined by $H(x, t) = f(x)$. Note that $H = f \circ \pi_1$, the projection onto the first coordinate.
 - **Symmetry:** If $f \simeq g$ via $H: X \times I \to Y$, then we have $g \simeq f$ via $H’: X \times I \to Y$ defined by $H’(x, t) = H(x, 1-t)$.
 - **Transitivity:** If $f \simeq f’$ via $H$ and $f’ \simeq f’’$ via $H’$, define $H’’: X \to Y$ by 
@@ -64,11 +67,13 @@ H(x, 2t) &\text{if } 0 \leq t \leq 1/2 \\
 H'(x, 2t-1) &\text{if } 1/2 \leq t \leq 1.
 \end{cases}
 $$
+
 $H’’$ is well-defined (hint: how is it defined at $t = 1/2$?) and continuous on the closed sets $X \times [0, 1/2]$ and $X \times [1/2, 1]$, which implies $H’’$ is continuous by the [[Continuous functions|pasting lemma]] 
 
 🔺 The same homotopies $H$, etc. work for showing path-homotopy, with the additional step of checking the endpoint condition. $\ \square$
 
 ---
+
 # Homotopies relative to a subspace
 
 >[!definition] Homotopy relative to a subspace
@@ -79,6 +84,7 @@ $H’’$ is well-defined (hint: how is it defined at $t = 1/2$?) and continuous
 Note that a [[Deformation retractions|deformation retraction]] of $X$ onto $A \subseteq X$ is precisely a **homotopy rel $A$** from the identity of $X$ to a retraction of $X$ onto $A$.
 
 ---
+
 # Examples
 
 #### Straight line homotopy in convex sets
@@ -87,6 +93,7 @@ Note that a [[Deformation retractions|deformation retraction]] of $X$ onto $A \s
 >A subset $A \subseteq \mathbb R^n$ is **convex** if for all $x, y \in A$, the line segment from $x$ to $y$ lies in $A$. Explicitly, the entire line $(1-t)x + ty$ is in $A$ for all $t \in [0, 1]$.
 
 If $A \subseteq \mathbb R$ is convex, then any two continuous functions $f, f’ : X \to A$ are homotopic via the **straight line homotopy**
+
 $$
 H(x, t) = (1-t)f(x) + t(f'(x)).
 $$
@@ -94,12 +101,15 @@ $$
 #### Maps on the real plane with origin removed
 
 Let $X = \mathbb R^2\backslash \{ 0\}$ be the real plane with origin removed. Then 
+
 $$
 f_0(x) = x
 \quad \quad
 f_1(x) = -x
 $$
+
 are homotopic via
+
 $$
 H(x, t) = 
 \begin{pmatrix}
@@ -107,6 +117,7 @@ H(x, t) =
 \sin \pi t & \cos \pi t
 \end{pmatrix}x,
 $$
+
 which continuously rotates the point. This is well-defined (i.e., $H(x, t) \in X$ for all $x \in X$), since we have $\det = 1$, hence the matrix is invertible and $H(x, t)$ is always nonzero.
 
 Note that these are not homotopic if replacing the plane with $\mathbb R \backslash \{ 0 \}$ (argue based on [[(Path-)connectedness]]) or $\mathbb R^3 \backslash \{ 0\}$ (argument TBD).

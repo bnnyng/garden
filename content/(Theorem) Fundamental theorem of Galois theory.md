@@ -4,8 +4,8 @@ tags:
   - permanent-note
   - topic-logic-mathematics
 status: 
-publish: 
-lastmod: 2025-05-12T00:49:21-04:00
+publish: "true"
+lastmod: 2025-08-09T00:30:25-04:00
 date: 2025-04-29T15:41:53-04:00
 ---
 # Overview
@@ -13,6 +13,7 @@ date: 2025-04-29T15:41:53-04:00
 $\quad$The **fundamental theorem of Galois theory** says that if a [[Finite extension fields|finite extension]] $E$ of a [[Algebraic fields|field]] $F$ is a [[Separable, normal, and Galois extensions of fields|Galois extension]], then there is a bijection between the intermediate fields $K$ such that $E \leq K \leq F$ and the subgroups of the [[Galois groups|Galois group]] $\text{Gal}(E/F)$.
 
 ---
+
 # Theorem statement and proof
 
 >[!theorem] Fundamental theorem of Galois theory
@@ -21,12 +22,8 @@ $\quad$The **fundamental theorem of Galois theory** says that if a [[Finite exte
 >- (ii) For every subgroup $H \leq \text{Gal}(E/F)$, we have $[E : E^H] = \#(H)$, the number of elements in $H$, and hence $$ [E^H : F] = (\text{Gal}(E/F) : H) = \#(\text{Gal}(E/F)) / \#(H), $$ the number of left [[Algebraic groups|cosets]] of $H$. Likewise, for every intermediate field $F \leq K \leq E$, $$ \#(\text{Gal}(E/K)) = [E:K]. $$
 >- (iii) For every intermediate field $F \leq K \leq E$, the field $K$ is a [[Separable, normal, and Galois extensions of fields|normal extension]] of $F$ if and only if $\text{Gal}(E/K) \leq \text{Gal}(E/F)$ is a [[Normal subgroups and quotient groups|normal subgroup]]. In this case, $K$ is a **Galois** extension of $F$ and $$ \text{Gal}(K/F) \cong \text{Gal}(E/F) / \text{Gal}(E/K). $$
 
-
-
-
-
-
 ---
+
 # Code snippets
 
 ```

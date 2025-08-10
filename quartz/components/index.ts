@@ -23,6 +23,8 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 
+import Sidebar from "./Sidebar"
+
 export {
   ArticleTitle,
   Content,
@@ -48,4 +50,5 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+  Sidebar,
 }

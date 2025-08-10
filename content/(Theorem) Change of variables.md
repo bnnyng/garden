@@ -5,13 +5,13 @@ tags:
   - permanent-note
   - topic-logic-mathematics
 status: 
-publish: 
+publish: "true"
 date: 2024-11-21 15:29
-lastmod: 2024-12-12T10:06:37-05:00
+lastmod: 2025-08-09T00:22:23-04:00
 ---
 # For functions of a single variable
 
->[!abstract] Theorem: Change of variables for a single variable ($u$-substitution)
+>[!theorem] Change of variables for a single variable ($u$-substitution)
 >Let $f: [a, b] \to \mathbb R$ be [[Continuous functions|continuous]] and $g: [c,d] \to \mathbb R$ be [[Higher-order derivatives of real functions|continuously differentiable]] with $g([c,d]) \leq [a,b]$. Then 
 >$$
 >\int_c^df(g(x))g'(x)dx = \int_{g(c)}^{g(d)}f(y)dy.
@@ -42,7 +42,7 @@ $$
 ---
 # For functions of multiple variables
 
->[!abstract] Theorem: Change of variables in higher dimensions
+>[!theorem] Change of variables in higher dimensions
 >Suppose $U \subseteq \mathbb R^n$ is open, $D \subseteq U$ is closed and bounded, and $\varphi : D \to \mathbb R^n$ is $C^2$ or [[Higher-order derivatives of real functions|continuously differentiable]]. Set $D’ = \varphi(D)$. Further, suppose there exists a volume-0 subset $C \subseteq D$ such that:
 >- (i) The [[Multivariable derivatives|dervative map]] $d\varphi_{\vec x}$ is [[Invertibility|invertible]] for $\vec x \in D \backslash C$;
 >- (ii) $\varphi$ is injective on $D \backslash C$;
@@ -57,6 +57,3 @@ $$
 In particular, the claim of the theorem is that the right-hand side of the theorem is defined and can be used to compute the expression on the left-hand side.
 
 *Proof from [[MATH-UN1208|Honors Mathematics B]].* #wip
-
----
-# Examples

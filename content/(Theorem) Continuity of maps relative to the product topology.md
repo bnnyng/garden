@@ -5,11 +5,11 @@ tags:
   - topic-logic-mathematics
   - topic-logic-mathematics
 status: 
-publish: 
+publish: "true"
 date: 2024-09-24 16:32
-lastmod: 2024-10-13T13:50:14-04:00
+lastmod: 2025-08-09T00:26:05-04:00
 ---
->[!abstract] Theorem (Munkres 19.6): Continuity of maps relative to the product topology
+>[!theorem] Munkres 19.6: Continuity of maps relative to the product topology
 >Given an indexed family of sets $\{X_\alpha\}_{\alpha \in J}$, let the map to their [[Product spaces|generalized product]] $f: Z \to \prod_{\alpha \in J} X_\alpha$ be given by 
 >$$
 >f(z) = (f_\alpha(z))_{\alpha \in J},

@@ -9,7 +9,7 @@ year: 2024
 permalink: http://arxiv.org/abs/2411.00114
 publish: 
 date: 2025-01-14
-lastmod: 2025-01-17T12:16:44-05:00
+lastmod: 2025-08-09T13:55:54-04:00
 ---
 > AL, A., Ahn, A., Becker, N., Carroll, S., Christie, N., Cortes, M., Demirci, A., Du, M., Li, F., Luo, S., Wang, P. Y., Willows, M., Yang, F., & Yang, G. R. (2024). _Project Sid: Many-agent simulations toward AI civilization_ (No. arXiv:2411.00114). arXiv. [https://doi.org/10.48550/arXiv.2411.00114](https://doi.org/10.48550/arXiv.2411.00114)
 
@@ -27,15 +27,14 @@ GitHub repository: https://github.com/altera-al/project-sid
 
 # Atomic notes
 
-- [[Civilizational progress is the ultimate benchmark for AI agent abilities, after Altera AL]]
-- [[Brain-inspired design principles for artificial intelligence]]
-- [[PIANO architecture, after Altera AL]]
+- [[Civilizational progress is the ultimate benchmark for AI agent abilities, after Altera AL (2024)]]
+- [[PIANO architecture, after Altera AL (2024)]]
 
 ---
 
 # Key terms
 
->[!example] Key terms from [[@2024al]]
+>[!example] Key terms from [[@2024alProject]]
 >- **Civilization** = an advanced society that has achieved a high level of *institutional* development (e.g., specialized roles, organized governance, cultural advancements).
 
 ---

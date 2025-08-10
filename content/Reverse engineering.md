@@ -3,11 +3,12 @@ aliases:
   - reverse engineering
   - top-down
 tags:
-  - seed
+  - permanent-note
   - topic-information-computation-statistics
+  - seed
 publish: "true"
 date: 2025-07-31T12:13:49-04:00
-lastmod: 2025-07-31T12:21:48-04:00
+lastmod: 2025-08-09T13:50:26-04:00
 ---
 $\quad$ In contrast to conventional (forward) engineering, which takes a plan or specification as input and outputs a product, **reverse engineering** takes a completed entity as input and aims to derive or reconstruct its specifications. 
 

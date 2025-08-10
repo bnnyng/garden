@@ -4,10 +4,12 @@ aliases:
   - reductionism
   - reducible
 tags:
+  - permanent-note
+  - topic-physics-complexity
   - seed
 publish: 
 date: 2025-03-02T09:44:02-05:00
-lastmod: 2025-03-30T11:32:39-04:00
+lastmod: 2025-08-09T13:52:51-04:00
 ---
 
 

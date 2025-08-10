@@ -2,11 +2,11 @@
 aliases:
   - active externalism
 tags:
+  - permanent-note
   - topic-cognitive-science
-  - seed
   - COGS-UN1001
 publish: "true"
-lastmod: 2025-05-29T11:17:48-04:00
+lastmod: 2025-08-09T13:57:26-04:00
 date: 2023-12-26
 ---
 $\quad$ The framework of **active externalism**, proposed by [[@1998clarkExtended]], takes the physical mechanisms or “vehicles” underlying cognition include both neuronal structures and factors outside of the brain, such as instruments and artifacts in the environment. 

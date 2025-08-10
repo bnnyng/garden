@@ -11,11 +11,12 @@ aliases:
   - 4E cognition
   - extended mind hypothesis
 tags:
+  - permanent-note
   - topic-cognitive-science
-  - seed
   - COGS-UN1001
+  - seed
 publish: "true"
-lastmod: 2025-07-31T21:41:11-04:00
+lastmod: 2025-08-09T13:49:33-04:00
 date: 2023-12-26
 ---
 

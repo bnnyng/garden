@@ -1,11 +1,12 @@
 ---
 aliases: 
 tags:
+  - permanent-note
+  - topic-information-computation-statistics
   - seed
-  - topic-physics-complexity
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-01-17T12:33:21-05:00
+lastmod: 2025-08-09T13:51:50-04:00
 ---
 # Overview
 

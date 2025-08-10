@@ -7,8 +7,8 @@ tags:
   - topic-logic-mathematics
   - MATH-GU4042
 status: 
-publish: 
-lastmod: 2025-05-14T11:26:16-04:00
+publish: "true"
+lastmod: 2025-08-09T00:37:55-04:00
 date: 2025-05-08T17:07:53-04:00
 ---
 
@@ -65,30 +65,34 @@ and thus $\ker \varphi = \{ 1 \}$ is trivial. Thus, $\varphi$ embeds $\text{Gal}
 >and $E = F(\alpha) = F(\sqrt[n]{a})$. Moreover, $\text{Gal}(E/F)$ is abelian and isomorphic to a subgroup of $\mu_n(F) \cong \mathbb Z/n \mathbb Z$.
 
 $\quad$ In this situation, we have $$ x^n-a \text{ irreducible} \iff [E:F] = n \iff \#(\text{Gal}(E/F)) = n \iff \text{Gal}(E/F) \cong \mathbb Z / n \mathbb Z. $$
+
 *Proof from [[MATH-GU4042|Modern Algebra II]].* $\quad$ We first show that the splitting field is of the form $E = F(\alpha)$, where $\alpha = \sqrt[n]{a}$ is a root of $x^n-a$ in $E$. Since $\mu_n(F) \subseteq F \subseteq E$, if root $\alpha \in E$ is a root of $x^n-a$, then so is $\zeta\alpha$ for all $n$th roots of unity $\zeta \in \mu_n(F)$. Then there are *at least* $n$ distinct linear factors $(x - \zeta\alpha)$, and hence
+
 $$
 \prod_{\zeta \in \mu_n(F)} (x - \zeta \alpha)
 $$
+
 divides $x^n - a$ in $E[x]$. However, since both sides are monic of degree $n$, they must be exactly equal. This shows that $x^n-a$ splits into linear factors in $F(\alpha)$, so $F(\alpha)$ must be a splitting field for $x^n-a$ and thus $F(\alpha) \cong E$.
 
 $\quad$ We now show the inclusion of $\text{Gal}(E/F)$ into $\mu_n(F) \cong \mathbb Z / n \mathbb Z$. Recall that the Galois group for the splitting field $E$ acts transitively on the roots of $x^n-a$. Thus for any $\sigma \in \text{Gal}(E/F)$, the image $\sigma(\alpha)$ is just another root of $x^n - a$ and hence $\sigma(\alpha) = \zeta(\alpha)$ for some uniquely specified $\zeta \in \mu_n(F)$ (since $\alpha$ assume nonzero). Then the map 
+
 $$
 \varphi: \text{Gal}(E/F) \to \mu_n(F), \quad \quad \sigma \mapsto \sigma(\alpha)/\alpha
 $$
+
 sending each $\sigma$ to the unique $\zeta \in \mu_n(F)$ such that $\sigma(\alpha) = \varphi(\alpha) \cdot \alpha$, is well-defined. We can check that $\varphi$ is a homomorphism using the fact that for all $\sigma, \sigma’ \in \text{Gal}(E/F)$, we have
+
 $$
 \sigma(\varphi(\sigma') \cdot \alpha) = \varphi(\sigma')\sigma(\alpha),
 $$
+
 since $\varphi(\sigma’) \in \mu_n(F) \subseteq F$ and hence is fixed. Finally, $\varphi$ is injective since $E = F(\alpha)$ implies that 
+
 $$
 \sigma \in \ker\varphi \iff \sigma (\alpha) = \alpha \iff \sigma = \text{id}_E,
 $$
+
 and we conclude that $\text{Gal}(E/F)$ is isomorphic to a subgroup of $\mu_n(F) \cong \mathbb Z / n \mathbb Z$. $\quad \square$
-
-
-
-
-![[Pasted image 20250512211628.png]]
 
 ---
 

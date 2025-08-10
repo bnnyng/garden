@@ -37,7 +37,7 @@ lastmod: 2025-02-11T09:49:36-05:00
 	- The use of the unconscious in doing mathematics
 
 Potential seeds:
-- Impasse – [[Inquiry is the struggle to go from doubt to belief, after Peirce]], [[The value of a mathematical claim is guided by experiences of impasse and resolution, after DeDeo]]
+- Impasse – [[Inquiry is the struggle to go from doubt to belief, after Peirce]], [[The value of a mathematical claim is guided by experiences of impasse and resolution, after DeDeo (2024)]]
 
 Things to look into:
 - Tree automata

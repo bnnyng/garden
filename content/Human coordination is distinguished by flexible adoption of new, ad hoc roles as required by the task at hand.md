@@ -2,11 +2,12 @@
 aliases:
   - complementarity
 tags:
-  - seed
+  - permanent-note
   - topic-cognitive-science
+  - seed
 publish: 
 date: 2025-07-16T13:03:54-04:00
-lastmod: 2025-08-06T12:41:56-04:00
+lastmod: 2025-08-09T13:49:20-04:00
 ---
 # Overview
 

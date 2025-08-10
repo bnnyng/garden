@@ -7,9 +7,9 @@ tags:
   - topic-logic-mathematics
   - MATH-GU4053
 status: 
-publish: 
+publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-27T10:34:41-04:00
+lastmod: 2025-08-09T13:41:00-04:00
 ---
 # Overview
 

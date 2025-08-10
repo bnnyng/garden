@@ -6,15 +6,16 @@ tags:
   - topic-humanities
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-15T15:39:46-04:00
+lastmod: 2025-08-09T14:01:11-04:00
 ---
 # Overview
 
-The **foundational crisis of mathematics**, defined by [[@2018engelhardtModernism]] to be between the 1880s to 1930, was based on the question of what in the *foundations* of mathematics guaranteed its truth and meaning. 
+$\quad$The **foundational crisis of mathematics**, defined by [[@2018engelhardtModernism]] to be between the 1880s to 1930, was based on the question of what in the *foundations* of mathematics guaranteed its truth and meaning. 
 
 **Related notes:** 
+
 - [[Naive conception of set and Russell's paradox]]
-- [[The central dogma of mathematical formalism, after Harris]]
+- [[The central dogma of mathematical formalism, after Harris (2024)]]
 - [[Mathematical anti-realism and non-Platonism]]
 
 ---

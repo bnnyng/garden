@@ -2,11 +2,12 @@
 aliases:
   - intelligence
 tags:
+  - permanent-note
   - topic-cognitive-science
   - seed
 publish: 
 date: 2024-01-02
-lastmod: 2025-06-28T15:16:58-04:00
+lastmod: 2025-08-09T13:53:51-04:00
 ---
 # Definitions of intelligence
 

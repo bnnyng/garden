@@ -2,15 +2,16 @@
 aliases:
   - trolley problem
 tags:
-  - seed
+  - permanent-note
   - topic-humanities
+  - seed
 publish: 
 date: 2025-08-07T13:05:22-04:00
-lastmod: 2025-08-07T13:21:55-04:00
+lastmod: 2025-08-09T13:56:36-04:00
 ---
 # Overview
 
-$\quad$ The **trolley problem** is a well-known thought experiment in ethics. In the most basic version, a trolley is heading towards five people on a track, and the decision-making [[Agent|agent]] must decide whether to switch the track so that the trolley will head towards a single person instead. From [[@2020railtonEthical]]:
+$\quad$ The **trolley problem** is a well-known [[Thought experiments|thought experiment]] in ethics. In the most basic version, a trolley is heading towards five people on a track, and the decision-making [[Agent|agent]] must decide whether to switch the track so that the trolley will head towards a single person instead. From [[@2020railtonEthical]]:
 
 >Trolley problems have sometimes been called the Drosophila of ethical inquiry—a shared, heavily studied “test bed” for hypotheses about ethical judgment. It is, moreover, a nice irony that trolley problems, long castigated by critics as hopelessly artificial, turn out to have such direct analogues in one of the most important actual applications of artificial intelligence to life-affecting decision-making to date: self-driving vehicles. (59)
 

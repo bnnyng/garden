@@ -7,9 +7,9 @@ tags:
 status: 
 publish: "true"
 date: 2024-10-13 13:36
-lastmod: 2024-11-15T06:50:31-05:00
+lastmod: 2025-08-09T00:28:42-04:00
 ---
->[!abstract] Theorem: Extreme value theorem on a metric space
+>[!theorem] Extreme value theorem on a metric space
 >Let $(X, d_X)$ be a [[Metrics, metric spaces, and the metric topology|metric space]] and $K \subseteq X$ be a [[Compactness|compact subset]], and suppose $f : X \to \mathbb R$ is a [[Continuous functions|continuous function]]. Then $f$ attains its maximum and minimum within $K$; that is, there exists $x_0 \in K$ such that 
 >$$
 >f(x_0) = \sup_{x\in X} \{ f(x)\}.
@@ -25,6 +25,7 @@ lastmod: 2024-11-15T06:50:31-05:00
 ❓ *Question.* Why does this hold even if the domain is expanded?
 
 ---
+
 # Examples
 
 See [[2024-10-15]]

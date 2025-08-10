@@ -7,9 +7,9 @@ tags:
 status: 
 publish: "true"
 date: 2024-11-21 15:19
-lastmod: 2025-02-06T22:19:27-05:00
+lastmod: 2025-08-09T00:30:59-04:00
 ---
->[!abstract] Theorem: Integration by parts for a single variable
+>[!theorem] Integration by parts for a single variable
 >Let $F, G : [a,b ]\to \mathbb R$ be [[Derivatives of real functions|differentiable]]. If $f = F’$ and $g = G’$ are both [[Darboux and Riemann integration|Darboux integrable]] on $[a,b]$, then
 >$$
 >\begin{align}
@@ -20,11 +20,14 @@ lastmod: 2025-02-06T22:19:27-05:00
 
 *Proof from [[MATH-GU4061|Modern Analysis I]].*
 
-Define $H: [a,b] \to \mathbb R$ by $H(x) = F(x)G(x)$. By the [[Derivatives of real functions|product rule]] for derivatives, we have
+$\quad$Define $H: [a,b] \to \mathbb R$ by $H(x) = F(x)G(x)$. By the [[Derivatives of real functions|product rule]] for derivatives, we have
+
 $$
 H'(x) = F'(x)G(x) + F(x)G'(x) = (fG)(x) + (Fg)(x).
 $$
+
 Applying [[(Theorem) Fundamental theorem of calculus|FTC II]], we have
+
 $$
 \begin{align}
 \int_a^b H'(x)dx 
@@ -32,4 +35,5 @@ $$
 &= \int_a^b [f(x)G(x) + F(x)g(x)]dx ,
 \end{align}
 $$
-where the final equality follows by substituting the definition of $H$. Then the statement follows by rearranging the expression. $\ \square$
+
+where the final equality follows by substituting the definition of $H$. Then the statement follows by rearranging the expression. $\quad \square$

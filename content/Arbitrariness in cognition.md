@@ -1,10 +1,11 @@
 ---
 aliases: 
 tags:
+  - permanent-note
   - topic-cognitive-science
   - seed
 date: 2023-12-25
-lastmod: 2024-10-22T12:38:12-04:00
+lastmod: 2025-08-09T13:57:49-04:00
 ---
 Something is arbitrary when it can be substituted with anything else that serves the same purpose.
 

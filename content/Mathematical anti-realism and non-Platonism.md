@@ -16,7 +16,7 @@ tags:
   - MATH-GU4200
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-22T14:09:41-04:00
+lastmod: 2025-08-09T14:00:30-04:00
 ---
 # Overview
 
@@ -47,4 +47,4 @@ lastmod: 2025-04-22T14:09:41-04:00
 
 [[MATH-GU4200|Mathematics and the Humanities]]
 
-- **Intuitionists** responded to the 20th century crisis as Kant responded to Hume’s problem of induction.
+- **Intuitionists** responded to the [[Formalization and the foundational crisis of mathematics mathematics|20th-century crisis]] as Kant responded to Hume’s problem of induction.

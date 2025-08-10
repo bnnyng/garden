@@ -6,17 +6,17 @@ tags:
 status: 
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-06T17:54:45-04:00
+lastmod: 2025-08-09T13:42:20-04:00
 ---
 # Overview and statement of the theorems
 
 
->[!abstract] Theorem: Path lifting
+>[!theorem] Path lifting
 >Let $p: X \to Y$ be a [[Covering maps|covering map]], $\gamma : I \to Y$ a path and let $x \in X$ be such that $p(x) = \gamma (0)$. Then there exists precisely one path $\tilde \gamma : I \to X$ such that $p \circ \tilde \gamma = \gamma$ and $\tilde \gamma(0) = x$.
 
 ^ee8d1e
 
->[!abstract] Theorem: Homotopy lifting
+>[!theorem] Homotopy lifting
 >Let $p : X \to Y$ be a [[Covering maps|covering map]], $W$ any topological space and $H : W \times I\to Y$ be a homotopy. Let $g : W \to X$ be such that $p \circ g = H(-, 0)$. Then there exists precisely one homotopy $\widetilde H : W \times I \to X$ with $p \circ \widetilde H = H$ and $\widetilde H(-, 0) = g$. 
 >
 >![[Pasted image 20250306115149.png|200]]
@@ -61,7 +61,6 @@ Proofs from [[MATH-GU4053|Algebraic Topology]].
 ---
 # Notes
 
-- Moreover, if $H$ is a [[Homotopies|homotopy relative to]] a subspace $V \subseteq W$, then so is $\widetilde H$.
-	- Suffices to prove a non-realtive version
+- Moreover, if $H$ is a [[Homotopies|homotopy relative to]] a subspace $V \subseteq W$, then so is $\widetilde H$ (suffices to prove a non-relative version).
 
 

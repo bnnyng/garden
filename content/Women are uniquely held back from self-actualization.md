@@ -1,9 +1,11 @@
 ---
 aliases: 
 tags:
+  - permanent-note
+  - topic-humanities
   - seed
 date: 2023-12-25
-lastmod: 2024-05-13T14:09:44-07:00
+lastmod: 2025-08-09T13:50:49-04:00
 ---
 Because [[It is economically rational for women to be thin]], women in rich countries are in constant pursuit of thinness, engaging in behaviors to shape their bodies accordingly. This was once coupled with explicitly fatphobic attitudes, but today’s weight loss efforts are hidden under the guise of “wellness” and the body positivity narrative. 
 

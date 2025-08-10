@@ -6,13 +6,12 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
-  - topic-logic-mathematics
 status: 
 publish: "true"
 date: 2024-09-15 10:02
-lastmod: 2024-10-13T19:23:33-04:00
+lastmod: 2025-08-09T00:21:33-04:00
 ---
->[!abstract] Theorem: Density of the rationals in $\mathbb R$
+>[!theorem] Density of the rationals in $\mathbb R$
 >(i) For all [[The real numbers|real numbers]] $x, y \in \mathbb R$ with $x, y > 0$, there exists $n \in \mathbb N$ such that $nx > y$.
 >(ii) For all $x, y \in \mathbb R$ with $x < y$, there exists a rational number $a \in \mathbb Q$ such that $x < a < y$.
 >
@@ -21,7 +20,7 @@ lastmod: 2024-10-13T19:23:33-04:00
 
 *From [[MATH-UN1208|Honors Mathematics B]], Homework 1.*
 
->[!abstract] Lemma ([[MATH-UN1208]] 1.6)
+>[!lemma] [[MATH-UN1208]] 1.6
 >If $x \in \mathbb R$ has $x \geq 0$, the set of natural numbers $N_{\leq x} = \{ n \in \mathbb N \ | \ n \leq x \}$ is *finite*.
 
 *Sketch.*

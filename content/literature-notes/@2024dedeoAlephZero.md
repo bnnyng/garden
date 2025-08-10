@@ -16,22 +16,23 @@ lastmod: 2024-08-16T20:19:16-07:00
 > DeDeo, S. (2024). AlephZero and Mathematical Experience. _Bulletin of the American Mathematical Society_, _61_(3), 375–386. [https://doi.org/10.1090/bull/1824](https://doi.org/10.1090/bull/1824)
 
 ---
-# Summary
 
+# Summary
 
 > [!Abstract]
 >
 > This essay explores the impact of automated proof construction on three key areas of mathematical cognition: on how we judge the role one piece of mathematics plays in another, on how we make mistakes in reasoning about mathematical objects, and on how we understand what our theorems are truly about. It concludes by speculating on a new form of mathematical experience that these methods could make possible: “glitching”, a game-like search for uncanny consequences of our deﬁnitions.
 
-
 ---
+
 # Atomic notes
 
-- [[The value of a mathematical claim is guided by experiences of impasse and resolution, after DeDeo]] 
-- [[Glitches are uncanny experiences of what ought not to be, after DeDeo]]
+- [[The value of a mathematical claim is guided by experiences of impasse and resolution, after DeDeo (2024)]] 
+- [[Glitches are uncanny experiences of what ought not to be, after DeDeo (2024)]]
 - [[Mathematical glitches]]
 
 ---
+
 # Selected concepts and passages
 
 - **Aboutness and intentionality:** “\[In a philosophical sense, aboutness is] he way in which one thing (e.g., a logical formula) can be represent, be about, another (e.g., a shared idea, a personal intuition, or a mental model of a mathematical object)” (375).

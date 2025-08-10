@@ -8,7 +8,7 @@ tags:
 status: 
 publish: 
 date: <% tp.file.creation_date() %>
-lastmod: 2025-03-12T13:42:14-04:00
+lastmod: 2025-08-09T00:19:45-04:00
 ---
 # Overview
 
@@ -19,7 +19,7 @@ In practice, this theorem can be applied on a [[(Path-)connectedness|path-connec
 ---
 # Statement and proof
 
->[!abstract] Theorem: The fundamental group of a quotient space
+>[!theorem] The fundamental group of a quotient space
 >Let $G$ be a [[Algebraic groups|group]] and $Y$ be any [[Topological spaces and open sets|topological space]].
 >- (i) If $G \times Y \to Y$ is a [[Group actions on topological spaces|covering space action]], then the [[Quotient spaces|quotient map]] $q : Y \to Y / G$ defined by $x \mapsto [x]$ is a [[Covering maps|covering map]].
 >- (ii) In the situation above, if $Y$ is also [[Simply connected spaces|simply connected]] (i.e., [[(Path-)connectedness|path-connected]] with trivial [[Fundamental groups|fundamental group]]), then we have $G \cong \pi_1(Y/G, q(y_0))$ via the [[Group homomorphisms and isomorphisms|group isomorphism]] mapping $$ g \mapsto [q \circ f_g], $$ where $f_g : I \to Y$ is any path such that $f_g(0) = y_0$ and $f_g(1) = g \cdot y_0$. 

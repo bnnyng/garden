@@ -3,7 +3,6 @@ aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
-  - wip
 publish: 
 date: 2024-06-12 16:24
 lastmod: 2024-08-15T17:41:40-07:00

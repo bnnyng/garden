@@ -3,11 +3,12 @@ aliases:
   - agent
   - agent-environment boundary
 tags:
+  - permanent-note
   - topic-physics-complexity
   - seed
 publish: 
 date: 2025-06-11T11:30:57-04:00
-lastmod: 2025-07-18T13:45:46-04:00
+lastmod: 2025-08-09T13:52:34-04:00
 ---
 # Overview
 

@@ -6,11 +6,11 @@ tags:
 status: 
 publish: "true"
 date: 2024-10-27 08:19
-lastmod: 2025-03-25T10:34:01-04:00
+lastmod: 2025-08-09T00:19:24-04:00
 ---
 
 
->[!abstract] Theorem (Munkres 26.5 & 26.6): Continuous functions and compactness
+>[!theorem] Munkres 26.5 & 26.6: Continuous functions and compactness
 >- (i) If $f : X \to Y$ is [[Continuous functions|continuous]] and $X$ is compact, then $f(X)$ is compact.
 >- (ii) Let $f: X \to Y$ be a continuous bijection. If $X$ is compact and $Y$ is [[Hausdorff spaces|Hausdorff]], then $f$ is a [[Homeomorphisms and topological embeddings|homeomorphism]].
 
