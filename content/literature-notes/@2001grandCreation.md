@@ -17,13 +17,13 @@ lastmod: 2025-05-23T15:31:56-04:00
 # Atomic notes
 
 - [[Autocatalysis, encapsulation, and encoding are the basic mechanisms of persistence, after Grand]]
-- [[Catalytic closure is the basic property of life, after Kauffman]]
-- [[Hierarchy of persistent phenomena, after Grand]]
+- [[Catalytic closure is the basic property of life, after Kauffman (1995)]]
+- [[Hierarchy of persistent phenomena, after Grand (2001)]]
 - Life is technically the subset of phenomena that persist by metabolizing and reproducing
 - Intelligence is a population-level, parallel process
 - [[Only higher-order simulations are real, after Grand]]
 - [[Elegance maximizes utility and minimizes entropy, after Grand]]
-- [[Cybernetic building blocks of life, after Grand]]
+- [[Cybernetic building blocks of life, after Grand (2001)]]
 
 ---
 

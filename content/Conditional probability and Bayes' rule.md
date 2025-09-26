@@ -26,7 +26,7 @@ $\quad$ **Conditional probability** expresses the probability of one event given
 **Related notes:**
 
 - [[Probabilistic reasoning and Bayesian belief updating]] (a characterization of Bayes’ rule in terms of cognitive belief updating)
-- [[Pragmatic Bayesian modeling]]
+- [[20250918-archive-pragmatic-bayesian-modeling]]
 
 ---
 

@@ -25,9 +25,9 @@ Sidebar.css = `
 
 .custom-sidebar a {
   text-decoration: none;
-  color: var(--secondary);
+  color: var(--darkgray);
   font-family: "Markazi Text", serif;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 .custom-sidebar a:hover {

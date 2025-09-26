@@ -7,9 +7,9 @@ tags:
 title: journalArticle | Synthetic morphology with agential materials
 year: 2023
 permalink: https://www.nature.com/articles/s44222-022-00001-9
-publish: 
+publish:
 date: 2025-02-09
-lastmod: 2025-02-11T10:57:45-05:00
+lastmod: 2025-09-13T01:20:31-04:00
 ---
 > Davies, J., & Levin, M. (2023). Synthetic morphology with agential materials. _Nature Reviews Bioengineering_, _1_(1), 46–59. [https://doi.org/10.1038/s44222-022-00001-9](https://doi.org/10.1038/s44222-022-00001-9)
 
@@ -27,7 +27,6 @@ lastmod: 2025-02-11T10:57:45-05:00
 
 # Atomic notes
 
-- [[Morphogenetic mechanisms are more goal-seeking than blue-print following]]
 
 ---
 

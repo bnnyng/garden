@@ -4,11 +4,11 @@ aliases:
 tags:
   - permanent-note
   - topic-physics-complexity
-publish: 
+publish:
 date: 2025-06-11T11:41:39-04:00
-lastmod: 2025-06-11T11:43:23-04:00
+lastmod: 2025-09-13T01:03:16-04:00
 ---
-$\quad$[[@2022levinTechnological]] defines a single [[Agent]] of interest, a **Self**, by the following unifying invariant:
+$\quad$[[@2022levinTechnological]] defines a single [[Agent|agent]] of interest, a **Self**, by the following unifying invariant:
 
 > \[A system that is capable of expending] energy in ways that effectively reach specific states despite uncertainty, limitations of capability, and meddling from outside forces.
 

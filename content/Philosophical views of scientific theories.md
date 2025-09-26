@@ -26,5 +26,5 @@ lastmod: 2025-06-27T14:28:58-04:00
 
 **Related notes:**
 
-- [[Realism is the conjunction of aptness, belief, truth, independence, and face-value, after Clarke-Doane]]
+- [[Realism is the conjunction of aptness, belief, truth, independence, and face-value, after Clarke-Doane (2020)]]
 - [[Internal realism, after Putnam]]

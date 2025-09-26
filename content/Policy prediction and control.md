@@ -9,9 +9,9 @@ aliases:
 tags:
   - permanent-note
   - topic-information-computation-statistics
-publish: 
+publish:
 date: 2025-06-05T13:07:49-04:00
-lastmod: 2025-07-08T21:18:16-04:00
+lastmod: 2025-08-29T19:07:44-04:00
 ---
 # Overview
 
@@ -27,7 +27,7 @@ $\quad$ Two key problems arise in [[(Sequential) decision problems|sequential de
 - **Prediction:** also known as **policy evaluation**; the computational problem of determining how much long-term reward would be obtained *given* a policy and an initial state.
 - **Value:** a standard method of defining long-term reward as the expected cumulative discounted infinite sum of rewards. In contrast to reward, value is derived from a combination of rewards, the environment, and future behaviors.
 - **Optimal control:** also known as **policy optimization**; the computational problem of finding the policy with the maximal value function *given* an MDP. Using the standard definition of value above, there is a *unique* optimal value function expressed in terms of **Bellman optimality equations**.
-- **Planning:** the control problem with a known reward and transition model.
+- **Planning:** the control problem with a known reward and transition modomel.
 - **Dynamic programming:** in this context, a class of algorithms that, *given* the full state space, calculates the value function via backward induction. #wip 
 - **Value iteration:** the dynamic programming algorithm for optimal control.
 

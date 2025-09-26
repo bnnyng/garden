@@ -1,14 +1,14 @@
 ---
 citekey: 2022levinTechnological
-aliases: 
+aliases:
 tags:
   - literature-note
 title: "Paper | Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds"
 year: 2022
 permalink: https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2022.768201/full
-publish: 
+publish:
 date: 2025-02-09
-lastmod: 2025-06-11T11:40:05-04:00
+lastmod: 2025-09-13T01:21:21-04:00
 ---
 > Levin, M. (2022). Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds. _Frontiers in Systems Neuroscience_, _16_. [https://doi.org/10.3389/fnsys.2022.768201](https://doi.org/10.3389/fnsys.2022.768201)
 
@@ -25,14 +25,25 @@ lastmod: 2025-06-11T11:40:05-04:00
 
 # Atomic notes
 
+**Conceptual components of TAME**
+
+- [[Nothing in biology makes sense except in light of teleonomy, after Levin (2022)]]
 - [[Technological approach to mind everywhere, after Levin (2022)]]
 - [[Persuadability as a continuum of agency, after Levin (2022)]]
 - [[Cognitive gradualism]]
 - [[Stress is the glue of agency, after Levin (2022)]]
 - [[Homeostatic circuits are the hydrogen atoms of goal-directed activity, after Rosenblueth]]
-- [[Anatomical homeostasis is a kind of collective intelligence, after Levin]] #wip
-- [[Developmental bioelectrics is the precursor of nervous systems, after Levin]] #wip
-- [[Self-perspective is a continuum between internal parts and external objects of study, after Levin]]
+- [[Developmental bioelectrics is the precursor of nervous systems, after Levin (2022)]] #wip
+
+**Somatic cognition**
+
+- [[Anatomical homeostasis is a kind of collective intelligence, after Levin (2022)]] (16, incl. isomorphisms)
+
+**Evolutionary aspects** (27)
+
+- [[Robustness and context sensitivity are achieved simultaneously by scaling homeostatic loops, after Levin (2022)]] 
+- [[Cooperation arises from the expansion of borders of a single Self via scaling of homeostatic loops, after Levin (2022)]]
+
 
 ---
 

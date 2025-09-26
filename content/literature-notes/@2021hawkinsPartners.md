@@ -1,23 +1,27 @@
 ---
-aliases: 
-title: "Research Paper | From partners to populations: A hierarchical Bayesian account of coordination and convention"
+aliases:
+title: "Research Article | From partners to populations: A hierarchical Bayesian account of coordination and convention"
 permalink: https://doi.org/10.1037/rev0000348
 year: 2021
 tags:
   - literature-note
-lastmod: 2025-05-04T19:57:54-04:00
+lastmod: 2025-09-11T13:10:05-04:00
 date: 2025-05-04T19:14:27-04:00
-"": 
+"":
 ---
 > Hawkins, Robert D., Michael Franke, Michael C. Frank, Adele E. Goldberg, Kenny Smith, Thomas L. Griffiths, and Noah D. Goodman. “From Partners to Populations: A Hierarchical Bayesian Account of Coordination and Convention.” arXiv, December 2, 2021. [https://doi.org/10.48550/arXiv.2104.05857](https://doi.org/10.48550/arXiv.2104.05857).
 
 ---
-# Summary
 
->[!example] Key terms
->
+# Overview
 
-- Framework of meta-learning
+#### Summary
+
+#### Atomic notes
+
+---
+# Key terms
+
 
 ---
 
@@ -56,6 +60,8 @@ date: 2025-05-04T19:14:27-04:00
 # Research design
 
 >***What is the methodological approach?***
+
+- [[Reference games|Repeated reference games]] study how a speaker’s referring expressions for the same objects change as a function of interaction with a particular partner.
 
 >***What data is used?***
 

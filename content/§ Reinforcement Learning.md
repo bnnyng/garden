@@ -4,8 +4,9 @@ aliases:
 tags:
   - permanent-note
   - topic-information-computation-statistics
+  - moc
 date: 2023-12-24
-lastmod: 2025-07-09T15:49:55-04:00
+lastmod: 2025-08-14T11:18:04-07:00
 publish: 
 ---
 # Overview
@@ -16,7 +17,7 @@ $\quad$**Reinforcement learning (RL**) is the method of learning from rewards an
 
 $\quad$ Subtypes of reinforcement learning include:
 
-- **[[Multi-agent reinforcement learning]]:** an RL problem where several agents are learning to solve a task at the same time, while interacting with the same environment.
+- **[[Multiagent reinforcement learning]]:** an RL problem where several agents are learning to solve a task at the same time, while interacting with the same environment.
 - **[[Deep reinforcement learning]]:** the method of using [[§ Deep Learning|deep neural networks]] to approximate the optimal policy and/or value function. 
 - **Inverse reinforcement learning:** the problem of inferring the reward function that another agent is optimizing, based on observations of its behavior (i.e., trajectories); can be understood as learning *why* another agent acts instead of learning *how* to act, as in standard RL.
 - **Episodic reinforcement learning:** a task structure where the agent interacts with the environment in “episodes” of finite sequences of steps, and the environment resets after each sequence terminates (see also: [[Deep reinforcement learning|episodic control]]).
@@ -31,6 +32,7 @@ $\quad$ Subtypes of reinforcement learning include:
 
 - [[(Sequential) decision problems]]
 - [[Action selection in decision problems]]
+- [[§ Game Theory]]
 
 #### Tabular solution methods
 

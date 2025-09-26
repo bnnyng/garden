@@ -6,19 +6,24 @@ aliases:
   - converges
   - comparison test
   - ratio test
+  - harmonic series
 tags:
   - permanent-note
   - topic-logic-mathematics
   - MATH-GU4061
 status: 🔴
-publish: 
+publish:
 date: 2024-10-13 18:46
-lastmod: 2024-10-15T09:38:21-04:00
+lastmod: 2025-09-25T09:09:24-04:00
 ---
+# Overview and basic definition
+
 >[!question]
 >- Simply confused by the definition of a converging in terms of partial sums/subsequences—why define limit as partial sums converge and not just addition?
 
->[!example] Definition: Partial sum, series in $\mathbb C$
+
+
+>[!definition] Partial sum, series in $\mathbb C$
 >Let $(a_n)_{n \in \mathbb N}$ be a sequence of [[Complex numbers|complex numbers]]. The $N$**-th partial sum** is defined to be
 >$$
 >\sum_{n=0}^N a_n = a_0 + a_1 + \cdots + a_N + \cdots.
@@ -30,6 +35,10 @@ lastmod: 2024-10-15T09:38:21-04:00
 >We say the series **converges** if the sequence of the $N$-th partial sum converges as $N \to \infty$. In this case, the limit of the series is the **sum** $\sum_{n=0}^N a_n = s$, which represents the *limit of a sequence of sums*.
 
 ^d80ac1
+
+**Related notes:**
+
+- [[(Proof pattern) Summation formulas]]
 
 ---
 # Conditions for convergence

@@ -7,7 +7,7 @@ tags:
   - permanent-note
   - topic-cognitive-science
   - COGS-UN1001
-lastmod: 2025-07-31T13:06:36-04:00
+lastmod: 2025-08-28T12:32:26-07:00
 date: 2023-12-24
 publish: "true"
 ---

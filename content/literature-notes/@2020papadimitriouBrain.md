@@ -1,19 +1,26 @@
 ---
-aliases: 
-title: 
-permalink: 
-year: 
+aliases:
+title:
+permalink:
+year:
 tags:
   - literature-note
+lastmod: 2025-09-14T14:26:54-04:00
+date: 2025-05-29T14:42:14-04:00
 ---
 > Papadimitriou, Christos H., Santosh S. Vempala, Daniel Mitropolsky, Michael Collins, and Wolfgang Maass. “Brain Computation by Assemblies of Neurons.” _Proceedings of the National Academy of Sciences_ 117, no. 25 (June 23, 2020): 14464–72. [https://doi.org/10.1073/pnas.2001893117](https://doi.org/10.1073/pnas.2001893117).
 
 ---
-# Summary
+# Overview
 
->[!example] Key terms
->
+#### Summary
 
+#### Atomic notes
+
+---
+# Key terms
+
+- 
 
 ---
 

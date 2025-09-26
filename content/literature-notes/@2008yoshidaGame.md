@@ -19,7 +19,7 @@ date: 2025-05-27T09:41:23-04:00
 
 #### Atomic notes
 
-- [[(Model) Cognitive hierarchy and iterated reasoning]]
+- [[(Model) Iterated reasoning, cognitive hierarchy, and recursive theory-of-mind]]
 
 
 

@@ -52,7 +52,7 @@ $\quad$ The vNM utility theorem states that the rationality axioms hold *if and 
 
 # References
 
-- [[@1944neumannTheory]], *Theory of Games and Economic Behavior*
+- [[@1944vonneumannTheory]], *Theory of Games and Economic Behavior*
 - [[@2023bowlingSettling]], “Settling the reward hypothesis”
 - [[@2024griffithsBayesian]], *Bayesian Models of Cognition* (Chapter 7)
 - [[@2025icardResource]], *Resource Rationality*

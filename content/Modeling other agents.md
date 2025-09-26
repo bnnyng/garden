@@ -17,7 +17,7 @@ $\quad$ Broadly, **agent modeling** or **opponent modeling** involves constructi
 **Related notes:**
 
 - [[Taxonomy of methods for modeling other agents]]
-- [[Multi-agent reinforcement learning]]
+- [[Multiagent reinforcement learning]]
 
 ---
 # Modeling assumptions

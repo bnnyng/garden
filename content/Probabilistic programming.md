@@ -20,4 +20,4 @@ lastmod: 2025-02-11T15:21:39-05:00
 - [WebPPL documentation](http://webppl.org/)
 
 ---
-Relevant lit notes: [[@2014stuhlmuller]], [[@2025chandra]]
+Relevant lit notes: [[@2014stuhlmullerReasoning]], [[@2025chandra]]

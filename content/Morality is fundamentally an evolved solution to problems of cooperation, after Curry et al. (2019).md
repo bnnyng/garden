@@ -10,7 +10,7 @@ lastmod: 2025-08-06T12:57:30-04:00
 
 $\quad$ According to anthropologist Oliver Scott Curry and colleagues, morality is “a collection of biological and cultural solutions to the problems of cooperation recurrent in human life.” At minimum, this **morality-as-cooperation** hypothesis states that the *function* of morality is to motivate people to find and enact cooperative behaviors whenever possible. The strongest version of MAC, as proposed in [[@2019curryGood]], says that human morality precisely *constitutes* the collection of cooperative traits that include biological and psychological mechanisms resulting from natural selection for cooperative genes and individuals, as well as [[Individual human cognition supervenes on socially instituted processes, after Gallagher and Crisafi (2009)|social and cultural institutions]] that motivate moral behavior and provide criteria for evaluating the behavior of others. 
 
-$\quad$ [[@2019curryGood]] use formal theories of cooperation from [[Games of strategy|game theory]] to derive “universal” moral rules. Crucially, MAC predicts that moral values—more precisely, the value or importance of each rule—will vary across cultures as a result of different cultures adopting different “stable” cooperative strategies. 
+$\quad$ [[@2019curryGood]] use formal theories of cooperation from [[§ Game Theory|game theory]] to derive “universal” moral rules. Crucially, MAC predicts that moral values—more precisely, the value or importance of each rule—will vary across cultures as a result of different cultures adopting different “stable” cooperative strategies. 
 
 **Related notes:** 
 

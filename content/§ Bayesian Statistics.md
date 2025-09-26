@@ -18,7 +18,7 @@ lastmod: 2025-05-28T11:33:29-04:00
 
 **See also:** [[Bayesian models of cognition]]
 
-- [[Pragmatic Bayesian modeling]]
+- [[20250918-archive-pragmatic-bayesian-modeling]]
 
 
 ## Posterior approximation

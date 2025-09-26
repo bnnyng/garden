@@ -19,6 +19,6 @@ $\quad$In cognitive science, **mindreading** or **theory-of-mind (ToM)** refers 
 
 **Related notes:**
 
-- [[Inverse planning and Bayesian theory-of-mind]]
+- [[Bayesian theory-of-mind and inverse planning]]
 - [[Theory-of-mind is a culturally learned cognitive mechanism, after Heyes (2019)]]
 

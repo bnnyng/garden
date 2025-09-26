@@ -16,7 +16,7 @@ tags:
 status: 🔴 🔨 ❓
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-08-05T09:56:36-04:00
+lastmod: 2025-08-14T12:32:31-07:00
 ---
 # Overview
 
@@ -181,7 +181,7 @@ $$ H_2(X) = \frac{\ker \partial_2}{\textup{Im} \ \partial_3} = \frac{0}{0} = 0. 
 
 #### $H_0(X)$ for a path-connected space is always infinite cyclic
 
->[!abstract] Proposition: The zeroth singular homology group for a [[(Path-)connectedness|path-connected]] space is isomorphic to the integers
+>[!proposition] The zeroth singular homology group for a [[(Path-)connectedness|path-connected]] space is isomorphic to the integers
 >Given any space $X$, we have $$ H _0 (X) \cong \mathbb Z \iff X \text{ path-connected}. $$
 
 *Proof from [[MATH-GU4053|Algebraic Topology]].*

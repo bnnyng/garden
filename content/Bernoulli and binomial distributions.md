@@ -9,11 +9,18 @@ tags:
   - permanent-note
   - topic-logic-mathematics
   - STAT-GU4203
-status: 
-publish: 
+status:
+publish:
 date: 2024-10-14 10:36
-lastmod: 2025-05-27T15:26:27-04:00
+lastmod: 2025-09-25T08:47:31-04:00
 ---
+
+# Overview
+
+$\quad$ **Indicator random variables** give a convenient way of converting between probabilities and [[Expected value, variance, and standard deviation|expectations]].
+
+---
+
 # Bernoulli distributions
 
 
@@ -30,6 +37,16 @@ lastmod: 2025-05-27T15:26:27-04:00
 >Then $I_A \sim \text{Bern} (p)$, where $p = P(A) = P(I_A(s) = 1)$ and $1-p = P(A^C)$.
 
 ^e0f572
+
+>[!lemma] Expectation of an indicator random variable
+>Given a sample space $\mathcal S$ and an event $A$ in $\mathcal S$, we have $E[I_A] = \text{Pr}\{ A\}$.
+
+*Proof.* $\quad$ By the definition of an indicator r.v. and the definition of expected value, we have
+$$
+E[I_A] = 1 \cdot \text{Pr}\{ A\} + 0 \cdot \text{Pr} \{ \mathcal S \backslash A\} = \text{Pr}\{ A\},
+$$
+where $\mathcal S \backslash A$ is the [[Algebra of sets|complement]] of $A$. $\quad \square$
+
 
 ----
 # Binomial distribution

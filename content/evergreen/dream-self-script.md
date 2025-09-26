@@ -1,7 +1,7 @@
 ---
 tags:
   - workspace
-lastmod: 2024-12-27T10:15:11-08:00
+lastmod: 2025-09-16T22:35:03-04:00
 date: 2023-12-31
 aliases:
   - Dream self script
@@ -109,9 +109,10 @@ aliases:
 ## Skills and hobbies
 - [ ] Learn French (for reading math and literature)
 - [ ] Learn German (for reading math and philosophy)
-- [ ] Try pole dancing
+- [x] Try pole dancing
 
 ## Achievements
 - [ ] Publish a work of writing
 - [ ] Get a key to Gramercy Park
 - [ ] Live in my own apartment in NYC
+- [ ] Study the cognitive science of mathematics at IAS

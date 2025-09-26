@@ -6,7 +6,7 @@ tags:
   - moc
 publish: "true"
 date: 2025-12-30
-lastmod: 2025-08-09T13:45:56-04:00
+lastmod: 2025-08-12T15:40:28-04:00
 ---
 # Topics
 
@@ -28,7 +28,6 @@ lastmod: 2025-08-09T13:45:56-04:00
 **Theorems:**
 
 - [[(Theorem) Path and homotopy lifting]]
-- [[(Theorem) The fundamental group of the circle is isomorphic to the additive group of integers]]
 - [[(Theorem) The fundamental group of the circle is isomorphic to the additive group of integers]]
 - [[(Theorem) A group acting on a simply connected space is isomorphic to the fundamental group of its orbits]]
 - [[(Theorem) Classification of covering maps]]

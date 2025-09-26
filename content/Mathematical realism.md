@@ -20,7 +20,7 @@ $\quad$At minimum, **mathematical realism** is the view that the truth value of 
 
 - [[Mathematical anti-realism and non-Platonism]]
 - [[Mathematical pluralism]]
-- [[Realism is the conjunction of aptness, belief, truth, independence, and face-value, after Clarke-Doane]]
+- [[Realism is the conjunction of aptness, belief, truth, independence, and face-value, after Clarke-Doane (2020)]]
 
 ---
 

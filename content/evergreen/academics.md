@@ -1,10 +1,10 @@
 ---
-aliases: 
+aliases:
 tags:
   - workspace
-publish: 
+publish:
 date: 2024-10-10T08:59:12-04:00
-lastmod: 2025-05-28T17:39:19-04:00
+lastmod: 2025-09-08T16:09:11-04:00
 ---
 # Coursework
 
@@ -37,8 +37,12 @@ lastmod: 2025-05-28T17:39:19-04:00
 - [[PHIL-UN3551]] – Philosophy of Science
 - [[PHIL-UN3655]] – Topics in Cognitive Science and Philosophy
 
-#PHIL-UN3551
+**Fall 2025**
 
+- [[ARCH-UN1030]]  – The City
+- [[COMS-E6998]]  – Computation and the Brain
+- [[CSOR-W4231]] – Analysis of Algorithms I
+- [[PSYC-UN2430]] – Cognitive Neuroscience
 
 ---
 

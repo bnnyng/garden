@@ -27,9 +27,9 @@ lastmod: 2025-04-20T13:44:52-04:00
 # Atomic notes
 
 - [[Pluralism is the view that any reasonable theory about some entities has a mind-independent truth, after Clarke-Doane]]
-- [[Realism is the conjunction of aptness, belief, truth, independence, and face-value, after Clarke-Doane]]
+- [[Realism is the conjunction of aptness, belief, truth, independence, and face-value, after Clarke-Doane (2020)]]
 - [[All areas of inquiry are controversial because they bottom out in philosophical controversies, after Clarke-Doane]]
-- [[Realism and objectivity are in tension, after Clarke-Doane]]
+- [[Realism and objectivity are in tension, after Clarke-Doane(2020)]]
 - Mathematical beliefs have no better claim to being (defeasibly) a priori justified than moral beliefs, after Clarke-Doane
 	- “Lack of parity” comes from non-philosophical reasons
 - All areas of inquiry are controversial because they bottom out in controversial philosophy (63)

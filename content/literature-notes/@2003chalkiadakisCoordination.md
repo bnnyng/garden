@@ -77,4 +77,4 @@ date: 2025-07-08T20:56:22-04:00
 ---
 # Further reading
 
-- [[@1998clausDynamics]]: Proposes several [[Multi-agent reinforcement learning|multi-agent reinforcement learning]] methods for repeated games or **distributed bandits** ([[Stochastic games|stochastic games]] with a single stage), including a joint action $Q$-learner that uses a **fictitious play** protocol to estimate other agents’ policies.
+- [[@1998clausDynamics]]: Proposes several [[Multiagent reinforcement learning|multi-agent reinforcement learning]] methods for repeated games or **distributed bandits** ([[Stochastic games|stochastic games]] with a single stage), including a joint action $Q$-learner that uses a **fictitious play** protocol to estimate other agents’ policies.

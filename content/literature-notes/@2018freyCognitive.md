@@ -66,7 +66,7 @@ date: 2025-06-23T10:41:11-04:00
 
 >***What is the methodological approach?***
 
-**Economic [[Games of strategy|games]]**
+**Economic [[§ Game Theory|games]]**
 
 - **$p$-beauty contest:** Players receive a reward for guessing the number between 0 and 100 that is $p$ (typically $p = 2/3$) of the group’s mean. The unique *pure-strategy Nash equilibrium* choice is $0$.
 - **Mod Game:** A generalized form of rock-paper-scissors where players choose an integer between 1 and $m$. Choice 1 beats choice $m$, while all other choices $n$ beat the choice $n-1$. Players are rewarded for beating another player.

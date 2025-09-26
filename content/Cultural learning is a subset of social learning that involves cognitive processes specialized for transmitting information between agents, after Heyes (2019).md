@@ -4,9 +4,9 @@ aliases:
 tags:
   - permanent-note
   - topic-cognitive-science
-publish: 
+publish:
 date: 2025-07-29T16:27:00-04:00
-lastmod: 2025-07-29T16:53:18-04:00
+lastmod: 2025-08-31T19:01:16-04:00
 ---
 
 $\quad$ [[@2019heyesCognitive]] gives the following taxonomy for **learning**, broadly defined as encoding for long-term storage of information that is acquired through experience. **Social learning**, in contrast with asocial or **individual learning**, is learning that is assisted by other agents.

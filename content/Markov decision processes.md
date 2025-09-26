@@ -11,7 +11,7 @@ tags:
   - topic-information-computation-statistics
 publish: "true"
 date: 2024-10-25 09:42
-lastmod: 2025-06-26T22:35:12-04:00
+lastmod: 2025-08-27T11:00:29-07:00
 ---
 # Overview
 
@@ -33,7 +33,9 @@ $\quad$ For a given MDP, a **policy** $\pi$ represents the behavior of a decisio
 
 ---
 
-# Decision policies for actions
+# Decision policies in MDPs
+
+**Primary note:** [[Action selection in decision problems]]
 
 >[!definition] Decision policy
 >Given a **Markov decision process** $(\mathcal S, \mathcal A, T, R, \gamma)$, a **policy** $\pi$ is a mapping $$ (s, a) \mapsto \pi(a|s), $$ where $\pi (a|s)$ is the probability of taking action $a$ when in state $s$. For example, a **deterministic policy** is a mapping $\pi : \mathcal S \to \mathcal A$, while a **stochastic policy** maps states to action *distributions* $\pi : \mathcal S \to \Delta(\mathcal A)$.
@@ -74,6 +76,8 @@ $\quad$ The expression for $R^\pi(s)$ depends on the form of the reward function
 #### Partially observable MDPs
 
 ![[Pasted image 20250527150923.png]]
+
+![[Pasted image 20250827110036.png]]
 
 #### Multi-agent MDPs with sub-tasks
 

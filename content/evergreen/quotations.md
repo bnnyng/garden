@@ -1,11 +1,37 @@
 ---
-aliases: 
+aliases:
 tags:
   - evergreen
-publish: 
+publish: "true"
 date: 2024-04-11
-lastmod: 2025-06-11T12:31:11-04:00
+lastmod: 2025-09-14T14:35:21-04:00
 ---
+# On 
+
+
+----
+
+# On mathematics
+
+## Foundations
+
+>[!quote] Hilary Putnam (1971, p. 327; quoted in [[@2020clarke-doaneMorality]])
+>\[Q]uantification over mathematical entities is indispensable for science . . . but this commits us to . . . the \[independent] existence of the mathematical entities \[that satisfy our theories]. This type of argument stems, of course, from Quine, who has for years stressed both the indispensability of quantification over mathematical entities and the intellectual dishonesty of denying the existence of what one daily presupposes.
+
+## Structuralism
+
+>[!quote] Hermann Weyl (1939, p. 500; quoted in [[@2006mclartyEmmy]])
+>In these days the angel of topology and the devil of abstract algebra fight for the soul of each individual mathematical domain.
+
+---
+
+# On philosophy
+
+>[!quote] Russell, 1918 (quoted in [[@2020clarke-doaneMorality]], 55)
+>My desire and wish is that the things I start with should be so obvious that you wonder why I spend my time stating them. This is what I aim at because the point of philosophy is to start with something so simple as not to seem worth stating, and to end with something so paradoxical that no one will believe it.
+
+----
+
 # On science
 
 ## The general scientific enterprise
@@ -18,8 +44,8 @@ lastmod: 2025-06-11T12:31:11-04:00
 >[!quote] D’Arcy Thompson, *On Growth and Form*
 >Everything is what it is because it got that way.
 
->[!quote] [[@2022levinTechnological]]
->Nothing in biology makes sense except in the light of [[Complexity is the study of teleonomic matter, after Krakauer|teleonomy]].
+>[!quote] Theodosius Dobzhansky (1973; quoted in [[@2022levinTechnological]])
+>Nothing in biology makes sense except in light of evolution.
 
 ## Physics
 
@@ -30,18 +56,4 @@ lastmod: 2025-06-11T12:31:11-04:00
 
 >[!quote] Tomasello (2022), *The Evolution of Agency* (quoted in [[@2024abelThree]])
 >Every scientific  discipline begins with a proper domain, a first principle. In biology, that proper domain or first principle is life: physical  substances organized in particular ways to perform particular organismic functions. In psychology, depending on one’s  theoretical predilections, that proper domain or first principle might be either behavior or mentality. But my preferred  candidate would be agency, precisely because agency is the organizational framework within which both behavioral and  mental processes operate.
-
----
-
-# On philosophy
-
->[!quote] Russell, 1918 (quoted in [[@2020clarke-doaneMorality]], 55)
->My desire and wish is that the things I start with should be so obvious that you wonder why I spend my time stating them. This is what I aim at because the point of philosophy is to start with something so simple as not to seem worth stating, and to end with something so paradoxical that no one will believe it.
-
----
-
-# On treating others
-
->[!quote] Rick Owens, “[A Conversation With Rick Owens](https://vestoj.com/a-conversation-with-rick-owens/)”
->Being polite is more important than being defiant. I don’t want to make people feel uncomfortable.
 

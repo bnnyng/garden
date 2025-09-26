@@ -6,9 +6,9 @@ tags:
   - permanent-note
   - topic-physics-complexity
   - seed
-publish: 
+publish:
 date: 2025-06-11T11:30:57-04:00
-lastmod: 2025-08-09T13:52:34-04:00
+lastmod: 2025-09-14T14:35:09-04:00
 ---
 # Overview
 
@@ -30,7 +30,6 @@ $\quad$
 - [[Agents are entities that benefit from a rational system, after Dennett]]
 - [[Agents are entities that participate in the arrow of time, after Dennett]]
 - [[Agents are systems that effectively expend energy to reach to reach specific states, after Levin (2022)]]
-
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 kanban-plugin: board
-lastmod: 2025-07-31T21:40:07-04:00
+lastmod: 2025-09-13T00:30:23-04:00
 date: 2025-02-12T16:40:50-05:00
 ---
 
@@ -92,6 +92,7 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Unprocessed
 
+- [ ] 📚 [[@1988mcclellandAppeal]], “The appeal of parallel distributed processing”
 - [ ] 📚 [[@2021henrichOrigins]], “The origins and psychology of human cooperation”
 - [ ] 📚 [[@2019heyesCognitive]], “Precis of Cognitive Gadgets”
 - [ ] 📚 [[@2020gellnerMorality]], “Debate: Morality is fundamentally an evolved solution to problems of social co-operation”
@@ -128,6 +129,9 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Inbox
 
+- [ ] [[(Model) Iterated reasoning, cognitive hierarchy, and recursive theory-of-mind]]
+	
+	Source: [[@2004camererCognitive]], [[@2008yoshidaGame]]
 - [ ] [[Cognitive world models]]
 - [ ] [[Mathematical structure]]
 	
@@ -159,7 +163,7 @@ date: 2025-02-12T16:40:50-05:00
 - [ ] [[Anatomical homeostasis is a kind of collective intelligence, after Levin]]
 	
 	Source: [[@2022levinTechnological]]
-- [ ] [[Developmental bioelectrics is the precursor of nervous systems, after Levin]]
+- [ ] [[Developmental bioelectrics is the precursor of nervous systems, after Levin (2022)]]
 	
 	Source: [[@2022levinTechnological]]
 - [ ] [[Taxonomy of behavior, after Rosenblueth]]
@@ -175,6 +179,7 @@ date: 2025-02-12T16:40:50-05:00
 
 ## Someday
 
+- [ ] [[[[Engram]] [ ] [[The Benacerraf problem]]
 - [ ] [[Theory-of-mind is a culturally learned cognitive mechanism, after Heyes (2019)]]
 	
 	Source: [[@2019heyesCognitive]]
@@ -205,7 +210,7 @@ date: 2025-02-12T16:40:50-05:00
 - [ ] [[Active externalism includes both neuronal and environmental structures as physical bases of cognition, after Clark and Chalmers (1998)]]
 	
 	Source: [[@1998clarkExtended]]
-- [ ] [[Pragmatic Bayesian modeling]]
+- [ ] [[20250918-archive-pragmatic-bayesian-modeling]]
 - [ ] [[The method of hypothesis and problems of indiscriminate confirmation]], combined with [[(Resource-)rational analysis]]
 - [ ] [[Bandit problems]]
 	
@@ -223,13 +228,13 @@ date: 2025-02-12T16:40:50-05:00
 - [ ] [[Category theory replaces mathematical objects with their role in a network of relationships, after Mazur]]
 	
 	Source: [[@2008mazurWhen]]
-- [ ] [[Realism is the conjunction of aptness, belief, truth, independence, and face-value, after Clarke-Doane]]
+- [ ] [[Realism is the conjunction of aptness, belief, truth, independence, and face-value, after Clarke-Doane (2020)]]
 	
 	Source: [[@2020clarke-doaneMorality]]
 - [ ] [[All areas of inquiry are controversial because they bottom out in philosophical controversies, after Clarke-Doane]]
 	
 	Source: [[@2020clarke-doaneMorality]]
-- [ ] [[Realism and objectivity are in tension, after Clarke-Doane]]
+- [ ] [[Realism and objectivity are in tension, after Clarke-Doane(2020)]]
 	
 	Source: [[@2020clarke-doaneMorality]]
 - [ ] [[Godel's second incompleteness theorem]]

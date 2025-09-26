@@ -11,7 +11,7 @@ tags:
   - MATH-GU4200
 publish: "true"
 date: <% tp.file.creation_date() %>
-lastmod: 2025-04-20T12:32:55-04:00
+lastmod: 2025-08-30T15:07:00-04:00
 ---
 # Overview
 
@@ -25,7 +25,7 @@ Set theory is significant because the axioms of all other branches of mathematic
 
 >[!axiom] Standard axioms of set theory
 >- **Extensionality:** Sets are identical if they have the same members. $$ (x)(y)(z)(z \in x \iff z \in y) \implies x=y )) $$
->- **Pairing:** For any sets $z, w$, there exists a set containing exactly $z$ and $w$. $$ (z)(w)(\exists y)(x)(x \in y ) \iff (x=z \vee x = w)) $$ 
+>- **Pairing:** For any sets $z, w$, there exists a set $y$ containing exactly $z$ and $w$. $$ (z)(w)(\exists y)(x)(x \in y ) \iff (x=z \vee x = w)) $$ 
 >- **Union:** For any set $z$, there is a set $\bigcup z$ containing exactly the members of $z$. $$ (z)(\exists y )(x)(x \in y \iff (\exists w) (w \in z \wedge x \in w)) $$
 >- **Powerset:** For any set $x$, there is a set $P(z)$ containing exactly the subsets of $z$. $$ (z)(\exists y)(x)(x \in y \iff (w)(w \in x \implies w \in z)) $$
 >- **Subsets (Restricted Comprehension) Schema:** For any set $z$ and any condition $\Phi$, there is a set that contains exactly those members of $z$ which satisfy $\Phi$. $$ (z) (\exists y)(x)(x \in y \iff (x \in z \wedge \Phi )), $$ where $y$ is not free in $\Phi$.

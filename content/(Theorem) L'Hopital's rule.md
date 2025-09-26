@@ -1,19 +1,19 @@
 ---
-aliases: 
+aliases:
 tags:
   - permanent-note
   - topic-logic-mathematics
-status: 
-publish: 
+status:
+publish:
 date: 2024-11-09 11:19
-lastmod: 2024-11-09T12:24:18-05:00
+lastmod: 2025-09-08T14:02:33-04:00
 ---
 >[!question]
 >- Why is Tao’s version different, setting $f(a) = g(a) = 0$?
 
 ---
 
->[!abstract] Theorem: L’Hopital’s rule
+>[!theorem] L’Hopital’s rule
 >Let $f,g : [a, b] \to \mathbb R$ be [[Continuous functions|continuous]] functions that are [[Derivatives of real functions|differentiable]] on $(a,b)$. Suppose $\lim_{x \to a}f(x) = \lim_{x \to a}g(x) = 0$ and the limit
 >$$
 >\lim_{x \to a}\frac{f'(x)}{g'(x)} = L \in \mathbb R

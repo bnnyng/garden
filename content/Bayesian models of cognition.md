@@ -21,7 +21,7 @@ $\quad$Importantly, the Bayesian framework is not a *mechanistic* model of menta
 **Related notes:**
 - [[Conditional probability and Bayes' rule]]
 - [[Probabilistic reasoning and Bayesian belief updating]]
-- [[Pragmatic Bayesian modeling]]
+- [[20250918-archive-pragmatic-bayesian-modeling]]
 - [[(Resource-)rational analysis]]
 
 ---

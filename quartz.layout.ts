@@ -93,7 +93,15 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
 
     // Component.Explorer(),
-    
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        // { Component: Component.Darkmode() },
+      ],
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [

@@ -7,8 +7,9 @@ tags:
 title: "bookSection | Representational Exchange in Human Social Learning: Balancing Efficiency and Flexibility"
 year: 2022
 permalink: https://www.cambridge.org/core/books/drive-for-knowledge/representational-exchange-in-human-social-learning/F7890FF29F478CC596D63E7DB8EE49BE
-publish:
+publish: 
 date: 2025-08-06
+lastmod: 2025-08-19T11:34:31-07:00
 ---
 > Wu, C. M., Vélez, N., & Cushman, F. A. (2022). Representational Exchange in Human Social Learning: Balancing Efficiency and Flexibility. In C. M. Wu, E. Schulz, & I. Cogliati Dezza (Eds.), _The Drive for Knowledge: The Science of Human Information Seeking_ (pp. 169–192). Cambridge University Press. [https://doi.org/10.1017/9781009026949.009](https://doi.org/10.1017/9781009026949.009)
 
@@ -34,3 +35,6 @@ date: 2025-08-06
 
 # Reading notes
 
+![[Screenshot 2025-08-19 at 11.26.38 AM.png]]
+
+![[Pasted image 20250819113421.png]]

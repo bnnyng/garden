@@ -12,7 +12,7 @@ tags:
   - COGS-UN1001
 publish: "true"
 date: 2022-12-21
-lastmod: 2025-06-07T14:55:58-04:00
+lastmod: 2025-09-11T13:26:59-04:00
 ---
 # Overview
 
@@ -31,10 +31,10 @@ $\quad$Probabilistic reasoning uses **subjective probabilities**—the interpret
 $\quad$From a cognitive science perspective, Bayes’ rule describes how a [[Rationality in cognitive science|rational]] agent should approach the [[The problem of induction|problem of induction]]. Bayes’ rule encodes two facts about how our beliefs change in response to new evidence: if we believe an event has a low probability, then the probably is still low in spite of reliable evidence; and if new evidence is unreliable, then our beliefs will change very little.
 
 **Related notes:**
+
 - [[Frequentist, subjectivist, and primitivist interpretations of a probabilistic locution]]
 - [[Conditional probability and Bayes' rule]]
 - [[Bayesian models of cognition]]
-- [[Pragmatic Bayesian modeling]]
 
 ---
 # Bayesian likelihood

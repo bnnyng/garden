@@ -8,11 +8,14 @@ tags:
   - topic-information-computation-statistics
 publish: 
 date: 2025-06-25T16:04:11-04:00
-lastmod: 2025-06-26T22:36:03-04:00
+lastmod: 2025-08-27T09:19:55-07:00
 ---
 # Overview
 
 For a fixed starting state $s_0$, the **state value function** $v_\pi$ for a policy $\pi$ is the expected return from following $\pi$ thereafter. The **action value function** $q_\pi$ defined analogously with the additional condition of following some fixed action $a \in \mathcal A(s_0)$.
+
+**Related notes:**
+- [[Policy prediction and control]]
 
 ---
 
